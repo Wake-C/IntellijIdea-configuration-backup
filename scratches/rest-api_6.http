@@ -1,0 +1,46 @@
+# curl 'mall.deeptel.com.cn/unify/cart/add-card'
+#  -H 'authority: m-api.deeptel.com.cn'
+#  -H 'distributor_login_token: '
+#  -H 'member_id: '
+#  -H 'main_bus: 36'
+#  -H 'user-agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Mobile Safari/537.36'
+#  -H 'login_source: 0'
+#  -H 'content-type: application/json'
+#  -H 'accept: */*'
+#  -H 'origin: https://36.m.deeptel.com.cn'
+#  -H 'sec-fetch-site: same-site'
+#  -H 'sec-fetch-mode: cors'
+#  -H 'sec-fetch-dest: empty'
+#  -H 'referer: https://36.m.deeptel.com.cn/'
+#  -H 'accept-language: zh-CN,zh;q=0.9,en;q=0.8'
+#  -H 'cookie: experimentation_subject_id=ImUyMDE4ZWNlLWRiNzUtNGFhYi05NGEyLTY2MDA4YzA2NWI1YyI%3D--40982b937b7e0adb544f95729de76128825b7680; loginToken=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2MDg4ODU3MzksInN1YiI6IntcImJ1c0lkXCI6XCIzNlwiLFwicmFuZG9tXCI6XCI4NTczMzJcIixcImJ1c05hbWVcIjpcImdvb2R0b21cIn0iLCJpc3MiOiJkdW9mcmllbmQiLCJhdWQiOiJkdW9mZW4iLCJleHAiOjE2NDA0NDc5OTksIm5iZiI6MTYwODg4NTczOX0.odHxRHbVsqa2BMsa7Wf5DQgT2XCU0FPHD4f6J-6O2Jk; LOGIN_MEMBER_TOKEN_V2=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2MDkyMDU1MjQsInN1YiI6IntcImJ1c0lkXCI6MzYsXCJyYW5kb21cIjpcIjAwMzk5MTEwXCIsXCJtZW1iZXJJZFwiOjEzODcwODN9IiwiaXNzIjoiZHVvZnJpZW5kIiwiYXVkIjoibWVtYmVyIiwiZXhwIjoxNjA5MjY0ODAwLCJuYmYiOjE2MDkyMDU1MjR9.ypRPBXPwcheJeu_hV7EVC94kZ9kbHiTscFIIwqSqHQU'
+#  --data-binary '{"buyNum":3,"proId":85825398720010,"proPrice":234234,"requestSource":1,"speIds":"","speName":""}'
+#  --compressed
+POST {{host}}/unify/cart/add-card
+authority: m-api.deeptel.com.cn
+distributor_login_token:
+member_id:
+main_bus: 36
+user-agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Mobile Safari/537.36
+login_source: 0
+accept: */*
+origin: https://36.m.deeptel.com.cn
+sec-fetch-site: same-site
+sec-fetch-mode: cors
+sec-fetch-dest: empty
+referer: https://36.m.deeptel.com.cn/
+accept-language: zh-CN,zh;q=0.9,en;q=0.8
+cookie: experimentation_subject_id=ImUyMDE4ZWNlLWRiNzUtNGFhYi05NGEyLTY2MDA4YzA2NWI1YyI%3D--40982b937b7e0adb544f95729de76128825b7680; loginToken=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2MDg4ODU3MzksInN1YiI6IntcImJ1c0lkXCI6XCIzNlwiLFwicmFuZG9tXCI6XCI4NTczMzJcIixcImJ1c05hbWVcIjpcImdvb2R0b21cIn0iLCJpc3MiOiJkdW9mcmllbmQiLCJhdWQiOiJkdW9mZW4iLCJleHAiOjE2NDA0NDc5OTksIm5iZiI6MTYwODg4NTczOX0.odHxRHbVsqa2BMsa7Wf5DQgT2XCU0FPHD4f6J-6O2Jk; LOGIN_MEMBER_TOKEN_V2=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2MDkyMDU1MjQsInN1YiI6IntcImJ1c0lkXCI6MzYsXCJyYW5kb21cIjpcIjAwMzk5MTEwXCIsXCJtZW1iZXJJZFwiOjEzODcwODN9IiwiaXNzIjoiZHVvZnJpZW5kIiwiYXVkIjoibWVtYmVyIiwiZXhwIjoxNjA5MjY0ODAwLCJuYmYiOjE2MDkyMDU1MjR9.ypRPBXPwcheJeu_hV7EVC94kZ9kbHiTscFIIwqSqHQU
+Content-Type: application/json
+
+{"buyNum":2,"proId":85825398720010,"proPrice":234234,"requestSource":1,"speIds":"","speName":""}
+
+<> 2020-12-29T105123.200.json
+<> 2020-12-29T101126.200.json
+<> 2020-12-29T101121.200.json
+<> 2020-12-29T094409.200.json
+<> 2020-12-29T094123.200.json
+<> 2020-12-29T094104.200.json
+
+###
+

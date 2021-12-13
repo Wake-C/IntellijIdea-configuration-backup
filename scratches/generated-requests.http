@@ -1,0 +1,65 @@
+###
+
+# curl 'https://nbm-api.deeptel.com.cn/mall/unify/order/submit-order' 
+#  -H 'sec-ch-ua: "Google Chrome";v="95", "Chromium";v="95", ";Not A Brand";v="99"' 
+#  -H 'DISTRIBUTOR_LOGIN_TOKEN: ' 
+#  -H 'MEMBER_ID: ' 
+#  -H 'MAIN_BUS: 27869' 
+#  -H 'sec-ch-ua-mobile: ?1'
+#  -H 'User-Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Mobile Safari/537.36' 
+#  -H 'LOGIN_SOURCE: 0' 
+#  -H 'Content-Type: application/json' 
+#  -H 'Referer: https://27869.nbm.deeptel.com.cn/' 
+#  -H 'sec-ch-ua-platform: "Android"' 
+#  --data-raw '{"activityProductList":[],"discountStyle":{"isCouponId":1,"isDiscount":1,"isIntegral":1,"storeCouponList":[{"couponId":71291382025170,"couponMoney":11,"couponNum":1,"proIds":[71288250978117],"storeId":56545173847616,"couponName":"新的代金券","couponStyle":2}]},"orderBasic":{"reCeStyle":1,"addressId":71162052758889,"payStyle":1},"unifyUcOrderPtSubmitBO":{"reStyle":"1","cardIds":["71291778387890","71291778387889"]}}' 
+#  --compressed
+POST https://nbm-api.deeptel.com.cn/mall/unify/order/submit-order
+sec-ch-ua: "Google Chrome";v="95", "Chromium";v="95", ";Not A Brand";v="99"
+DISTRIBUTOR_LOGIN_TOKEN:
+MEMBER_ID:
+MAIN_BUS: 27869
+sec-ch-ua-mobile: ?1
+User-Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Mobile Safari/537.36
+LOGIN_SOURCE: 0
+Referer: https://27869.nbm.deeptel.com.cn/
+sec-ch-ua-platform: "Android"
+Content-Type: application/json
+
+{
+  "activityProductList": [],
+  "discountStyle": {
+    "isCouponId": 1,
+    "isDiscount": 1,
+    "isIntegral": 1,
+    "storeCouponList": [
+      {
+        "couponId": 71291382025170,
+        "couponMoney": 11,
+        "couponNum": 1,
+        "proIds": [
+          71288250978117
+        ],
+        "storeId": 56545173847616,
+        "couponName": "新的代金券",
+        "couponStyle": 2
+      }
+    ]
+  },
+  "orderBasic": {
+    "reCeStyle": 1,
+    "addressId": 71162052758889,
+    "payStyle": 1
+  },
+  "unifyUcOrderPtSubmitBO": {
+    "reStyle": "1",
+    "cardIds": [
+      "71291778387890",
+      "71291778387889"
+    ]
+  }
+}
+
+###
+
+###
+POST http://localhost:8080/pc/shop-card

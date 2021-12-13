@@ -1,0 +1,262 @@
+<project version="4">
+  <component name="DatabaseView">
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/settings.gradle" />
+      <option value="$PROJECT_DIR$/build.gradle" />
+      <option value="$PROJECT_DIR$/src/main/java/com/imooc/food/orderServiceManagerApplication.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="order-service-manage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="easyGo" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="order-service-manage-history" />
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="11375000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25034723" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Learn" order="4" />
+      <window_info id="JRebel" order="5" side_tool="true" />
+      <window_info id="Pull Requests" order="6" />
+      <window_info id="Web" order="7" show_stripe_button="false" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Analysis" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="4" weight="0.33085716" />
+      <window_info anchor="bottom" id="Debug" order="5" weight="0.40057144" />
+      <window_info anchor="bottom" id="Problems View" order="6" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Dependencies" order="8" />
+      <window_info anchor="bottom" id="Problems" order="9" />
+      <window_info anchor="bottom" id="Build" order="10" visible="true" weight="0.33033174" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Spring" order="12" />
+      <window_info anchor="bottom" id="Profiler" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="bottom" id="Database Changes" order="15" show_stripe_button="false" />
+      <window_info anchor="bottom" id="MyBatis Log" order="16" />
+      <window_info anchor="bottom" id="Sequence Diagram" order="17" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="18" />
+      <window_info anchor="bottom" id="Inspection" order="19" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="20" weight="0.33033174" />
+      <window_info anchor="bottom" id="SonarLint" order="21" />
+      <window_info anchor="bottom" id="JRebel Console" order="22" side_tool="true" />
+      <window_info anchor="bottom" id="TODO" order="23" />
+      <window_info anchor="bottom" id="Endpoints" order="24" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Services" order="25" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Codota" order="4" />
+      <window_info anchor="right" id="Key Promoter X" order="5" />
+      <window_info anchor="right" id="Word Book" order="6" side_tool="true" />
+      <window_info anchor="right" id="JRebel Setup Guide" order="7" side_tool="true" />
+      <window_info anchor="right" id="Gradle" order="8" visible="true" weight="0.33020833" />
+      <window_info anchor="right" id="Mybatis datasource" order="9" side_tool="true" />
+      <window_info anchor="right" id="RestfulTool" order="10" />
+    </layout>
+    <recentWindows>
+      <value>Project</value>
+      <value>Run</value>
+      <value>Gradle</value>
+      <value>Debug</value>
+      <value>Terminal</value>
+      <value>Build</value>
+    </recentWindows>
+  </component>
+  <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" trusted="YES" />
+  <component name="WindowStateProjectService">
+    <state x="200" y="126" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1636378882582">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="200" y="126" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.875@0.25.1440.875" timestamp="1636378882582" />
+    <state x="299" y="179" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1636382046634">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="299" y="179" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.25.1440.875@0.25.1440.875" timestamp="1636382046634" />
+    <state width="1394" height="261" key="GridCell.Tab.0.bottom" timestamp="1636382704903">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1874" height="394" key="GridCell.Tab.0.bottom/0.25.1440.875/1440.-109.1920.1055@1440.-109.1920.1055" timestamp="1636364758987" />
+    <state width="1394" height="261" key="GridCell.Tab.0.bottom/0.25.1440.875@0.25.1440.875" timestamp="1636382704903" />
+    <state width="1394" height="261" key="GridCell.Tab.0.center" timestamp="1636382704902">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1874" height="394" key="GridCell.Tab.0.center/0.25.1440.875/1440.-109.1920.1055@1440.-109.1920.1055" timestamp="1636364758986" />
+    <state width="1394" height="261" key="GridCell.Tab.0.center/0.25.1440.875@0.25.1440.875" timestamp="1636382704902" />
+    <state width="1394" height="261" key="GridCell.Tab.0.left" timestamp="1636382704902">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1874" height="394" key="GridCell.Tab.0.left/0.25.1440.875/1440.-109.1920.1055@1440.-109.1920.1055" timestamp="1636364758986" />
+    <state width="1394" height="261" key="GridCell.Tab.0.left/0.25.1440.875@0.25.1440.875" timestamp="1636382704902" />
+    <state width="1394" height="261" key="GridCell.Tab.0.right" timestamp="1636382704903">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1874" height="394" key="GridCell.Tab.0.right/0.25.1440.875/1440.-109.1920.1055@1440.-109.1920.1055" timestamp="1636364758987" />
+    <state width="1394" height="261" key="GridCell.Tab.0.right/0.25.1440.875@0.25.1440.875" timestamp="1636382704903" />
+    <state width="1394" height="322" key="GridCell.Tab.1.bottom" timestamp="1636380495825">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1874" height="394" key="GridCell.Tab.1.bottom/0.25.1440.875/1440.-109.1920.1055@1440.-109.1920.1055" timestamp="1636364758986" />
+    <state width="1394" height="322" key="GridCell.Tab.1.bottom/0.25.1440.875@0.25.1440.875" timestamp="1636380495825" />
+    <state width="1394" height="322" key="GridCell.Tab.1.center" timestamp="1636380495824">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1874" height="394" key="GridCell.Tab.1.center/0.25.1440.875/1440.-109.1920.1055@1440.-109.1920.1055" timestamp="1636364758985" />
+    <state width="1394" height="322" key="GridCell.Tab.1.center/0.25.1440.875@0.25.1440.875" timestamp="1636380495824" />
+    <state width="1394" height="322" key="GridCell.Tab.1.left" timestamp="1636380495823">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1874" height="394" key="GridCell.Tab.1.left/0.25.1440.875/1440.-109.1920.1055@1440.-109.1920.1055" timestamp="1636364758984" />
+    <state width="1394" height="322" key="GridCell.Tab.1.left/0.25.1440.875@0.25.1440.875" timestamp="1636380495823" />
+    <state width="1394" height="322" key="GridCell.Tab.1.right" timestamp="1636380495824">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1874" height="394" key="GridCell.Tab.1.right/0.25.1440.875/1440.-109.1920.1055@1440.-109.1920.1055" timestamp="1636364758985" />
+    <state width="1394" height="322" key="GridCell.Tab.1.right/0.25.1440.875@0.25.1440.875" timestamp="1636380495824" />
+    <state x="1938" y="123" key="NewModule_or_Project.wizard" timestamp="1636360479882">
+      <screen x="1440" y="-109" width="1920" height="1055" />
+    </state>
+    <state x="1938" y="123" key="NewModule_or_Project.wizard/0.25.1440.875/1440.-109.1920.1055@1440.-109.1920.1055" timestamp="1636360479882" />
+    <state x="172" y="129" width="1054" height="700" key="SettingsEditor" timestamp="1636382681578">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="1670" y="45" width="1405" height="768" key="SettingsEditor/0.25.1440.875/1440.-109.1920.1055@1440.-109.1920.1055" timestamp="1636365210660" />
+    <state x="172" y="129" width="1054" height="700" key="SettingsEditor/0.25.1440.875@0.25.1440.875" timestamp="1636382681578" />
+    <state x="131" y="79" key="new project wizard" timestamp="1636379203313">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="1614" y="153" key="new project wizard/0.25.1440.875/1440.-109.1920.1055@1440.-109.1920.1055" timestamp="1636361397298" />
+    <state x="131" y="79" key="new project wizard/0.25.1440.875@0.25.1440.875" timestamp="1636379203313" />
+    <state x="2065" y="195" width="670" height="684" key="run.anything.popup" timestamp="1636362914347">
+      <screen x="1440" y="-109" width="1920" height="1055" />
+    </state>
+    <state x="2065" y="195" width="670" height="684" key="run.anything.popup/0.25.1440.875/1440.-109.1920.1055@1440.-109.1920.1055" timestamp="1636362914347" />
+    <state x="2065" y="125" width="670" height="685" key="search.everywhere.popup" timestamp="1636360261545">
+      <screen x="1440" y="-109" width="1920" height="1055" />
+    </state>
+    <state x="2065" y="125" width="670" height="685" key="search.everywhere.popup/0.25.1440.875/1440.-109.1920.1055@1440.-109.1920.1055" timestamp="1636360261545" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/build/classes/java/main/com/imooc/food/orderServiceManagerApplication.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/imooc/food/orderServiceManagerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="5" selection-start-line="8" selection-start-column="43" selection-end-line="10" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradlew">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="28" column="68" selection-start-line="28" selection-start-column="68" selection-end-line="28" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI" />
+      <state key="JdkListConfigurable.UI" />
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>main</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>gradle-wrapper</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
