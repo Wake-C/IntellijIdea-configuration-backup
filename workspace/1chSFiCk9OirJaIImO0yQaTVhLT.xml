@@ -24,8 +24,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mall-service-common/src/main/java/com/gt/mall/service/common/freight/impl/ComFreightUtilServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="436">
-              <caret line="987" column="51" selection-start-line="987" selection-start-column="51" selection-end-line="987" selection-end-column="51" />
+            <state relative-caret-position="418">
+              <caret line="980" column="17" lean-forward="true" selection-start-line="980" selection-start-column="17" selection-end-line="980" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -356,7 +356,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5422599000" />
+    <option name="totallyTimeSpent" value="5423602000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -626,11 +626,11 @@
       <screen x="0" y="25" width="1440" height="875" />
     </state>
     <state x="325" y="265" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.25.1440.875@0.25.1440.875" timestamp="1636789011702" />
-    <state x="-40" y="-1055" width="1266" height="875" key="CommitChangelistDialog2" timestamp="1639365020508">
+    <state x="-40" y="-1055" width="1266" height="875" key="CommitChangelistDialog2" timestamp="1639368297088">
       <screen x="-272" y="-1055" width="1920" height="1055" />
     </state>
     <state x="1652" y="-16" width="1266" height="888" key="CommitChangelistDialog2/0.0.1440.900/1440.-134.1920.1080@1440.-134.1920.1080" timestamp="1632305116150" />
-    <state x="-40" y="-1055" key="CommitChangelistDialog2/0.25.1440.875/-272.-1055.1920.1055@-272.-1055.1920.1055" timestamp="1639365020508" />
+    <state x="-40" y="-1055" key="CommitChangelistDialog2/0.25.1440.875/-272.-1055.1920.1055@-272.-1055.1920.1055" timestamp="1639368297088" />
     <state x="174" y="25" width="1266" height="875" key="CommitChangelistDialog2/0.25.1440.875/-272.-1055.1920.1055@0.25.1440.875" timestamp="1638958162441" />
     <state x="1685" y="-7" width="1115" height="791" key="CommitChangelistDialog2/0.25.1440.875/1440.-109.1920.1055@1440.-109.1920.1055" timestamp="1638789554392" />
     <state x="184" y="110" key="CommitChangelistDialog2/0.25.1440.875@0.25.1440.875" timestamp="1639032941416" />
@@ -831,11 +831,11 @@
       <screen x="1440" y="-109" width="1920" height="1055" />
     </state>
     <state x="1995" y="32" width="695" height="761" key="VCS.ChangeListViewerDialog/0.25.1440.875/1440.-109.1920.1055@1440.-109.1920.1055" timestamp="1638234699809" />
-    <state x="96" y="-946" width="1006" height="631" key="Vcs.Push.Dialog.v2" timestamp="1639365038819">
+    <state x="96" y="-946" width="1006" height="631" key="Vcs.Push.Dialog.v2" timestamp="1639368299569">
       <screen x="-272" y="-1055" width="1920" height="1055" />
     </state>
     <state x="1792" y="7" key="Vcs.Push.Dialog.v2/0.0.1440.900/1440.-134.1920.1080@1440.-134.1920.1080" timestamp="1632305176263" />
-    <state x="96" y="-946" key="Vcs.Push.Dialog.v2/0.25.1440.875/-272.-1055.1920.1055@-272.-1055.1920.1055" timestamp="1639365038819" />
+    <state x="96" y="-946" key="Vcs.Push.Dialog.v2/0.25.1440.875/-272.-1055.1920.1055@-272.-1055.1920.1055" timestamp="1639368299569" />
     <state x="276" y="115" key="Vcs.Push.Dialog.v2/0.25.1440.875/-272.-1055.1920.1055@0.25.1440.875" timestamp="1638956381357" />
     <state x="1801" y="65" width="1006" height="631" key="Vcs.Push.Dialog.v2/0.25.1440.875/1440.-109.1920.1055@1440.-109.1920.1055" timestamp="1638789394727" />
     <state x="276" y="115" key="Vcs.Push.Dialog.v2/0.25.1440.875@0.25.1440.875" timestamp="1639032939442" />
@@ -1641,8 +1641,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mall-service-common/src/main/java/com/gt/mall/service/common/freight/impl/ComFreightUtilServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="436">
-          <caret line="987" column="51" selection-start-line="987" selection-start-column="51" selection-end-line="987" selection-end-column="51" />
+        <state relative-caret-position="418">
+          <caret line="980" column="17" lean-forward="true" selection-start-line="980" selection-start-column="17" selection-end-line="980" selection-end-column="17" />
         </state>
       </provider>
     </entry>

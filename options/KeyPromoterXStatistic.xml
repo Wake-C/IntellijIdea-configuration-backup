@@ -76,7 +76,7 @@
           <ShortCut>'⌃F9'</ShortCut>
           <Description>Build Project</Description>
           <Count>12</Count>
-          <Hit>1118</Hit>
+          <Hit>1119</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Clear Bookmark">
@@ -127,7 +127,7 @@
           <ShortCut>'⌃⌥⇧E' or '⌃⇧⌘E'</ShortCut>
           <Description>Commit...</Description>
           <Count>17</Count>
-          <Hit>2992</Hit>
+          <Hit>2995</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Compare...">
@@ -923,7 +923,7 @@
           <ShortCut>'⌃⇧K' or '⌃⌥⇧R'</ShortCut>
           <Description>Push...</Description>
           <Count>3</Count>
-          <Hit>924</Hit>
+          <Hit>926</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Quick Evaluate Expression">
@@ -1229,8 +1229,8 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>2342</Count>
-          <Hit>5879</Hit>
+          <Count>2350</Count>
+          <Hit>5888</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
