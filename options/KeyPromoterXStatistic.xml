@@ -67,7 +67,7 @@
           <ShortCut>'⌃⌥←' or '⌃⌘←'</ShortCut>
           <Description>Back</Description>
           <Count>46</Count>
-          <Hit>28774</Hit>
+          <Hit>28801</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Build Project">
@@ -144,7 +144,7 @@
           <ShortCut>'⌃C'</ShortCut>
           <Description>Copy</Description>
           <Count>19</Count>
-          <Hit>17751</Hit>
+          <Hit>17752</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Copy Class...">
@@ -618,8 +618,8 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌃B'</ShortCut>
           <Description>Go to Declaration or Usages</Description>
-          <Count>18282</Count>
-          <Hit>11787</Hit>
+          <Count>18283</Count>
+          <Hit>11788</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Go to Implementation(s)">
@@ -628,7 +628,7 @@
           <ShortCut>'⌃⌥B' or '⌃⌘B'</ShortCut>
           <Description>Go to Implementation(s)</Description>
           <Count>4</Count>
-          <Hit>11420</Hit>
+          <Hit>11422</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Go to Type Declaration">
@@ -864,7 +864,7 @@
           <ShortCut>'⌃V' or '⌘V'</ShortCut>
           <Description>Paste</Description>
           <Count>11</Count>
-          <Hit>17579</Hit>
+          <Hit>17580</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Paste without Formatting">
@@ -897,7 +897,7 @@
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
           <Count>546</Count>
-          <Hit>336</Hit>
+          <Hit>337</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -1272,7 +1272,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌥4'</ShortCut>
           <Description>Run</Description>
-          <Count>388</Count>
+          <Count>389</Count>
           <Hit>35</Hit>
         </Item>
       </Statistic>

@@ -22,7 +22,7 @@
       <i c="98" l="1637916009302" />
     </e>
     <e n="$SelectAll">
-      <i c="1300" l="1639964381644" />
+      <i c="1301" l="1639965764455" />
     </e>
     <e n="$ShowTranslationDialogAction">
       <i c="1" l="1632379745734" />
@@ -55,7 +55,7 @@
       <i c="3" l="1628583990442" />
     </e>
     <e n="ActivateProjectToolWindow">
-      <i c="320" l="1639566563883" />
+      <i c="321" l="1639965480268" />
     </e>
     <e n="ActivateRunToolWindow">
       <i c="4" l="1637807789884" />
@@ -94,7 +94,7 @@
       <i c="5" l="1636798415241" />
     </e>
     <e n="Back">
-      <i c="24896" l="1639965381654" />
+      <i c="24923" l="1639965758766" />
     </e>
     <e n="BraceOrQuoteOut">
       <i c="6" l="1636948034401" />
@@ -187,7 +187,7 @@
       <i c="90" l="1639396979716" />
     </e>
     <e n="CommentByLineComment">
-      <i c="329" l="1639964488360" />
+      <i c="330" l="1639965546334" />
     </e>
     <e n="Commit.Button">
       <i c="51" l="1639798201727" />
@@ -298,7 +298,7 @@
       <i c="14" l="1638762081323" />
     </e>
     <e n="EditorBackSpace">
-      <i c="56562" l="1639965342149" />
+      <i c="56564" l="1639965762790" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="12677" l="1639964592050" />
@@ -325,7 +325,7 @@
       <i c="716" l="1639798024173" />
     </e>
     <e n="EditorCopy">
-      <i c="15258" l="1639965389507" />
+      <i c="15259" l="1639965517313" />
     </e>
     <e n="EditorCut">
       <i c="3125" l="1639964703623" />
@@ -358,7 +358,7 @@
       <i c="12756" l="1639814458663" />
     </e>
     <e n="EditorEscape">
-      <i c="3542" l="1639819683878" />
+      <i c="3543" l="1639965526016" />
     </e>
     <e n="EditorGutterToggleGlobalLineNumbers">
       <i c="2" l="1636791141920" />
@@ -391,7 +391,7 @@
       <i c="4" l="1636630872749" />
     </e>
     <e n="EditorPaste">
-      <i c="15419" l="1639965257475" />
+      <i c="15420" l="1639965524990" />
     </e>
     <e n="EditorPasteSimple">
       <i c="19" l="1635409116142" />
@@ -517,7 +517,7 @@
       <i c="956" l="1639534521507" />
     </e>
     <e n="Find">
-      <i c="1025" l="1639964379341" />
+      <i c="1026" l="1639965524457" />
     </e>
     <e n="FindInPath">
       <i c="681" l="1639810714261" />
@@ -613,19 +613,19 @@
       <i c="159" l="1639730213914" />
     </e>
     <e n="GotoClass">
-      <i c="1415" l="1639965394968" />
+      <i c="1417" l="1639965766022" />
     </e>
     <e n="GotoCustomRegion">
       <i c="6" l="1637726042892" />
     </e>
     <e n="GotoDeclaration">
-      <i c="23849" l="1639965415187" />
+      <i c="23851" l="1639965714566" />
     </e>
     <e n="GotoFile">
       <i c="12" l="1639964279302" />
     </e>
     <e n="GotoImplementation">
-      <i c="9989" l="1639965382682" />
+      <i c="9991" l="1639965523220" />
     </e>
     <e n="GotoLine">
       <i c="67" l="1638958398194" />
@@ -937,7 +937,7 @@
       <i c="12" l="1637803170780" />
     </e>
     <e n="NextProjectWindow">
-      <i c="2176" l="1639965393477" />
+      <i c="2180" l="1639965755189" />
     </e>
     <e n="NextTemplateVariable">
       <i c="2588" l="1639962050016" />
@@ -1105,7 +1105,7 @@
       <i c="2" l="1632791038009" />
     </e>
     <e n="RunClass">
-      <i c="299" l="1639965419684" />
+      <i c="300" l="1639965531258" />
     </e>
     <e n="RunDashboard.AddType">
       <i c="8" l="1639443840733" />
@@ -1156,7 +1156,7 @@
       <i c="21" l="1639566568072" />
     </e>
     <e n="SelectInProjectView">
-      <i c="942" l="1639964293367" />
+      <i c="946" l="1639965532560" />
     </e>
     <e n="SelectNextOccurrence">
       <i c="9" l="1636797605821" />
@@ -1558,7 +1558,7 @@
       <i c="3" l="1623208446816" />
     </e>
     <e n="com.intellij.find.SearchReplaceComponent$11">
-      <i c="528" l="1639819683595" />
+      <i c="529" l="1639965525433" />
     </e>
     <e n="com.intellij.find.SearchReplaceComponent$13">
       <i c="144" l="1617329762056" />
@@ -1765,7 +1765,7 @@
       <i c="19" l="1638331300142" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
-      <i c="3620" l="1639965397335" />
+      <i c="3624" l="1639965766852" />
     </e>
     <e n="com.intellij.openapi.project.LightEditActionFactory$SimpleLightEditCompatibleAction">
       <i c="787" l="1639790765351" />

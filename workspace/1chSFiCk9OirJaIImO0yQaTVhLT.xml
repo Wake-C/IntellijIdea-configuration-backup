@@ -65,8 +65,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/mall-service-uc/src/main/java/com/gt/mall/service/unify/eticket/impl/UnifyEticketServiceImpl.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="446">
-                  <caret line="63" column="47" selection-start-line="63" selection-start-column="47" selection-end-line="63" selection-end-column="47" />
+                <state relative-caret-position="270">
+                  <caret line="55" column="50" lean-forward="true" selection-start-line="55" selection-start-column="50" selection-end-line="55" selection-end-column="50" />
                 </state>
               </provider>
             </entry>
@@ -168,8 +168,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="jar://$PROJECT_DIR$/../../Development/mavenRepostory/com/duofriend/plugin/sdk/gt-plugin-sdk-beauty-api/6.2.6-SNAPSHOT/gt-plugin-sdk-beauty-api-6.2.6-20211217.081223-1-sources.jar!/com/duofriend/plugin/sdk/beauty/api/BeautyApi.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="369">
-                  <caret line="267" column="37" selection-start-line="267" selection-start-column="37" selection-end-line="267" selection-end-column="37" />
+                <state relative-caret-position="460">
+                  <caret line="264" column="34" lean-forward="true" selection-start-line="264" selection-start-column="34" selection-end-line="264" selection-end-column="34" />
                 </state>
               </provider>
             </entry>
@@ -539,7 +539,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5468579000" />
+    <option name="totallyTimeSpent" value="5468919000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -551,6 +551,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.19036458" />
       <window_info id="Structure" order="1" weight="0.25" />
@@ -1797,13 +1798,6 @@ shopCardDis.addAll(shopCardDisList)</expression-string>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mall-service-uc/src/main/java/com/gt/mall/service/unify/eticket/impl/UnifyEticketServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="64" column="18" selection-start-line="64" selection-start-column="18" selection-end-line="64" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$PROJECT_DIR$/../../Development/mavenRepostory/com/duofriend/plugin/sdk/gt-plugin-sdk-entity/6.2.6-SNAPSHOT/gt-plugin-sdk-entity-6.2.6-20211217.081219-1-sources.jar!/com/duofriend/plugin/sdk/entity/car/WashCardListDTO.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
@@ -1841,8 +1835,15 @@ shopCardDis.addAll(shopCardDisList)</expression-string>
     </entry>
     <entry file="jar://$PROJECT_DIR$/../../Development/mavenRepostory/com/duofriend/plugin/sdk/gt-plugin-sdk-beauty-api/6.2.6-SNAPSHOT/gt-plugin-sdk-beauty-api-6.2.6-20211217.081223-1-sources.jar!/com/duofriend/plugin/sdk/beauty/api/BeautyApi.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="369">
-          <caret line="267" column="37" selection-start-line="267" selection-start-column="37" selection-end-line="267" selection-end-column="37" />
+        <state relative-caret-position="460">
+          <caret line="264" column="34" lean-forward="true" selection-start-line="264" selection-start-column="34" selection-end-line="264" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-service-uc/src/main/java/com/gt/mall/service/unify/eticket/impl/UnifyEticketServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="55" column="50" lean-forward="true" selection-start-line="55" selection-start-column="50" selection-end-line="55" selection-end-column="50" />
         </state>
       </provider>
     </entry>
