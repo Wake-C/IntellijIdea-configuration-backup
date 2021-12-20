@@ -43,7 +43,7 @@
         <entry file="file://$PROJECT_DIR$/gt-plugin-sdk-parent/gt-plugin-sdk-beauty-api/src/test/java/com/duofriend/plugin/sdk/beauty/api/BeautyApiTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="173">
-              <caret line="110" column="49" lean-forward="true" selection-start-line="110" selection-start-column="49" selection-end-line="110" selection-end-column="49" />
+              <caret line="110" column="49" selection-start-line="110" selection-start-column="49" selection-end-line="110" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -79,7 +79,7 @@
         <entry file="file://$PROJECT_DIR$/gt-plugin-sdk-parent/gt-plugin-sdk-industry-common-api/src/test/java/com/duofriend/plugin/sdk/industry/common/api/IndustryCommonApiTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="126">
-              <caret line="90" lean-forward="true" selection-start-line="90" selection-end-line="90" />
+              <caret line="90" selection-start-line="90" selection-end-line="90" />
             </state>
           </provider>
         </entry>
@@ -93,7 +93,7 @@
         <entry file="file://$PROJECT_DIR$/gt-plugin-sdk-parent/gt-plugin-sdk-car-api/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="44">
-              <caret line="2" column="31" lean-forward="true" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+              <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -626,7 +626,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="167202000" />
+    <option name="totallyTimeSpent" value="167209000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
