@@ -1,0 +1,1007 @@
+<project version="4">
+  <component name="DatabaseView">
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ms-feed/src/main/java/com/imooc/feeds/mapper/FeedsMapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ms-feed/src/main/java/com/imooc/feeds/service/FeedsService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="498">
+              <caret line="49" column="31" selection-start-line="49" selection-start-column="31" selection-end-line="49" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ms-feed/src/main/java/com/imooc/feeds/controller/FeedsController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ms-follow/src/main/java/com/imooc/follow/controller/FollowController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/commoms/src/main/java/com/imooc/commons/model/vo/FeedsVO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/../../../Development/mavenRepostory/org/springframework/data/spring-data-redis/2.3.5.RELEASE/spring-data-redis-2.3.5.RELEASE-sources.jar!/org/springframework/data/redis/core/ZSetOperations.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="258">
+              <caret line="206" column="11" selection-start-line="206" selection-start-column="11" selection-end-line="206" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/../../../Development/mavenRepostory/org/springframework/data/spring-data-redis/2.3.5.RELEASE/spring-data-redis-2.3.5.RELEASE.jar!/org/springframework/data/redis/core/ZSetOperations.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="258">
+              <caret line="53" column="11" selection-start-line="53" selection-start-column="11" selection-end-line="53" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Library/Application Support/JetBrains/IntelliJIdea2021.2/idea.vmoptions">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="642">
+              <caret line="58" column="52" selection-start-line="58" selection-start-column="52" selection-end-line="58" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/../../../Development/mavenRepostory/org/springframework/data/spring-data-redis/2.3.5.RELEASE/spring-data-redis-2.3.5.RELEASE-sources.jar!/org/springframework/data/redis/core/DefaultBoundZSetOperations.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="253">
+              <caret line="265" column="19" selection-start-line="265" selection-start-column="19" selection-end-line="265" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/commoms/src/main/java/com/imooc/commons/constant/RedisKeyConstant.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>com.dinner</find>
+      <find>package com\.dinner\.msdinners\;\n\nimport org\.springframework\.boot\.SpringApplication\;\nimport org\.springframework\.boot\.autoconfigure\.SpringBootApplication\;\n\n\@SpringBootApplication\npublic class MsDinnersApplication \{\n\n    public static void main\(String\[\] args\) \{\n        SpringApplication\.run\(MsDinnersApplication\.class\, args\)\;\n    \}\n\n\}\n</find>
+      <find>mysql-connector-java</find>
+      <find>com</find>
+      <find>com.mysql.cj.jdbc.Driver</find>
+      <find>mysql-connector</find>
+      <find>8081</find>
+      <find>com.imooc</find>
+      <find>8082</find>
+      <find>UserService</find>
+      <find>check_token</find>
+      <find>diners.mapper.DinersMapper</find>
+      <find>Oops! Something was wrong</find>
+      <find>172.17.0.1</find>
+      <find>com\.mysql\.cj\.jdbc\.Driv</find>
+      <find>\&lt;groupId\&gt;com\.dinner\&lt;\/groupId\&gt;\n</find>
+      <find>\&lt;dependency\&gt;\n            \&lt;groupId\&gt;com\.dinner\&lt;\/groupId\&gt;</find>
+      <find>\&lt;groupId\&gt;com\.dinner\&lt;\/groupId\&gt;</find>
+      <find>\&lt;artifactId\&gt;redis\-dinner\&lt;\/artifactId\&gt;</find>
+      <find>\&lt;groupId\&gt;commons\&lt;\/groupId\&gt;</find>
+      <find>commons</find>
+      <find>db_imooc_redis</find>
+      <find>t_voucher_orders</find>
+      <find>192.168.2.136</find>
+      <find>lock.lua</find>
+      <find>unlock.lua</find>
+      <find>192</find>
+      <find>6379</find>
+      <find>db_imooc</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>com.imooc</replace>
+      <replace>com.dinner</replace>
+      <replace>127.0.0.1</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/ms-dinners/src/main/java/com/dinner/msdinners</dir>
+      <dir>$PROJECT_DIR$/ms-dinners/src/main/java</dir>
+      <dir>$PROJECT_DIR$/ms-auth2-server/src/main/java/com/imooc/oauth2/server</dir>
+      <dir>$PROJECT_DIR$/ms-registry</dir>
+      <dir>$PROJECT_DIR$/ms-auth2-server/src/main/java/com/imooc/oauth2/server/service</dir>
+      <dir>$PROJECT_DIR$/ms-getaway/src/main/java/com/imooc/gateway/filter</dir>
+      <dir>$PROJECT_DIR$/ms-getaway</dir>
+      <dir>$PROJECT_DIR$/ms-getaway/src/main/java/com/imooc/gateway</dir>
+      <dir>$PROJECT_DIR$/ms-dinners/src/main/java/diners</dir>
+      <dir>$PROJECT_DIR$/ms-dinners/src/main/java/com/imooc/diners/service</dir>
+      <dir>$PROJECT_DIR$/ms-dinners/src/main/resources</dir>
+      <dir>$PROJECT_DIR$/ms-seckill</dir>
+      <dir>$PROJECT_DIR$/ms-auth2-server</dir>
+      <dir>$PROJECT_DIR$/ms-seckill/src/main/java/com/imooc/seckill/mapper</dir>
+      <dir>$PROJECT_DIR$</dir>
+      <dir>$PROJECT_DIR$/ms-seckill/src/main/java/com/imooc/seckill/service</dir>
+      <dir>$PROJECT_DIR$/ms-follow/src/main/java/com/imooc/follow/controller</dir>
+      <dir>$PROJECT_DIR$/ms-follow/src/main/resources</dir>
+      <dir>$PROJECT_DIR$/ms-feed/src/main/resources</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/ms-getaway/src/main/java/GatewayApplication.java" />
+      <option value="$PROJECT_DIR$/ms-getaway/src/main/resources/application.properties" />
+      <option value="$PROJECT_DIR$/ms-dinners/src/main/java/com/dinner/msdinners/controller/HelloController.java" />
+      <option value="$PROJECT_DIR$/ms-getaway/src/main/java/com/dinner/gateway/GatewayApplication.java" />
+      <option value="$PROJECT_DIR$/ms-registry/pom.xml" />
+      <option value="$PROJECT_DIR$/ms-registry/src/main/java/RegistryApplication.java" />
+      <option value="$PROJECT_DIR$/ms-dinners/src/main/resources/application.properties" />
+      <option value="$PROJECT_DIR$/.idea/workspace.xml" />
+      <option value="$PROJECT_DIR$/ms-dinners/src/main/java/com/dinner/msdinners/MsDinnersApplication.java" />
+      <option value="$PROJECT_DIR$/commoms/pom.xml" />
+      <option value="$PROJECT_DIR$/ms-dinners/pom.xml" />
+      <option value="$PROJECT_DIR$/pom.xml" />
+      <option value="$PROJECT_DIR$/ms-getaway/pom.xml" />
+      <option value="$PROJECT_DIR$/ms-dinners/src/main/java/diners/DinersApplication.java" />
+      <option value="$PROJECT_DIR$/commoms/src/main/java/commons/model/vo/SignInDinerInfo.java" />
+      <option value="$PROJECT_DIR$/ms-dinners/src/main/java/diners/controller/SendVerifyCodeController.java" />
+      <option value="$PROJECT_DIR$/ms-dinners/src/main/java/diners/controller/DinersController.java" />
+      <option value="$PROJECT_DIR$/ms-dinners/src/main/java/diners/service/DinersService.java" />
+      <option value="$PROJECT_DIR$/ms-dinners/src/main/resources/application.yml" />
+      <option value="$PROJECT_DIR$/ms-seckill/pom.xml" />
+      <option value="$PROJECT_DIR$/ms-seckill/src/main/resources/application.yml" />
+      <option value="$PROJECT_DIR$/ms-auth2-server/pom.xml" />
+      <option value="$PROJECT_DIR$/ms-auth2-server/src/main/resources/application.yml" />
+      <option value="$PROJECT_DIR$/ms-seckill/src/main/java/com/imooc/seckill/mapper/VoucherOrdersMapper.java" />
+      <option value="$PROJECT_DIR$/ms-seckill/src/main/java/com/imooc/seckill/service/SeckillService.java" />
+      <option value="$PROJECT_DIR$/redis-lock-demo/src/main/java/com/imooc/reentrant/UnReentrantLockDemo.java" />
+      <option value="$PROJECT_DIR$/ms-follow/pom.xml" />
+      <option value="$PROJECT_DIR$/commoms/src/main/java/com/imooc/commons/model/model/vo/ShortDinerInfo.java" />
+      <option value="$PROJECT_DIR$/ms-follow/src/main/java/com/imooc/follow/mapper/FollowMapper.java" />
+      <option value="$PROJECT_DIR$/ms-follow/src/main/java/com/imooc/follow/service/FollowService.java" />
+      <option value="$PROJECT_DIR$/ms-follow/src/main/resources/application.yml" />
+      <option value="$PROJECT_DIR$/ms-dinners/src/main/java/com/imooc/diners/controller/DinersController.java" />
+      <option value="$PROJECT_DIR$/ms-dinners/src/main/java/com/imooc/diners/service/DinersService.java" />
+      <option value="$PROJECT_DIR$/ms-dinners/src/main/java/com/imooc/diners/mapper/DinersMapper.java" />
+      <option value="$PROJECT_DIR$/ms-feed/pom.xml" />
+      <option value="$PROJECT_DIR$/ms-getaway/src/main/resources/application.yml" />
+      <option value="$PROJECT_DIR$/ms-feed/src/main/resources/application.yml" />
+      <option value="$PROJECT_DIR$/ms-feed/src/main/java/com/imooc/feeds/config/RestTemplateConfiguration.java" />
+      <option value="$PROJECT_DIR$/ms-feed/src/main/java/com/imooc/feeds/service/FeedsService.java" />
+      <option value="$PROJECT_DIR$/ms-follow/src/main/java/com/imooc/follow/controller/FollowController.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <option name="groupStructurally" value="true" />
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="redis-dinner" type="b2602c69:ProjectViewProjectNode" />
+              <item name="redis-dinner" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="redis-dinner" type="b2602c69:ProjectViewProjectNode" />
+              <item name="redis-dinner" type="462c0819:PsiDirectoryNode" />
+              <item name="ms-follow" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="redis-dinner" type="b2602c69:ProjectViewProjectNode" />
+              <item name="redis-dinner" type="462c0819:PsiDirectoryNode" />
+              <item name="ms-follow" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="redis-dinner" type="b2602c69:ProjectViewProjectNode" />
+              <item name="redis-dinner" type="462c0819:PsiDirectoryNode" />
+              <item name="ms-follow" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="redis-dinner" type="b2602c69:ProjectViewProjectNode" />
+              <item name="redis-dinner" type="462c0819:PsiDirectoryNode" />
+              <item name="ms-follow" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="redis-dinner" type="b2602c69:ProjectViewProjectNode" />
+              <item name="redis-dinner" type="462c0819:PsiDirectoryNode" />
+              <item name="ms-follow" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="follow" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="redis-dinner" type="b2602c69:ProjectViewProjectNode" />
+              <item name="redis-dinner" type="462c0819:PsiDirectoryNode" />
+              <item name="ms-follow" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="follow" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="redis-dinner" type="b2602c69:ProjectViewProjectNode" />
+              <item name="redis-dinner" type="462c0819:PsiDirectoryNode" />
+              <item name="ms-getaway" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="redis-dinner" type="b2602c69:ProjectViewProjectNode" />
+              <item name="redis-dinner" type="462c0819:PsiDirectoryNode" />
+              <item name="ms-getaway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="redis-dinner" type="b2602c69:ProjectViewProjectNode" />
+              <item name="redis-dinner" type="462c0819:PsiDirectoryNode" />
+              <item name="ms-getaway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="redis-dinner" type="b2602c69:ProjectViewProjectNode" />
+              <item name="redis-dinner" type="462c0819:PsiDirectoryNode" />
+              <item name="ms-getaway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="redis-dinner" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.2021978" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" commandHistoryFileName="redis-dinner-history" />
+    </option>
+  </component>
+  <component name="TestHistory">
+    <history-entry file="OAuthControllerTest_writeToken - 2021.12.14 at 16h 17m 32s.xml">
+      <configuration name="OAuthControllerTest.writeToken" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OAuthControllerTest_writeToken - 2021.12.14 at 17h 29m 16s.xml">
+      <configuration name="OAuthControllerTest.writeToken" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OAuthControllerTest_writeToken - 2021.12.14 at 18h 45m 53s.xml">
+      <configuration name="OAuthControllerTest.writeToken" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OAuthControllerTest_writeToken - 2021.12.14 at 18h 48m 05s.xml">
+      <configuration name="OAuthControllerTest.writeToken" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OAuthControllerTest_writeToken - 2021.12.15 at 17h 29m 41s.xml">
+      <configuration name="OAuthControllerTest.writeToken" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="72861000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.296875" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Learn" order="4" />
+      <window_info id="Pull Requests" order="5" />
+      <window_info id="JRebel" order="6" side_tool="true" />
+      <window_info id="Web" order="7" show_stripe_button="false" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Analysis" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.3297143" />
+      <window_info anchor="bottom" id="Event Log" order="3" show_stripe_button="false" sideWeight="0.4996413" side_tool="true" weight="0.3297143" />
+      <window_info anchor="bottom" id="Run" order="4" weight="0.3293839" />
+      <window_info anchor="bottom" id="Debug" order="5" weight="0.40047395" />
+      <window_info anchor="bottom" id="Problems View" order="6" />
+      <window_info anchor="bottom" id="Services" order="7" weight="0.32057142" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Profiler" order="9" show_stripe_button="false" weight="0.3297143" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.3297143" />
+      <window_info anchor="bottom" id="Terminal" order="11" show_stripe_button="false" weight="0.3297143" />
+      <window_info anchor="bottom" id="MyBatis Log" order="12" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="13" />
+      <window_info anchor="bottom" id="Inspection" order="14" weight="0.4" />
+      <window_info anchor="bottom" id="SonarLint" order="15" show_stripe_button="false" sideWeight="0.50107604" weight="0.3297143" />
+      <window_info anchor="bottom" id="Database Changes" order="16" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Sequence Diagram" order="17" show_stripe_button="false" sideWeight="0.5003587" weight="0.3297143" />
+      <window_info anchor="bottom" id="TODO" order="18" show_stripe_button="false" weight="0.3297143" />
+      <window_info anchor="bottom" id="JRebel Console" order="19" show_stripe_button="false" sideWeight="0.49892396" side_tool="true" weight="0.3297143" />
+      <window_info anchor="bottom" id="Endpoints" order="20" weight="0.3297143" />
+      <window_info anchor="bottom" id="Build" order="21" weight="0.16445497" />
+      <window_info anchor="bottom" id="Dependencies" order="22" show_stripe_button="false" weight="0.3297143" />
+      <window_info anchor="bottom" id="Java Enterprise" order="23" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Spring" order="24" sideWeight="0.5003587" weight="0.3297143" />
+      <window_info anchor="bottom" id="Problems" order="25" show_stripe_button="false" weight="0.3297143" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Key Promoter X" order="3" weight="0.33020833" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.33020833" />
+      <window_info anchor="right" id="Word Book" order="6" side_tool="true" />
+      <window_info anchor="right" id="JRebel Setup Guide" order="7" side_tool="true" />
+      <window_info anchor="right" id="Mybatis datasource" order="8" side_tool="true" />
+      <window_info anchor="right" id="RestfulTool" order="9" />
+      <window_info anchor="right" id="Bean Validation" order="10" show_stripe_button="false" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.296875" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Learn" order="4" />
+      <window_info id="Pull Requests" order="5" />
+      <window_info id="JRebel" order="6" side_tool="true" />
+      <window_info id="Web" order="7" show_stripe_button="false" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Analysis" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.3297143" />
+      <window_info anchor="bottom" id="Event Log" order="3" show_stripe_button="false" sideWeight="0.4996413" side_tool="true" weight="0.3297143" />
+      <window_info anchor="bottom" id="Run" order="4" weight="0.3293839" />
+      <window_info anchor="bottom" id="Debug" order="5" weight="0.40047395" />
+      <window_info anchor="bottom" id="Problems View" order="6" />
+      <window_info anchor="bottom" id="Services" order="7" visible="true" weight="0.32057142" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Profiler" order="9" show_stripe_button="false" weight="0.3297143" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.3297143" />
+      <window_info anchor="bottom" id="Terminal" order="11" show_stripe_button="false" weight="0.3297143" />
+      <window_info anchor="bottom" id="MyBatis Log" order="12" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="13" />
+      <window_info anchor="bottom" id="Inspection" order="14" weight="0.4" />
+      <window_info anchor="bottom" id="SonarLint" order="15" show_stripe_button="false" sideWeight="0.50107604" weight="0.3297143" />
+      <window_info anchor="bottom" id="Database Changes" order="16" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Sequence Diagram" order="17" show_stripe_button="false" sideWeight="0.5003587" weight="0.3297143" />
+      <window_info anchor="bottom" id="TODO" order="18" show_stripe_button="false" weight="0.3297143" />
+      <window_info anchor="bottom" id="JRebel Console" order="19" show_stripe_button="false" sideWeight="0.49892396" side_tool="true" weight="0.3297143" />
+      <window_info anchor="bottom" id="Endpoints" order="20" weight="0.3297143" />
+      <window_info anchor="bottom" id="Build" order="21" weight="0.16445497" />
+      <window_info anchor="bottom" id="Dependencies" order="22" show_stripe_button="false" weight="0.3297143" />
+      <window_info anchor="bottom" id="Java Enterprise" order="23" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Spring" order="24" sideWeight="0.5003587" weight="0.3297143" />
+      <window_info anchor="bottom" id="Problems" order="25" show_stripe_button="false" weight="0.3297143" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Key Promoter X" order="3" weight="0.33020833" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.33020833" />
+      <window_info anchor="right" id="Word Book" order="6" side_tool="true" />
+      <window_info anchor="right" id="JRebel Setup Guide" order="7" side_tool="true" />
+      <window_info anchor="right" id="Mybatis datasource" order="8" side_tool="true" />
+      <window_info anchor="right" id="RestfulTool" order="9" />
+      <window_info anchor="right" id="Bean Validation" order="10" show_stripe_button="false" />
+    </layout-to-restore>
+    <recentWindows>
+      <value>Project</value>
+      <value>Services</value>
+      <value>Maven</value>
+      <value>Sequence Diagram</value>
+      <value>SonarLint</value>
+      <value>Event Log</value>
+      <value>Profiler</value>
+      <value>Version Control</value>
+      <value>Terminal</value>
+      <value>Spring</value>
+      <value>JRebel Console</value>
+      <value>Problems</value>
+      <value>Dependencies</value>
+      <value>Endpoints</value>
+      <value>TODO</value>
+      <value>Build</value>
+      <value>Run</value>
+      <value>Debug</value>
+      <value>Key Promoter X</value>
+      <value>Find</value>
+    </recentWindows>
+  </component>
+  <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" trusted="YES" />
+  <component name="WindowStateProjectService">
+    <state x="176" y="-948" key="#Project_Structure" timestamp="1639721726595">
+      <screen x="-272" y="-1055" width="1920" height="1055" />
+    </state>
+    <state x="336" y="60" key="#Project_Structure/0.25.1440.875/-266.-1055.1920.1055@0.25.1440.875" timestamp="1639438320051" />
+    <state x="176" y="-948" key="#Project_Structure/0.25.1440.875/-272.-1055.1920.1055@-272.-1055.1920.1055" timestamp="1639721726595" />
+    <state x="336" y="60" key="#Project_Structure/0.25.1440.875/-272.-1055.1920.1055@0.25.1440.875" timestamp="1639394700230" />
+    <state x="15" y="126" width="1425" height="696" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1639448184709">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="15" y="126" width="1425" height="696" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.875/-272.-1055.1920.1055@0.25.1440.875" timestamp="1639448184709" />
+    <state width="960" height="157" key="DebuggerActiveHint" timestamp="1639562098894">
+      <screen x="-272" y="-1055" width="1920" height="1055" />
+    </state>
+    <state width="960" height="157" key="DebuggerActiveHint/0.25.1440.875/-272.-1055.1920.1055@-272.-1055.1920.1055" timestamp="1639562098894" />
+    <state width="1088" height="252" key="GridCell.Tab.0.bottom" timestamp="1639964402873">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1088" height="260" key="GridCell.Tab.0.bottom/0.25.1440.875/-266.-1055.1920.1055@0.25.1440.875" timestamp="1639438169624" />
+    <state width="1471" height="310" key="GridCell.Tab.0.bottom/0.25.1440.875/-272.-1055.1920.1055@-272.-1055.1920.1055" timestamp="1639721716063" />
+    <state width="1088" height="252" key="GridCell.Tab.0.bottom/0.25.1440.875/-272.-1055.1920.1055@0.25.1440.875" timestamp="1639964402873" />
+    <state width="1088" height="293" key="GridCell.Tab.0.bottom/0.25.1440.875@0.25.1440.875" timestamp="1639566503683" />
+    <state width="1088" height="252" key="GridCell.Tab.0.center" timestamp="1639964402872">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1088" height="260" key="GridCell.Tab.0.center/0.25.1440.875/-266.-1055.1920.1055@0.25.1440.875" timestamp="1639438169623" />
+    <state width="1471" height="310" key="GridCell.Tab.0.center/0.25.1440.875/-272.-1055.1920.1055@-272.-1055.1920.1055" timestamp="1639721716062" />
+    <state width="1088" height="252" key="GridCell.Tab.0.center/0.25.1440.875/-272.-1055.1920.1055@0.25.1440.875" timestamp="1639964402872" />
+    <state width="1088" height="293" key="GridCell.Tab.0.center/0.25.1440.875@0.25.1440.875" timestamp="1639566503682" />
+    <state width="1088" height="252" key="GridCell.Tab.0.left" timestamp="1639964402872">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1088" height="260" key="GridCell.Tab.0.left/0.25.1440.875/-266.-1055.1920.1055@0.25.1440.875" timestamp="1639438169622" />
+    <state width="1471" height="310" key="GridCell.Tab.0.left/0.25.1440.875/-272.-1055.1920.1055@-272.-1055.1920.1055" timestamp="1639721716061" />
+    <state width="1088" height="252" key="GridCell.Tab.0.left/0.25.1440.875/-272.-1055.1920.1055@0.25.1440.875" timestamp="1639964402872" />
+    <state width="1088" height="293" key="GridCell.Tab.0.left/0.25.1440.875@0.25.1440.875" timestamp="1639566503682" />
+    <state width="1088" height="252" key="GridCell.Tab.0.right" timestamp="1639964402872">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1088" height="260" key="GridCell.Tab.0.right/0.25.1440.875/-266.-1055.1920.1055@0.25.1440.875" timestamp="1639438169624" />
+    <state width="1471" height="310" key="GridCell.Tab.0.right/0.25.1440.875/-272.-1055.1920.1055@-272.-1055.1920.1055" timestamp="1639721716062" />
+    <state width="1088" height="252" key="GridCell.Tab.0.right/0.25.1440.875/-272.-1055.1920.1055@0.25.1440.875" timestamp="1639964402872" />
+    <state width="1088" height="293" key="GridCell.Tab.0.right/0.25.1440.875@0.25.1440.875" timestamp="1639566503683" />
+    <state width="1088" height="252" key="GridCell.Tab.1.bottom" timestamp="1639964402874">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1088" height="260" key="GridCell.Tab.1.bottom/0.25.1440.875/-266.-1055.1920.1055@0.25.1440.875" timestamp="1639438169626" />
+    <state width="1471" height="310" key="GridCell.Tab.1.bottom/0.25.1440.875/-272.-1055.1920.1055@-272.-1055.1920.1055" timestamp="1639721716065" />
+    <state width="1088" height="252" key="GridCell.Tab.1.bottom/0.25.1440.875/-272.-1055.1920.1055@0.25.1440.875" timestamp="1639964402874" />
+    <state width="1088" height="293" key="GridCell.Tab.1.bottom/0.25.1440.875@0.25.1440.875" timestamp="1639566503683" />
+    <state width="1088" height="252" key="GridCell.Tab.1.center" timestamp="1639964402873">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1088" height="260" key="GridCell.Tab.1.center/0.25.1440.875/-266.-1055.1920.1055@0.25.1440.875" timestamp="1639438169625" />
+    <state width="1471" height="310" key="GridCell.Tab.1.center/0.25.1440.875/-272.-1055.1920.1055@-272.-1055.1920.1055" timestamp="1639721716064" />
+    <state width="1088" height="252" key="GridCell.Tab.1.center/0.25.1440.875/-272.-1055.1920.1055@0.25.1440.875" timestamp="1639964402873" />
+    <state width="1088" height="293" key="GridCell.Tab.1.center/0.25.1440.875@0.25.1440.875" timestamp="1639566503683" />
+    <state width="1088" height="252" key="GridCell.Tab.1.left" timestamp="1639964402873">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1088" height="260" key="GridCell.Tab.1.left/0.25.1440.875/-266.-1055.1920.1055@0.25.1440.875" timestamp="1639438169625" />
+    <state width="1471" height="310" key="GridCell.Tab.1.left/0.25.1440.875/-272.-1055.1920.1055@-272.-1055.1920.1055" timestamp="1639721716064" />
+    <state width="1088" height="252" key="GridCell.Tab.1.left/0.25.1440.875/-272.-1055.1920.1055@0.25.1440.875" timestamp="1639964402873" />
+    <state width="1088" height="293" key="GridCell.Tab.1.left/0.25.1440.875@0.25.1440.875" timestamp="1639566503683" />
+    <state width="1088" height="252" key="GridCell.Tab.1.right" timestamp="1639964402874">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1088" height="260" key="GridCell.Tab.1.right/0.25.1440.875/-266.-1055.1920.1055@0.25.1440.875" timestamp="1639438169625" />
+    <state width="1471" height="310" key="GridCell.Tab.1.right/0.25.1440.875/-272.-1055.1920.1055@-272.-1055.1920.1055" timestamp="1639721716065" />
+    <state width="1088" height="252" key="GridCell.Tab.1.right/0.25.1440.875/-272.-1055.1920.1055@0.25.1440.875" timestamp="1639964402874" />
+    <state width="1088" height="293" key="GridCell.Tab.1.right/0.25.1440.875@0.25.1440.875" timestamp="1639566503683" />
+    <state width="1088" height="252" key="GridCell.Tab.2.bottom" timestamp="1639964402875">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1471" height="310" key="GridCell.Tab.2.bottom/0.25.1440.875/-272.-1055.1920.1055@-272.-1055.1920.1055" timestamp="1639721716067" />
+    <state width="1088" height="252" key="GridCell.Tab.2.bottom/0.25.1440.875/-272.-1055.1920.1055@0.25.1440.875" timestamp="1639964402875" />
+    <state width="1088" height="347" key="GridCell.Tab.2.bottom/0.25.1440.875@0.25.1440.875" timestamp="1639566268960" />
+    <state width="1088" height="252" key="GridCell.Tab.2.center" timestamp="1639964402874">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1471" height="310" key="GridCell.Tab.2.center/0.25.1440.875/-272.-1055.1920.1055@-272.-1055.1920.1055" timestamp="1639721716066" />
+    <state width="1088" height="252" key="GridCell.Tab.2.center/0.25.1440.875/-272.-1055.1920.1055@0.25.1440.875" timestamp="1639964402874" />
+    <state width="1088" height="347" key="GridCell.Tab.2.center/0.25.1440.875@0.25.1440.875" timestamp="1639566268959" />
+    <state width="1088" height="252" key="GridCell.Tab.2.left" timestamp="1639964402874">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1471" height="310" key="GridCell.Tab.2.left/0.25.1440.875/-272.-1055.1920.1055@-272.-1055.1920.1055" timestamp="1639721716065" />
+    <state width="1088" height="252" key="GridCell.Tab.2.left/0.25.1440.875/-272.-1055.1920.1055@0.25.1440.875" timestamp="1639964402874" />
+    <state width="1088" height="347" key="GridCell.Tab.2.left/0.25.1440.875@0.25.1440.875" timestamp="1639566268959" />
+    <state width="1088" height="252" key="GridCell.Tab.2.right" timestamp="1639964402874">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1471" height="310" key="GridCell.Tab.2.right/0.25.1440.875/-272.-1055.1920.1055@-272.-1055.1920.1055" timestamp="1639721716066" />
+    <state width="1088" height="252" key="GridCell.Tab.2.right/0.25.1440.875/-272.-1055.1920.1055@0.25.1440.875" timestamp="1639964402874" />
+    <state width="1088" height="347" key="GridCell.Tab.2.right/0.25.1440.875@0.25.1440.875" timestamp="1639566268960" />
+    <state x="63" y="-955" key="SettingsEditor" timestamp="1639562284571">
+      <screen x="-272" y="-1055" width="1920" height="1055" />
+    </state>
+    <state x="63" y="-955" key="SettingsEditor/0.25.1440.875/-272.-1055.1920.1055@-272.-1055.1920.1055" timestamp="1639562284571" />
+    <state x="251" y="108" key="SettingsEditor/0.25.1440.875/-272.-1055.1920.1055@0.25.1440.875" timestamp="1639443164123" />
+    <state width="626" height="1055" key="SwitcherDM" timestamp="1639708544127">
+      <screen x="-272" y="-1055" width="1920" height="1055" />
+    </state>
+    <state width="626" height="1055" key="SwitcherDM/0.25.1440.875/-272.-1055.1920.1055@-272.-1055.1920.1055" timestamp="1639708544127" />
+    <state width="960" height="527" key="XDebugger.FullValuePopup" timestamp="1639562097330">
+      <screen x="-272" y="-1055" width="1920" height="1055" />
+    </state>
+    <state width="960" height="527" key="XDebugger.FullValuePopup/0.25.1440.875/-272.-1055.1920.1055@-272.-1055.1920.1055" timestamp="1639562097330" />
+    <state x="501" y="246" key="chooseDestDirectoryDialog" timestamp="1639389559854">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="501" y="246" key="chooseDestDirectoryDialog/0.25.1440.875/-272.-1055.1920.1055@0.25.1440.875" timestamp="1639389559854" />
+    <state x="227" y="-792" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1639562346746">
+      <screen x="-272" y="-1055" width="1920" height="1055" />
+    </state>
+    <state x="227" y="-792" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.25.1440.875/-272.-1055.1920.1055@-272.-1055.1920.1055" timestamp="1639562346746" />
+    <state x="361" y="171" width="667" height="604" key="find.popup" timestamp="1639723193161">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="361" y="171" width="805" height="604" key="find.popup/0.25.1440.875/-266.-1055.1920.1055@0.25.1440.875" timestamp="1639438484504" />
+    <state x="209" y="-879" width="890" height="729" key="find.popup/0.25.1440.875/-272.-1055.1920.1055@-272.-1055.1920.1055" timestamp="1639710752804" />
+    <state x="361" y="171" width="667" height="604" key="find.popup/0.25.1440.875/-272.-1055.1920.1055@0.25.1440.875" timestamp="1639723193161" />
+    <state x="361" y="171" width="668" height="605" key="find.popup/0.25.1440.875@0.25.1440.875" timestamp="1639566747369" />
+    <state x="161" y="-936" key="new project wizard" timestamp="1639722864066">
+      <screen x="-272" y="-1055" width="1920" height="1055" />
+    </state>
+    <state x="161" y="-936" key="new project wizard/0.25.1440.875/-272.-1055.1920.1055@-272.-1055.1920.1055" timestamp="1639722864066" />
+    <state x="325" y="124" key="new project wizard/0.25.1440.875/-272.-1055.1920.1055@0.25.1440.875" timestamp="1639394341941" />
+    <state x="385" y="214" width="670" height="685" key="search.everywhere.popup" timestamp="1639727459351">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="241" y="-827" width="894" height="826" key="search.everywhere.popup/0.25.1440.875/-272.-1055.1920.1055@-272.-1055.1920.1055" timestamp="1639630348466" />
+    <state x="385" y="214" width="670" height="685" key="search.everywhere.popup/0.25.1440.875/-272.-1055.1920.1055@0.25.1440.875" timestamp="1639727459351" />
+    <state x="385" y="214" width="670" height="685" key="search.everywhere.popup/0.25.1440.875@0.25.1440.875" timestamp="1639566523757" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/redis-lock-demo/src/main/java/com/imooc/reentrant/Lock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redis-lock-demo/src/main/java/com/imooc/reentrant/ReentrantLockDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="38" column="18" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ms-seckill/src/main/java/com/imooc/seckill/SeckillApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redis-lock-demo/src/main/java/com/imooc/reentrant/UnReentrantLockDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="433">
+          <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redis-lock-demo/src/main/java/com/imooc/reentrant/ReentrantLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="31" lean-forward="true" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ms-seckill/src/main/java/com/imooc/seckill/model/RedisLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="45" column="16" selection-start-line="45" selection-start-column="16" selection-end-line="45" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ms-seckill/src/main/resources/stock.lua">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ms-seckill/src/main/resources/lock.lua">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ms-seckill/src/main/resources/unlock.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="4" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../Development/mavenRepostory/org/redisson/redisson/3.13.6/redisson-3.13.6-sources.jar!/org/redisson/api/RedissonClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="475" column="10" selection-start-line="475" selection-start-column="10" selection-end-line="475" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../Development/mavenRepostory/org/redisson/redisson/3.13.6/redisson-3.13.6.jar!/org/redisson/api/RedissonClient.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="90" column="10" selection-start-line="90" selection-start-column="10" selection-end-line="90" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ms-seckill/src/main/java/com/imooc/seckill/service/SeckillService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="163" column="5" lean-forward="true" selection-start-line="163" selection-start-column="5" selection-end-line="163" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/commoms/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/commoms/src/main/java/com/imooc/commons/utils/AssertUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="89">
+          <caret line="41" column="66" lean-forward="true" selection-start-line="41" selection-start-column="66" selection-end-line="41" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ms-follow/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="27" lean-forward="true" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/commoms/src/main/java/com/imooc/commons/model/model/vo/ShortDinerInfo.java" />
+    <entry file="file://$PROJECT_DIR$/commoms/src/main/java/com/imooc/commons/model/model/pojo/Follow.java" />
+    <entry file="file://$PROJECT_DIR$/ms-follow/src/main/java/com/imooc/follow/FollowApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ms-getaway/src/main/java/com/imooc/gateway/GatewayApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ms-registry/src/main/java/com/dinner/registry/RegistryApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ms-follow/src/main/java/com/imooc/follow/config/RedisTemplateConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="543">
+          <caret line="40" column="21" lean-forward="true" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ms-follow/src/main/java/com/imooc/follow/config/RestTemplateConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/commoms/src/main/java/com/imooc/commons/model/vo/ShortDinerInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/commoms/src/main/java/com/imooc/commons/model/domain/ResultInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ms-follow/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ms-follow/src/main/java/com/imooc/follow/mapper/FollowMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../Development/mavenRepostory/org/springframework/spring-core/5.2.10.RELEASE/spring-core-5.2.10.RELEASE-sources.jar!/org/springframework/cglib/proxy/MethodProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="219" selection-start-line="219" selection-end-line="219" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ms-dinners/src/main/java/com/imooc/diners/controller/DinersController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ms-dinners/src/main/java/com/imooc/diners/service/DinersService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="58" column="8" selection-start-line="58" selection-start-column="8" selection-end-line="58" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ms-dinners/src/main/java/com/imooc/diners/mapper/DinersMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="38" column="25" lean-forward="true" selection-start-line="38" selection-start-column="25" selection-end-line="38" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ms-auth2-server/tokens.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ms-follow/src/main/java/com/imooc/follow/service/FollowService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1030">
+          <caret line="57" column="19" lean-forward="true" selection-start-line="57" selection-start-column="19" selection-end-line="57" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ms-feed/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="946">
+          <caret line="43" column="28" selection-start-line="43" selection-start-column="28" selection-end-line="43" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ms-getaway/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1298">
+          <caret line="59" column="15" selection-start-line="59" selection-start-column="15" selection-end-line="59" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ms-feed/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="15" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ms-feed/src/main/java/com/imooc/feeds/config/RestTemplateConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ms-feed/src/main/java/com/imooc/feeds/config/RedisTemplateConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="704">
+          <caret line="40" column="28" selection-start-line="40" selection-start-column="28" selection-end-line="40" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ms-feed/src/main/java/com/imooc/feeds/handler/GlobalExceptionHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ms-feed/src/main/java/com/imooc/feeds/FeedsApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/commoms/src/main/java/com/imooc/commons/model/base/BaseModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/commoms/src/main/java/com/imooc/commons/model/pojo/Feeds.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ms-feed/src/main/java/com/imooc/feeds/mapper/FeedsMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/commoms/src/main/java/com/imooc/commons/constant/RedisKeyConstant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../Development/mavenRepostory/org/springframework/data/spring-data-redis/2.3.5.RELEASE/spring-data-redis-2.3.5.RELEASE-sources.jar!/org/springframework/data/redis/core/DefaultBoundZSetOperations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="265" column="19" selection-start-line="265" selection-start-column="19" selection-end-line="265" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Application Support/JetBrains/IntelliJIdea2021.2/idea.vmoptions">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="642">
+          <caret line="58" column="52" selection-start-line="58" selection-start-column="52" selection-end-line="58" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../Development/mavenRepostory/org/springframework/data/spring-data-redis/2.3.5.RELEASE/spring-data-redis-2.3.5.RELEASE-sources.jar!/org/springframework/data/redis/core/ZSetOperations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="206" column="11" selection-start-line="206" selection-start-column="11" selection-end-line="206" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../Development/mavenRepostory/org/springframework/data/spring-data-redis/2.3.5.RELEASE/spring-data-redis-2.3.5.RELEASE.jar!/org/springframework/data/redis/core/ZSetOperations.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="53" column="11" selection-start-line="53" selection-start-column="11" selection-end-line="53" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/commoms/src/main/java/com/imooc/commons/model/vo/FeedsVO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ms-feed/src/main/java/com/imooc/feeds/service/FeedsService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="498">
+          <caret line="49" column="31" selection-start-line="49" selection-start-column="31" selection-end-line="49" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ms-feed/src/main/java/com/imooc/feeds/controller/FeedsController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ms-follow/src/main/java/com/imooc/follow/controller/FollowController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="17" column="13" lean-forward="true" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI" />
+      <state key="GlobalLibrariesConfigurable.UI" />
+      <state key="JdkListConfigurable.UI" />
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>ms-follow</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI" />
+    </states>
+  </component>
+</project>

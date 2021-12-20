@@ -43,7 +43,6 @@
       <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
       <component name="ProjectViewState">
         <option name="abbreviatePackageNames" value="true" />
-        <option name="autoscrollFromSource" value="true" />
         <option name="hideEmptyMiddlePackages" value="true" />
         <option name="showLibraryContents" value="true" />
         <option name="sortByType" value="true" />

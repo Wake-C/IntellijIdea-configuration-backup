@@ -2219,6 +2219,11 @@
         "completed_count" : [ "{regexp#integer}" ],
         "course_size" : [ "{regexp#integer}" ],
         "duration" : [ "{regexp#integer}" ],
+        "feedback_entry_place" : [ "{enum:WELCOME_SCREEN|LEARNING_PROJECT|ANOTHER_PROJECT}" ],
+        "feedback_experienced_user" : [ "{enum#boolean}" ],
+        "feedback_has_been_sent" : [ "{enum#boolean}" ],
+        "feedback_likeness_answer" : [ "{enum:NO_ANSWER|LIKE|DISLIKE}" ],
+        "feedback_opened_via_notification" : [ "{enum#boolean}" ],
         "filename" : [ "{util#tip_info}" ],
         "group_name" : [ "{enum:TUTORIALS|PROJECTS}" ],
         "group_state" : [ "{enum:expanded|collapsed}" ],
@@ -2239,7 +2244,7 @@
         "version" : [ "{regexp#version}" ]
       },
       "enums" : {
-        "__event_id" : [ "start", "passed", "group_event", "start_module_action", "progress", "expand_welcome_screen", "shortcut_clicked", "restore", "learn_project_opened_first_time", "non_learning_project_opened", "stopped", "new_lessons_notification_shown", "show_new_lessons", "need_show_new_lessons_notifications", "lesson_opened_from_tip", "help_link_clicked", "lesson_link_clicked_from_tip" ],
+        "__event_id" : [ "start", "passed", "group_event", "start_module_action", "progress", "expand_welcome_screen", "shortcut_clicked", "restore", "learn_project_opened_first_time", "non_learning_project_opened", "stopped", "new_lessons_notification_shown", "show_new_lessons", "need_show_new_lessons_notifications", "lesson_opened_from_tip", "help_link_clicked", "lesson_link_clicked_from_tip", "onboarding_feedback_notification_shown", "onboarding_feedback_dialog_result" ],
         "ide_features" : [ "rename", "extract.variable", "extract.method", "extract.closure", "rdt.test", "rdt.run", "rdt.debug", "toolwindows", "search", "code", "selection", "multipleselections", "move", "duplicate", "deleteline", "commentline", "collapse", "completions.basiccompletion", "quickfixes", "overrideimplement", "generate", "createfromusage", "quickpopups", "codeformatting", "smarttypecompletion", "select", "refactoringbasics", "extractvariablefield", "extractmethod", "postfixcompletion", "nextpreviousoccurrences", "jumptosource", "filestructure", "declarationimplementation", "ideactions", "hippiecompletion", "editorbasics.deleteline", "declarationandusages", "completionwithtab", "completions.statementcompletion", "completions.completionwithtab", "parameterinfo", "editorcodingassistance", "classsearch", "basiccompletion", "actions", "swift.completions.basiccompletion", "statementcompletion" ]
       }
     }
@@ -2813,6 +2818,7 @@
         "js_generate_externals" : [ "{enum#boolean}" ],
         "js_ir_incremental" : [ "{enum#boolean}" ],
         "js_klib_incremental" : [ "{enum#boolean}" ],
+        "js_output_granularity" : [ "{enum:whole_program|per_module|per_file}" ],
         "js_property_lazy_initialization" : [ "{regexp#boolean_set}" ],
         "js_source_map" : [ "{enum#boolean}" ],
         "js_target_mode" : [ "{regexp#js_target_mode}" ],
@@ -4002,7 +4008,7 @@
       "event_id" : [ "{enum#__event_id}" ],
       "event_data" : {
         "acceptance_result" : [ "{enum:ACCEPTED|DECLINED|AUTO_ACCEPTED}" ],
-        "group" : [ "{enum:UPDATE|INSTALLING|INSTALLED|SEARCH_INSTALLED|SEARCH|FEATURED|NEW_AND_UPDATED|TOP_DOWNLOADS|TOP_RATED|CUSTOM_REPOSITORY}" ],
+        "group" : [ "{enum:UPDATE|INSTALLING|INSTALLED|SEARCH_INSTALLED|SEARCH|FEATURED|NEW_AND_UPDATED|TOP_DOWNLOADS|TOP_RATED|CUSTOM_REPOSITORY}", "{enum:BUNDLED_UPDATE}" ],
         "index" : [ "{regexp#integer}" ],
         "plugin" : [ "{util#plugin}" ],
         "plugin_type" : [ "{util#plugin_type}" ],
@@ -5203,8 +5209,9 @@
       "event_data" : {
         "adv_explore_place" : [ "{enum:MAIN_TOOLBAR|SETTINGS|SHARE|CLONE}" ],
         "adv_overview_place" : [ "{enum:MAIN_TOOLBAR|SETTINGS|CLONE}" ],
+        "auto" : [ "{enum#boolean}" ],
         "commits_selection_type" : [ "{enum:SINGLE|ALL|SUBSET_CONNECTED|SUBSET_SPLIT}" ],
-        "details_tab_type" : [ "{enum:DETAILS|COMMITS}" ],
+        "details_tab_type" : [ "{enum:DETAILS|COMMITS}", "{enum:FILES}" ],
         "edit_message_is_empty" : [ "{enum#boolean}" ],
         "filter_text_empty" : [ "{enum#boolean}" ],
         "loader_type" : [ "{enum:GIT|SPACE}" ],
@@ -5216,12 +5223,17 @@
         "open_review_type" : [ "{enum:ENTER|DOUBLE_CLICK|ARROW}" ],
         "participant_edit_type" : [ "{enum:ADD|REMOVE}" ],
         "participant_role" : [ "{enum:Reviewer|Author|Watcher}" ],
+        "place" : [ "{enum:REVIEW_FILES|REVIEW_COMMITS|CREATE_CODE_REVIEW|CREATE_MERGE_REQUEST}", "{util#place}" ],
         "quick_filter" : [ "{enum:OPEN|AUTHORED_BY_ME|NEEDS_MY_ATTENTION|NEEDS_MY_REVIEW|ASSIGNED_TO_ME|CLOSED}" ],
         "refresh_reviews_place" : [ "{enum:EMPTY_LIST|CONTEXT_MENU}" ],
-        "review_diff_place" : [ "{enum:EDITOR|DIALOG}" ]
+        "review_diff_place" : [ "{enum:EDITOR|DIALOG}" ],
+        "tab" : [ "{enum:INFO|FILES}" ],
+        "type" : [ "{enum:CODE_REVIEW|MERGE_REQUEST}", "{enum:REVIEWER_ACCEPT|REVIEWER_WAITS_FOR_RESPONSE|REVIEWER_RESUME|REVIEWER_LEAVE|AUTHOR_WAITS_FOR_RESPONSE|AUTHOR_RESUME}", "{enum:ACTION|PREVIEW}" ],
+        "with_participants" : [ "{enum#boolean}" ],
+        "with_title" : [ "{enum#boolean}" ]
       },
       "enums" : {
-        "__event_id" : [ "adv_explore_space", "adv_log_in_link", "adv_sign_up_link", "adv_watch_overview", "button_log_in", "button_log_out", "cancel_login", "chat_collapse_discussion", "chat_delete_message", "chat_discard_edit_message", "chat_discard_send_message", "chat_expand_discussion", "chat_open_thread", "chat_reopen_discussion", "chat_resolve_discussion", "chat_send_edit_message", "chat_send_message", "chat_start_edit_message", "clone_repo", "create_new_project", "open_git_settings_in_space", "open_main_toolbar_popup", "open_share_project", "open_space_clone_tab", "review_details_accept_changes", "review_details_add_participant_icon", "review_details_back_to_list", "review_details_change_commits_selection", "review_details_checkout_branch", "review_details_edit_participant", "review_details_open_project_in_space", "review_details_open_review_diff", "review_details_open_review_in_space", "review_details_resume_review", "review_details_select_details_tab", "review_details_show_timeline", "review_details_update_branch", "review_details_wait_for_response", "review_diff_close_leave_comment", "review_diff_leave_comment", "review_diff_loaded", "reviews_list_change_quick_filter", "reviews_list_change_text_filter", "reviews_list_log_in_link", "reviews_list_open_review", "reviews_list_refresh_action", "share_project", "start_creating_new_project" ]
+        "__event_id" : [ "adv_explore_space", "adv_log_in_link", "adv_sign_up_link", "adv_watch_overview", "button_log_in", "button_log_out", "cancel_login", "chat_collapse_discussion", "chat_delete_message", "chat_discard_edit_message", "chat_discard_send_message", "chat_expand_discussion", "chat_open_thread", "chat_reopen_discussion", "chat_resolve_discussion", "chat_send_edit_message", "chat_send_message", "chat_start_edit_message", "clone_repo", "create_new_project", "open_git_settings_in_space", "open_main_toolbar_popup", "open_share_project", "open_space_clone_tab", "review_details_accept_changes", "review_details_add_participant_icon", "review_details_back_to_list", "review_details_change_commits_selection", "review_details_checkout_branch", "review_details_edit_participant", "review_details_open_project_in_space", "review_details_open_review_diff", "review_details_open_review_in_space", "review_details_resume_review", "review_details_select_details_tab", "review_details_show_timeline", "review_details_update_branch", "review_details_wait_for_response", "review_diff_close_leave_comment", "review_diff_leave_comment", "review_diff_loaded", "reviews_list_change_quick_filter", "reviews_list_change_text_filter", "reviews_list_log_in_link", "reviews_list_open_review", "reviews_list_refresh_action", "share_project", "start_creating_new_project", "create_review", "review_details_participant_action", "auto_auth_failed", "mark_as_unread", "open_ssh_settings_in_space", "mark_as_read", "open_diff", "create_review_opened", "create_review_back_to_list" ]
       }
     }
   }, {
@@ -5579,7 +5591,8 @@
         "revision" : [ "{regexp#integer}" ],
         "time_zone" : [ "{regexp#time_zone}" ],
         "value" : [ "{regexp#time_zone}", "{regexp#hash}", "{enum:unknown}" ],
-        "version" : [ "{regexp#version}", "{enum:unknown.format}", "{enum#__version}" ]
+        "version" : [ "{regexp#version}", "{enum:unknown.format}", "{enum#__version}" ],
+        "wsl" : [ "{enum#boolean}" ]
       },
       "enums" : {
         "__locale" : [ "cs", "da", "de", "en", "es", "fr", "hi", "ja", "ko", "nb", "nl", "nn", "no", "pl", "pt", "ro", "ru", "sv", "tr", "uk", "vi", "zh", "hu", "yo", "ur", "ig", "ml", "in", "mr", "uz", "el", "it", "am", "my", "ar", "as", "ne", "az", "fa", "zu", "rw", "bn", "sd", "si", "so", "kk", "kn", "or", "ta", "gu", "pa", "te", "th", "ha" ],
@@ -5605,7 +5618,7 @@
         "gigabytes" : [ "{regexp#integer}" ],
         "index_partition_free" : [ "{regexp#integer}" ],
         "index_partition_size" : [ "{regexp#integer}" ],
-        "name" : [ "{enum#gc}", "{enum#jvm_option}", "{enum#__name}", "{enum:splash|nosplash}" ],
+        "name" : [ "{enum#gc}", "{enum#jvm_option}", "{enum#__name}", "{enum:splash|nosplash}", "{enum:Metal|OpenGL}" ],
         "value" : [ "{regexp#integer}", "{enum#boolean}" ],
         "vendor" : [ "{enum#jvm_vendor}" ],
         "version" : [ "{regexp#version}" ]
@@ -5613,7 +5626,7 @@
       "enums" : {
         "_" : [ "cores", "garbage.collector", "jvm", "jvm.bit", "jvm.option" ],
         "__arch" : [ "x86", "x86_64", "arm64", "other", "unknown" ],
-        "__event_id" : [ "cores", "garbage.collector", "jvm.option", "jvm", "debug.agent", "memory.size", "swap.size", "disk.size", "jvm.client.properties" ],
+        "__event_id" : [ "cores", "garbage.collector", "jvm.option", "jvm", "debug.agent", "memory.size", "swap.size", "disk.size", "jvm.client.properties", "rendering.pipeline" ],
         "__name" : [ "Serial", "Unknown", "CMS", "Epsilon", "G1", "Z", "Parallel", "Other" ],
         "gc" : [ "Shenandoah", "G1_Young_Generation", "G1_Old_Generation", "Copy", "MarkSweepCompact", "PS_MarkSweep", "PS_Scavenge", "ParNew", "ConcurrentMarkSweep" ],
         "jvm_option" : [ "Xmx", "Xms", "SoftRefLRUPolicyMSPerMB", "ReservedCodeCacheSize" ],
@@ -5940,6 +5953,7 @@
       "event_data" : {
         "duration_first_results_ms" : [ "{regexp#integer}" ],
         "duration_ms" : [ "{regexp#integer}" ],
+        "id" : [ "{regexp#integer}" ],
         "lang" : [ "{util#lang}" ],
         "new" : [ "{util#scopeRule}" ],
         "previous" : [ "{util#scopeRule}" ],
@@ -5952,7 +5966,7 @@
         "userAction" : [ "{enum:Shown|Aborted|Continued}" ]
       },
       "enums" : {
-        "__event_id" : [ "usage.navigate", "usage.shown", "tooManyResultsDialog", "scope.changed", "switch.tab", "item.chosen", "finished" ]
+        "__event_id" : [ "usage.navigate", "usage.shown", "tooManyResultsDialog", "scope.changed", "switch.tab", "item.chosen", "finished", "started", "open.in.tool.window" ]
       }
     }
   }, {
@@ -6261,16 +6275,16 @@
       "from" : "1"
     } ],
     "rules" : {
-      "event_id" : [ "details.{enum#state}", "diffPreview.{enum#state}", "long.edges.{enum#state}", "roots.{enum#state}", "labels.compact.{enum#state}", "labels.showTagNames.{enum#state}", "textFilter.regex.{enum#state}", "textFilter.matchCase.{enum#state}", "additionalTabs.count.{regexp#integer}", "branchFilter.{enum#state}", "dateFilter.{enum#state}", "hashFilter.{enum#state}", "highlighter.{enum:CURRENT_BRANCH|MERGE_COMMITS|MY_COMMITS}.{enum#state}", "parentChanges.{enum#state}", "rootsFilter.{enum#state}", "structureFilter.{enum#state}", "textFilter.{enum#state}", "userFilter.{enum#state}", "sort.bek", "{enum#_}" ],
+      "event_id" : [ "{enum#__event_id}" ],
       "event_data" : {
         "count" : [ "{regexp#integer}" ],
         "enabled" : [ "{enum#boolean}" ],
-        "id" : [ "{util#vcs_log_highlighter_id}", "THIRD_PARTY" ],
-        "name" : [ "{util#vcs_log_filter_name}", "{util#vcs_log_column_name}" ],
-        "value" : [ "{util#vcs_log_sort_kind}", "{enum#boolean}" ]
+        "id" : [ "{enum:MY_COMMITS|MERGE_COMMITS|CURRENT_BRANCH|THIRD_PARTY}" ],
+        "name" : [ "{enum:branch|revision|range|user|hash|date|text|structure|roots}", "{enum:default.author|default.hash|default.date}" ],
+        "value" : [ "{enum:Normal|Bek|LinearBek}" ]
       },
       "enums" : {
-        "_" : [ "details", "diffPreview", "long.edges", "roots", "labels.compact", "labels.showTagNames", "textFilter.regex", "textFilter.matchCase", "additionalTabs", "filter", "highlighter", "parentChanges", "sort", "uiInitialized", "onlyAffectedChanges", "column" ]
+        "__event_id" : [ "onlyAffectedChanges", "textFilter.matchCase", "labels.onTheLeft", "long.edges", "details", "parentChanges", "roots", "diffPreview", "uiInitialized", "filter", "column", "labels.showTagNames", "labels.compact", "sort", "highlighter", "textFilter.regex", "diffPreviewOnTheBottom", "additionalTabs" ]
       }
     }
   }, {
@@ -6427,5 +6441,5 @@
       "version" : "Unknown|unknown.format|unknown|UNKNOWN|((\\d+\\.?)*\\d+)"
     }
   },
-  "version" : "2255"
+  "version" : "2274"
 }

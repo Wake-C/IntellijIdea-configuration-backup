@@ -6,7 +6,7 @@
           <IdeaActionID>Git.Add</IdeaActionID>
           <ShortCut>'⌃⌥⇧Q'</ShortCut>
           <Description>Add</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Add as Maven Project">
@@ -14,7 +14,7 @@
           <IdeaActionID>Maven.AddFileAsMavenProject</IdeaActionID>
           <ShortCut>'⌃⌥⌘M'</ShortCut>
           <Description>Add as Maven Project</Description>
-          <Count>4</Count>
+          <Count>5</Count>
           <Hit>3</Hit>
         </Item>
       </Statistic>
@@ -58,7 +58,7 @@
           <ShortCut>'⌃⇧S'</ShortCut>
           <Description>Analyze with SonarLint</Description>
           <Count>29</Count>
-          <Hit>191</Hit>
+          <Hit>192</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Back">
@@ -67,7 +67,7 @@
           <ShortCut>'⌃⌥←' or '⌃⌘←'</ShortCut>
           <Description>Back</Description>
           <Count>46</Count>
-          <Hit>28365</Hit>
+          <Hit>28774</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Build Project">
@@ -76,7 +76,7 @@
           <ShortCut>'⌃F9'</ShortCut>
           <Description>Build Project</Description>
           <Count>12</Count>
-          <Hit>1119</Hit>
+          <Hit>1124</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Clear Bookmark">
@@ -110,7 +110,7 @@
           <ShortCut>'⌃⌥⌘E'</ShortCut>
           <Description>Commit File...</Description>
           <Count>4</Count>
-          <Hit>24</Hit>
+          <Hit>26</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Commit Message History">
@@ -118,7 +118,7 @@
           <IdeaActionID>Vcs.ShowMessageHistory</IdeaActionID>
           <ShortCut>'⌃M' or '⌃E'</ShortCut>
           <Description>Commit Message History</Description>
-          <Count>358</Count>
+          <Count>367</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit...">
@@ -127,7 +127,7 @@
           <ShortCut>'⌃⌥⇧E' or '⌃⇧⌘E'</ShortCut>
           <Description>Commit...</Description>
           <Count>17</Count>
-          <Hit>2995</Hit>
+          <Hit>3023</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Compare...">
@@ -144,7 +144,7 @@
           <ShortCut>'⌃C'</ShortCut>
           <Description>Copy</Description>
           <Count>19</Count>
-          <Hit>17509</Hit>
+          <Hit>17751</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Copy Class...">
@@ -153,7 +153,7 @@
           <ShortCut>'F5'</ShortCut>
           <Description>Copy Class...</Description>
           <Count>1</Count>
-          <Hit>38</Hit>
+          <Hit>39</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Copy Path">
@@ -170,7 +170,7 @@
           <ShortCut>'⌃⌥⇧C'</ShortCut>
           <Description>Copy Reference</Description>
           <Count>20</Count>
-          <Hit>138</Hit>
+          <Hit>139</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Copy Relative Path">
@@ -195,7 +195,7 @@
           <ShortCut>'⌃C' or '⌘C'</ShortCut>
           <Description>Copy Value</Description>
           <Count>8</Count>
-          <Hit>110</Hit>
+          <Hit>111</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Copy...">
@@ -212,7 +212,7 @@
           <ShortCut>'⌃X' or '⇧⌦' or '⌘X'</ShortCut>
           <Description>Cut</Description>
           <Count>2</Count>
-          <Hit>3455</Hit>
+          <Hit>3504</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Data Source Properties">
@@ -228,8 +228,8 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌥5' or '⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>360</Count>
-          <Hit>143</Hit>
+          <Count>384</Count>
+          <Hit>144</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'DateUtil.main()'">
@@ -430,7 +430,7 @@
           <ShortCut>'⌦'</ShortCut>
           <Description>Delete</Description>
           <Count>9</Count>
-          <Hit>93</Hit>
+          <Hit>112</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Delete Bookmark">
@@ -446,7 +446,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦'</ShortCut>
           <Description>Delete...</Description>
-          <Count>11</Count>
+          <Count>18</Count>
         </Item>
       </Statistic>
       <Statistic Action="Drop">
@@ -479,7 +479,7 @@
           <ShortCut>'⌥F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
           <Count>3</Count>
-          <Hit>230</Hit>
+          <Hit>233</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Execute">
@@ -506,7 +506,7 @@
           <ShortCut>'⌃⌥M'</ShortCut>
           <Description>Extract Method...</Description>
           <Count>1</Count>
-          <Hit>445</Hit>
+          <Hit>459</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Favorites">
@@ -524,7 +524,7 @@
           <ShortCut>'⌃⌥F'</ShortCut>
           <Description>File Structure</Description>
           <Count>2</Count>
-          <Hit>921</Hit>
+          <Hit>922</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Find">
@@ -550,7 +550,7 @@
           <ShortCut>'⌃⇧F'</ShortCut>
           <Description>Find in Files...</Description>
           <Count>1</Count>
-          <Hit>366</Hit>
+          <Hit>401</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Force Run to Cursor">
@@ -583,7 +583,7 @@
           <ShortCut>'⌃⌥→' or '⌃⌘→'</ShortCut>
           <Description>Forward</Description>
           <Count>19</Count>
-          <Hit>443</Hit>
+          <Hit>451</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Generate...">
@@ -610,7 +610,7 @@
           <ShortCut>'⌘+9'</ShortCut>
           <Description>Git</Description>
           <Count>1</Count>
-          <Hit>180</Hit>
+          <Hit>181</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Go to Declaration or Usages">
@@ -618,8 +618,8 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌃B'</ShortCut>
           <Description>Go to Declaration or Usages</Description>
-          <Count>17968</Count>
-          <Hit>11669</Hit>
+          <Count>18282</Count>
+          <Hit>11787</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Go to Implementation(s)">
@@ -628,7 +628,7 @@
           <ShortCut>'⌃⌥B' or '⌃⌘B'</ShortCut>
           <Description>Go to Implementation(s)</Description>
           <Count>4</Count>
-          <Hit>11266</Hit>
+          <Hit>11420</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Go to Type Declaration">
@@ -645,7 +645,7 @@
           <ShortCut>'⌃⇧F12'</ShortCut>
           <Description>Hide All Windows</Description>
           <Count>3</Count>
-          <Hit>1830</Hit>
+          <Hit>1851</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Implementation(s)">
@@ -679,7 +679,7 @@
           <ShortCut>'⌃⌥N'</ShortCut>
           <Description>Inline...</Description>
           <Count>3</Count>
-          <Hit>8</Hit>
+          <Hit>9</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Introduce Constant...">
@@ -723,7 +723,7 @@
           <ShortCut>'⌃⌥⇧O'</ShortCut>
           <Description>Manage Projects...</Description>
           <Count>1</Count>
-          <Hit>269</Hit>
+          <Hit>284</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Mark Object...">
@@ -805,7 +805,7 @@
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Mute Breakpoints</Description>
           <Count>90</Count>
-          <Hit>199</Hit>
+          <Hit>200</Hit>
         </Item>
       </Statistic>
       <Statistic Action="MyBatis Log Plugin">
@@ -846,7 +846,7 @@
           <ShortCut>'⌃⇧O'</ShortCut>
           <Description>Open...</Description>
           <Count>4</Count>
-          <Hit>21</Hit>
+          <Hit>23</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Optimize Imports">
@@ -855,7 +855,7 @@
           <ShortCut>'⌃⌥O'</ShortCut>
           <Description>Optimize Imports</Description>
           <Count>1</Count>
-          <Hit>271</Hit>
+          <Hit>293</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Paste">
@@ -864,7 +864,7 @@
           <ShortCut>'⌃V' or '⌘V'</ShortCut>
           <Description>Paste</Description>
           <Count>11</Count>
-          <Hit>17271</Hit>
+          <Hit>17579</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Paste without Formatting">
@@ -896,8 +896,8 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>532</Count>
-          <Hit>332</Hit>
+          <Count>546</Count>
+          <Hit>336</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -923,7 +923,7 @@
           <ShortCut>'⌃⇧K' or '⌃⌥⇧R'</ShortCut>
           <Description>Push...</Description>
           <Count>3</Count>
-          <Hit>926</Hit>
+          <Hit>941</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Quick Evaluate Expression">
@@ -931,7 +931,7 @@
           <IdeaActionID>QuickEvaluateExpression</IdeaActionID>
           <ShortCut>'⌃⌥F8'</ShortCut>
           <Description>Quick Evaluate Expression</Description>
-          <Count>149</Count>
+          <Count>155</Count>
           <Hit>3</Hit>
         </Item>
       </Statistic>
@@ -984,6 +984,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rebel Debug 'GatewayApplication'">
+        <Item>
+          <IdeaActionID>JRebel Debug</IdeaActionID>
+          <ShortCut>'⌃⌥⇧F9'</ShortCut>
+          <Description>Rebel Debug 'GatewayApplication'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rebel Debug 'HelloApplication'">
         <Item>
           <IdeaActionID>JRebel Debug</IdeaActionID>
@@ -998,7 +1006,7 @@
           <IdeaActionID>JRebel Debug</IdeaActionID>
           <ShortCut>'⌃⌥⇧F9'</ShortCut>
           <Description>Rebel Debug 'MallApplication'</Description>
-          <Count>1107</Count>
+          <Count>1114</Count>
           <Hit>8</Hit>
         </Item>
       </Statistic>
@@ -1007,7 +1015,7 @@
           <IdeaActionID>JRebel Debug</IdeaActionID>
           <ShortCut>'⌃⌥⇧F9'</ShortCut>
           <Description>Rebel Debug 'MallOrderWebApplication'</Description>
-          <Count>175</Count>
+          <Count>178</Count>
           <Hit>1</Hit>
         </Item>
       </Statistic>
@@ -1097,7 +1105,7 @@
           <ShortCut>'⌃E'</ShortCut>
           <Description>Recent Files</Description>
           <Count>1</Count>
-          <Hit>1920</Hit>
+          <Hit>1926</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Recompile 'GuavaExample.java'">
@@ -1114,7 +1122,7 @@
           <ShortCut>'⌃⌥L' or '⌃⌘L'</ShortCut>
           <Description>Reformat Code</Description>
           <Count>1</Count>
-          <Hit>2767</Hit>
+          <Hit>2803</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Refresh">
@@ -1131,6 +1139,7 @@
           <ShortCut>'⌦'</ShortCut>
           <Description>Remove Module</Description>
           <Count>2</Count>
+          <Hit>2</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Remove Watch">
@@ -1155,7 +1164,7 @@
           <ShortCut>'⇧F6'</ShortCut>
           <Description>Rename...</Description>
           <Count>6</Count>
-          <Hit>1376</Hit>
+          <Hit>1384</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Replace in Path...">
@@ -1173,7 +1182,7 @@
           <ShortCut>'⌃⌥/' or '⌃\'</ShortCut>
           <Description>Request Service</Description>
           <Count>1</Count>
-          <Hit>452</Hit>
+          <Hit>492</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'DeliverymanServiceManageApplication'">
@@ -1190,6 +1199,14 @@
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'MallApplication'</Description>
           <Count>12</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'MsDinnersApplication'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'MsDinnersApplication'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'OrderServiceManageApplication'">
@@ -1229,8 +1246,8 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>2350</Count>
-          <Hit>5888</Hit>
+          <Count>2352</Count>
+          <Hit>5902</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1255,7 +1272,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌥4'</ShortCut>
           <Description>Run</Description>
-          <Count>304</Count>
+          <Count>388</Count>
           <Hit>35</Hit>
         </Item>
       </Statistic>
@@ -1900,7 +1917,7 @@
           <ShortCut>'⌥⌦' or '⌘⌫'</ShortCut>
           <Description>Safe Delete...</Description>
           <Count>1</Count>
-          <Hit>55</Hit>
+          <Hit>59</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Select Opened File (⌥F1, 1)">
@@ -1925,7 +1942,7 @@
           <IdeaActionID>ActivateServicesToolWindow</IdeaActionID>
           <ShortCut>'⌥8'</ShortCut>
           <Description>Services</Description>
-          <Count>8</Count>
+          <Count>26</Count>
         </Item>
       </Statistic>
       <Statistic Action="Set Value...">
@@ -1942,7 +1959,7 @@
           <ShortCut>'⌥⏎' or '⌘⏎'</ShortCut>
           <Description>Show Context Actions</Description>
           <Count>6</Count>
-          <Hit>2200</Hit>
+          <Hit>2247</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Show Diagram Popup...">
@@ -1978,7 +1995,7 @@
           <ShortCut>'⌃⌥⇧H' or '⌃⇧⌘H'</ShortCut>
           <Description>Show History</Description>
           <Count>25</Count>
-          <Hit>745</Hit>
+          <Hit>748</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Show Services Tree">
@@ -2004,7 +2021,7 @@
           <ShortCut>'⇧F8'</ShortCut>
           <Description>Step Out</Description>
           <Count>2</Count>
-          <Hit>1</Hit>
+          <Hit>2</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Stop">
@@ -2012,7 +2029,7 @@
           <IdeaActionID>RunDashboard.Stop</IdeaActionID>
           <ShortCut>'⌃F2'</ShortCut>
           <Description>Stop</Description>
-          <Count>5</Count>
+          <Count>116</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'CeShiTest.user (1)'">
@@ -2054,6 +2071,14 @@
           <ShortCut>'⌃F2'</ShortCut>
           <Description>Stop 'ErrorCodeDemoApplicationTests.testThrowingCustomException'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'GatewayApplication'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌃F2'</ShortCut>
+          <Description>Stop 'GatewayApplication'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'HelloApplication'">
@@ -2102,7 +2127,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌃F2'</ShortCut>
           <Description>Stop 'MallApplication'</Description>
-          <Count>3917</Count>
+          <Count>3940</Count>
           <Hit>15</Hit>
         </Item>
       </Statistic>
@@ -2111,7 +2136,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌃F2'</ShortCut>
           <Description>Stop 'MallOrderWebApplication'</Description>
-          <Count>395</Count>
+          <Count>398</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'MemberBeanControllerTest.tests'">
@@ -2130,6 +2155,22 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'MsDinnersApplication'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌃F2'</ShortCut>
+          <Description>Stop 'MsDinnersApplication'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Oauth2ServerApplication'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌃F2'</ShortCut>
+          <Description>Stop 'Oauth2ServerApplication'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'ObjectUtil'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -2145,6 +2186,14 @@
           <Description>Stop 'OrderServiceManageApplication'</Description>
           <Count>236</Count>
           <Hit>3</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'RegistryApplication'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌃F2'</ShortCut>
+          <Description>Stop 'RegistryApplication'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'RestaurantServiceManageApplication'">
@@ -2282,7 +2331,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌃F2'</ShortCut>
           <Description>Stop...</Description>
-          <Count>79</Count>
+          <Count>103</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">
@@ -2323,7 +2372,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>7</Count>
+          <Count>8</Count>
           <Hit>258</Hit>
         </Item>
       </Statistic>
@@ -2349,7 +2398,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌃F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>3311</Count>
+          <Count>3327</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate">
@@ -2358,7 +2407,7 @@
           <ShortCut>'⌃⌘U'</ShortCut>
           <Description>Translate</Description>
           <Count>2</Count>
-          <Hit>1163</Hit>
+          <Hit>1174</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
@@ -2407,7 +2456,7 @@
           <ShortCut>'⌃T'</ShortCut>
           <Description>Update Project...</Description>
           <Count>38</Count>
-          <Hit>10</Hit>
+          <Hit>11</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Variable...">
@@ -2431,7 +2480,7 @@
           <IdeaActionID>ViewBreakpoints</IdeaActionID>
           <ShortCut>'⌃⇧F8'</ShortCut>
           <Description>View Breakpoints...</Description>
-          <Count>203</Count>
+          <Count>204</Count>
           <Hit>14</Hit>
         </Item>
       </Statistic>

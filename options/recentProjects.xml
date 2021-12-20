@@ -85,39 +85,75 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="/Users/IdeaProjects/mall-order">
+        <entry key="/Users/IdeaProjects/Learn_demo/ms-dinners">
           <value>
-            <RecentProjectMetaInfo frameTitle="mall-order – ApiOrderNameController.java [mall-order-web]" projectWorkspaceId="1fZM4pv5jTUidP8Sko7trW1TQAi">
+            <RecentProjectMetaInfo frameTitle="ms-dinners – HELP.md" projectWorkspaceId="22Dl3B73zm9vxSVCp7XnmYtfuYN">
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="IU-212.5457.46" />
-              <option name="buildTimestamp" value="1634044811877" />
-              <frame x="0" y="25" width="1440" height="875" extendedState="6" />
+              <option name="buildTimestamp" value="1634044845761" />
+              <frame x="-272" y="-1055" width="1920" height="1055" extendedState="6" />
               <option name="productionCode" value="IU" />
-              <option name="projectOpenTimestamp" value="1638345348458" />
+              <option name="projectOpenTimestamp" value="1639379837049" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="/Users/IdeaProjects/GT-Plugin-Spring-Boot-Starter">
+        <entry key="$USER_HOME$/Documents/高级Redis应用进阶课 一站式Redis解决方案/资料">
           <value>
-            <RecentProjectMetaInfo frameTitle="gt-plugin-starter – gt-plugin-sdk-mess-hall-api/…/…/application.yml [gt-plugin-sdk-mess-hall-api]" projectWorkspaceId="1chtiJgmYZIKQwW7P3z6rcisYVe">
+            <RecentProjectMetaInfo frameTitle="资料 – pom.xml (commons)" projectWorkspaceId="22DhgqnEsMEQ1CnuqtWrPyftp5K">
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="IU-213.5744.223" />
-              <option name="buildTimestamp" value="1638010628547" />
+              <option name="build" value="IU-212.5457.46" />
+              <option name="buildTimestamp" value="1634044845761" />
+              <frame x="-272" y="-1055" width="1920" height="1055" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1639451473732" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="/Users/IdeaProjects/Learn_demo/redis-dinner">
+          <value>
+            <RecentProjectMetaInfo frameTitle="redis-dinner – FollowController.java [ms-follow]" projectWorkspaceId="22Djsru6P1Xp8Uq3jpTcWlXkWIF">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-212.5457.46" />
+              <option name="buildTimestamp" value="1634044817286" />
+              <frame x="0" y="25" width="1440" height="875" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1639964131926" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="/Users/IdeaProjects/mall-order">
+          <value>
+            <RecentProjectMetaInfo frameTitle="mall-order – MallOrderExpressDAO.xml [mall-order-dao]" projectWorkspaceId="1fZM4pv5jTUidP8Sko7trW1TQAi">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-212.5457.46" />
+              <option name="buildTimestamp" value="1634044817286" />
               <frame x="0" y="25" width="1440" height="875" extendedState="6" />
               <option name="productionCode" value="IU" />
-              <option name="projectOpenTimestamp" value="1638935343507" />
+              <option name="projectOpenTimestamp" value="1639790716101" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
         <entry key="/Users/IdeaProjects/Mall_new_eticket">
           <value>
-            <RecentProjectMetaInfo frameTitle="Mall_new_eticket – ~/Library/Application Support/JetBrains/IntelliJIdea2021.2/idea.vmoptions" opened="true" projectWorkspaceId="1chSFiCk9OirJaIImO0yQaTVhLT">
+            <RecentProjectMetaInfo frameTitle="Mall_new_eticket – ComMallTakeTheirServiceImpl.java [mall-service-common]" opened="true" projectWorkspaceId="1chSFiCk9OirJaIImO0yQaTVhLT">
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="IU-212.5457.46" />
-              <option name="buildTimestamp" value="1634044845761" />
-              <frame x="-61" y="-1015" width="1440" height="875" extendedState="6" />
+              <option name="buildTimestamp" value="1634044817286" />
+              <frame x="-272" y="-1055" width="1920" height="1055" />
               <option name="productionCode" value="IU" />
-              <option name="projectOpenTimestamp" value="1639365554726" />
+              <option name="projectOpenTimestamp" value="1639964403422" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="/Users/IdeaProjects/GT-Plugin-Spring-Boot-Starter">
+          <value>
+            <RecentProjectMetaInfo frameTitle="gt-plugin-starter – application.yml [gt-plugin-sdk-mess-hall-api]" opened="true" projectWorkspaceId="1chtiJgmYZIKQwW7P3z6rcisYVe">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-212.5457.46" />
+              <option name="buildTimestamp" value="1634044817286" />
+              <frame x="0" y="25" width="1440" height="875" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1639964403422" />
             </RecentProjectMetaInfo>
           </value>
         </entry>

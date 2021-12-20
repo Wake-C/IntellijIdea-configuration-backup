@@ -18,6 +18,7 @@ Tomcat
 W3Validators
 WebSphere
 Weblogic
+com.4lex4.intellij.solarized
 com.android.tools.idea.smali
 com.biyusheng.plugins
 com.ccnode.codegenerator.MyBatisCodeHelperPro
@@ -44,11 +45,14 @@ com.vladsch.idea.multimarkdown
 com.zhaow.restful.toolkit
 hg4idea
 io.github.qeesung.component.HighlightBracketPair
+lermitage.intellij.extra.icons
+lermitage.intellij.extratci
 net.vektah.codeglance
 org.coffeescript
 org.intellij.grails
 org.jetbrains.android
 org.jetbrains.plugins.sass
 org.jetbrains.plugins.stylus
+some.awesome
 spy-js
 tslint
