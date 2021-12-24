@@ -915,6 +915,14 @@
       <item type="license" name="mongodb-license.txt" url="https://cache-redirector.jetbrains.com/download.jetbrains.com/idea/jdbc-drivers/MongoDB/mongodb-license.txt"
             md5=""/>
     </version>
+    <version version="1.13">
+      <item name="mongo-jdbc-standalone-1.13.jar"
+            url="https://cache-redirector.jetbrains.com/download.jetbrains.com/idea/jdbc-drivers/MongoDB/1.13/mongo-jdbc-standalone-1.13.jar"
+            md5=""/>
+      <item type="license" name="mongodb-license.txt"
+            url="https://cache-redirector.jetbrains.com/download.jetbrains.com/idea/jdbc-drivers/MongoDB/mongodb-license.txt"
+            md5=""/>
+    </version>
   </artifact>
   <artifact name="Couchbase">
     <version version="0.4">

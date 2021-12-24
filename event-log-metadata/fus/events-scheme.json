@@ -183,7 +183,7 @@
         "balloon_id" : [ "{enum#__balloon_id}" ]
       },
       "enums" : {
-        "__balloon_id" : [ "cwm.telephony.text_message", "cwm.host.session.nmins_left", "cwm.telephony.participant_enabled_video", "cwm.host.permanent_link.created", "cwm.host.permanent_link.see_logs", "cwm.host.connection.version_mismatch_error", "cwm.host.permanent_link.url", "cwm.host.action.getjoinlink.link_copied", "cwm.permissions.accept_deny", "cwm.host.action.сopyjoinlink.link_copied", "cwm.following.started", "cwm.host.terminal.shared.status", "cwm.host.connection.user_left", "cwm.telephony.customize_audio_video_settings", "cwm.host.connection.user_joined", "cwm.following.request", "cwm.guest.telephony.voice_chat_enabled" ]
+        "__balloon_id" : [ "cwm.telephony.text_message", "cwm.host.session.nmins_left", "cwm.telephony.participant_enabled_video", "cwm.host.connection.version_mismatch_error", "cwm.host.action.getjoinlink.link_copied", "cwm.permissions.accept_decline", "cwm.host.action.copyjoinlink.link_copied", "cwm.following.started", "cwm.host.terminal.shared.status", "cwm.host.connection.user_left", "cwm.telephony.customize_audio_video_settings", "cwm.host.connection.user_joined", "cwm.following.request", "cwm.guest.telephony.voice_chat_enabled", "cwm.guest.following.stopped" ]
       }
     }
   }, {
@@ -907,7 +907,7 @@
       "event_id" : [ "{enum#__event_id}" ],
       "event_data" : {
         "client_id" : [ "{regexp#hash}" ],
-        "connectionType" : [ "{enum:ws_relay|p2p_quic|direct_tcp|unknown}" ],
+        "connectionType" : [ "{enum:ws_relay|p2p_quic|direct_tcp|unknown}", "{enum:turn_relay_quic}" ],
         "disconnectsCount" : [ "{regexp#integer}" ],
         "guestsCount" : [ "{regexp#integer}" ],
         "id" : [ "{regexp#integer}" ],
@@ -1341,7 +1341,11 @@
       "from" : "1"
     } ],
     "rules" : {
-      "event_id" : [ "{enum:typed|too.many.events}" ]
+      "event_id" : [ "{enum:typed|too.many.events}" ],
+      "event_data" : {
+        "editor_kind" : [ "{enum:UNTYPED|MAIN_EDITOR|CONSOLE|PREVIEW|DIFF}" ],
+        "toolwindow_id" : [ "{util#toolwindow}" ]
+      }
     }
   }, {
     "id" : "educational.counters",
@@ -3481,6 +3485,11 @@
         "package_id" : [ "{util#top_package_id}" ],
         "package_is_installed" : [ "{enum#boolean}" ],
         "package_version" : [ "{regexp#version}" ],
+        "preferences_auto_add_repositories" : [ "{enum#boolean}" ],
+        "preferences_default_gradle_scope_changed" : [ "{enum#boolean}" ],
+        "preferences_default_maven_scope_changed" : [ "{enum#boolean}" ],
+        "preferences_gradle_scopes_count" : [ "{regexp#integer}" ],
+        "preferences_update_scopes_on_usage" : [ "{enum#boolean}" ],
         "repository_id" : [ "{enum:OTHER|NONE|MAVEN_CENTRAL|GOOGLE_MAVEN|JETBRAINS_REPOS}", "{enum:CLOJARS}" ],
         "repository_url" : [ "{enum:https://repo.maven.apache.org/maven2/|https://maven-central.storage-download.googleapis.com/maven2|https://repo1.maven.org/maven2/|https://maven.google.com/|https://maven.pkg.jetbrains.space/kotlin/p/dokka/dev/|https://maven.pkg.jetbrains.space/public/p/compose/dev/|https://maven.pkg.jetbrains.space/public/p/ktor/eap/|https://maven.pkg.jetbrains.space/public/p/space/maven/}", "{enum:https://repo.clojars.org/}" ],
         "repository_uses_custom_url" : [ "{enum#boolean}" ],
@@ -6441,5 +6450,5 @@
       "version" : "Unknown|unknown.format|unknown|UNKNOWN|((\\d+\\.?)*\\d+)"
     }
   },
-  "version" : "2274"
+  "version" : "2284"
 }

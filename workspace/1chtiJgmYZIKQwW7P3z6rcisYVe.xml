@@ -24,7 +24,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/gt-plugin-sdk-parent/gt-plugin-sdk-mess-hall-api/src/main/java/com/duofriend/plugin/sdk/mess/hall/api/MessHallApi.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="607">
+            <state relative-caret-position="408">
               <caret line="162" column="29" selection-start-line="162" selection-start-column="29" selection-end-line="162" selection-end-column="29" />
             </state>
           </provider>
@@ -638,9 +638,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17994791" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23993056" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="JRebel" order="3" side_tool="true" />
@@ -657,7 +656,7 @@
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Analysis" order="2" />
       <window_info anchor="bottom" id="Find" order="3" />
-      <window_info anchor="bottom" id="Run" order="4" visible="true" weight="0.2876777" />
+      <window_info anchor="bottom" id="Run" order="4" weight="0.34685713" />
       <window_info anchor="bottom" id="Debug" order="5" weight="0.39714286" />
       <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
@@ -807,35 +806,35 @@
       <screen x="1440" y="-109" width="1920" height="1055" />
     </state>
     <state x="1823" y="55" key="DiffContextDialog/0.25.1440.875/1440.-109.1920.1055@1440.-109.1920.1055" timestamp="1635408911610" />
-    <state width="1874" height="275" key="GridCell.Tab.0.bottom" timestamp="1639965534635">
-      <screen x="-272" y="-1055" width="1920" height="1055" />
+    <state width="1394" height="275" key="GridCell.Tab.0.bottom" timestamp="1639980631675">
+      <screen x="0" y="25" width="1440" height="875" />
     </state>
     <state width="1874" height="275" key="GridCell.Tab.0.bottom/0.25.1440.875/-272.-1055.1920.1055@-272.-1055.1920.1055" timestamp="1639965534635" />
-    <state width="1394" height="193" key="GridCell.Tab.0.bottom/0.25.1440.875/-272.-1055.1920.1055@0.25.1440.875" timestamp="1639965083091" />
+    <state width="1394" height="275" key="GridCell.Tab.0.bottom/0.25.1440.875/-272.-1055.1920.1055@0.25.1440.875" timestamp="1639980631675" />
     <state width="1394" height="377" key="GridCell.Tab.0.bottom/0.25.1440.875/1440.-109.1920.1055@0.25.1440.875" timestamp="1635390120308" />
     <state width="1874" height="377" key="GridCell.Tab.0.bottom/0.25.1440.875/1440.-109.1920.1055@1440.-109.1920.1055" timestamp="1635739088458" />
     <state width="1394" height="308" key="GridCell.Tab.0.bottom/0.25.1440.875@0.25.1440.875" timestamp="1638930022108" />
-    <state width="1874" height="275" key="GridCell.Tab.0.center" timestamp="1639965534634">
-      <screen x="-272" y="-1055" width="1920" height="1055" />
+    <state width="1394" height="275" key="GridCell.Tab.0.center" timestamp="1639980631675">
+      <screen x="0" y="25" width="1440" height="875" />
     </state>
     <state width="1874" height="275" key="GridCell.Tab.0.center/0.25.1440.875/-272.-1055.1920.1055@-272.-1055.1920.1055" timestamp="1639965534634" />
-    <state width="1394" height="193" key="GridCell.Tab.0.center/0.25.1440.875/-272.-1055.1920.1055@0.25.1440.875" timestamp="1639965083078" />
+    <state width="1394" height="275" key="GridCell.Tab.0.center/0.25.1440.875/-272.-1055.1920.1055@0.25.1440.875" timestamp="1639980631675" />
     <state width="1394" height="377" key="GridCell.Tab.0.center/0.25.1440.875/1440.-109.1920.1055@0.25.1440.875" timestamp="1635390120272" />
     <state width="1874" height="377" key="GridCell.Tab.0.center/0.25.1440.875/1440.-109.1920.1055@1440.-109.1920.1055" timestamp="1635739088458" />
     <state width="1394" height="308" key="GridCell.Tab.0.center/0.25.1440.875@0.25.1440.875" timestamp="1638930022107" />
-    <state width="1874" height="275" key="GridCell.Tab.0.left" timestamp="1639965534634">
-      <screen x="-272" y="-1055" width="1920" height="1055" />
+    <state width="1394" height="275" key="GridCell.Tab.0.left" timestamp="1639980631674">
+      <screen x="0" y="25" width="1440" height="875" />
     </state>
     <state width="1874" height="275" key="GridCell.Tab.0.left/0.25.1440.875/-272.-1055.1920.1055@-272.-1055.1920.1055" timestamp="1639965534634" />
-    <state width="1394" height="193" key="GridCell.Tab.0.left/0.25.1440.875/-272.-1055.1920.1055@0.25.1440.875" timestamp="1639965083032" />
+    <state width="1394" height="275" key="GridCell.Tab.0.left/0.25.1440.875/-272.-1055.1920.1055@0.25.1440.875" timestamp="1639980631674" />
     <state width="1394" height="377" key="GridCell.Tab.0.left/0.25.1440.875/1440.-109.1920.1055@0.25.1440.875" timestamp="1635390120260" />
     <state width="1874" height="377" key="GridCell.Tab.0.left/0.25.1440.875/1440.-109.1920.1055@1440.-109.1920.1055" timestamp="1635739088457" />
     <state width="1394" height="308" key="GridCell.Tab.0.left/0.25.1440.875@0.25.1440.875" timestamp="1638930022107" />
-    <state width="1874" height="275" key="GridCell.Tab.0.right" timestamp="1639965534635">
-      <screen x="-272" y="-1055" width="1920" height="1055" />
+    <state width="1394" height="275" key="GridCell.Tab.0.right" timestamp="1639980631675">
+      <screen x="0" y="25" width="1440" height="875" />
     </state>
     <state width="1874" height="275" key="GridCell.Tab.0.right/0.25.1440.875/-272.-1055.1920.1055@-272.-1055.1920.1055" timestamp="1639965534635" />
-    <state width="1394" height="193" key="GridCell.Tab.0.right/0.25.1440.875/-272.-1055.1920.1055@0.25.1440.875" timestamp="1639965083090" />
+    <state width="1394" height="275" key="GridCell.Tab.0.right/0.25.1440.875/-272.-1055.1920.1055@0.25.1440.875" timestamp="1639980631675" />
     <state width="1394" height="377" key="GridCell.Tab.0.right/0.25.1440.875/1440.-109.1920.1055@0.25.1440.875" timestamp="1635390120275" />
     <state width="1874" height="377" key="GridCell.Tab.0.right/0.25.1440.875/1440.-109.1920.1055@1440.-109.1920.1055" timestamp="1635739088458" />
     <state width="1394" height="308" key="GridCell.Tab.0.right/0.25.1440.875@0.25.1440.875" timestamp="1638930022107" />
@@ -1285,7 +1284,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/gt-plugin-sdk-parent/gt-plugin-sdk-mess-hall-api/src/main/java/com/duofriend/plugin/sdk/mess/hall/api/MessHallApi.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="607">
+        <state relative-caret-position="408">
           <caret line="162" column="29" selection-start-line="162" selection-start-column="29" selection-end-line="162" selection-end-column="29" />
         </state>
       </provider>
