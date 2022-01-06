@@ -109,18 +109,6 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="/Users/IdeaProjects/mall-order">
-          <value>
-            <RecentProjectMetaInfo frameTitle="mall-order – MallOrderExpressDAO.xml [mall-order-dao]" projectWorkspaceId="1fZM4pv5jTUidP8Sko7trW1TQAi">
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="IU-212.5457.46" />
-              <option name="buildTimestamp" value="1634044817286" />
-              <frame x="0" y="25" width="1440" height="875" extendedState="6" />
-              <option name="productionCode" value="IU" />
-              <option name="projectOpenTimestamp" value="1639790716101" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
         <entry key="/Users/IdeaProjects/GT-Plugin-Spring-Boot-Starter">
           <value>
             <RecentProjectMetaInfo frameTitle="gt-plugin-starter – MessHallApi.java [gt-plugin-sdk-mess-hall-api]" projectWorkspaceId="1chtiJgmYZIKQwW7P3z6rcisYVe">
@@ -133,27 +121,39 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="/Users/IdeaProjects/Mall_new_eticket">
+        <entry key="/Users/IdeaProjects/Learn_demo/redis-dinner">
           <value>
-            <RecentProjectMetaInfo frameTitle="Mall_new_eticket – UnifyOrderController.java [mall-web-uc]" projectWorkspaceId="1chSFiCk9OirJaIImO0yQaTVhLT">
+            <RecentProjectMetaInfo frameTitle="redis-dinner – RestaurantService.java [ms-restaurant]" projectWorkspaceId="22Djsru6P1Xp8Uq3jpTcWlXkWIF">
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="IU-212.5457.46" />
-              <option name="buildTimestamp" value="1634044843176" />
-              <frame x="0" y="25" width="1440" height="875" extendedState="6" />
+              <option name="buildTimestamp" value="1634044833311" />
+              <frame x="-272" y="-1055" width="1920" height="1055" />
               <option name="productionCode" value="IU" />
-              <option name="projectOpenTimestamp" value="1640307977718" />
+              <option name="projectOpenTimestamp" value="1640771397357" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="/Users/IdeaProjects/Learn_demo/redis-dinner">
+        <entry key="/Users/IdeaProjects/Mall_new_eticket">
           <value>
-            <RecentProjectMetaInfo frameTitle="redis-dinner – SignService.java [ms-dinners]" opened="true" projectWorkspaceId="22Djsru6P1Xp8Uq3jpTcWlXkWIF">
+            <RecentProjectMetaInfo frameTitle="Mall_new_eticket – UnifyEticketServiceImpl.java [mall-service-uc]" projectWorkspaceId="1chSFiCk9OirJaIImO0yQaTVhLT">
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="IU-212.5457.46" />
-              <option name="buildTimestamp" value="1634044843176" />
-              <frame x="0" y="25" width="1440" height="875" />
+              <option name="buildTimestamp" value="1634044814313" />
+              <frame x="0" y="205" width="1440" height="875" extendedState="6" />
               <option name="productionCode" value="IU" />
-              <option name="projectOpenTimestamp" value="1640310343156" />
+              <option name="projectOpenTimestamp" value="1641435628216" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="/Users/IdeaProjects/mall-order">
+          <value>
+            <RecentProjectMetaInfo frameTitle="mall-order – ComOrderExpressServiceImpl.java [mall-order-service]" opened="true" projectWorkspaceId="1fZM4pv5jTUidP8Sko7trW1TQAi">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-212.5457.46" />
+              <option name="buildTimestamp" value="1634044814313" />
+              <frame x="-272" y="-1055" width="1920" height="1055" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1641441962826" />
             </RecentProjectMetaInfo>
           </value>
         </entry>

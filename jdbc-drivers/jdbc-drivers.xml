@@ -1074,6 +1074,12 @@
     </version>
   </artifact>
 
+  <artifact name="YugabyteDB">
+    <version version="42.3.0">
+      <item type="maven" url="com.yugabyte:jdbc-yugabytedb:42.3.0"/>
+    </version>
+  </artifact>
+
   <artifact name="Informix">
     <version version="4.10">
       <item url="https://cache-redirector.jetbrains.com/download.jetbrains.com/idea/jdbc-drivers/Informix/ifxjdbc.jar"/>

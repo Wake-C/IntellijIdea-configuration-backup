@@ -2061,6 +2061,34 @@
       }
     }
   }, {
+    "id" : "grazie.pro.count",
+    "builds" : [ ],
+    "versions" : [ {
+      "from" : "1"
+    } ],
+    "rules" : {
+      "event_id" : [ "{enum:completion.shown|completion.accepted}" ]
+    }
+  }, {
+    "id" : "grazie.pro.state",
+    "builds" : [ ],
+    "versions" : [ {
+      "from" : "1"
+    } ],
+    "rules" : {
+      "event_id" : [ "{enum#__event_id}" ],
+      "event_data" : {
+        "enabled" : [ "{enum#boolean}" ],
+        "enter_add_newlines" : [ "{enum#boolean}" ],
+        "type" : [ "{enum:LOCAL|CLOUD}", "{enum:DISABLED|INLAY|POPUP}" ],
+        "whitespace_after_enter" : [ "{enum#boolean}" ],
+        "whitespace_after_tab" : [ "{enum#boolean}" ]
+      },
+      "enums" : {
+        "__event_id" : [ "settings.wrap.text", "settings.processing", "settings.honor.subphrases", "settings.highlight.pos", "settings.completion" ]
+      }
+    }
+  }, {
     "id" : "grazie.state",
     "builds" : [ ],
     "versions" : [ {
@@ -6450,5 +6478,5 @@
       "version" : "Unknown|unknown.format|unknown|UNKNOWN|((\\d+\\.?)*\\d+)"
     }
   },
-  "version" : "2284"
+  "version" : "2288"
 }
