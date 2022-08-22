@@ -1,0 +1,2195 @@
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/mall-service-common/src/main/java/com/gt/mall/service/common/eticket/impl/ComEticketServiceImpl.java" description=".setActType(0);" line="781" />
+    <bookmark url="file://$PROJECT_DIR$/mall-bean/src/main/java/com/gt/mall/bean/activity/input/order/BeActivityOrderCommonForm.java" line="38" />
+    <bookmark url="file://$PROJECT_DIR$/mall-entity/src/main/java/com/gt/mall/entity/product/MallProductInventory.java" description="@TableField( exist = false )//此注解排除非表中字段" line="183" />
+    <bookmark url="file://$PROJECT_DIR$/mall-service-common/src/main/java/com/gt/mall/service/common/cart/impl/ComCartUtilServiceImpl.java" description=".forEach(imte);" line="317" />
+    <bookmark url="file://$PROJECT_DIR$/mall-service-uc/src/main/java/com/gt/mall/service/unify/order/impl/UnifyOrderServiceImpl.java" line="636" />
+    <bookmark url="file://$PROJECT_DIR$/mall-bean/src/main/java/com/gt/mall/condition/ShopCardDistributeBalanceDTO.java" description="private Long invId;" line="46" />
+    <bookmark url="file://$PROJECT_DIR$/mall-bean/src/main/java/com/gt/mall/condition/ShopCardDistributeBalanceDTO.java" description="/*" line="20" />
+    <bookmark url="file://$PROJECT_DIR$/mall-bean/src/main/java/com/gt/mall/condition/ShopCardDistributeBalanceBO.java" description="* 不许传实付0商品" line="99" />
+    <bookmark url="file://$PROJECT_DIR$/mall-bean/src/main/java/com/gt/mall/dto/shopcard/ShopCardViewBO.java" description="* 箴价" line="43" />
+    <bookmark url="file://$PROJECT_DIR$/mall-service-common/src/main/java/com/gt/mall/service/common/shopcard/impl/ComShopCardUtilServiceImpl.java" description="}" line="624" />
+    <bookmark url="file://$PROJECT_DIR$/mall-service-uc/src/main/java/com/gt/mall/service/unify/order/impl/UnifyOrderServiceImpl.java" line="1106" />
+    <bookmark url="file://$PROJECT_DIR$/mall-bean/src/main/java/com/gt/mall/bean/order/uc/BeUnifyOrderSubmitBO.java" description="* 第二种支付方式   只能是微信10" line="92" />
+  </component>
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="Mall_new_eticket" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
+  <component name="DatabaseView">
+    <expand>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="gt_mall_ceshi@10.2.10.111: DSN" type="27e358d6:DataSourceNode" />
+      </path>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="gt_mall_ceshi@10.2.10.111: DSN" type="27e358d6:DataSourceNode" />
+        <item name="gt_mall_ceshi: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="gt_mall_ceshi@10.2.10.111: DSN" type="27e358d6:DataSourceNode" />
+        <item name="gt_mall_ceshi: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="Family of 514 table (host: schema gt_mall_ceshi)" type="5ae9e67d:BaseModel$BaseNamingFamily" />
+      </path>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="gt_mall_ceshi@10.2.10.111: DSN" type="27e358d6:DataSourceNode" />
+        <item name="gt_mall_ceshi: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="Family of 514 table (host: schema gt_mall_ceshi)" type="5ae9e67d:BaseModel$BaseNamingFamily" />
+        <item name="t_mall_html_from: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Mall_new_eticket" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mall-common/src/main/java/com/gt/mall/utils/ThreadPoolUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="389">
+              <caret line="27" column="40" selection-start-line="27" selection-start-column="40" selection-end-line="27" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mall-third/src/main/java/com/gt/mall/third/thread/ThreadLocalUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1323">
+              <caret line="71" column="19" selection-start-line="71" selection-start-column="19" selection-end-line="71" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mall-web-uc/src/main/java/com/gt/mall/controller/unify/order/UnifyOrderController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="500">
+              <caret line="66" column="35" selection-start-line="66" selection-start-column="35" selection-end-line="66" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mall-service-uc/src/main/java/com/gt/mall/service/unify/order/impl/UnifyOrderServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="346">
+              <caret line="2938" column="52" lean-forward="true" selection-start-line="2938" selection-start-column="52" selection-end-line="2938" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mall-web-uc/src/main/java/com/gt/mall/controller/unify/aspect/UnifyResubmit.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/../../Development/mavenRepostory/com/alibaba/transmittable-thread-local/2.11.5/transmittable-thread-local-2.11.5-sources.jar!/com/alibaba/ttl/TransmittableThreadLocal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-13672">
+              <caret line="96" column="11" selection-start-line="96" selection-start-column="11" selection-end-line="96" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/util/concurrent/ThreadPoolExecutor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="730">
+              <caret line="1302" column="11" selection-start-line="1302" selection-start-column="11" selection-end-line="1302" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/util/concurrent/ThreadFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="57" column="17" selection-start-line="57" selection-start-column="17" selection-end-line="57" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/util/concurrent/ExecutorService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2244">
+              <caret line="136" column="17" selection-start-line="136" selection-start-column="17" selection-end-line="136" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="JAVA">
+      <summary usageCount="221" lastUsed="1639030856151" />
+    </fileType>
+    <fileType name="WebPreview">
+      <summary usageCount="1" lastUsed="1638844829512" />
+    </fileType>
+    <fileType name="XML">
+      <summary usageCount="8" lastUsed="1639030856024" />
+    </fileType>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>BeFrightPricePtStyleVO</find>
+      <find>addShopCardPayInfo</find>
+      <find>(@Valid</find>
+      <find>@Aspect</find>
+      <find>wework-suite-id</find>
+      <find>@</find>
+      <find>web.crmFansUrl</find>
+      <find>java.time.LocalTime</find>
+      <find>busId</find>
+      <find>stock</find>
+      <find>36.m.deeptel.com.cn</find>
+      <find>weburl</find>
+      <find>@Size(min = 1,</find>
+      <find>IConPayStyleService</find>
+      <find>propri</find>
+      <find>log.info</find>
+      <find>storeId</find>
+      <find>m.deeptel.com.cn</find>
+      <find>@DecimalMin</find>
+      <find>implements cons</find>
+      <find>@SplitString</find>
+      <find>SplitString</find>
+      <find>mplements ConstraintV</find>
+      <find>notnull</find>
+      <find>pay</find>
+      <find>order_not_</find>
+      <find>order</find>
+      <find>@requestp</find>
+      <find>hea</find>
+      <find>setPayId(21</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>zhanbing</replace>
+      <replace>zhan</replace>
+      <replace>BigDecimal discountValue</replace>
+      <replace>BeDisCountDTO.CustomDiscountMsg</replace>
+      <replace>ShopCardDiscountPayDTO</replace>
+      <replace>TINYINT</replace>
+      <replace>Integer</replace>
+      <replace>ContentFormat().equals(0)</replace>
+      <replace>ContentFormat().equals(9)</replace>
+      <replace>9=图片</replace>
+      <replace>当contentFormat是9</replace>
+      <replace>活动</replace>
+      <replace>zhan bing</replace>
+      <replace>t_mall_shop_card_gift_money_product</replace>
+      <replace>MallShopCardGiftMoneyProduct</replace>
+      <replace>t_mall_shop_card_gift_money_store</replace>
+      <replace>t_mall_shop_card_gift_money_inventory</replace>
+      <replace>MallShopCardGiftMoneyInventory</replace>
+      <replace>MallShopCardGiftMoneyStore</replace>
+      <replace>return</replace>
+      <replace>t_mall_bargain_classification_styles</replace>
+      <replace>MallBargainClassificationStyles</replace>
+      <replace>PCBargainClassificationStyleBO</replace>
+      <replace>FreightSet</replace>
+      <replace>memberAddressInSpecialRange</replace>
+      <replace>useMsg = String.format(&quot;%s至%s&quot;,</replace>
+      <replace>ShopCardDistributeBalanceDTO.DistributeDTO</replace>
+      <replace>ShopCardDistributeBalanceBO.ProductBO</replace>
+      <replace>com.gt.mall.condition.ShopCardDistributeBalanceBO.FreightBO</replace>
+      <replace>DistributeBalanceBO.FreightBO</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/mall-bean/src/main/java/com/gt/mall/bean/order/uc</dir>
+      <dir>$PROJECT_DIR$/mall-service-common/src/main/java/com/gt/mall/service/common/eticket/impl</dir>
+      <dir>$PROJECT_DIR$/mall-bean/src/main/java/com/gt/mall/bean/freight</dir>
+      <dir>$PROJECT_DIR$/mall-web-uc/src/main/java/com/gt/mall/controller/unify/order</dir>
+      <dir>$PROJECT_DIR$/mall-service-common/src/main/java/com/gt/mall/service/common/supporter/community</dir>
+      <dir>$PROJECT_DIR$/mall-bean/src/main/java/com/gt/mall/bean/product</dir>
+      <dir>$PROJECT_DIR$/mall-third/src/main/java/com/gt/mall/third/thread</dir>
+      <dir>$PROJECT_DIR$/mall-common/src/main/java/com/gt/mall/apollo</dir>
+      <dir>$PROJECT_DIR$/mall-common/src/main/java/com/gt/mall/apollo/web</dir>
+      <dir>$PROJECT_DIR$</dir>
+      <dir>$PROJECT_DIR$/mall-web/src/test/java/com/gt/mall</dir>
+      <dir>$PROJECT_DIR$/mall-web/src/main/java/com/gt/mall/config/execption</dir>
+      <dir>$PROJECT_DIR$/mall-bean/src/main/java/com/gt/mall/vo/freight</dir>
+      <dir>$PROJECT_DIR$/mall-web/src/main/java/com/gt/mall</dir>
+      <dir>$PROJECT_DIR$/mall-service-common/src/main/java/com/gt/mall/service/common/address/impl</dir>
+      <dir>$PROJECT_DIR$/mall-common/src/main/java/com/gt/mall/utils</dir>
+      <dir>$PROJECT_DIR$/mall-service-common/src/main/java/com/gt/mall/service/common/cart/impl</dir>
+      <dir>$PROJECT_DIR$/mall-service-common/src/main/java/com/gt/mall/service/common/freight/impl</dir>
+      <dir>$PROJECT_DIR$/mall-service-uc/src/main/java/com/gt/mall/service/uc/product/impl</dir>
+      <dir>$PROJECT_DIR$/mall-service-uc/src/main/java/com/gt/mall/service/unify/eticket/impl</dir>
+      <dir>$PROJECT_DIR$/mall-bean/src/main/java/com/gt/mall/bean/order/pt</dir>
+      <dir>$PROJECT_DIR$/mall-web-api/src/main/java/com/gt/mall/controller/newapi/eticket</dir>
+      <dir>$PROJECT_DIR$/mall-web/src/main/java/com/gt/mall/config</dir>
+      <dir>$PROJECT_DIR$/mall-bean/src/main/java/com/gt/mall/vo/eticket</dir>
+      <dir>$PROJECT_DIR$/mall-service-common/src/main/java/com/gt/mall/dto/pay</dir>
+      <dir>$PROJECT_DIR$/mall-service-common/src/main/java/com/gt/mall/service/common/shopcard/impl</dir>
+      <dir>$PROJECT_DIR$/mall-service-uc/src/main/java/com/gt/mall/service/unify/order/impl</dir>
+      <dir>$PROJECT_DIR$/mall-common/src/main/java/com/gt/mall/utils/annotation</dir>
+      <dir>$PROJECT_DIR$/mall-common/src/main/java/com/gt/mall/utils/annotation/constraint</dir>
+      <dir>$PROJECT_DIR$/mall-service-common/src/main/java/com/gt/mall/service/common/payset/impl</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/mall-service-uc/src/main/java/com/gt/mall/service/uc/product/impl/UcEticketOrderServiceImpl.java" />
+      <option value="$PROJECT_DIR$/mall-service-uc/src/main/java/com/gt/mall/service/unify/order/impl/UnifyExchangeEticketOrderServiceImpl.java" />
+      <option value="$PROJECT_DIR$/mall-service-uc/src/main/java/com/gt/mall/service/unify/eticket/impl/EticketApiServiceImpl.java" />
+      <option value="$PROJECT_DIR$/mall-service-pc/src/main/java/com/gt/mall/service/pc/product/impl/ClientEticketServiceImpl.java" />
+      <option value="$PROJECT_DIR$/mall-common/src/main/java/com/gt/mall/utils/SharedAmountAlgorithmUtil.java" />
+      <option value="$PROJECT_DIR$/mall-service-common/src/main/java/com/gt/mall/service/common/cart/impl/ComCartServiceImpl.java" />
+      <option value="$PROJECT_DIR$/mall-service-uc/src/main/java/com/gt/mall/service/unify/eticket/impl/UnifyEticketServiceImpl.java" />
+      <option value="$PROJECT_DIR$/pom.xml" />
+      <option value="$PROJECT_DIR$/mall-bean/src/main/java/com/gt/mall/condition/BuyInfoBO.java" />
+      <option value="$PROJECT_DIR$/mall-service-common/src/main/java/com/gt/mall/service/common/freight/impl/ComFreightUtilServiceImpl.java" />
+      <option value="$PROJECT_DIR$/mall-bean/src/main/java/com/gt/mall/condition/ShopCardDistribteBalanceBO.java" />
+      <option value="$PROJECT_DIR$/mall-bean/src/main/java/com/gt/mall/condition/UnifyEticketOrderConditionBO.java" />
+      <option value="$PROJECT_DIR$/mall-web/src/main/java/com/gt/mall/config/VerifySignatureAspect.java" />
+      <option value="$PROJECT_DIR$/mall-web-api/src/main/java/com/gt/mall/controller/newapi/eticket/MallEticketApi.java" />
+      <option value="$PROJECT_DIR$/mall-bean/src/main/java/com/gt/mall/vo/eticket/EticketInfoVO.java" />
+      <option value="$PROJECT_DIR$/mall-web-uc/src/main/java/com/gt/mall/controller/unify/order/UnifyOrderController.java" />
+      <option value="$PROJECT_DIR$/mall-bean/src/main/java/com/gt/mall/dto/shopcard/ShopCardViewDTO.java" />
+      <option value="$PROJECT_DIR$/mall-bean/src/main/java/com/gt/mall/bean/payset/ShopCardDiscountViewVO.java" />
+      <option value="$PROJECT_DIR$/mall-bean/src/main/java/com/gt/mall/bean/payset/ShopCardPayViewVO.java" />
+      <option value="$PROJECT_DIR$/mall-bean/src/main/java/com/gt/mall/condition/ShopCardDistributeBalanceBO.java" />
+      <option value="$PROJECT_DIR$/mall-bean/src/main/java/com/gt/mall/condition/ShopCardDistributeBalanceDTO.java" />
+      <option value="$PROJECT_DIR$/mall-common/src/main/java/com/gt/mall/utils/PropertiesUtil.java" />
+      <option value="$PROJECT_DIR$/mall-service-common/src/main/java/com/gt/mall/service/common/payset/impl/ComPayModSetServiceImpl.java" />
+      <option value="$PROJECT_DIR$/mall-web-uc/src/main/java/com/gt/mall/controller/unify/order/UnifyEticketOrderController.java" />
+      <option value="$PROJECT_DIR$/mall-dao/src/main/resources/mapper/product/MallProductDAO.xml" />
+      <option value="$PROJECT_DIR$/mall-bean/src/main/java/com/gt/mall/vo/shopcard/ShopCardSetVO.java" />
+      <option value="$PROJECT_DIR$/mall-bean/src/main/java/com/gt/mall/dto/shopcard/ShopCardViewBO.java" />
+      <option value="$PROJECT_DIR$/mall-web-api/src/main/java/com/gt/mall/controller/newapi/payset/ApiPaySetController.java" />
+      <option value="$PROJECT_DIR$/mall-bean/src/main/java/com/gt/mall/condition/api/ShopCardApiCondition.java" />
+      <option value="$PROJECT_DIR$/mall-bean/src/main/java/com/gt/mall/condition/ShopCardConditionBO.java" />
+      <option value="$PROJECT_DIR$/mall-service-common/src/main/java/com/gt/mall/service/common/shopcard/IComShopCardUtilService.java" />
+      <option value="$PROJECT_DIR$/mall-web-api/src/main/java/com/gt/mall/controller/newapi/eticket/ShopCardApi.java" />
+      <option value="$PROJECT_DIR$/mall-bean/src/main/java/com/gt/mall/bean/payset/BePaySetBO.java" />
+      <option value="$PROJECT_DIR$/mall-service-common/src/main/java/com/gt/mall/service/common/product/impl/ComProDuctUtilServiceImpl.java" />
+      <option value="$PROJECT_DIR$/mall-service-common/src/main/java/com/gt/mall/service/common/cart/impl/ComCartUtilServiceImpl.java" />
+      <option value="$PROJECT_DIR$/mall-service-common/src/main/java/com/gt/mall/dto/pay/PayStyleBO.java" />
+      <option value="$PROJECT_DIR$/mall-bean/src/main/java/com/gt/mall/vo/EticketSubmitOrderProductBasicVO.java" />
+      <option value="$PROJECT_DIR$/mall-service-common/src/main/java/com/gt/mall/service/common/order/IComOrderUtilService.java" />
+      <option value="$PROJECT_DIR$/mall-service-common/src/main/java/com/gt/mall/service/common/order/impl/ComOrderUtilServiceImpl.java" />
+      <option value="$PROJECT_DIR$/mall-common/src/main/java/com/gt/mall/utils/annotation/constraint/IntegerRangeValidator.java" />
+      <option value="$PROJECT_DIR$/mall-common/src/main/java/com/gt/mall/utils/annotation/IntegerRange.java" />
+      <option value="$PROJECT_DIR$/mall-bean/src/main/java/com/gt/mall/bean/order/uc/BeUnifyOrderSubmitBO.java" />
+      <option value="$PROJECT_DIR$/mall-common/src/main/java/com/gt/mall/enums/ResponseEnums.java" />
+      <option value="$PROJECT_DIR$/mall-service-common/src/main/java/com/gt/mall/service/common/payset/impl/ConPayStyleServiceImpl.java" />
+      <option value="$PROJECT_DIR$/mall-service-uc/src/main/java/com/gt/mall/service/unify/eticket/impl/IUnifyEticketOrderServiceImpl.java" />
+      <option value="$PROJECT_DIR$/mall-service-uc/src/main/java/com/gt/mall/service/unify/order/impl/UnifyOrderServiceImpl.java" />
+      <option value="$PROJECT_DIR$/mall-bean/src/main/java/com/gt/mall/bean/payset/BePayStyleVO.java" />
+      <option value="$PROJECT_DIR$/mall-bean/src/main/java/com/gt/mall/vo/shopcard/CommonMemberCardVO.java" />
+      <option value="$PROJECT_DIR$/mall-web-uc/src/main/java/com/gt/mall/controller/unify/common/UnifyCommonController.java" />
+      <option value="$PROJECT_DIR$/mall-service-common/src/main/java/com/gt/mall/service/common/shopcard/impl/ComShopCardUtilServiceImpl.java" />
+      <option value="$PROJECT_DIR$/mall-common/src/main/java/com/gt/mall/utils/ThreadPoolUtil.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <option name="groupStructurally" value="true" />
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" x="1441" y="-98" width="1920" height="1057" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1" />
+    <panes />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_PROPERTIES,SHOW_INHERITED" />
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="Mall_new_eticket-history1" />
+    </option>
+  </component>
+  <component name="TestHistory">
+    <history-entry file="DistributionTest_test - 2021.01.26 at 17h 51m 45s.xml">
+      <configuration name="DistributionTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DistributionTest_test - 2021.01.26 at 17h 54m 47s.xml">
+      <configuration name="DistributionTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DistributionTest_test_(1) - 2021.07.27 at 19h 23m 09s.xml">
+      <configuration name="DistributionTest.test (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DistributionTest_test_(1) - 2021.07.28 at 14h 43m 41s.xml">
+      <configuration name="DistributionTest.test (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DistributionTest_test - 2022.02.21 at 16h 22m 18s.xml">
+      <configuration name="DistributionTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DistributionTest_test - 2022.02.21 at 16h 24m 45s.xml">
+      <configuration name="DistributionTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DistributionTest_test - 2022.02.21 at 16h 28m 25s.xml">
+      <configuration name="DistributionTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DistributionTest_test - 2022.02.21 at 16h 39m 17s.xml">
+      <configuration name="DistributionTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DistributionTest_test - 2022.03.18 at 10h 09m 49s.xml">
+      <configuration name="DistributionTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DistributionTest_test - 2022.03.18 at 10h 23m 21s.xml">
+      <configuration name="DistributionTest.test" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="7326491000" />
+  </component>
+  <component name="TodoView" selected-index="1">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24618056" />
+      <window_info id="Structure" order="1" weight="0.38880208" />
+      <window_info id="JRebel" order="2" sideWeight="0.50104713" side_tool="true" weight="0.18515626" />
+      <window_info id="Favorites" order="3" sideWeight="0.5026643" side_tool="true" weight="0.25598958" />
+      <window_info id="Web" order="4" show_stripe_button="false" side_tool="true" weight="0.33020833" />
+      <window_info active="true" x="1663" y="4" width="1261" height="743" id="Commit" order="5" type="FLOATING" weight="0.32994792" />
+      <window_info id="Pull Requests" order="6" />
+      <window_info id="Learn" order="7" show_stripe_button="false" weight="0.33020833" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3297143" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3297143" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.5240315" weight="0.34342858" />
+      <window_info anchor="bottom" id="Analysis" order="4" weight="0.37109005" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.3293839" />
+      <window_info anchor="bottom" id="Dependencies" order="8" show_stripe_button="false" weight="0.3297143" />
+      <window_info anchor="bottom" id="JProfiler" order="9" weight="0.33085716" />
+      <window_info anchor="bottom" id="Problems" order="10" sideWeight="0.4994641" weight="0.20742857" />
+      <window_info anchor="bottom" id="Build" order="11" sideWeight="0.5744397" weight="0.42685714" />
+      <window_info anchor="bottom" id="Profiler" order="12" sideWeight="0.5003587" weight="0.3297143" />
+      <window_info anchor="bottom" id="SonarLint" order="13" sideWeight="0.6581779" weight="0.37393367" />
+      <window_info active="true" anchor="bottom" auto_hide="true" x="-113" y="-1038" width="1581" height="1038" id="Sequence Diagram" order="14" sideWeight="0.5003587" type="FLOATING" weight="0.3297143" />
+      <window_info anchor="bottom" id="Endpoints" order="15" sideWeight="0.5003587" weight="0.3297143" />
+      <window_info anchor="bottom" id="Problems View" order="16" sideWeight="0.5003587" weight="0.32514286" />
+      <window_info anchor="bottom" id="Services" order="17" show_stripe_button="false" sideWeight="0.5002668" weight="0.32857144" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="18" />
+      <window_info anchor="bottom" id="Spring" order="19" show_stripe_button="false" sideWeight="0.5003587" weight="0.32857144" />
+      <window_info anchor="bottom" id="Terminal" order="20" sideWeight="0.600587" weight="0.3857143" />
+      <window_info anchor="bottom" id="Event Log" order="21" sideWeight="0.47596842" side_tool="true" weight="0.34685713" />
+      <window_info anchor="bottom" id="Java Enterprise" order="22" show_stripe_button="false" sideWeight="0.5003587" weight="0.32857144" />
+      <window_info anchor="bottom" id="Database Changes" order="23" show_stripe_button="false" weight="0.32857144" />
+      <window_info anchor="bottom" id="Version Control" order="24" sideWeight="0.57017076" weight="0.37657142" />
+      <window_info anchor="bottom" id="JRebel Console" order="25" sideWeight="0.476254" side_tool="true" weight="0.29526067" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.2502604" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.2919271" />
+      <window_info anchor="right" id="Word Book" order="4" side_tool="true" />
+      <window_info anchor="right" id="Mybatis datasource" order="5" side_tool="true" />
+      <window_info anchor="right" id="JRebel Setup Guide" order="6" show_stripe_button="false" side_tool="true" weight="0.33020833" />
+      <window_info anchor="right" id="Key Promoter X" order="7" show_stripe_button="false" weight="0.32890624" />
+      <window_info anchor="right" id="Mybatis Sql" order="8" />
+      <window_info anchor="right" id="RestfulTool" order="9" show_stripe_button="false" weight="0.34609374" />
+      <window_info anchor="right" id="github.copilotToolWindow" order="10" weight="0.32994792" />
+      <window_info anchor="right" id="jclasslib" order="11" weight="0.33020833" />
+      <window_info anchor="right" id="Bean Validation" order="12" show_stripe_button="false" weight="0.32881945" />
+      <window_info anchor="right" x="0" y="25" width="1440" height="875" id="Database" order="13" weight="0.2955729" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24618056" />
+      <window_info id="Structure" order="1" weight="0.38880208" />
+      <window_info id="JRebel" order="2" sideWeight="0.50104713" side_tool="true" weight="0.18515626" />
+      <window_info id="Favorites" order="3" sideWeight="0.5026643" side_tool="true" weight="0.25598958" />
+      <window_info id="Web" order="4" show_stripe_button="false" side_tool="true" weight="0.33020833" />
+      <window_info active="true" x="1663" y="4" width="1261" height="743" id="Commit" order="5" type="FLOATING" weight="0.32994792" />
+      <window_info id="Pull Requests" order="6" />
+      <window_info id="Learn" order="7" show_stripe_button="false" weight="0.33020833" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3297143" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3297143" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.5240315" weight="0.34342858" />
+      <window_info anchor="bottom" id="Analysis" order="4" weight="0.37109005" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.3293839" />
+      <window_info anchor="bottom" id="Dependencies" order="8" show_stripe_button="false" weight="0.3297143" />
+      <window_info anchor="bottom" id="JProfiler" order="9" weight="0.33085716" />
+      <window_info anchor="bottom" id="Problems" order="10" sideWeight="0.4994641" weight="0.20742857" />
+      <window_info anchor="bottom" id="Build" order="11" sideWeight="0.5744397" weight="0.42685714" />
+      <window_info anchor="bottom" id="Profiler" order="12" sideWeight="0.5003587" weight="0.3297143" />
+      <window_info anchor="bottom" id="SonarLint" order="13" sideWeight="0.6581779" weight="0.37393367" />
+      <window_info active="true" anchor="bottom" auto_hide="true" x="-113" y="-1038" width="1581" height="1038" id="Sequence Diagram" order="14" sideWeight="0.5003587" type="FLOATING" weight="0.3297143" />
+      <window_info anchor="bottom" id="Endpoints" order="15" sideWeight="0.5003587" weight="0.3297143" />
+      <window_info anchor="bottom" id="Problems View" order="16" sideWeight="0.5003587" weight="0.3255924" />
+      <window_info anchor="bottom" id="Services" order="17" show_stripe_button="false" sideWeight="0.5002668" weight="0.32857144" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="18" />
+      <window_info anchor="bottom" id="Spring" order="19" show_stripe_button="false" sideWeight="0.5003587" weight="0.32857144" />
+      <window_info anchor="bottom" id="Terminal" order="20" sideWeight="0.600587" weight="0.3857143" />
+      <window_info anchor="bottom" id="Event Log" order="21" sideWeight="0.47596842" side_tool="true" weight="0.34685713" />
+      <window_info anchor="bottom" id="Java Enterprise" order="22" show_stripe_button="false" sideWeight="0.5003587" weight="0.32857144" />
+      <window_info anchor="bottom" id="Database Changes" order="23" show_stripe_button="false" weight="0.32857144" />
+      <window_info anchor="bottom" id="Version Control" order="24" sideWeight="0.57017076" weight="0.37657142" />
+      <window_info anchor="bottom" id="JRebel Console" order="25" sideWeight="0.476254" side_tool="true" weight="0.29526067" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.2502604" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.2919271" />
+      <window_info anchor="right" id="Word Book" order="4" side_tool="true" />
+      <window_info anchor="right" id="Mybatis datasource" order="5" side_tool="true" />
+      <window_info anchor="right" id="JRebel Setup Guide" order="6" show_stripe_button="false" side_tool="true" weight="0.33020833" />
+      <window_info anchor="right" id="Key Promoter X" order="7" show_stripe_button="false" weight="0.32890624" />
+      <window_info anchor="right" id="Mybatis Sql" order="8" />
+      <window_info anchor="right" id="RestfulTool" order="9" show_stripe_button="false" weight="0.34609374" />
+      <window_info anchor="right" id="github.copilotToolWindow" order="10" weight="0.32994792" />
+      <window_info anchor="right" id="jclasslib" order="11" weight="0.33020833" />
+      <window_info anchor="right" id="Bean Validation" order="12" show_stripe_button="false" weight="0.32881945" />
+      <window_info anchor="right" x="0" y="25" width="1440" height="875" id="Database" order="13" weight="0.2955729" />
+    </layout-to-restore>
+    <recentWindows>
+      <value>Problems View</value>
+      <value>Project</value>
+      <value>Run</value>
+      <value>Debug</value>
+      <value>Version Control</value>
+      <value>Build</value>
+      <value>Sequence Diagram</value>
+      <value>JRebel Console</value>
+      <value>Maven</value>
+      <value>Structure</value>
+      <value>Event Log</value>
+      <value>Favorites</value>
+      <value>Find</value>
+      <value>Services</value>
+      <value>Terminal</value>
+      <value>JProfiler</value>
+      <value>Database</value>
+      <value>JRebel</value>
+      <value>TODO</value>
+      <value>Hierarchy</value>
+      <value>jclasslib</value>
+      <value>JRebel Setup Guide</value>
+      <value>Bean Validation</value>
+      <value>Analysis</value>
+      <value>SonarLint</value>
+      <value>github.copilotToolWindow</value>
+      <value>RestfulTool</value>
+      <value>Eval Reset</value>
+      <value>MyBatis Log</value>
+      <value>Key Promoter X</value>
+      <value>Commit</value>
+      <value>Learn</value>
+      <value>Analyze Dataflow to</value>
+      <value>Analyze Dataflow from</value>
+      <value>Profiler</value>
+      <value>Spring</value>
+      <value>Java Enterprise</value>
+      <value>Database Changes</value>
+      <value>Endpoints</value>
+      <value>Problems</value>
+      <value>Dependencies</value>
+      <value>Web</value>
+      <value>Repositories</value>
+      <value>Codota</value>
+      <value>Duplicates</value>
+    </recentWindows>
+  </component>
+  <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" trusted="YES" />
+  <component name="WindowStateProjectService">
+    <state x="359" y="290" key="#Custom_Plugin_Repositories" timestamp="1658711688771">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="359" y="290" key="#Custom_Plugin_Repositories/0.25.1440.875/-254.-1055.1920.1055@0.25.1440.875" timestamp="1658711688771" />
+    <state x="168" y="53" width="1192" height="847" key="#Project_Structure" timestamp="1654581764646">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="168" y="53" width="1192" height="847" key="#Project_Structure/0.25.1440.875@0.25.1440.875" timestamp="1654581764646" />
+    <state x="474" y="227" width="524" height="454" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1660640494258">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="474" y="227" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.25.1440.875/-1920.-48.1920.1055@0.25.1440.875" timestamp="1660640494258" />
+    <state x="412" y="-811" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.25.1440.875/-220.-1055.1920.1055@-220.-1055.1920.1055" timestamp="1660210507711" />
+    <state x="381" y="-811" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.25.1440.875/-251.-1055.1920.1055@-251.-1055.1920.1055" timestamp="1652780338295" />
+    <state x="378" y="-811" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.25.1440.875/-254.-1055.1920.1055@-254.-1055.1920.1055" timestamp="1658456755507" />
+    <state x="474" y="227" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.25.1440.875/-254.-1055.1920.1055@0.25.1440.875" timestamp="1658904543176" />
+    <state x="474" y="227" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.25.1440.875@0.25.1440.875" timestamp="1660556768803" />
+    <state x="15" y="113" width="1425" height="605" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1660554949610">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="15" y="103" width="1425" height="605" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.875/-220.-1055.1920.1055@0.25.1440.875" timestamp="1660148708394" />
+    <state x="-112" y="-941" width="1425" height="672" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.875/-251.-1055.1920.1055@-251.-1055.1920.1055" timestamp="1653017790409" />
+    <state x="-115" y="-941" width="1425" height="672" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.875/-254.-1055.1920.1055@-254.-1055.1920.1055" timestamp="1657789224324" />
+    <state x="15" y="113" width="1425" height="675" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.875@0.25.1440.875" timestamp="1660554949610" />
+    <state x="486" y="112" width="384" height="279" key="#com.intellij.ide.util.MemberChooser" timestamp="1660640733044">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="486" y="112" width="384" height="279" key="#com.intellij.ide.util.MemberChooser/0.25.1440.875/-1920.-48.1920.1055@0.25.1440.875" timestamp="1660640733044" />
+    <state x="397" y="-950" key="#com.intellij.ide.util.MemberChooser/0.25.1440.875/-251.-1055.1920.1055@-251.-1055.1920.1055" timestamp="1652409226303" />
+    <state x="394" y="-950" key="#com.intellij.ide.util.MemberChooser/0.25.1440.875/-254.-1055.1920.1055@-254.-1055.1920.1055" timestamp="1658386513371" />
+    <state x="477" y="262" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1660534405269">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="477" y="262" key="#com.intellij.ide.util.PackageChooserDialog/0.25.1440.875@0.25.1440.875" timestamp="1660534405269" />
+    <state x="329" y="-714" width="525" height="406" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1657874128759">
+      <screen x="-254" y="-1055" width="1920" height="1055" />
+    </state>
+    <state x="329" y="-714" key="#com.intellij.ide.util.TreeClassChooserDialog/0.25.1440.875/-254.-1055.1920.1055@-254.-1055.1920.1055" timestamp="1657874128759" />
+    <state x="437" y="308" key="#com.intellij.ide.util.TreeClassChooserDialog/0.25.1440.875/-254.-1055.1920.1055@0.25.1440.875" timestamp="1657606350918" />
+    <state x="112" y="113" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1657504095384">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="112" y="113" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.25.1440.875/-254.-1055.1920.1055@0.25.1440.875" timestamp="1657504095384" />
+    <state x="376" y="62" key="#com.intellij.refactoring.memberPullUp.PullUpDialog" timestamp="1660536196101">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="376" y="62" key="#com.intellij.refactoring.memberPullUp.PullUpDialog/0.25.1440.875/-254.-1055.1920.1055@0.25.1440.875" timestamp="1657505051351" />
+    <state x="376" y="62" key="#com.intellij.refactoring.memberPullUp.PullUpDialog/0.25.1440.875@0.25.1440.875" timestamp="1660536196101" />
+    <state x="388" y="307" key="#com.intellij.refactoring.move.moveInstanceMethod.MoveInstanceMethodDialog" timestamp="1657504859882">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="296" y="-736" key="#com.intellij.refactoring.move.moveInstanceMethod.MoveInstanceMethodDialog/0.25.1440.875/-209.-1055.1920.1055@-209.-1055.1920.1055" timestamp="1657323376787" />
+    <state x="379" y="290" key="#com.intellij.refactoring.move.moveInstanceMethod.MoveInstanceMethodDialog/0.25.1440.875/-209.-1055.1920.1055@0.25.1440.875" timestamp="1657429193335" />
+    <state x="388" y="307" key="#com.intellij.refactoring.move.moveInstanceMethod.MoveInstanceMethodDialog/0.25.1440.875/-254.-1055.1920.1055@0.25.1440.875" timestamp="1657504859882" />
+    <state x="0" y="25" width="820" height="485" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1660532737069">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="-209" y="-1055" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.25.1440.875/-209.-1055.1920.1055@-209.-1055.1920.1055" timestamp="1657321389893" />
+    <state x="-254" y="-1055" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.25.1440.875/-254.-1055.1920.1055@-254.-1055.1920.1055" timestamp="1658305062899" />
+    <state x="0" y="25" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.25.1440.875@0.25.1440.875" timestamp="1660532737069" />
+    <state x="524" y="255" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1660614950242">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="524" y="255" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.25.1440.875/-251.-1055.1920.1055@0.25.1440.875" timestamp="1653384665208" />
+    <state x="445" y="-778" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.25.1440.875/-254.-1055.1920.1055@-254.-1055.1920.1055" timestamp="1658460278395" />
+    <state x="524" y="255" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.25.1440.875/-254.-1055.1920.1055@0.25.1440.875" timestamp="1658889545869" />
+    <state x="524" y="255" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.25.1440.875@0.25.1440.875" timestamp="1660614950242" />
+    <state x="357" y="-827" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1653626606622">
+      <screen x="-254" y="-1055" width="1920" height="1055" />
+    </state>
+    <state x="357" y="-827" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.25.1440.875/-254.-1055.1920.1055@-254.-1055.1920.1055" timestamp="1653626606622" />
+    <state x="245" y="-727" width="360" height="184" key="#debugger.expression.dialog" timestamp="1653968234394">
+      <screen x="-254" y="-1055" width="1920" height="1055" />
+    </state>
+    <state x="248" y="-727" key="#debugger.expression.dialog/0.25.1440.875/-251.-1055.1920.1055@-251.-1055.1920.1055" timestamp="1652775709035" />
+    <state x="245" y="-727" key="#debugger.expression.dialog/0.25.1440.875/-254.-1055.1920.1055@-254.-1055.1920.1055" timestamp="1653968234394" />
+    <state x="374" y="297" key="#debugger.expression.dialog/0.25.1440.875@0.25.1440.875" timestamp="1652260734447" />
+    <state x="475" y="194" width="986" height="537" key="#xdebugger.evaluate" timestamp="1659321927651">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="85" y="-761" key="#xdebugger.evaluate/0.25.1440.875/-251.-1055.1920.1055@-251.-1055.1920.1055" timestamp="1652775135785" />
+    <state x="557" y="-915" width="986" height="537" key="#xdebugger.evaluate/0.25.1440.875/-254.-1055.1920.1055@-254.-1055.1920.1055" timestamp="1658475927693" />
+    <state x="475" y="194" key="#xdebugger.evaluate/0.25.1440.875/-254.-1055.1920.1055@0.25.1440.875" timestamp="1659321927651" />
+    <state x="176" y="102" width="1013" height="699" key="CommitChangelistDialog2" timestamp="1660877786125">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="176" y="102" key="CommitChangelistDialog2/0.25.1440.875/-1920.-48.1920.1055@0.25.1440.875" timestamp="1660877786125" />
+    <state x="162" y="-930" key="CommitChangelistDialog2/0.25.1440.875/-209.-1055.1920.1055@-209.-1055.1920.1055" timestamp="1657321942543" />
+    <state x="3" y="-974" key="CommitChangelistDialog2/0.25.1440.875/-220.-1055.1920.1055@-220.-1055.1920.1055" timestamp="1660277335547" />
+    <state x="167" y="92" key="CommitChangelistDialog2/0.25.1440.875/-220.-1055.1920.1055@0.25.1440.875" timestamp="1660151243240" />
+    <state x="225" y="-988" width="1013" height="699" key="CommitChangelistDialog2/0.25.1440.875/-251.-1055.1920.1055@-251.-1055.1920.1055" timestamp="1653012964651" />
+    <state x="191" y="-927" key="CommitChangelistDialog2/0.25.1440.875/-254.-1055.1920.1055@-254.-1055.1920.1055" timestamp="1658742711493" />
+    <state x="167" y="92" key="CommitChangelistDialog2/0.25.1440.875/-254.-1055.1920.1055@0.25.1440.875" timestamp="1659324286441" />
+    <state x="176" y="102" key="CommitChangelistDialog2/0.25.1440.875@0.25.1440.875" timestamp="1660615864538" />
+    <state width="537" height="190" key="DebuggerActiveHint" timestamp="1660612184879">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="720" height="437" key="DebuggerActiveHint/0.25.1440.875/-220.-1055.1920.1055@0.25.1440.875" timestamp="1660150138647" />
+    <state width="472" height="98" key="DebuggerActiveHint/0.25.1440.875/-251.-1055.1920.1055@-251.-1055.1920.1055" timestamp="1652946418836" />
+    <state width="960" height="527" key="DebuggerActiveHint/0.25.1440.875/-254.-1055.1920.1055@-254.-1055.1920.1055" timestamp="1658742263169" />
+    <state width="441" height="102" key="DebuggerActiveHint/0.25.1440.875/-254.-1055.1920.1055@0.25.1440.875" timestamp="1658831179153" />
+    <state width="537" height="190" key="DebuggerActiveHint/0.25.1440.875@0.25.1440.875" timestamp="1660612184879" />
+    <state x="0" y="25" width="1440" height="875" maximized="true" key="DiffContextDialog" timestamp="1660701611891">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="0" y="25" width="1440" height="875" key="DiffContextDialog/0.25.1440.875/-1920.-48.1920.1055@0.25.1440.875" timestamp="1660701611891" />
+    <state x="-220" y="-1055" width="1920" height="1055" maximized="true" key="DiffContextDialog/0.25.1440.875/-220.-1055.1920.1055@-220.-1055.1920.1055" timestamp="1660009568411" />
+    <state x="-61" y="-973" width="1401" height="794" key="DiffContextDialog/0.25.1440.875/-220.-1055.1920.1055@0.25.1440.875" timestamp="1659597365890" />
+    <state x="-57" y="-972" width="1210" height="762" key="DiffContextDialog/0.25.1440.875/-251.-1055.1920.1055@-251.-1055.1920.1055" timestamp="1653012939333" />
+    <state x="-9" y="-995" width="1440" height="875" maximized="true" key="DiffContextDialog/0.25.1440.875/-254.-1055.1920.1055@-254.-1055.1920.1055" timestamp="1658742698206" />
+    <state x="-61" y="-973" width="1401" height="794" key="DiffContextDialog/0.25.1440.875/-254.-1055.1920.1055@0.25.1440.875" timestamp="1659327420313" />
+    <state x="62" y="25" width="1322" height="853" maximized="true" key="DiffContextDialog/0.25.1440.875@0.25.1440.875" timestamp="1660615218295" />
+    <state x="335" y="-781" key="FileChooserDialogImpl" timestamp="1656300786305">
+      <screen x="-254" y="-1055" width="1920" height="1055" />
+    </state>
+    <state x="335" y="-781" key="FileChooserDialogImpl/0.25.1440.875/-254.-1055.1920.1055@-254.-1055.1920.1055" timestamp="1656300786305" />
+    <state width="1394" height="260" key="GridCell.Tab.0.bottom" timestamp="1660702589442">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1394" height="260" key="GridCell.Tab.0.bottom/0.25.1440.875/-1920.-48.1920.1055@0.25.1440.875" timestamp="1660702589442" />
+    <state width="1874" height="283" key="GridCell.Tab.0.bottom/0.25.1440.875/-209.-1055.1920.1055@-209.-1055.1920.1055" timestamp="1657323376945" />
+    <state width="1874" height="300" key="GridCell.Tab.0.bottom/0.25.1440.875/-220.-1055.1920.1055@-220.-1055.1920.1055" timestamp="1659578623508" />
+    <state width="1394" height="272" key="GridCell.Tab.0.bottom/0.25.1440.875/-220.-1055.1920.1055@0.25.1440.875" timestamp="1660150733597" />
+    <state width="1874" height="378" key="GridCell.Tab.0.bottom/0.25.1440.875/-251.-1055.1920.1055@-251.-1055.1920.1055" timestamp="1653294248878" />
+    <state width="1874" height="283" key="GridCell.Tab.0.bottom/0.25.1440.875/-254.-1055.1920.1055@-254.-1055.1920.1055" timestamp="1658742680798" />
+    <state width="1394" height="346" key="GridCell.Tab.0.bottom/0.25.1440.875/-254.-1055.1920.1055@0.25.1440.875" timestamp="1659326863123" />
+    <state width="1394" height="272" key="GridCell.Tab.0.bottom/0.25.1440.875@0.25.1440.875" timestamp="1660612676222" />
+    <state width="1874" height="378" key="GridCell.Tab.0.bottom/0.25.1920.1055@0.25.1920.1055" timestamp="1653655773863" />
+    <state width="1394" height="260" key="GridCell.Tab.0.center" timestamp="1660702589441">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1394" height="260" key="GridCell.Tab.0.center/0.25.1440.875/-1920.-48.1920.1055@0.25.1440.875" timestamp="1660702589441" />
+    <state width="1874" height="283" key="GridCell.Tab.0.center/0.25.1440.875/-209.-1055.1920.1055@-209.-1055.1920.1055" timestamp="1657323376944" />
+    <state width="1874" height="300" key="GridCell.Tab.0.center/0.25.1440.875/-220.-1055.1920.1055@-220.-1055.1920.1055" timestamp="1659578623507" />
+    <state width="1394" height="272" key="GridCell.Tab.0.center/0.25.1440.875/-220.-1055.1920.1055@0.25.1440.875" timestamp="1660150733596" />
+    <state width="1874" height="378" key="GridCell.Tab.0.center/0.25.1440.875/-251.-1055.1920.1055@-251.-1055.1920.1055" timestamp="1653294248877" />
+    <state width="1874" height="283" key="GridCell.Tab.0.center/0.25.1440.875/-254.-1055.1920.1055@-254.-1055.1920.1055" timestamp="1658742680797" />
+    <state width="1394" height="346" key="GridCell.Tab.0.center/0.25.1440.875/-254.-1055.1920.1055@0.25.1440.875" timestamp="1659326863123" />
+    <state width="1394" height="272" key="GridCell.Tab.0.center/0.25.1440.875@0.25.1440.875" timestamp="1660612676221" />
+    <state width="1874" height="378" key="GridCell.Tab.0.center/0.25.1920.1055@0.25.1920.1055" timestamp="1653655773861" />
+    <state width="1394" height="260" key="GridCell.Tab.0.left" timestamp="1660702589440">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1394" height="260" key="GridCell.Tab.0.left/0.25.1440.875/-1920.-48.1920.1055@0.25.1440.875" timestamp="1660702589440" />
+    <state width="1874" height="283" key="GridCell.Tab.0.left/0.25.1440.875/-209.-1055.1920.1055@-209.-1055.1920.1055" timestamp="1657323376944" />
+    <state width="1874" height="300" key="GridCell.Tab.0.left/0.25.1440.875/-220.-1055.1920.1055@-220.-1055.1920.1055" timestamp="1659578623507" />
+    <state width="1394" height="272" key="GridCell.Tab.0.left/0.25.1440.875/-220.-1055.1920.1055@0.25.1440.875" timestamp="1660150733596" />
+    <state width="1874" height="378" key="GridCell.Tab.0.left/0.25.1440.875/-251.-1055.1920.1055@-251.-1055.1920.1055" timestamp="1653294248877" />
+    <state width="1874" height="283" key="GridCell.Tab.0.left/0.25.1440.875/-254.-1055.1920.1055@-254.-1055.1920.1055" timestamp="1658742680796" />
+    <state width="1394" height="346" key="GridCell.Tab.0.left/0.25.1440.875/-254.-1055.1920.1055@0.25.1440.875" timestamp="1659326863122" />
+    <state width="1394" height="272" key="GridCell.Tab.0.left/0.25.1440.875@0.25.1440.875" timestamp="1660612676220" />
+    <state width="1874" height="378" key="GridCell.Tab.0.left/0.25.1920.1055@0.25.1920.1055" timestamp="1653655773855" />
+    <state width="1394" height="260" key="GridCell.Tab.0.right" timestamp="1660702589441">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1394" height="260" key="GridCell.Tab.0.right/0.25.1440.875/-1920.-48.1920.1055@0.25.1440.875" timestamp="1660702589441" />
+    <state width="1874" height="283" key="GridCell.Tab.0.right/0.25.1440.875/-209.-1055.1920.1055@-209.-1055.1920.1055" timestamp="1657323376945" />
+    <state width="1874" height="300" key="GridCell.Tab.0.right/0.25.1440.875/-220.-1055.1920.1055@-220.-1055.1920.1055" timestamp="1659578623508" />
+    <state width="1394" height="272" key="GridCell.Tab.0.right/0.25.1440.875/-220.-1055.1920.1055@0.25.1440.875" timestamp="1660150733596" />
+    <state width="1874" height="378" key="GridCell.Tab.0.right/0.25.1440.875/-251.-1055.1920.1055@-251.-1055.1920.1055" timestamp="1653294248878" />
+    <state width="1874" height="283" key="GridCell.Tab.0.right/0.25.1440.875/-254.-1055.1920.1055@-254.-1055.1920.1055" timestamp="1658742680797" />
+    <state width="1394" height="346" key="GridCell.Tab.0.right/0.25.1440.875/-254.-1055.1920.1055@0.25.1440.875" timestamp="1659326863123" />
+    <state width="1394" height="272" key="GridCell.Tab.0.right/0.25.1440.875@0.25.1440.875" timestamp="1660612676221" />
+    <state width="1874" height="378" key="GridCell.Tab.0.right/0.25.1920.1055@0.25.1920.1055" timestamp="1653655773862" />
+    <state width="1394" height="272" key="GridCell.Tab.1.bottom" timestamp="1660702589428">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1394" height="272" key="GridCell.Tab.1.bottom/0.25.1440.875/-1920.-48.1920.1055@0.25.1440.875" timestamp="1660702589428" />
+    <state width="1874" height="283" key="GridCell.Tab.1.bottom/0.25.1440.875/-209.-1055.1920.1055@-209.-1055.1920.1055" timestamp="1657323376946" />
+    <state width="1874" height="300" key="GridCell.Tab.1.bottom/0.25.1440.875/-220.-1055.1920.1055@-220.-1055.1920.1055" timestamp="1659578623509" />
+    <state width="1394" height="272" key="GridCell.Tab.1.bottom/0.25.1440.875/-220.-1055.1920.1055@0.25.1440.875" timestamp="1660150740206" />
+    <state width="1874" height="378" key="GridCell.Tab.1.bottom/0.25.1440.875/-251.-1055.1920.1055@-251.-1055.1920.1055" timestamp="1653294248880" />
+    <state width="1874" height="283" key="GridCell.Tab.1.bottom/0.25.1440.875/-254.-1055.1920.1055@-254.-1055.1920.1055" timestamp="1658742680800" />
+    <state width="1394" height="346" key="GridCell.Tab.1.bottom/0.25.1440.875/-254.-1055.1920.1055@0.25.1440.875" timestamp="1659326863124" />
+    <state width="1394" height="272" key="GridCell.Tab.1.bottom/0.25.1440.875@0.25.1440.875" timestamp="1660612676235" />
+    <state width="1874" height="378" key="GridCell.Tab.1.bottom/0.25.1920.1055@0.25.1920.1055" timestamp="1653655773868" />
+    <state width="1394" height="272" key="GridCell.Tab.1.center" timestamp="1660702589426">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1394" height="272" key="GridCell.Tab.1.center/0.25.1440.875/-1920.-48.1920.1055@0.25.1440.875" timestamp="1660702589426" />
+    <state width="1874" height="283" key="GridCell.Tab.1.center/0.25.1440.875/-209.-1055.1920.1055@-209.-1055.1920.1055" timestamp="1657323376946" />
+    <state width="1874" height="300" key="GridCell.Tab.1.center/0.25.1440.875/-220.-1055.1920.1055@-220.-1055.1920.1055" timestamp="1659578623508" />
+    <state width="1394" height="272" key="GridCell.Tab.1.center/0.25.1440.875/-220.-1055.1920.1055@0.25.1440.875" timestamp="1660150740206" />
+    <state width="1874" height="378" key="GridCell.Tab.1.center/0.25.1440.875/-251.-1055.1920.1055@-251.-1055.1920.1055" timestamp="1653294248879" />
+    <state width="1874" height="283" key="GridCell.Tab.1.center/0.25.1440.875/-254.-1055.1920.1055@-254.-1055.1920.1055" timestamp="1658742680799" />
+    <state width="1394" height="346" key="GridCell.Tab.1.center/0.25.1440.875/-254.-1055.1920.1055@0.25.1440.875" timestamp="1659326863124" />
+    <state width="1394" height="272" key="GridCell.Tab.1.center/0.25.1440.875@0.25.1440.875" timestamp="1660612676234" />
+    <state width="1874" height="378" key="GridCell.Tab.1.center/0.25.1920.1055@0.25.1920.1055" timestamp="1653655773866" />
+    <state width="1394" height="272" key="GridCell.Tab.1.left" timestamp="1660702589426">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1394" height="272" key="GridCell.Tab.1.left/0.25.1440.875/-1920.-48.1920.1055@0.25.1440.875" timestamp="1660702589426" />
+    <state width="1874" height="283" key="GridCell.Tab.1.left/0.25.1440.875/-209.-1055.1920.1055@-209.-1055.1920.1055" timestamp="1657323376946" />
+    <state width="1874" height="300" key="GridCell.Tab.1.left/0.25.1440.875/-220.-1055.1920.1055@-220.-1055.1920.1055" timestamp="1659578623508" />
+    <state width="1394" height="272" key="GridCell.Tab.1.left/0.25.1440.875/-220.-1055.1920.1055@0.25.1440.875" timestamp="1660150740204" />
+    <state width="1874" height="378" key="GridCell.Tab.1.left/0.25.1440.875/-251.-1055.1920.1055@-251.-1055.1920.1055" timestamp="1653294248879" />
+    <state width="1874" height="283" key="GridCell.Tab.1.left/0.25.1440.875/-254.-1055.1920.1055@-254.-1055.1920.1055" timestamp="1658742680798" />
+    <state width="1394" height="346" key="GridCell.Tab.1.left/0.25.1440.875/-254.-1055.1920.1055@0.25.1440.875" timestamp="1659326863123" />
+    <state width="1394" height="272" key="GridCell.Tab.1.left/0.25.1440.875@0.25.1440.875" timestamp="1660612676222" />
+    <state width="1874" height="378" key="GridCell.Tab.1.left/0.25.1920.1055@0.25.1920.1055" timestamp="1653655773864" />
+    <state width="1394" height="272" key="GridCell.Tab.1.right" timestamp="1660702589427">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1394" height="272" key="GridCell.Tab.1.right/0.25.1440.875/-1920.-48.1920.1055@0.25.1440.875" timestamp="1660702589427" />
+    <state width="1874" height="283" key="GridCell.Tab.1.right/0.25.1440.875/-209.-1055.1920.1055@-209.-1055.1920.1055" timestamp="1657323376946" />
+    <state width="1874" height="300" key="GridCell.Tab.1.right/0.25.1440.875/-220.-1055.1920.1055@-220.-1055.1920.1055" timestamp="1659578623509" />
+    <state width="1394" height="272" key="GridCell.Tab.1.right/0.25.1440.875/-220.-1055.1920.1055@0.25.1440.875" timestamp="1660150740206" />
+    <state width="1874" height="378" key="GridCell.Tab.1.right/0.25.1440.875/-251.-1055.1920.1055@-251.-1055.1920.1055" timestamp="1653294248880" />
+    <state width="1874" height="283" key="GridCell.Tab.1.right/0.25.1440.875/-254.-1055.1920.1055@-254.-1055.1920.1055" timestamp="1658742680799" />
+    <state width="1394" height="346" key="GridCell.Tab.1.right/0.25.1440.875/-254.-1055.1920.1055@0.25.1440.875" timestamp="1659326863124" />
+    <state width="1394" height="272" key="GridCell.Tab.1.right/0.25.1440.875@0.25.1440.875" timestamp="1660612676234" />
+    <state width="1874" height="378" key="GridCell.Tab.1.right/0.25.1920.1055@0.25.1920.1055" timestamp="1653655773868" />
+    <state width="1394" height="272" key="GridCell.Tab.2.bottom" timestamp="1660702589429">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1394" height="272" key="GridCell.Tab.2.bottom/0.25.1440.875/-1920.-48.1920.1055@0.25.1440.875" timestamp="1660702589429" />
+    <state width="1874" height="283" key="GridCell.Tab.2.bottom/0.25.1440.875/-209.-1055.1920.1055@-209.-1055.1920.1055" timestamp="1657323376947" />
+    <state width="1874" height="300" key="GridCell.Tab.2.bottom/0.25.1440.875/-220.-1055.1920.1055@-220.-1055.1920.1055" timestamp="1659578623509" />
+    <state width="1394" height="272" key="GridCell.Tab.2.bottom/0.25.1440.875/-220.-1055.1920.1055@0.25.1440.875" timestamp="1660150476839" />
+    <state width="1874" height="378" key="GridCell.Tab.2.bottom/0.25.1440.875/-251.-1055.1920.1055@-251.-1055.1920.1055" timestamp="1653294248884" />
+    <state width="1874" height="283" key="GridCell.Tab.2.bottom/0.25.1440.875/-254.-1055.1920.1055@-254.-1055.1920.1055" timestamp="1658742680802" />
+    <state width="1394" height="346" key="GridCell.Tab.2.bottom/0.25.1440.875/-254.-1055.1920.1055@0.25.1440.875" timestamp="1659326863125" />
+    <state width="1394" height="272" key="GridCell.Tab.2.bottom/0.25.1440.875@0.25.1440.875" timestamp="1660612676237" />
+    <state width="1874" height="378" key="GridCell.Tab.2.bottom/0.25.1920.1055@0.25.1920.1055" timestamp="1653655773871" />
+    <state width="1394" height="272" key="GridCell.Tab.2.center" timestamp="1660702589428">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1394" height="272" key="GridCell.Tab.2.center/0.25.1440.875/-1920.-48.1920.1055@0.25.1440.875" timestamp="1660702589428" />
+    <state width="1874" height="283" key="GridCell.Tab.2.center/0.25.1440.875/-209.-1055.1920.1055@-209.-1055.1920.1055" timestamp="1657323376947" />
+    <state width="1874" height="300" key="GridCell.Tab.2.center/0.25.1440.875/-220.-1055.1920.1055@-220.-1055.1920.1055" timestamp="1659578623509" />
+    <state width="1394" height="272" key="GridCell.Tab.2.center/0.25.1440.875/-220.-1055.1920.1055@0.25.1440.875" timestamp="1660150476838" />
+    <state width="1874" height="378" key="GridCell.Tab.2.center/0.25.1440.875/-251.-1055.1920.1055@-251.-1055.1920.1055" timestamp="1653294248883" />
+    <state width="1874" height="283" key="GridCell.Tab.2.center/0.25.1440.875/-254.-1055.1920.1055@-254.-1055.1920.1055" timestamp="1658742680801" />
+    <state width="1394" height="346" key="GridCell.Tab.2.center/0.25.1440.875/-254.-1055.1920.1055@0.25.1440.875" timestamp="1659326863124" />
+    <state width="1394" height="272" key="GridCell.Tab.2.center/0.25.1440.875@0.25.1440.875" timestamp="1660612676236" />
+    <state width="1874" height="378" key="GridCell.Tab.2.center/0.25.1920.1055@0.25.1920.1055" timestamp="1653655773869" />
+    <state width="1394" height="272" key="GridCell.Tab.2.left" timestamp="1660702589428">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1394" height="272" key="GridCell.Tab.2.left/0.25.1440.875/-1920.-48.1920.1055@0.25.1440.875" timestamp="1660702589428" />
+    <state width="1874" height="283" key="GridCell.Tab.2.left/0.25.1440.875/-209.-1055.1920.1055@-209.-1055.1920.1055" timestamp="1657323376946" />
+    <state width="1874" height="300" key="GridCell.Tab.2.left/0.25.1440.875/-220.-1055.1920.1055@-220.-1055.1920.1055" timestamp="1659578623509" />
+    <state width="1394" height="272" key="GridCell.Tab.2.left/0.25.1440.875/-220.-1055.1920.1055@0.25.1440.875" timestamp="1660150476837" />
+    <state width="1874" height="378" key="GridCell.Tab.2.left/0.25.1440.875/-251.-1055.1920.1055@-251.-1055.1920.1055" timestamp="1653294248882" />
+    <state width="1874" height="283" key="GridCell.Tab.2.left/0.25.1440.875/-254.-1055.1920.1055@-254.-1055.1920.1055" timestamp="1658742680801" />
+    <state width="1394" height="346" key="GridCell.Tab.2.left/0.25.1440.875/-254.-1055.1920.1055@0.25.1440.875" timestamp="1659326863124" />
+    <state width="1394" height="272" key="GridCell.Tab.2.left/0.25.1440.875@0.25.1440.875" timestamp="1660612676236" />
+    <state width="1874" height="378" key="GridCell.Tab.2.left/0.25.1920.1055@0.25.1920.1055" timestamp="1653655773868" />
+    <state width="1394" height="272" key="GridCell.Tab.2.right" timestamp="1660702589429">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1394" height="272" key="GridCell.Tab.2.right/0.25.1440.875/-1920.-48.1920.1055@0.25.1440.875" timestamp="1660702589429" />
+    <state width="1874" height="283" key="GridCell.Tab.2.right/0.25.1440.875/-209.-1055.1920.1055@-209.-1055.1920.1055" timestamp="1657323376947" />
+    <state width="1874" height="300" key="GridCell.Tab.2.right/0.25.1440.875/-220.-1055.1920.1055@-220.-1055.1920.1055" timestamp="1659578623509" />
+    <state width="1394" height="272" key="GridCell.Tab.2.right/0.25.1440.875/-220.-1055.1920.1055@0.25.1440.875" timestamp="1660150476838" />
+    <state width="1874" height="378" key="GridCell.Tab.2.right/0.25.1440.875/-251.-1055.1920.1055@-251.-1055.1920.1055" timestamp="1653294248884" />
+    <state width="1874" height="283" key="GridCell.Tab.2.right/0.25.1440.875/-254.-1055.1920.1055@-254.-1055.1920.1055" timestamp="1658742680802" />
+    <state width="1394" height="346" key="GridCell.Tab.2.right/0.25.1440.875/-254.-1055.1920.1055@0.25.1440.875" timestamp="1659326863125" />
+    <state width="1394" height="272" key="GridCell.Tab.2.right/0.25.1440.875@0.25.1440.875" timestamp="1660612676236" />
+    <state width="1874" height="378" key="GridCell.Tab.2.right/0.25.1920.1055@0.25.1920.1055" timestamp="1653655773870" />
+    <state x="25" y="-819" key="IDE.errors.dialog" timestamp="1658110291479">
+      <screen x="-254" y="-1055" width="1920" height="1055" />
+    </state>
+    <state x="25" y="-819" key="IDE.errors.dialog/0.25.1440.875/-254.-1055.1920.1055@-254.-1055.1920.1055" timestamp="1658110291479" />
+    <state x="0" y="25" width="1440" height="875" key="MergeDialog" timestamp="1660552572254">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="-251" y="-1055" width="1920" height="1055" key="MergeDialog/0.25.1440.875/-251.-1055.1920.1055@-251.-1055.1920.1055" timestamp="1652844350590" />
+    <state x="-254" y="-1055" width="1920" height="1055" key="MergeDialog/0.25.1440.875/-254.-1055.1920.1055@-254.-1055.1920.1055" timestamp="1657679833249" />
+    <state x="0" y="25" width="1440" height="875" key="MergeDialog/0.25.1440.875/-254.-1055.1920.1055@0.25.1440.875" timestamp="1659322435911" />
+    <state x="0" y="25" width="1437" height="875" key="MergeDialog/0.25.1440.875@0.25.1440.875" timestamp="1660552572254" />
+    <state x="361" y="178" width="766" height="484" key="MultipleFileMergeDialog" timestamp="1660552572312">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="230" y="-871" key="MultipleFileMergeDialog/0.25.1440.875/-251.-1055.1920.1055@-251.-1055.1920.1055" timestamp="1652844350801" />
+    <state x="227" y="-871" key="MultipleFileMergeDialog/0.25.1440.875/-254.-1055.1920.1055@-254.-1055.1920.1055" timestamp="1657244550778" />
+    <state x="361" y="178" key="MultipleFileMergeDialog/0.25.1440.875/-254.-1055.1920.1055@0.25.1440.875" timestamp="1659322436234" />
+    <state x="361" y="178" key="MultipleFileMergeDialog/0.25.1440.875@0.25.1440.875" timestamp="1660552572312" />
+    <state x="258" y="146" key="NewModule_or_Project.wizard" timestamp="1658893724956">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="258" y="146" key="NewModule_or_Project.wizard/0.25.1440.875/-254.-1055.1920.1055@0.25.1440.875" timestamp="1658893724956" />
+    <state x="384" y="62" width="671" height="792" key="RefactorJ.ExtractClass" timestamp="1660543813850">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="384" y="62" width="671" height="792" key="RefactorJ.ExtractClass/0.25.1440.875@0.25.1440.875" timestamp="1660543813850" />
+    <state x="410" y="34" width="755" height="786" key="RefactorJ.IntroduceParameterObject" timestamp="1660534430149">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="410" y="34" width="755" height="786" key="RefactorJ.IntroduceParameterObject/0.25.1440.875@0.25.1440.875" timestamp="1660534430149" />
+    <state x="200" y="-928" key="Registry" timestamp="1655460064013">
+      <screen x="-254" y="-1055" width="1920" height="1055" />
+    </state>
+    <state x="200" y="-928" key="Registry/0.25.1440.875/-254.-1055.1920.1055@-254.-1055.1920.1055" timestamp="1655460064013" />
+    <state x="554" y="399" key="ReplaceDuplicatesPrompt" timestamp="1660268919233">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="485" y="-604" key="ReplaceDuplicatesPrompt/0.25.1440.875/-254.-1055.1920.1055@-254.-1055.1920.1055" timestamp="1658115134518" />
+    <state x="554" y="399" key="ReplaceDuplicatesPrompt/0.25.1440.875@0.25.1440.875" timestamp="1660268919233" />
+    <state x="374" y="140" width="579" height="754" key="RollbackChangesDialog" timestamp="1660701615024">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="374" y="140" key="RollbackChangesDialog/0.25.1440.875/-1920.-48.1920.1055@0.25.1440.875" timestamp="1660701615024" />
+    <state x="279" y="-916" key="RollbackChangesDialog/0.25.1440.875/-220.-1055.1920.1055@-220.-1055.1920.1055" timestamp="1660009572500" />
+    <state x="374" y="140" key="RollbackChangesDialog/0.25.1440.875/-220.-1055.1920.1055@0.25.1440.875" timestamp="1659597370246" />
+    <state x="248" y="-916" key="RollbackChangesDialog/0.25.1440.875/-251.-1055.1920.1055@-251.-1055.1920.1055" timestamp="1653298400861" />
+    <state x="245" y="-916" key="RollbackChangesDialog/0.25.1440.875/-254.-1055.1920.1055@-254.-1055.1920.1055" timestamp="1658742702300" />
+    <state x="374" y="140" key="RollbackChangesDialog/0.25.1440.875/-254.-1055.1920.1055@0.25.1440.875" timestamp="1658884342388" />
+    <state x="374" y="140" key="RollbackChangesDialog/0.25.1440.875@0.25.1440.875" timestamp="1660615222666" />
+    <state x="69" y="25" width="1371" height="875" key="SettingsEditor" timestamp="1660648397639">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="69" y="25" key="SettingsEditor/0.25.1440.875/-1920.-48.1920.1055@0.25.1440.875" timestamp="1660648397639" />
+    <state x="46" y="-1028" key="SettingsEditor/0.25.1440.875/-209.-1055.1920.1055@-209.-1055.1920.1055" timestamp="1655623211927" />
+    <state x="69" y="25" width="1371" height="875" key="SettingsEditor/0.25.1440.875/-220.-1055.1920.1055@0.25.1440.875" timestamp="1660125534757" />
+    <state x="5" y="-1027" key="SettingsEditor/0.25.1440.875/-251.-1055.1920.1055@-251.-1055.1920.1055" timestamp="1653020863189" />
+    <state x="232" y="-996" width="1371" height="897" key="SettingsEditor/0.25.1440.875/-254.-1055.1920.1055@-254.-1055.1920.1055" timestamp="1658304484405" />
+    <state x="191" y="47" key="SettingsEditor/0.25.1440.875/-254.-1055.1920.1055@0.25.1440.875" timestamp="1658711781648" />
+    <state x="761" y="326" width="612" height="544" key="StructurePopup" timestamp="1660878935675">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="434" y="228" width="627" height="562" key="StructurePopup/0.0.1440.900/-251.-1055.1920.1055@0.0.1440.900" timestamp="1652426343655" />
+    <state x="761" y="326" width="612" height="544" key="StructurePopup/0.25.1440.875/-1920.-48.1920.1055@0.25.1440.875" timestamp="1660878935675" />
+    <state x="370" y="-787" width="836" height="658" key="StructurePopup/0.25.1440.875/-209.-1055.1920.1055@-209.-1055.1920.1055" timestamp="1657321509741" />
+    <state x="359" y="-787" width="836" height="659" key="StructurePopup/0.25.1440.875/-220.-1055.1920.1055@-220.-1055.1920.1055" timestamp="1660276133707" />
+    <state x="328" y="-787" width="836" height="658" key="StructurePopup/0.25.1440.875/-251.-1055.1920.1055@-251.-1055.1920.1055" timestamp="1652779366776" />
+    <state x="434" y="247" width="627" height="546" key="StructurePopup/0.25.1440.875/-251.-1055.1920.1055@0.25.1440.875" timestamp="1652671714653" />
+    <state x="325" y="-787" width="836" height="658" key="StructurePopup/0.25.1440.875/-254.-1055.1920.1055@-254.-1055.1920.1055" timestamp="1658730412107" />
+    <state x="434" y="247" width="627" height="546" key="StructurePopup/0.25.1440.875/-254.-1055.1920.1055@0.25.1440.875" timestamp="1658800539335" />
+    <state x="761" y="326" width="612" height="544" key="StructurePopup/0.25.1440.875@0.25.1440.875" timestamp="1660564341605" />
+    <state width="1319" height="776" key="SwitcherDM" timestamp="1660701632162">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1319" height="776" key="SwitcherDM/0.25.1440.875/-1920.-48.1920.1055@0.25.1440.875" timestamp="1660701632162" />
+    <state width="1759" height="937" key="SwitcherDM/0.25.1440.875/-209.-1055.1920.1055@-209.-1055.1920.1055" timestamp="1657426336666" />
+    <state width="1760" height="939" key="SwitcherDM/0.25.1440.875/-220.-1055.1920.1055@-220.-1055.1920.1055" timestamp="1660275939997" />
+    <state width="1759" height="937" key="SwitcherDM/0.25.1440.875/-251.-1055.1920.1055@-251.-1055.1920.1055" timestamp="1652701708452" />
+    <state width="1759" height="937" key="SwitcherDM/0.25.1440.875/-254.-1055.1920.1055@-254.-1055.1920.1055" timestamp="1658735192707" />
+    <state width="1320" height="778" key="SwitcherDM/0.25.1440.875/-254.-1055.1920.1055@0.25.1440.875" timestamp="1658818166692" />
+    <state width="1319" height="776" key="SwitcherDM/0.25.1440.875@0.25.1440.875" timestamp="1660615851399" />
+    <state x="372" y="165" key="VCS.ChangeListViewerDialog" timestamp="1659322236930">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="242" y="-886" key="VCS.ChangeListViewerDialog/0.25.1440.875/-254.-1055.1920.1055@-254.-1055.1920.1055" timestamp="1655113425539" />
+    <state x="372" y="165" key="VCS.ChangeListViewerDialog/0.25.1440.875/-254.-1055.1920.1055@0.25.1440.875" timestamp="1659322236930" />
+    <state x="141" y="95" width="1202" height="703" key="Vcs.Push.Dialog.v2" timestamp="1660877789221">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="141" y="95" key="Vcs.Push.Dialog.v2/0.25.1440.875/-1920.-48.1920.1055@0.25.1440.875" timestamp="1660877789221" />
+    <state x="182" y="-900" key="Vcs.Push.Dialog.v2/0.25.1440.875/-220.-1055.1920.1055@-220.-1055.1920.1055" timestamp="1660277340378" />
+    <state x="302" y="154" key="Vcs.Push.Dialog.v2/0.25.1440.875/-220.-1055.1920.1055@0.25.1440.875" timestamp="1660151245258" />
+    <state x="261" y="-858" key="Vcs.Push.Dialog.v2/0.25.1440.875/-251.-1055.1920.1055@-251.-1055.1920.1055" timestamp="1653012969653" />
+    <state x="239" y="-861" key="Vcs.Push.Dialog.v2/0.25.1440.875/-254.-1055.1920.1055@-254.-1055.1920.1055" timestamp="1658742715468" />
+    <state x="282" y="175" key="Vcs.Push.Dialog.v2/0.25.1440.875/-254.-1055.1920.1055@0.25.1440.875" timestamp="1659324339496" />
+    <state x="276" y="115" key="Vcs.Push.Dialog.v2/0.25.1440.875@0.25.1440.875" timestamp="1660615875334" />
+    <state width="960" height="527" key="XDebugger.FullValuePopup" timestamp="1656489319528">
+      <screen x="-254" y="-1055" width="1920" height="1055" />
+    </state>
+    <state width="960" height="527" key="XDebugger.FullValuePopup/0.25.1440.875/-254.-1055.1920.1055@-254.-1055.1920.1055" timestamp="1656489319528" />
+    <state x="100" y="125" width="1240" height="675" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1660266788396">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="100" y="125" width="1240" height="675" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.25.1440.875@0.25.1440.875" timestamp="1660266788396" />
+    <state x="10" y="33" width="1425" height="860" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1660701700208">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="88" y="107" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1660645469926">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="88" y="107" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.25.1440.875/-1920.-48.1920.1055@0.25.1440.875" timestamp="1660645469926" />
+    <state x="-134" y="-956" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.25.1440.875/-251.-1055.1920.1055@-251.-1055.1920.1055" timestamp="1652780336673" />
+    <state x="-137" y="-956" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.25.1440.875/-254.-1055.1920.1055@-254.-1055.1920.1055" timestamp="1658305194914" />
+    <state x="548" y="401" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1660535613964">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="521" y="-602" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.25.1440.875/-209.-1055.1920.1055@-209.-1055.1920.1055" timestamp="1657322072467" />
+    <state x="476" y="-602" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.25.1440.875/-254.-1055.1920.1055@-254.-1055.1920.1055" timestamp="1653533957116" />
+    <state x="548" y="401" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.25.1440.875@0.25.1440.875" timestamp="1660535613964" />
+    <state x="222" y="222" width="911" height="641" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1660621451562">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="222" y="222" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.25.1440.875/-1920.-48.1920.1055@0.25.1440.875" timestamp="1660621451562" />
+    <state x="42" y="-817" width="911" height="641" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.25.1440.875/-254.-1055.1920.1055@-254.-1055.1920.1055" timestamp="1658471784332" />
+    <state x="222" y="222" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.25.1440.875/-254.-1055.1920.1055@0.25.1440.875" timestamp="1657509165701" />
+    <state x="74" y="108" width="1290" height="710" key="dock-window-1" timestamp="1657505825730">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="-155" y="-955" width="1720" height="855" key="dock-window-1/0.25.1440.875/-254.-1055.1920.1055@-254.-1055.1920.1055" timestamp="1656297093006" />
+    <state x="74" y="108" width="1290" height="710" key="dock-window-1/0.25.1440.875/-254.-1055.1920.1055@0.25.1440.875" timestamp="1657505825730" />
+    <state x="-154" y="-955" width="1720" height="855" key="dock-window-8" timestamp="1657094488199">
+      <screen x="-254" y="-1055" width="1920" height="1055" />
+    </state>
+    <state x="-154" y="-955" width="1720" height="855" key="dock-window-8/0.25.1440.875/-254.-1055.1920.1055@-254.-1055.1920.1055" timestamp="1657094488199" />
+    <state x="451" y="-779" key="extract.method.dialog" timestamp="1657425727905">
+      <screen x="-209" y="-1055" width="1920" height="1055" />
+    </state>
+    <state x="451" y="-779" key="extract.method.dialog/0.25.1440.875/-209.-1055.1920.1055@-209.-1055.1920.1055" timestamp="1657425727905" />
+    <state x="406" y="-779" key="extract.method.dialog/0.25.1440.875/-254.-1055.1920.1055@-254.-1055.1920.1055" timestamp="1653538085368" />
+    <state x="178" y="171" width="1002" height="647" key="find.popup" timestamp="1660879113574">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="185" y="63" width="1023" height="668" key="find.popup/0.0.1440.900/-251.-1055.1920.1055@0.0.1440.900" timestamp="1652429328038" />
+    <state x="178" y="171" width="1002" height="647" key="find.popup/0.25.1440.875/-1920.-48.1920.1055@0.25.1440.875" timestamp="1660879113574" />
+    <state x="143" y="-953" width="1336" height="782" key="find.popup/0.25.1440.875/-220.-1055.1920.1055@-220.-1055.1920.1055" timestamp="1660275962377" />
+    <state x="-4" y="-981" width="1364" height="782" key="find.popup/0.25.1440.875/-251.-1055.1920.1055@-251.-1055.1920.1055" timestamp="1653017157828" />
+    <state x="271" y="110" width="1002" height="647" key="find.popup/0.25.1440.875/-251.-1055.1920.1055@0.25.1440.875" timestamp="1653448507733" />
+    <state x="108" y="-953" width="1336" height="781" key="find.popup/0.25.1440.875/-254.-1055.1920.1055@-254.-1055.1920.1055" timestamp="1658741242483" />
+    <state x="272" y="110" width="1002" height="648" key="find.popup/0.25.1440.875/-254.-1055.1920.1055@0.25.1440.875" timestamp="1659327209065" />
+    <state x="178" y="171" width="1002" height="647" key="find.popup/0.25.1440.875@0.25.1440.875" timestamp="1660611924421" />
+    <state x="361" y="118" width="527" height="418" key="git4idea.branch.GitSmartOperationDialog" timestamp="1660643876160">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="361" y="118" key="git4idea.branch.GitSmartOperationDialog/0.25.1440.875/-1920.-48.1920.1055@0.25.1440.875" timestamp="1660643876160" />
+    <state x="346" y="-869" key="git4idea.branch.GitSmartOperationDialog/0.25.1440.875/-220.-1055.1920.1055@-220.-1055.1920.1055" timestamp="1659575995438" />
+    <state x="425" y="179" width="527" height="418" key="git4idea.branch.GitSmartOperationDialog/0.25.1440.875/-220.-1055.1920.1055@0.25.1440.875" timestamp="1659597359107" />
+    <state x="-251" y="-931" key="git4idea.branch.GitSmartOperationDialog/0.25.1440.875/-251.-1055.1920.1055@-251.-1055.1920.1055" timestamp="1653298402582" />
+    <state x="312" y="-869" key="git4idea.branch.GitSmartOperationDialog/0.25.1440.875/-254.-1055.1920.1055@-254.-1055.1920.1055" timestamp="1658456369872" />
+    <state x="361" y="118" key="git4idea.branch.GitSmartOperationDialog/0.25.1440.875/-254.-1055.1920.1055@0.25.1440.875" timestamp="1657529564779" />
+    <state x="361" y="118" key="git4idea.branch.GitSmartOperationDialog/0.25.1440.875@0.25.1440.875" timestamp="1660551726680" />
+    <state x="526" y="370" width="492" height="194" key="git4idea.ui.GitStashDialog" timestamp="1660311049038">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="447" y="-639" key="git4idea.ui.GitStashDialog/0.25.1440.875/-254.-1055.1920.1055@-254.-1055.1920.1055" timestamp="1657192417952" />
+    <state x="526" y="370" width="492" height="194" key="git4idea.ui.GitStashDialog/0.25.1440.875/-254.-1055.1920.1055@0.25.1440.875" timestamp="1659322208878" />
+    <state x="526" y="370" width="492" height="194" key="git4idea.ui.GitStashDialog/0.25.1440.875@0.25.1440.875" timestamp="1660311049038" />
+    <state x="315" y="294" width="703" height="380" key="git4idea.ui.GitUnstashDialog" timestamp="1660312109932">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="169" y="-731" key="git4idea.ui.GitUnstashDialog/0.25.1440.875/-251.-1055.1920.1055@-251.-1055.1920.1055" timestamp="1652767746839" />
+    <state x="166" y="-731" key="git4idea.ui.GitUnstashDialog/0.25.1440.875/-254.-1055.1920.1055@-254.-1055.1920.1055" timestamp="1657193065560" />
+    <state x="315" y="294" key="git4idea.ui.GitUnstashDialog/0.25.1440.875/-254.-1055.1920.1055@0.25.1440.875" timestamp="1659322239020" />
+    <state x="315" y="294" key="git4idea.ui.GitUnstashDialog/0.25.1440.875@0.25.1440.875" timestamp="1660312109932" />
+    <state width="1197" height="516" key="javadoc.popup" timestamp="1659510110127">
+      <screen x="-220" y="-1055" width="1920" height="1055" />
+    </state>
+    <state width="552" height="388" key="javadoc.popup.new" timestamp="1660646806863">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="552" height="388" key="javadoc.popup.new/0.25.1440.875/-1920.-48.1920.1055@0.25.1440.875" timestamp="1660646806863" />
+    <state width="736" height="467" key="javadoc.popup.new/0.25.1440.875/-220.-1055.1920.1055@-220.-1055.1920.1055" timestamp="1660209877726" />
+    <state width="552" height="387" key="javadoc.popup.new/0.25.1440.875/-220.-1055.1920.1055@0.25.1440.875" timestamp="1659508734957" />
+    <state width="552" height="386" key="javadoc.popup.new/0.25.1440.875/-251.-1055.1920.1055@0.25.1440.875" timestamp="1653448464906" />
+    <state width="736" height="466" key="javadoc.popup.new/0.25.1440.875/-254.-1055.1920.1055@-254.-1055.1920.1055" timestamp="1658474743796" />
+    <state width="552" height="387" key="javadoc.popup.new/0.25.1440.875/-254.-1055.1920.1055@0.25.1440.875" timestamp="1658885218407" />
+    <state width="552" height="388" key="javadoc.popup.new/0.25.1440.875@0.25.1440.875" timestamp="1660527481360" />
+    <state width="1197" height="516" key="javadoc.popup/0.25.1440.875/-220.-1055.1920.1055@-220.-1055.1920.1055" timestamp="1659510110127" />
+    <state width="1197" height="516" key="javadoc.popup/0.25.1440.875/-254.-1055.1920.1055@-254.-1055.1920.1055" timestamp="1658458958542" />
+    <state width="910" height="208" key="javadoc.popup/0.25.1440.875/-254.-1055.1920.1055@0.25.1440.875" timestamp="1657535212369" />
+    <state x="0" y="25" width="1440" height="875" key="recent.locations.popup" timestamp="1660526772932">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="0" y="25" width="1440" height="875" key="recent.locations.popup/0.25.1440.875@0.25.1440.875" timestamp="1660526772932" />
+    <state x="283" y="129" width="861" height="688" key="refactoring.ChangeSignatureDialog" timestamp="1660552086307">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="123" y="-930" width="861" height="688" key="refactoring.ChangeSignatureDialog/0.25.1440.875/-254.-1055.1920.1055@-254.-1055.1920.1055" timestamp="1656989485168" />
+    <state x="283" y="129" key="refactoring.ChangeSignatureDialog/0.25.1440.875@0.25.1440.875" timestamp="1660552086307" />
+    <state x="203" y="125" width="786" height="158" key="search.everywhere.popup" timestamp="1660889324385">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="203" y="125" width="786" height="158" key="search.everywhere.popup/0.25.1440.875/-1920.-48.1920.1055@0.25.1440.875" timestamp="1660889324385" />
+    <state x="62" y="-934" width="1048" height="191" key="search.everywhere.popup/0.25.1440.875/-209.-1055.1920.1055@-209.-1055.1920.1055" timestamp="1657363644480" />
+    <state x="51" y="-934" width="1048" height="191" key="search.everywhere.popup/0.25.1440.875/-220.-1055.1920.1055@-220.-1055.1920.1055" timestamp="1660204602171" />
+    <state x="203" y="125" width="786" height="158" key="search.everywhere.popup/0.25.1440.875/-220.-1055.1920.1055@0.25.1440.875" timestamp="1660200725284" />
+    <state x="20" y="-934" width="789" height="409" key="search.everywhere.popup/0.25.1440.875/-251.-1055.1920.1055@-251.-1055.1920.1055" timestamp="1653011484568" />
+    <state x="203" y="125" width="786" height="158" key="search.everywhere.popup/0.25.1440.875/-251.-1055.1920.1055@0.25.1440.875" timestamp="1653450972546" />
+    <state x="17" y="-934" width="1048" height="489" key="search.everywhere.popup/0.25.1440.875/-254.-1055.1920.1055@-254.-1055.1920.1055" timestamp="1658730243971" />
+    <state x="203" y="125" width="786" height="158" key="search.everywhere.popup/0.25.1440.875/-254.-1055.1920.1055@0.25.1440.875" timestamp="1658891897413" />
+    <state x="203" y="125" width="786" height="158" key="search.everywhere.popup/0.25.1440.875@0.25.1440.875" timestamp="1660556538887" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateCodeFragment">
+      <expression>
+        <expression-string>storeProductList.stream().filter(item -&gt; !CollectionUtils.isEmpty(item.getBuyProductList())).collect(Collectors.toList())</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>storeProductList.stream().filter(item -&gt; CollectionUtils.isEmpty(item.getBuyProductList())).collect(Collectors.toList())</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>comProStockDataService.getStock(mallProduct.getId(), inventoryExist ? cartProductDTO.getInvId() : null)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>threadLocalUtil.enterFill(5);</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>ThreadLocalUtil.enterFill(3)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>threadLocal.</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>threadLocalUtil.get</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>map.get(this.makeUpOnly(type, onlyDent))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>threadLocal.get()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>invNum &lt; unitConversion.intValue()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>invNum&gt; unitConversion.intValue()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>invNum&lt;unitConversion</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>new BigDecimal(invNum).divide(unitConversion)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>comProStockDataService.getStock(product.getId(),null)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>comProStockDataService.getStock(product.getId())</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>this.comProDuctService.proStockVerAmpleThread(proStockList)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>10/1</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Integer.valueOf(String.valueOf(1 / 1.3));</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>java.math.BigInteger</custom-info>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>String.valueOf(1 / 1.3)</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>java.math.BigInteger</custom-info>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Integer.valueOf(1 / 1.3);</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>java.math.BigInteger</custom-info>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>1/1.3</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>java.math.BigInteger</custom-info>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>new BigDecimal(new BigInteger(1)).divide(new BigDecimal(2))</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>java.math.BigInteger</custom-info>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>new BigDecimal(new BigInteger(1)).divide(new BigDecimal(1))</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>java.math.BigInteger</custom-info>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>new BigDecimal(new BigInteger(1)).divide(new BigDecimal(1.3))</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>java.math.BigInteger</custom-info>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>new BigDecimal(new BigInteger(1)).divide(new BigDecimal(1.3)).intValue();</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>java.math.BigInteger</custom-info>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>new BigDecimal(1).divide(new BigDecimal(1.3)).intValue();</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>new BigDecimal(1).divide(1.3f).intValue();</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>int a =1/1.3</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>1/1.3</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>24/1</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>1/1</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>1/10</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>12/10</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>48/3</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>inventoryList.stream().map(MallProductInventory::getUnitId).collect(Collectors.toList())</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>java.util.stream.Collectors</custom-info>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>inventoryList.stream().filter(item -&gt; Objects.equals(item.getId(), invId)).findFirst().map(MallProductInventory::getUnitId).orElse(0L);</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>effectDay = orderInfo.getCreateTime().plusDays(2).toLocalDate();</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>detailList.stream().collect(Collectors.groupingBy(mod -&gt; mod.getInvId()))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>detailList.stream().collect(Collectors.groupingBy(mod -&gt; mod.getInvId())</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>final Map&lt;Long, Map&lt;Long, List&lt;MallOrderDetail&gt;&gt;&gt; collect = detailList.stream().collect(Collectors.groupingBy(mod -&gt; mod.getProductId(), Collectors.groupingBy(MallOrderDetail::getInvId)));</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>detailList</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>DateUtil.isBetweenDate(start, end, validDate)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>submitProductDTOList.stream()
+        .filter(item -&gt; item.getActType()== ProActStyleConstant.SKILL)
+        .map(item -&gt; {
+            MallActivityCommonCondition.ActivityProductApiForm condition = new MallActivityCommonCondition.ActivityProductApiForm();
+            condition.setActivityId(item.getActivityId());
+            condition.setProductId(item.getProId());
+            return condition;
+        }).collect(Collectors.toList());</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>List&lt;Integer&gt; a =Lists.newArrayList(1,2);
+a.contains(1)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>List&lt;Integer&gt; a =Lists.newArrayList(1,2);
+a.contains(1L)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>product.getActType()==ProActStyleConstant.SKILL</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>buyInfoBOList.stream()
+        .filter(buyInfoBO -&gt;
+                buyInfoBO.getContentFormat().equals(9))
+        .findFirst()
+        .map(BuyInfoBO::getContentList).orElse(null);</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>buyInfoBOList.get(2).getContentList()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>buyInfoBOList.get(2)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>buyInfoBOList.stream().filter(buyInfoBO -&gt; Objects.equals(buyInfoBO.getContentFormat(),9)).collect(Collectors.toList())</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>java.util.stream.Collectors</custom-info>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>buyInfoBOList.stream().filter(buyInfoBO -&gt; Objects.equals(buyInfoBO.getContentFormat(),9))</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>java.util.stream.Collectors</custom-info>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>buyInfoBOList.stream().filter(buyInfoBO -&gt; buyInfoBO.getContentFormat().equals(9)).collect(Collectors.toList())</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>java.util.stream.Collectors</custom-info>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>buyInfoBOList.stream().filter(buyInfoBO -&gt; buyInfoBO.getContentFormat().equals(9)).findFirst().orElse(null);</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>String ss= LocalDateTime.of(2022,1,1,12,2,2).toString();
+LocalDateTime dd=LocalDateTime.parse(ss, DateTimeFormatter.ofPattern(&quot;yyyy-MM-dd HH:mm:ss&quot;));
+
+payOrderCondition.getTicketBasic().getTicketUse().setStartDateTime(dd);</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>java.time.format.DateTimeFormatter</custom-info>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>String ss= LocalDateTime.of(2022,1,1,12,2,2).toString();
+LocalDateTime dd=LocalDateTime.parse(ss, DateTimeFormatter.ofPattern(&quot;yyyy-MM-dd HH:mm:ss&quot;));
+payOrderCondition.getTicketBasic().getTicketUse().setStartDateTime(dd);</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>java.time.format.DateTimeFormatter</custom-info>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>payOrderCondition.getTicketBasic().getTicketUse().setStartDateTime(LocalDateTime.parse(LocalDateTime.of(2022,1,1,12,2,2).toString(),DateUtil.YYYY_MM_DD_HH_MM_SS));</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>payOrderCondition.getTicketBasic().getTicketUse().setStartDateTime(LocalDateTime.parse(LocalDateTime.of(2022,1,1,12,2,2)).toString(),DateUtil.YYYY_MM_DD_HH_MM_SS);</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>payOrderCondition.getTicketBasic().getTicketUse().setStartDateTime(LocalDateTime.of(2022,1,1,12,2,2));</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>payOrder.getTicketBasic().getTicketUse().setStartDateTime(LocalDateTime.now());</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>java.time.LocalDateTime</custom-info>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>bePaySetBasicData.setLogisticsPriority(2);</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>log.info(&quot;步行距离计算 商家经纬度{},{}&quot;,shopInfoDTO.getLongitude(),shopInfoDTO.getLatitude());</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>log.info(&quot;步行距离计算 用户经纬度{},{}&quot;,memLongitude,memLatitude);</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>log.info(&quot;步行距离计算 商家经纬度={},{},用户经纬度%s,%s&quot;,memLongitude,memLatitude,shopInfoDTO.getDetailAddress(),beAddressData.getMemAddress());</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>log.info(&quot;步行距离计算 商家经纬度={},{},用户经纬度{},{}&quot;,memLongitude,memLatitude,shopInfoDTO.getDetailAddress(),beAddressData.getMemAddress());</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>log.info(&quot;步行距离计算 商家经纬度={},{},用户经纬度{},{},商家地址={},用户地址={}&quot;,shopInfoDTO.getLongitude(),shopInfoDTO.getLatitude(),memLongitude,memLatitude,shopInfoDTO.getDetailAddress(),beAddressData.getMemAddress());</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>log.info(&quot;步行距离计算 商家经纬度={}&quot;,shopInfoDTO.getLongitude(),shopInfoDTO.getLatitude());</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>log.info(&quot;步行距离计算 商家经纬度=%s&quot;,shopInfoDTO.getLongitude(),shopInfoDTO.getLatitude());</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>log.info(&quot;步行距离计算 商家经纬度=%s,%s&quot;,shopInfoDTO.getLongitude(),shopInfoDTO.getLatitude());</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>log.info(&quot;步行距离计算 商家经纬度=%s,%s,用户经纬度%s,%s,商家地址=%s,用户地址=%s&quot;,shopInfoDTO.getLongitude(),shopInfoDTO.getLatitude(),memLongitude,memLatitude,shopInfoDTO.getDetailAddress(),beAddressData.getMemAddress());</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>log.info(&quot;{}&quot;,1)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>log.info(&quot;{%s}&quot;,1)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>log.info(&quot;%s&quot;,1)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>log.info(&quot;aa&quot;);</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>log.info(&quot;步行距离计算 商家经纬度={%s,%s},用户经纬度{%s,%s},商家地址={%s},用户地址={%s}&quot;,shopInfoDTO.getLongitude(),shopInfoDTO.getLatitude(),memLongitude,memLatitude,shopInfoDTO.getAddress(),beAddressData.getMemAddress());</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>final List&lt;BeUnifyOrderSubmitBO.ShopCardDis&gt; shopCardDis = entry.getValue().get(0).getShopCardDis();
+shopCardDis.addAll(shopCardDisList)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>entry.getValue().get(0).getShopCardDis()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>BigDecimal.ZERO.compareTo(value2)==0</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>BigDecimal.ZERO.compareTo(value2)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>BigDecimal.ZERO.equals(value2)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>value2.equals(BigDecimal.ZERO)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>mallIntraCityRange.getAddNums().intValue()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>List&lt;ShopCardDiscountViewVO.ShopCardVO&gt; generalCardVOList = shopCardList.stream()
+        .filter(item -&gt; !existDiscountPriceCardIds.contains(item.getId())
+                &amp;&amp; (StringUtils.equals(item.getShopId(), &quot;0&quot;) ||
+                orderShopIds.stream().allMatch(shopId -&gt; item.getShopId() != null &amp;&amp; item.getShopId().contains(shopId.toString()))))
+        .map(item -&gt; ShopCardDiscountViewVO.ShopCardVO.builder()
+                .receiveId(item.getReceiveId())
+                .shopCardId(item.getId())
+                .cardNo(item.getCardNo())
+                .cardName(item.getCardName())
+                .type(0)
+                .balance(BigDecimalUtil.getBigDecimal_2(item.getBalance()))
+                .build())
+        .collect(Collectors.toList());</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>storeList.stream().filter(item -&gt; storeIds.contains(item.getId())).collect(Collectors.toList());</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>storeList.stream().filter(item -&gt; storeIds.contains(item.getId())).map(StoreListVO::getWxShopId).collect(Collectors.toList());</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>shopCardList.stream()
+        .filter(item -&gt; !existDiscountPriceCardIds.contains(item.getId())
+                &amp;&amp; (StringUtils.equals(item.getShopId(), &quot;0&quot;) ||
+                orderShopIds.stream().anyMatch(shopId -&gt; item.getShopId() != null &amp;&amp; item.getShopId().contains(shopId.toString()))))
+        .collect(Collectors.toList())</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>java.util.stream.Collectors</custom-info>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>shopCardProductList.stream()
+                .filter(shopCardProduct -&gt; shopCardProduct.getShopCardId().equals(shopCard.getId())&amp;&amp;shopCardProduct.getProId().equals(item.getProId()))
+                .collect(Collectors.toList())</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>java.util.stream.Collectors</custom-info>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>shopCardProductList.stream()
+                .filter(shopCardProduct -&gt; shopCardProduct.getShopCardId().equals(shopCard.getId())&amp;&amp;shopCardProduct.getProId().equals(item.getProId()))
+                .findFirst()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>shopCardProductList.stream()
+                .filter(shopCardProduct -&gt; shopCardProduct.getProId().equals(item.getProId()))
+                .findFirst()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>shopCardProductList.stream()
+                .filter(shopCardProduct -&gt; shopCardProduct.getProId().equals(item.getProId()))
+                .findFirst()
+                .map(MallShopCardProduct::getDiscountValue)
+                .orElse(null);</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>bo.getReceiveIds().contains(thShopCardService.findShopCardInfoList(bo.getBusId(), bo.getMemberId()).getShoppingCardInfoOutVos().get(0).getReceiveId());</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>java.util.Optional,com.duofriend.plugin.sdk.member.vo.shopcard.ShoppingCardOutVO,java.util.Collections,java.util.Objects,java.util.stream.Collectors</custom-info>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>thShopCardService.findShopCardInfoList(bo.getBusId(), bo.getMemberId()).getShoppingCardInfoOutVos().get(0).getReceiveId()</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>java.util.Optional,com.duofriend.plugin.sdk.member.vo.shopcard.ShoppingCardOutVO,java.util.Collections,java.util.Objects,java.util.stream.Collectors</custom-info>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Optional.ofNullable(thShopCardService.findShopCardInfoList(bo.getBusId(), bo.getMemberId()))
+    .map(ShoppingCardOutVO::getShoppingCardInfoOutVos)
+    .orElse(Collections.emptyList())
+    .stream()
+    .filter(item -&gt; bo.getReceiveIds().contains(item.getId()))
+    .collect(Collectors.toList());</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>java.util.Optional,com.duofriend.plugin.sdk.member.vo.shopcard.ShoppingCardOutVO,java.util.Collections,java.util.Objects,java.util.stream.Collectors</custom-info>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Optional.ofNullable(thShopCardService.findShopCardInfoList(bo.getBusId(), bo.getMemberId()))
+    .map(ShoppingCardOutVO::getShoppingCardInfoOutVos)
+    .orElse(Collections.emptyList())</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>java.util.Optional,com.duofriend.plugin.sdk.member.vo.shopcard.ShoppingCardOutVO,java.util.Collections,java.util.Objects,java.util.stream.Collectors</custom-info>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Optional.ofNullable(thShopCardService.findShopCardInfoList(bo.getBusId(), bo.getMemberId()))
+    .map(ShoppingCardOutVO::getShoppingCardInfoOutVos)
+    .orElse(Collections.emptyList())
+    .stream()
+    .filter(item -&gt; Objects.nonNull(item) &amp;&amp; Objects.equals(item.getCardType(), 0) &amp;&amp; item.getBalance() &gt; 0 &amp;&amp; bo.getReceiveIds().contains(item.getId()))
+    .collect(Collectors.toList())</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>java.util.Optional,com.duofriend.plugin.sdk.member.vo.shopcard.ShoppingCardOutVO,java.util.Collections,java.util.Objects,java.util.stream.Collectors</custom-info>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Optional.ofNullable(thShopCardService.findShopCardInfoList(bo.getBusId(), bo.getMemberId()))
+    .map(ShoppingCardOutVO::getShoppingCardInfoOutVos)
+    .orElse(Collections.emptyList())
+    .stream()
+    .filter(item -&gt; Objects.nonNull(item) &amp;&amp; Objects.equals(item.getCardType(), 0) &amp;&amp; item.getBalance() &gt; 0 &amp;&amp; bo.getReceiveIds().contains(item.getId()))</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>java.util.Optional,com.duofriend.plugin.sdk.member.vo.shopcard.ShoppingCardOutVO,java.util.Collections,java.util.Objects</custom-info>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Optional.ofNullable(thShopCardService.findShopCardInfoList(bo.getBusId(), bo.getMemberId()))
+    .map(ShoppingCardOutVO::getShoppingCardInfoOutVos)
+    .orElse(Collections.emptyList())
+    .stream()
+    .filter(item -&gt; item.getBalance() &gt; 0)</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>java.util.Optional,com.duofriend.plugin.sdk.member.vo.shopcard.ShoppingCardOutVO,java.util.Collections</custom-info>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Optional.ofNullable(thShopCardService.findShopCardInfoList(bo.getBusId(), bo.getMemberId()))
+    .map(ShoppingCardOutVO::getShoppingCardInfoOutVos)
+    .orElse(Collections.emptyList())</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>thShopCardService.findShopCardInfoList(bo.getBusId(), bo.getMemberId())</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="breakpointCondition">
+      <expression>
+        <expression-string>orderProduct.getInvId().equals(201431878049799L)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>day==20</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>day.equals(3)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>payInvBO.getProId().equals(163886546862937L)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>payInvBO.getProId().equals(85930489103343L)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>payInvBO.getProId().equals(163887442347950L)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>shopcard.get</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>shopCard.getId().equals(163888459465647L)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>shopCard.getShopId().equals(163888459465647L)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>shopCard.getReceiveId().equals(163888459465708L)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>cardPayDTO.getProId().equals(163888469951635L)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>shopCard.equals(163888459465708L)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>cardPayDTO.getProId().equals(163887442347950L)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>shopCard.getReceiveId().equals(163887087927942L)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>shopCardProduct.getId().equals(163886624458597L)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>specifyDate.isAfter(LocalDate.of(2021,11,25))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="throwExceptionValue">
+      <expression>
+        <expression-string>new NullPointerException()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>new NullPointerException()</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>javax.print.attribute.standard.NumberUp</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>new NullPointerException</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="setValue">
+      <expression>
+        <expression-string>201424705791803</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>2022-06-02</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>null</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>new LocalDateTime()</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>java.time.LocalDateTime</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>true</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>2</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>false</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>4856L</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>4856</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>36</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>ThreadLocalUtil.enterFill(&quot;MEMBER&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$PROJECT_DIR$/../../Development/mavenRepostory/javax/validation/validation-api/2.0.1.Final/validation-api-2.0.1.Final-sources.jar!/javax/validation/ConstraintValidator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="34" column="17" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../Development/mavenRepostory/org/hibernate/hibernate-validator/5.1.3.Final/hibernate-validator-5.1.3.Final-sources.jar!/org/hibernate/validator/internal/constraintvalidators/DigitsValidatorForNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="443">
+          <caret line="61" column="45" lean-forward="true" selection-start-line="61" selection-start-column="45" selection-end-line="61" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../Development/mavenRepostory/javax/validation/validation-api/2.0.1.Final/validation-api-2.0.1.Final-sources.jar!/javax/validation/constraints/AssertTrue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="38" column="18" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../Development/mavenRepostory/javax/validation/validation-api/2.0.1.Final/validation-api-2.0.1.Final-sources.jar!/javax/validation/constraints/Digits.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="45" column="18" selection-start-line="45" selection-start-column="18" selection-end-line="45" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../Development/mavenRepostory/javax/validation/validation-api/2.0.1.Final/validation-api-2.0.1.Final-sources.jar!/javax/validation/constraints/DecimalMax.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="53" column="16" selection-start-line="53" selection-start-column="16" selection-end-line="53" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../Development/mavenRepostory/javax/validation/validation-api/2.0.1.Final/validation-api-2.0.1.Final-sources.jar!/javax/validation/constraints/AssertFalse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="38" column="18" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../Development/mavenRepostory/javax/validation/validation-api/2.0.1.Final/validation-api-2.0.1.Final-sources.jar!/javax/validation/bootstrap/ProviderSpecificBootstrap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="31" column="17" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../Development/mavenRepostory/javax/validation/validation-api/2.0.1.Final/validation-api-2.0.1.Final-sources.jar!/javax/validation/bootstrap/GenericBootstrap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-bean/src/main/java/com/gt/mall/bean/payset/BePaySetBasicData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="318" column="20" selection-start-line="318" selection-start-column="20" selection-end-line="318" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="120" column="8" selection-start-line="120" selection-start-column="8" selection-end-line="120" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-web-api/src/main/java/com/gt/mall/controller/newapi/eticket/MallEticketApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="91" column="39" selection-start-line="91" selection-start-column="39" selection-end-line="91" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-common/src/main/java/com/gt/mall/utils/ValidationUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="40" column="27" selection-start-line="40" selection-start-column="27" selection-end-line="40" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-web/src/main/java/com/gt/mall/controller/integral/MallIntegralController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="30" column="49" lean-forward="true" selection-start-line="30" selection-start-column="49" selection-end-line="30" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../Development/mavenRepostory/org/springframework/spring-web/5.2.13.RELEASE/spring-web-5.2.13.RELEASE-sources.jar!/org/springframework/web/bind/annotation/RequestParam.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="87" column="20" selection-start-line="87" selection-start-column="12" selection-end-line="87" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-bean/src/main/java/com/gt/mall/bean/order/uc/BeUnifyOrderSubmitBO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="439">
+          <caret line="95" column="39" lean-forward="true" selection-start-line="95" selection-start-column="39" selection-end-line="95" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-common/src/main/java/com/gt/mall/utils/annotation/constraint/IntegerRangeValidator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-common/src/main/java/com/gt/mall/utils/annotation/IntegerRange.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="25" column="24" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-common/src/main/java/com/gt/mall/enums/ResponseEnums.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2596">
+          <caret line="118" column="52" selection-start-line="118" selection-start-column="52" selection-end-line="118" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-bean/src/main/java/com/gt/mall/bean/member/BeMemberVO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1518">
+          <caret line="73" column="27" selection-start-line="73" selection-start-column="27" selection-end-line="73" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-bean/src/main/java/com/gt/mall/bean/common/AppletBasicDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="17" column="37" lean-forward="true" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-bean/src/main/java/com/gt/mall/condition/ShopCardDistributeBalanceDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="730">
+          <caret line="74" column="24" selection-start-line="74" selection-start-column="24" selection-end-line="74" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-bean/src/main/java/com/gt/mall/bean/payset/ShopCardPayViewVO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-service-common/src/main/java/com/gt/mall/service/common/coupon/impl/ComExchangeCouponServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="164" selection-start-line="164" selection-end-line="165" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-common/src/main/java/com/gt/mall/utils/PropertiesUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="1055" column="25" selection-start-line="1055" selection-start-column="25" selection-end-line="1055" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-bean/src/main/java/com/gt/mall/dto/shopcard/ShopCardViewBO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="539">
+          <caret line="46" column="26" lean-forward="true" selection-start-line="46" selection-start-column="26" selection-end-line="46" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-bean/src/main/java/com/gt/mall/bean/common/BeCommonVO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="100" column="24" selection-start-line="100" selection-start-column="24" selection-end-line="100" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-service-common/src/main/java/com/gt/mall/service/common/payset/IConPayStyleService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="74" column="23" selection-start-line="74" selection-start-column="23" selection-end-line="74" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-service-uc/src/main/java/com/gt/mall/service/unify/eticket/impl/IUnifyEticketOrderServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9321">
+          <caret line="818" column="63" lean-forward="true" selection-start-line="818" selection-start-column="63" selection-end-line="818" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-service-common/src/main/java/com/gt/mall/service/common/freight/impl/ComFreightUtilServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="1072" lean-forward="true" selection-start-line="1072" selection-end-line="1072" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-service-common/src/main/java/com/gt/mall/service/common/payset/impl/ComPaySetServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="76" column="29" selection-start-line="76" selection-start-column="29" selection-end-line="76" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../Development/mavenRepostory/com/duofriend/plugin/sdk/gt-plugin-sdk-mall-api/6.9.0-SNAPSHOT/gt-plugin-sdk-mall-api-6.9.0-20220811.082416-1-sources.jar!/com/duofriend/plugin/sdk/mall/condition/MallOrderCondition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="321" column="24" selection-start-line="321" selection-start-column="24" selection-end-line="321" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-bean/src/main/java/com/gt/mall/bean/order/pt/SubmitOrderPageInfoVO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="37" column="61" selection-start-line="37" selection-start-column="61" selection-end-line="37" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-service-uc/src/main/java/com/gt/mall/service/unify/common/impl/UnifyCommonServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="412" column="25" selection-start-line="412" selection-start-column="25" selection-end-line="412" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../Development/mavenRepostory/com/duofriend/plugin/sdk/gt-plugin-sdk-member-api/6.9.0-SNAPSHOT/gt-plugin-sdk-member-api-6.9.0-20220811.082416-1-sources.jar!/com/duofriend/plugin/sdk/member/vo/member/out/MemberVO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-web-api/src/main/java/com/gt/mall/controller/newapi/eticket/ShopCardApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="682">
+          <caret line="48" column="94" selection-start-line="48" selection-start-column="94" selection-end-line="48" selection-end-column="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-bean/src/main/java/com/gt/mall/condition/ShopCardDistributeBalanceBO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="880">
+          <caret line="48" column="34" selection-start-line="48" selection-start-column="34" selection-end-line="48" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-service-common/src/main/java/com/gt/mall/service/common/shopcard/impl/ComShopCardUtilServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12408">
+          <caret line="627" column="48" selection-start-line="627" selection-start-column="48" selection-end-line="627" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-bean/src/main/java/com/gt/mall/bean/payset/BePayStyleVO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="770">
+          <caret line="39" column="46" selection-start-line="39" selection-start-column="46" selection-end-line="39" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-web-uc/src/main/java/com/gt/mall/controller/unify/common/UnifyCommonController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1760">
+          <caret line="147" column="91" selection-start-line="147" selection-start-column="91" selection-end-line="147" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-service-uc/src/main/java/com/gt/mall/service/unify/common/IUnifyTokenService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1672">
+          <caret line="80" column="13" selection-start-line="80" selection-start-column="13" selection-end-line="80" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-bean/src/main/java/com/gt/mall/vo/shopcard/CommonMemberCardVO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="19" column="60" selection-start-line="19" selection-start-column="60" selection-end-line="19" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-service-common/src/main/java/com/gt/mall/service/common/payset/impl/ConPayStyleServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="316" column="56" lean-forward="true" selection-start-line="316" selection-start-column="56" selection-end-line="316" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/util/concurrent/ExecutorService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2244">
+          <caret line="136" column="17" selection-start-line="136" selection-start-column="17" selection-end-line="136" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/util/concurrent/ThreadFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="57" column="17" selection-start-line="57" selection-start-column="17" selection-end-line="57" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/util/concurrent/ThreadPoolExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="730">
+          <caret line="1302" column="11" selection-start-line="1302" selection-start-column="11" selection-end-line="1302" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../Development/mavenRepostory/com/alibaba/transmittable-thread-local/2.11.5/transmittable-thread-local-2.11.5-sources.jar!/com/alibaba/ttl/TransmittableThreadLocal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-13672">
+          <caret line="96" column="11" selection-start-line="96" selection-start-column="11" selection-end-line="96" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-third/src/main/java/com/gt/mall/third/thread/ThreadLocalUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1323">
+          <caret line="71" column="19" selection-start-line="71" selection-start-column="19" selection-end-line="71" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-web-uc/src/main/java/com/gt/mall/controller/unify/aspect/UnifyResubmit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-web-uc/src/main/java/com/gt/mall/controller/unify/order/UnifyOrderController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="66" column="35" selection-start-line="66" selection-start-column="35" selection-end-line="66" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-service-uc/src/main/java/com/gt/mall/service/unify/order/impl/UnifyOrderServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="2938" column="52" lean-forward="true" selection-start-line="2938" selection-start-column="52" selection-end-line="2938" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-common/src/main/java/com/gt/mall/utils/ThreadPoolUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="27" column="40" selection-start-line="27" selection-start-column="40" selection-end-line="27" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+        </settings>
+      </state>
+      <state key="Copyright.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI" />
+      <state key="GlobalLibrariesConfigurable.UI" />
+      <state key="JdkListConfigurable.UI" />
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>mall-service-applet</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.20603013" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>gt-plugin-sdk-mall-api-5.3.3-20201211.083020-1</last-edited>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

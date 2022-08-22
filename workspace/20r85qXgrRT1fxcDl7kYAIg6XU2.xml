@@ -1,0 +1,237 @@
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="mock:///Users/Alexis/Library/Caches/JetBrains/IntelliJIdea2021.2/demo/IdeaLearningProject/git/martian_cat.yml" description="ear_number:   4" line="12" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DatabaseView">
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/git/martian_cat.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>apple</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>orange</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src/warehouse</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$APPLICATION_CONFIG_DIR$/scratches/Learning.java" />
+      <option value="$PROJECT_DIR$/src/Sample.java" />
+      <option value="$PROJECT_DIR$/src/warehouse/Warehouse.java" />
+      <option value="$PROJECT_DIR$/git/puss_in_boots.yml" />
+      <option value="$PROJECT_DIR$/git/martian_cat.yml" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1" />
+    <panes />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3091000" />
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25034723" />
+      <window_info id="Structure" order="1" weight="0.25034723" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" weight="0.33020833" />
+      <window_info id="Pull Requests" order="4" />
+      <window_info id="JRebel" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Analysis" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="4" />
+      <window_info anchor="bottom" id="Debug" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Problems View" order="6" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Profiler" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.3297143" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="MyBatis Log" order="12" />
+      <window_info anchor="bottom" id="Sequence Diagram" order="13" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="14" />
+      <window_info anchor="bottom" id="Inspection" order="15" weight="0.4" />
+      <window_info anchor="bottom" id="SonarLint" order="16" />
+      <window_info anchor="bottom" id="TODO" order="17" />
+      <window_info anchor="bottom" id="JRebel Console" order="18" side_tool="true" />
+      <window_info anchor="bottom" id="Endpoints" order="19" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" order="20" />
+      <window_info anchor="bottom" id="Services" order="21" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Key Promoter X" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Word Book" order="5" side_tool="true" />
+      <window_info anchor="right" id="JRebel Setup Guide" order="6" side_tool="true" />
+      <window_info anchor="right" id="Mybatis datasource" order="7" side_tool="true" />
+      <window_info anchor="right" id="RestfulTool" order="8" />
+      <window_info anchor="right" id="Learn" order="9" visible="true" weight="0.33020833" />
+    </layout>
+    <recentWindows>
+      <value>Commit</value>
+      <value>Learn</value>
+      <value>Version Control</value>
+      <value>Structure</value>
+      <value>Find</value>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+  <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" trusted="YES" />
+  <component name="WindowStateProjectService">
+    <state x="43" y="111" key="SettingsEditor" timestamp="1636807434229">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="43" y="111" key="SettingsEditor/0.25.1440.875@0.25.1440.875" timestamp="1636807434229" />
+    <state x="450" y="212" width="540" height="524" key="StructurePopup" timestamp="1636798704339">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="450" y="212" width="540" height="524" key="StructurePopup/0.25.1440.875@0.25.1440.875" timestamp="1636798704339" />
+    <state x="290" y="165" key="VCS.ChangeListViewerDialog" timestamp="1636808214431">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="290" y="165" key="VCS.ChangeListViewerDialog/0.25.1440.875@0.25.1440.875" timestamp="1636808214431" />
+    <state x="536" y="381" key="VCS.ChangelistChooser" timestamp="1636807927551">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="536" y="381" key="VCS.ChangelistChooser/0.25.1440.875@0.25.1440.875" timestamp="1636807927551" />
+    <state x="320" y="201" key="Vcs.Push.Dialog.v2" timestamp="1636807622473">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="320" y="201" key="Vcs.Push.Dialog.v2/0.25.1440.875@0.25.1440.875" timestamp="1636807622473" />
+    <state x="100" y="125" width="1240" height="675" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1636798397686">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="100" y="125" width="1240" height="675" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.25.1440.875@0.25.1440.875" timestamp="1636798397686" />
+    <state x="472" y="144" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1636797791678">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="472" y="144" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.25.1440.875@0.25.1440.875" timestamp="1636797791678" />
+    <state x="467" y="187" width="667" height="576" key="find.popup" timestamp="1636798666261">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="467" y="187" width="667" height="576" key="find.popup/0.25.1440.875@0.25.1440.875" timestamp="1636798666261" />
+    <state width="600" height="400" key="javadoc.popup" timestamp="1636798431061">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="600" height="400" key="javadoc.popup/0.25.1440.875@0.25.1440.875" timestamp="1636798431061" />
+    <state x="497" y="214" width="700" height="685" key="search.everywhere.popup" timestamp="1636807622536">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="497" y="214" width="700" height="685" key="search.everywhere.popup/0.25.1440.875@0.25.1440.875" timestamp="1636807622536" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/RecentFilesDemo.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/QuadraticEquationsSolver.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/Learning.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="642">
+          <caret line="31" column="45" lean-forward="true" selection-start-line="31" selection-start-column="45" selection-end-line="31" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Sample.java" />
+    <entry file="file://$PROJECT_DIR$/src/warehouse/FindInFilesSample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/warehouse/Warehouse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="19" column="64" selection-start-line="19" selection-start-column="64" selection-end-line="19" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FileStructureDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="74" column="16" selection-start-line="74" selection-start-column="16" selection-end-line="74" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DerivedClass2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/git/sphinx_cat.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/git/puss_in_boots.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/git/simple_cat.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/git/martian_cat.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI" />
+      <state key="GlobalLibrariesConfigurable.UI" />
+      <state key="JdkListConfigurable.UI" />
+      <state key="ModuleStructureConfigurable.UI" />
+      <state key="ProjectLibrariesConfigurable.UI" />
+    </states>
+  </component>
+</project>

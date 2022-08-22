@@ -1,0 +1,489 @@
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/../GT-Plugin-Spring-Boot-Starter/gt-plugin-sdk-parent/gt-plugin-sdk-core-api/src/main/java/com/duofriend/plugin/sdk/core/api/CoreApi.java" description="String url = coreProperties.getApiUrl(CoreApiColle..." line="821" />
+  </component>
+  <component name="DatabaseView">
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/basic_java_practice/src/main/java/com/book/record/java8Logic/encode/encoding_Unicode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/basic_java_practice/src/main/java/com/book/record/java8Logic/encode/test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="17" selection-start-line="15" selection-start-column="3" selection-end-line="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/basic_java_practice/src/main/java/com/book/record/java8Logic/concurrency/raceCondition/SynchronizedResolve.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="12" column="4" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/lang/Runnable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="411">
+              <caret line="55" column="17" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/util/HashSet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="381">
+              <caret line="98" column="39" selection-start-line="98" selection-start-column="32" selection-end-line="98" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/basic_java_practice/src/main/java/com/book/record/java8Logic/encode/point.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/basic_java_practice/target/classes/com/example/enums/Color2Enum.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/basic_java_practice/target/classes/com/example/enums/ColorEnum.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/redis-dinner/ms-dinners/src/main/java/java/com/imooc/diners/controller/SendVerifyCodeController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="13" column="3" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/basic_java_practice/src/main/java/com/book/record/java8Logic/encoding_Unicode.java" />
+      <option value="$PROJECT_DIR$/basic_java_practice/src/main/java/com/book/record/java8Logic/point.java" />
+      <option value="$PROJECT_DIR$/basic_java_practice/src/main/java/com/book/record/java8Logic/main.java" />
+      <option value="$PROJECT_DIR$/basic_java_practice/src/main/java/com/book/record/java8Logic/test.java" />
+      <option value="$PROJECT_DIR$/basic_java_practice/src/main/java/com/book/record/java8Logic/encode/encoding_Unicode.java" />
+      <option value="$PROJECT_DIR$/basic_java_practice/src/main/java/com/book/record/java8Logic/encode/test.java" />
+      <option value="$PROJECT_DIR$/basic_java_practice/src/main/java/com/book/record/java8Logic/concurrency/raceCondition/SychronizedResolve.java" />
+      <option value="$PROJECT_DIR$/basic_java_practice/src/main/java/com/book/record/java8Logic/concurrency/raceCondition/SynchronizedResolve.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Learn_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Learn_demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Learn_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Learn_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="basic_java_practice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Learn_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Learn_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="basic_java_practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Learn_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Learn_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="basic_java_practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Learn_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Learn_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="basic_java_practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Learn_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Learn_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="basic_java_practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Learn_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Learn_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="basic_java_practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="java8Logic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Learn_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Learn_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="basic_java_practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="java8Logic" type="462c0819:PsiDirectoryNode" />
+              <item name="raceCondition" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Learn_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Learn_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="basic_java_practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="java8Logic" type="462c0819:PsiDirectoryNode" />
+              <item name="encode" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="Learn_demo-history1" />
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="47022000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2545139" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Learn" order="4" />
+      <window_info id="JRebel" order="5" side_tool="true" />
+      <window_info id="Pull Requests" order="6" />
+      <window_info id="Web" order="7" show_stripe_button="false" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Analysis" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="4" weight="0.33085716" />
+      <window_info anchor="bottom" id="Debug" order="5" weight="0.48285714" />
+      <window_info anchor="bottom" id="Problems View" order="6" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Sequence Diagram" order="8" />
+      <window_info anchor="bottom" id="Profiler" order="9" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="12" />
+      <window_info anchor="bottom" id="Inspection" order="13" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="14" weight="0.3297143" />
+      <window_info anchor="bottom" id="SonarLint" order="15" />
+      <window_info anchor="bottom" id="JRebel Console" order="16" side_tool="true" />
+      <window_info anchor="bottom" id="TODO" order="17" />
+      <window_info anchor="bottom" id="Endpoints" order="18" />
+      <window_info anchor="bottom" id="Build" order="19" weight="0.3297143" />
+      <window_info anchor="bottom" id="Dependencies" order="20" />
+      <window_info anchor="bottom" id="Services" order="21" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Java Enterprise" order="22" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Spring" order="23" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Key Promoter X" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="github.copilotToolWindow" order="5" />
+      <window_info anchor="right" id="JRebel Setup Guide" order="6" show_stripe_button="false" side_tool="true" />
+      <window_info anchor="right" id="Maven" order="7" weight="0.33020833" />
+      <window_info anchor="right" id="Word Book" order="8" side_tool="true" />
+      <window_info anchor="right" id="Mybatis Sql" order="9" />
+      <window_info anchor="right" id="Mybatis datasource" order="10" side_tool="true" />
+      <window_info anchor="right" id="Gradle" order="11" show_stripe_button="false" />
+      <window_info anchor="right" id="RestfulTool" order="12" />
+      <window_info anchor="right" id="Bean Validation" order="13" show_stripe_button="false" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.33359376" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Learn" order="4" />
+      <window_info id="JRebel" order="5" side_tool="true" />
+      <window_info id="Pull Requests" order="6" />
+      <window_info id="Web" order="7" show_stripe_button="false" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Analysis" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="4" weight="0.33033174" />
+      <window_info anchor="bottom" id="Debug" order="5" visible="true" weight="0.48285714" />
+      <window_info anchor="bottom" id="Problems View" order="6" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Sequence Diagram" order="8" />
+      <window_info anchor="bottom" id="Profiler" order="9" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="12" />
+      <window_info anchor="bottom" id="Inspection" order="13" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="14" />
+      <window_info anchor="bottom" id="SonarLint" order="15" />
+      <window_info anchor="bottom" id="JRebel Console" order="16" side_tool="true" />
+      <window_info anchor="bottom" id="TODO" order="17" />
+      <window_info anchor="bottom" id="Endpoints" order="18" />
+      <window_info anchor="bottom" id="Build" order="19" />
+      <window_info anchor="bottom" id="Dependencies" order="20" />
+      <window_info anchor="bottom" id="Services" order="21" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Java Enterprise" order="22" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Spring" order="23" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Key Promoter X" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="github.copilotToolWindow" order="5" />
+      <window_info anchor="right" id="JRebel Setup Guide" order="6" side_tool="true" />
+      <window_info anchor="right" id="Maven" order="7" />
+      <window_info anchor="right" id="Word Book" order="8" side_tool="true" />
+      <window_info anchor="right" id="Mybatis Sql" order="9" />
+      <window_info anchor="right" id="Mybatis datasource" order="10" side_tool="true" />
+      <window_info anchor="right" id="Gradle" order="11" />
+      <window_info anchor="right" id="RestfulTool" order="12" />
+      <window_info anchor="right" id="Bean Validation" order="13" show_stripe_button="false" />
+    </layout-to-restore>
+    <recentWindows>
+      <value>Project</value>
+      <value>Run</value>
+      <value>Build</value>
+      <value>Maven</value>
+      <value>Terminal</value>
+      <value>Debug</value>
+    </recentWindows>
+  </component>
+  <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" />
+  <component name="WindowStateProjectService">
+    <state x="383" y="345" key="#Custom_Plugin_Repositories" timestamp="1660124194173">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="383" y="345" key="#Custom_Plugin_Repositories/0.25.1440.875/-220.-1055.1920.1055@0.25.1440.875" timestamp="1660124194173" />
+    <state x="533" y="152" key="#com.intellij.ide.util.MemberChooser" timestamp="1660118363942">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="533" y="152" key="#com.intellij.ide.util.MemberChooser/0.25.1440.875/-220.-1055.1920.1055@0.25.1440.875" timestamp="1660118363942" />
+    <state x="533" y="152" key="#com.intellij.ide.util.MemberChooser/0.25.1440.875/-254.-1055.1920.1055@0.25.1440.875" timestamp="1658821475151" />
+    <state x="231" y="133" key="CommitChangelistDialog2" timestamp="1658816353106">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="231" y="133" key="CommitChangelistDialog2/0.25.1440.875/-254.-1055.1920.1055@0.25.1440.875" timestamp="1658816353106" />
+    <state x="133" y="-890" key="DiffContextDialog" timestamp="1652346703092">
+      <screen x="-251" y="-1055" width="1920" height="1055" />
+    </state>
+    <state x="133" y="-890" key="DiffContextDialog/0.25.1440.875/-251.-1055.1920.1055@-251.-1055.1920.1055" timestamp="1652346703092" />
+    <state width="1394" height="261" key="GridCell.Tab.0.bottom" timestamp="1660124204835">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1394" height="261" key="GridCell.Tab.0.bottom/0.25.1440.875/-220.-1055.1920.1055@0.25.1440.875" timestamp="1660124204835" />
+    <state width="1874" height="394" key="GridCell.Tab.0.bottom/0.25.1440.875/-254.-1055.1920.1055@-254.-1055.1920.1055" timestamp="1658743427669" />
+    <state width="1394" height="261" key="GridCell.Tab.0.bottom/0.25.1440.875/-254.-1055.1920.1055@0.25.1440.875" timestamp="1658822464779" />
+    <state width="1394" height="261" key="GridCell.Tab.0.center" timestamp="1660124204835">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1394" height="261" key="GridCell.Tab.0.center/0.25.1440.875/-220.-1055.1920.1055@0.25.1440.875" timestamp="1660124204835" />
+    <state width="1874" height="394" key="GridCell.Tab.0.center/0.25.1440.875/-254.-1055.1920.1055@-254.-1055.1920.1055" timestamp="1658743427668" />
+    <state width="1394" height="261" key="GridCell.Tab.0.center/0.25.1440.875/-254.-1055.1920.1055@0.25.1440.875" timestamp="1658822464777" />
+    <state width="1394" height="261" key="GridCell.Tab.0.left" timestamp="1660124204834">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1394" height="261" key="GridCell.Tab.0.left/0.25.1440.875/-220.-1055.1920.1055@0.25.1440.875" timestamp="1660124204834" />
+    <state width="1874" height="394" key="GridCell.Tab.0.left/0.25.1440.875/-254.-1055.1920.1055@-254.-1055.1920.1055" timestamp="1658743427668" />
+    <state width="1394" height="261" key="GridCell.Tab.0.left/0.25.1440.875/-254.-1055.1920.1055@0.25.1440.875" timestamp="1658822464776" />
+    <state width="1394" height="261" key="GridCell.Tab.0.right" timestamp="1660124204835">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1394" height="261" key="GridCell.Tab.0.right/0.25.1440.875/-220.-1055.1920.1055@0.25.1440.875" timestamp="1660124204835" />
+    <state width="1874" height="394" key="GridCell.Tab.0.right/0.25.1440.875/-254.-1055.1920.1055@-254.-1055.1920.1055" timestamp="1658743427669" />
+    <state width="1394" height="261" key="GridCell.Tab.0.right/0.25.1440.875/-254.-1055.1920.1055@0.25.1440.875" timestamp="1658822464778" />
+    <state width="1394" height="394" key="GridCell.Tab.1.bottom" timestamp="1659670852008">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1394" height="394" key="GridCell.Tab.1.bottom/0.25.1440.875/-220.-1055.1920.1055@0.25.1440.875" timestamp="1659670852008" />
+    <state width="1874" height="394" key="GridCell.Tab.1.bottom/0.25.1440.875/-254.-1055.1920.1055@-254.-1055.1920.1055" timestamp="1658743427634" />
+    <state width="1394" height="394" key="GridCell.Tab.1.bottom/0.25.1440.875/-254.-1055.1920.1055@0.25.1440.875" timestamp="1658799280366" />
+    <state width="1394" height="394" key="GridCell.Tab.1.center" timestamp="1659670852007">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1394" height="394" key="GridCell.Tab.1.center/0.25.1440.875/-220.-1055.1920.1055@0.25.1440.875" timestamp="1659670852007" />
+    <state width="1874" height="394" key="GridCell.Tab.1.center/0.25.1440.875/-254.-1055.1920.1055@-254.-1055.1920.1055" timestamp="1658743427633" />
+    <state width="1394" height="394" key="GridCell.Tab.1.center/0.25.1440.875/-254.-1055.1920.1055@0.25.1440.875" timestamp="1658799280365" />
+    <state width="1394" height="394" key="GridCell.Tab.1.left" timestamp="1659670852007">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1394" height="394" key="GridCell.Tab.1.left/0.25.1440.875/-220.-1055.1920.1055@0.25.1440.875" timestamp="1659670852007" />
+    <state width="1874" height="394" key="GridCell.Tab.1.left/0.25.1440.875/-254.-1055.1920.1055@-254.-1055.1920.1055" timestamp="1658743427633" />
+    <state width="1394" height="394" key="GridCell.Tab.1.left/0.25.1440.875/-254.-1055.1920.1055@0.25.1440.875" timestamp="1658799280319" />
+    <state width="1394" height="394" key="GridCell.Tab.1.right" timestamp="1659670852008">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1394" height="394" key="GridCell.Tab.1.right/0.25.1440.875/-220.-1055.1920.1055@0.25.1440.875" timestamp="1659670852008" />
+    <state width="1874" height="394" key="GridCell.Tab.1.right/0.25.1440.875/-254.-1055.1920.1055@-254.-1055.1920.1055" timestamp="1658743427634" />
+    <state width="1394" height="394" key="GridCell.Tab.1.right/0.25.1440.875/-254.-1055.1920.1055@0.25.1440.875" timestamp="1658799280366" />
+    <state x="215" y="102" key="SettingsEditor" timestamp="1660124199187">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="215" y="102" key="SettingsEditor/0.25.1440.875/-220.-1055.1920.1055@0.25.1440.875" timestamp="1660124199187" />
+    <state x="215" y="102" key="SettingsEditor/0.25.1440.875/-254.-1055.1920.1055@0.25.1440.875" timestamp="1658822340478" />
+    <state x="215" y="102" key="SettingsEditor/0.25.1440.875/1440.-92.1920.1055@0.25.1440.875" timestamp="1659422061406" />
+    <state x="420" y="246" key="Vcs.Push.Dialog.v2" timestamp="1658816346358">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="309" y="-789" key="Vcs.Push.Dialog.v2/0.25.1440.875/-251.-1055.1920.1055@-251.-1055.1920.1055" timestamp="1652346718997" />
+    <state x="420" y="246" key="Vcs.Push.Dialog.v2/0.25.1440.875/-254.-1055.1920.1055@0.25.1440.875" timestamp="1658816346358" />
+    <state width="551" height="875" key="com.intellij.byteCodeViewer.ShowByteCodeAction" timestamp="1658822335031">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="551" height="875" key="com.intellij.byteCodeViewer.ShowByteCodeAction/0.25.1440.875/-254.-1055.1920.1055@0.25.1440.875" timestamp="1658822335031" />
+    <state x="730" y="386" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1658747809768">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="730" y="386" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.25.1440.875/-254.-1055.1920.1055@0.25.1440.875" timestamp="1658747809768" />
+    <state x="385" y="214" width="700" height="685" key="search.everywhere.popup" timestamp="1660124204667">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="385" y="214" width="700" height="685" key="search.everywhere.popup/0.25.1440.875/-220.-1055.1920.1055@0.25.1440.875" timestamp="1660124204667" />
+    <state x="385" y="214" width="700" height="685" key="search.everywhere.popup/0.25.1440.875/-254.-1055.1920.1055@0.25.1440.875" timestamp="1658822338157" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/basic_java_practice/target/classes/com/book/record/java8Logic/point.class" />
+    <entry file="file://$PROJECT_DIR$/basic_java_practice/src/main/java/com/book/record/java8Logic/concurrency/raceCondition/SychronizedResolve.java" />
+    <entry file="file://$PROJECT_DIR$/basic_java_practice/src/main/java/com/book/record/java8Logic/encode/encoding_Unicode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic_java_practice/src/main/java/com/book/record/java8Logic/encode/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="17" selection-start-line="15" selection-start-column="3" selection-end-line="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/lang/Runnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="411">
+          <caret line="55" column="17" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/util/HashSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="98" column="39" selection-start-line="98" selection-start-column="32" selection-end-line="98" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic_java_practice/src/main/java/com/book/record/java8Logic/encode/point.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic_java_practice/target/classes/com/example/enums/Color2Enum.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic_java_practice/target/classes/com/example/enums/ColorEnum.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redis-dinner/ms-dinners/src/main/java/java/com/imooc/diners/controller/SendVerifyCodeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="13" column="3" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic_java_practice/src/main/java/com/book/record/java8Logic/concurrency/raceCondition/SynchronizedResolve.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="4" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

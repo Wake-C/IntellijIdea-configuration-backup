@@ -1,0 +1,10 @@
+-Xms512m
+-Xmx3096m
+-XX:ReservedCodeCacheSize=2024m
+-Djava.net.preferIPv4Stack=true
+-Djdk.attach.allowAttachSelf
+
+
+-javaagent:/Users/Alexis/.jetbrains/jetbrains-agent-v3.2.0.247e.ca8=6e68f9eb,HbVMaxqQrTt4UvDUk8fhyFT7uRdv48bqJsQMwVFp53YH9PZC9l+ZxAgnA60cLwwhURw/e4DcZZtle4tQzur4yWRk35qghES4JLFlmKty/UNiYh6RZyXeCNPTCvIqxT9HR2YKqQT93be6AfLTcbJwPSLO201g+HbMbg6+aK1MUJI
+
+java -javaagent:/Users/Alexis/Downloads/jetbra/ja-netfilter.jar -jar executable_jar_file.jar

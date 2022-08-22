@@ -1,0 +1,937 @@
+<project version="4">
+  <component name="FavoritesManager">
+    <favorites_list name="program_logic" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/shuo/laoma/concurrent/c82/ThreadLocalInit.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+              <folding>
+                <element signature="e#104#203#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/shuo/laoma/concurrent/c82/ThreadLocalBasic.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="250">
+              <caret line="12" column="13" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+              <folding>
+                <element signature="e#214#419#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/shuo/laoma/concurrent/c82/ThreadPoolProblem.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="22" column="25" lean-forward="true" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/lang/ThreadLocal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-901">
+              <caret line="307" column="66" lean-forward="true" selection-start-line="307" selection-start-column="66" selection-end-line="307" selection-end-column="66" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/shuo/laoma/concurrent/c80/TimerException.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="24" column="72" lean-forward="true" selection-start-line="24" selection-start-column="72" selection-end-line="24" selection-end-column="72" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/shuo/laoma/dynamic/c84/SimpleMapperDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="572">
+              <caret line="26" column="27" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/shuo/laoma/dynamic/c84/SimpleMapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="76" lean-forward="true" selection-start-line="16" selection-start-column="76" selection-end-line="16" selection-end-column="76" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/shuo/laoma/dynamic/c84/GenericDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/shuo/laoma/regex/c89/RegexDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="268">
+              <caret line="53" column="47" lean-forward="true" selection-start-line="53" selection-start-column="47" selection-end-line="53" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/lang/Thread.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="356">
+              <caret line="181" column="27" lean-forward="true" selection-start-line="181" selection-start-column="27" selection-end-line="181" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>writeStudents</find>
+      <find>simulateD</find>
+      <find>pareseInt</find>
+      <find>newInstance</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src/shuo/laoma/collection/c47</dir>
+      <dir>$PROJECT_DIR$/src/shuo/laoma/concurrent/c65</dir>
+      <dir>$PROJECT_DIR$/src/shuo/laoma/concurrent/c72</dir>
+      <dir>$PROJECT_DIR$/src/shuo/laoma/regex/c89</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/shuo/laoma/commoncls/c34/WeightRandom.java" />
+      <option value="$PROJECT_DIR$/src/shuo/laoma/concurrent/c65/CounterThread.java" />
+      <option value="$PROJECT_DIR$/src/shuo/laoma/concurrent/c67/ProducerConsumerDemo.java" />
+      <option value="$PROJECT_DIR$/src/shuo/laoma/concurrent/c71/AccountMgr.java" />
+      <option value="$PROJECT_DIR$/src/shuo/laoma/concurrent/c71/LockSupportDemo.java" />
+      <option value="$PROJECT_DIR$/src/shuo/laoma/concurrent/c80/TimerException.java" />
+      <option value="$PROJECT_DIR$/src/shuo/laoma/regex/c89/RegexDemo.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="program_logic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="program-logic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="program_logic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="program-logic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="program_logic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="program-logic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="laoma" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="program_logic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="program-logic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="laoma" type="462c0819:PsiDirectoryNode" />
+              <item name="collection" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="program_logic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="program-logic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="laoma" type="462c0819:PsiDirectoryNode" />
+              <item name="collection" type="462c0819:PsiDirectoryNode" />
+              <item name="c44" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="program_logic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="program-logic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="laoma" type="462c0819:PsiDirectoryNode" />
+              <item name="collection" type="462c0819:PsiDirectoryNode" />
+              <item name="c46" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="program_logic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="program-logic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="laoma" type="462c0819:PsiDirectoryNode" />
+              <item name="collection" type="462c0819:PsiDirectoryNode" />
+              <item name="c47" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="program_logic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="program-logic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="laoma" type="462c0819:PsiDirectoryNode" />
+              <item name="collection" type="462c0819:PsiDirectoryNode" />
+              <item name="c51" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="program_logic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="program-logic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="laoma" type="462c0819:PsiDirectoryNode" />
+              <item name="collection" type="462c0819:PsiDirectoryNode" />
+              <item name="c52" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="program_logic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="program-logic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="laoma" type="462c0819:PsiDirectoryNode" />
+              <item name="commoncls" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="program_logic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="program-logic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="laoma" type="462c0819:PsiDirectoryNode" />
+              <item name="commoncls" type="462c0819:PsiDirectoryNode" />
+              <item name="c31" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="program_logic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="program-logic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="laoma" type="462c0819:PsiDirectoryNode" />
+              <item name="commoncls" type="462c0819:PsiDirectoryNode" />
+              <item name="c32" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="program_logic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="program-logic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="laoma" type="462c0819:PsiDirectoryNode" />
+              <item name="commoncls" type="462c0819:PsiDirectoryNode" />
+              <item name="c33" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="program_logic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="program-logic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="laoma" type="462c0819:PsiDirectoryNode" />
+              <item name="commoncls" type="462c0819:PsiDirectoryNode" />
+              <item name="c34" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="program_logic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="program-logic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="laoma" type="462c0819:PsiDirectoryNode" />
+              <item name="concurrent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="program_logic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="program-logic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="laoma" type="462c0819:PsiDirectoryNode" />
+              <item name="concurrent" type="462c0819:PsiDirectoryNode" />
+              <item name="c65" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="program_logic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="program-logic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="laoma" type="462c0819:PsiDirectoryNode" />
+              <item name="concurrent" type="462c0819:PsiDirectoryNode" />
+              <item name="c67" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="program_logic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="program-logic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="laoma" type="462c0819:PsiDirectoryNode" />
+              <item name="concurrent" type="462c0819:PsiDirectoryNode" />
+              <item name="c68" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="program_logic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="program-logic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="laoma" type="462c0819:PsiDirectoryNode" />
+              <item name="concurrent" type="462c0819:PsiDirectoryNode" />
+              <item name="c69" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="program_logic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="program-logic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="laoma" type="462c0819:PsiDirectoryNode" />
+              <item name="concurrent" type="462c0819:PsiDirectoryNode" />
+              <item name="c70" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="program_logic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="program-logic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="laoma" type="462c0819:PsiDirectoryNode" />
+              <item name="concurrent" type="462c0819:PsiDirectoryNode" />
+              <item name="c71" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="program_logic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="program-logic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="laoma" type="462c0819:PsiDirectoryNode" />
+              <item name="concurrent" type="462c0819:PsiDirectoryNode" />
+              <item name="c72" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="program_logic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="program-logic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="laoma" type="462c0819:PsiDirectoryNode" />
+              <item name="concurrent" type="462c0819:PsiDirectoryNode" />
+              <item name="c80" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="program_logic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="program-logic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="laoma" type="462c0819:PsiDirectoryNode" />
+              <item name="concurrent" type="462c0819:PsiDirectoryNode" />
+              <item name="c81" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="program_logic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="program-logic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="laoma" type="462c0819:PsiDirectoryNode" />
+              <item name="concurrent" type="462c0819:PsiDirectoryNode" />
+              <item name="c82" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="program_logic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="program-logic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="laoma" type="462c0819:PsiDirectoryNode" />
+              <item name="dynamic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="program_logic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="program-logic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="laoma" type="462c0819:PsiDirectoryNode" />
+              <item name="dynamic" type="462c0819:PsiDirectoryNode" />
+              <item name="c84" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="program_logic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="program-logic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="laoma" type="462c0819:PsiDirectoryNode" />
+              <item name="regex" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="program_logic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="program-logic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="laoma" type="462c0819:PsiDirectoryNode" />
+              <item name="regex" type="462c0819:PsiDirectoryNode" />
+              <item name="c89" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="58330000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20520833" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" weight="0.20520833" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Learn" order="4" />
+      <window_info id="Pull Requests" order="5" />
+      <window_info id="JRebel" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Analysis" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="4" weight="0.21428572" />
+      <window_info anchor="bottom" id="Problems View" order="5" />
+      <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.3297143" />
+      <window_info anchor="bottom" id="Profiler" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="10" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info anchor="bottom" id="SonarLint" order="13" />
+      <window_info anchor="bottom" id="Database Changes" order="14" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Sequence Diagram" order="15" />
+      <window_info anchor="bottom" id="Debug" order="16" weight="0.32171428" />
+      <window_info anchor="bottom" id="TODO" order="17" />
+      <window_info anchor="bottom" id="JRebel Console" order="18" side_tool="true" />
+      <window_info anchor="bottom" id="Endpoints" order="19" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Services" order="20" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Key Promoter X" order="3" />
+      <window_info anchor="right" id="github.copilotToolWindow" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Word Book" order="6" side_tool="true" />
+      <window_info anchor="right" id="JRebel Setup Guide" order="7" side_tool="true" />
+      <window_info anchor="right" id="Mybatis Sql" order="8" />
+      <window_info anchor="right" id="Mybatis datasource" order="9" side_tool="true" />
+      <window_info anchor="right" id="RestfulTool" order="10" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20520833" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Learn" order="4" />
+      <window_info id="Pull Requests" order="5" />
+      <window_info id="JRebel" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Analysis" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="4" />
+      <window_info anchor="bottom" id="Problems View" order="5" />
+      <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
+      <window_info anchor="bottom" id="Build" order="7" />
+      <window_info anchor="bottom" id="Profiler" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="10" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info anchor="bottom" id="SonarLint" order="13" />
+      <window_info anchor="bottom" id="Database Changes" order="14" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Sequence Diagram" order="15" />
+      <window_info anchor="bottom" id="Debug" order="16" visible="true" weight="0.32171428" />
+      <window_info anchor="bottom" id="TODO" order="17" />
+      <window_info anchor="bottom" id="JRebel Console" order="18" side_tool="true" />
+      <window_info anchor="bottom" id="Endpoints" order="19" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Services" order="20" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Key Promoter X" order="3" />
+      <window_info anchor="right" id="github.copilotToolWindow" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Word Book" order="6" side_tool="true" />
+      <window_info anchor="right" id="JRebel Setup Guide" order="7" side_tool="true" />
+      <window_info anchor="right" id="Mybatis Sql" order="8" />
+      <window_info anchor="right" id="Mybatis datasource" order="9" side_tool="true" />
+      <window_info anchor="right" id="RestfulTool" order="10" />
+    </layout-to-restore>
+    <recentWindows>
+      <value>Project</value>
+      <value>Run</value>
+      <value>Favorites</value>
+      <value>Build</value>
+      <value>Debug</value>
+    </recentWindows>
+  </component>
+  <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" />
+  <component name="WindowStateProjectService">
+    <state x="350" y="242" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1660013854608">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="350" y="242" key="#com.intellij.fileTypes.FileTypeChooser/0.25.1440.875/-220.-1055.1920.1055@0.25.1440.875" timestamp="1660013854608" />
+    <state x="320" y="162" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1661140495073">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="320" y="162" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.25.1440.875/-1920.-48.1920.1055@0.25.1440.875" timestamp="1661140495073" />
+    <state width="457" height="79" key="DebuggerActiveHint" timestamp="1659690614259">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="457" height="79" key="DebuggerActiveHint/0.25.1440.875/-220.-1055.1920.1055@0.25.1440.875" timestamp="1659690614259" />
+    <state width="519" height="146" key="DebuggerActiveHint/0.25.1440.875/-254.-1055.1920.1055@0.25.1440.875" timestamp="1659325821645" />
+    <state width="1394" height="159" key="GridCell.Tab.0.bottom" timestamp="1661140537679">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1394" height="159" key="GridCell.Tab.0.bottom/0.25.1440.875/-1920.-48.1920.1055@0.25.1440.875" timestamp="1661140537679" />
+    <state width="1394" height="260" key="GridCell.Tab.0.bottom/0.25.1440.875/-220.-1055.1920.1055@0.25.1440.875" timestamp="1660124204842" />
+    <state width="1394" height="136" key="GridCell.Tab.0.bottom/0.25.1440.875/-254.-1055.1920.1055@0.25.1440.875" timestamp="1659326157982" />
+    <state width="1394" height="159" key="GridCell.Tab.0.center" timestamp="1661140537679">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1394" height="159" key="GridCell.Tab.0.center/0.25.1440.875/-1920.-48.1920.1055@0.25.1440.875" timestamp="1661140537679" />
+    <state width="1394" height="260" key="GridCell.Tab.0.center/0.25.1440.875/-220.-1055.1920.1055@0.25.1440.875" timestamp="1660124204841" />
+    <state width="1394" height="136" key="GridCell.Tab.0.center/0.25.1440.875/-254.-1055.1920.1055@0.25.1440.875" timestamp="1659326157981" />
+    <state width="1394" height="159" key="GridCell.Tab.0.left" timestamp="1661140537678">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1394" height="159" key="GridCell.Tab.0.left/0.25.1440.875/-1920.-48.1920.1055@0.25.1440.875" timestamp="1661140537678" />
+    <state width="1394" height="260" key="GridCell.Tab.0.left/0.25.1440.875/-220.-1055.1920.1055@0.25.1440.875" timestamp="1660124204841" />
+    <state width="1394" height="136" key="GridCell.Tab.0.left/0.25.1440.875/-254.-1055.1920.1055@0.25.1440.875" timestamp="1659326157981" />
+    <state width="1394" height="159" key="GridCell.Tab.0.right" timestamp="1661140537679">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1394" height="159" key="GridCell.Tab.0.right/0.25.1440.875/-1920.-48.1920.1055@0.25.1440.875" timestamp="1661140537679" />
+    <state width="1394" height="260" key="GridCell.Tab.0.right/0.25.1440.875/-220.-1055.1920.1055@0.25.1440.875" timestamp="1660124204841" />
+    <state width="1394" height="136" key="GridCell.Tab.0.right/0.25.1440.875/-254.-1055.1920.1055@0.25.1440.875" timestamp="1659326157981" />
+    <state width="1394" height="253" key="GridCell.Tab.1.bottom" timestamp="1660028089887">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1394" height="253" key="GridCell.Tab.1.bottom/0.25.1440.875/-220.-1055.1920.1055@0.25.1440.875" timestamp="1660028089887" />
+    <state width="1394" height="136" key="GridCell.Tab.1.bottom/0.25.1440.875/-254.-1055.1920.1055@0.25.1440.875" timestamp="1659326157846" />
+    <state width="1394" height="253" key="GridCell.Tab.1.center" timestamp="1660028089887">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1394" height="253" key="GridCell.Tab.1.center/0.25.1440.875/-220.-1055.1920.1055@0.25.1440.875" timestamp="1660028089887" />
+    <state width="1394" height="136" key="GridCell.Tab.1.center/0.25.1440.875/-254.-1055.1920.1055@0.25.1440.875" timestamp="1659326157845" />
+    <state width="1394" height="253" key="GridCell.Tab.1.left" timestamp="1660028089886">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1394" height="253" key="GridCell.Tab.1.left/0.25.1440.875/-220.-1055.1920.1055@0.25.1440.875" timestamp="1660028089886" />
+    <state width="1394" height="136" key="GridCell.Tab.1.left/0.25.1440.875/-254.-1055.1920.1055@0.25.1440.875" timestamp="1659326157845" />
+    <state width="1394" height="253" key="GridCell.Tab.1.right" timestamp="1660028089887">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1394" height="253" key="GridCell.Tab.1.right/0.25.1440.875/-220.-1055.1920.1055@0.25.1440.875" timestamp="1660028089887" />
+    <state width="1394" height="136" key="GridCell.Tab.1.right/0.25.1440.875/-254.-1055.1920.1055@0.25.1440.875" timestamp="1659326157846" />
+    <state x="251" y="60" key="SettingsEditor" timestamp="1660726856413">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="251" y="60" key="SettingsEditor/0.25.1440.875/-1920.-48.1920.1055@0.25.1440.875" timestamp="1660726856413" />
+    <state x="450" y="212" width="597" height="524" key="StructurePopup" timestamp="1660894068499">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="450" y="212" width="597" height="524" key="StructurePopup/0.25.1440.875/-1920.-48.1920.1055@0.25.1440.875" timestamp="1660894068499" />
+    <state x="450" y="212" width="597" height="524" key="StructurePopup/0.25.1440.875/-220.-1055.1920.1055@0.25.1440.875" timestamp="1659585585744" />
+    <state width="554" height="593" key="SwitcherDM" timestamp="1659575874059">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="554" height="593" key="SwitcherDM/0.25.1440.875/-220.-1055.1920.1055@0.25.1440.875" timestamp="1659575874059" />
+    <state x="263" y="178" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1659690668682">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="263" y="178" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.25.1440.875/-220.-1055.1920.1055@0.25.1440.875" timestamp="1659690668682" />
+    <state x="264" y="178" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.25.1440.875/-254.-1055.1920.1055@0.25.1440.875" timestamp="1659335286123" />
+    <state x="272" y="110" width="626" height="514" key="find.popup" timestamp="1661138995900">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="272" y="110" width="626" height="514" key="find.popup/0.25.1440.875/-1920.-48.1920.1055@0.25.1440.875" timestamp="1661138995900" />
+    <state x="272" y="110" width="613" height="514" key="find.popup/0.25.1440.875/-220.-1055.1920.1055@0.25.1440.875" timestamp="1660013781489" />
+    <state x="385" y="214" width="700" height="685" key="search.everywhere.popup" timestamp="1661138761161">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="385" y="214" width="700" height="685" key="search.everywhere.popup/0.25.1440.875/-1920.-48.1920.1055@0.25.1440.875" timestamp="1661138761161" />
+    <state x="385" y="214" width="670" height="685" key="search.everywhere.popup/0.25.1440.875/-220.-1055.1920.1055@0.25.1440.875" timestamp="1660118269414" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/shuo/laoma/collection/c52/DynamicArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="50" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/shuo/laoma/collection/c47/TopK.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="682">
+          <caret line="33" column="17" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/shuo/laoma/file/c58/StudentDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="39" column="23" selection-start-line="39" selection-start-column="23" selection-end-line="39" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/shuo/laoma/file/c57/StudentDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="14" column="54" selection-start-line="14" selection-start-column="54" selection-end-line="14" selection-end-column="54" />
+          <folding>
+            <element signature="e#927#936#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/students.dat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/util/PriorityQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7917">
+          <caret line="653" selection-start-line="653" selection-end-line="653" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/shuo/laoma/collection/c44/TreeSetDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/shuo/laoma/collection/c46/TaskQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1078">
+          <caret line="51" column="21" selection-start-line="51" selection-start-column="21" selection-end-line="51" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/shuo/laoma/collection/c46/PriorityQueueDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/shuo/laoma/collection/c47/Median.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/shuo/laoma/concurrent/c65/CounterThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/shuo/laoma/file/c61/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/shuo/laoma/concurrent/c67/WaitThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/shuo/laoma/concurrent/c68/MasterWorkerDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="30" column="9" lean-forward="true" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/shuo/laoma/concurrent/c68/RacerDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="42" column="26" selection-start-line="42" selection-start-column="26" selection-end-line="42" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/util/concurrent/Callable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="57" column="17" selection-start-line="57" selection-start-column="17" selection-end-line="57" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/shuo/laoma/concurrent/c67/ProducerConsumerDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="73" column="64" selection-start-line="73" selection-start-column="64" selection-end-line="73" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/shuo/laoma/concurrent/c68/RacerWithLatchDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="47" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/shuo/laoma/concurrent/c68/MyLatch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="31" lean-forward="true" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/shuo/laoma/concurrent/c68/AssemblePointDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="18" column="18" lean-forward="true" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/shuo/laoma/concurrent/c68/AssemblePoint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-42">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/shuo/laoma/concurrent/c68/MyExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-895">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/shuo/laoma/concurrent/c68/MyFuture.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/shuo/laoma/concurrent/c69/InterruptNotAliveDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-137">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/shuo/laoma/concurrent/c70/AtomicReferenceDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-313">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/shuo/laoma/concurrent/c72/ProducerConsumerDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="100" column="5" lean-forward="true" selection-start-line="100" selection-start-column="5" selection-end-line="100" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/shuo/laoma/concurrent/c71/Counter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/shuo/laoma/concurrent/c71/Account.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-643">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/shuo/laoma/java8/c91/BasicLambda.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="393">
+          <caret line="24" column="53" selection-start-line="24" selection-start-column="53" selection-end-line="24" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/shuo/laoma/concurrent/c71/AccountMgr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="28" column="27" lean-forward="true" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/shuo/laoma/concurrent/c71/LockSupportDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="18" column="27" lean-forward="true" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+          <folding>
+            <element signature="e#259#393#0" expanded="true" />
+            <element signature="e#392#393#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/shuo/laoma/concurrent/c80/BasicTimer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/shuo/laoma/concurrent/c80/TimerFixedDelay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/shuo/laoma/concurrent/c80/TimerFixedRate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="18" column="50" lean-forward="true" selection-start-line="18" selection-start-column="50" selection-end-line="18" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/shuo/laoma/concurrent/c80/ScheduledFixedDelay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/shuo/laoma/concurrent/c80/ScheduledException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/ReentrantReadWriteLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="218" column="61" lean-forward="true" selection-start-line="218" selection-start-column="61" selection-end-line="218" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/shuo/laoma/concurrent/c81/MyCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="38" column="9" lean-forward="true" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/shuo/laoma/concurrent/c81/AccessControlService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="14" column="26" lean-forward="true" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/shuo/laoma/concurrent/c82/RequestContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/shuo/laoma/concurrent/c82/ThreadLocalDateFormat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/shuo/laoma/concurrent/c82/ThreadLocalBasic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="12" column="13" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding>
+            <element signature="e#214#419#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/shuo/laoma/concurrent/c82/ThreadLocalInit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+          <folding>
+            <element signature="e#104#203#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/shuo/laoma/concurrent/c82/ThreadPoolProblem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="22" column="25" lean-forward="true" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="181" column="27" lean-forward="true" selection-start-line="181" selection-start-column="27" selection-end-line="181" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/lang/ThreadLocal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-901">
+          <caret line="307" column="66" lean-forward="true" selection-start-line="307" selection-start-column="66" selection-end-line="307" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/shuo/laoma/concurrent/c80/TimerException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="24" column="72" lean-forward="true" selection-start-line="24" selection-start-column="72" selection-end-line="24" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/shuo/laoma/regex/c89/RegexDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="53" column="47" lean-forward="true" selection-start-line="53" selection-start-column="47" selection-end-line="53" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/shuo/laoma/dynamic/c84/GenericDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/shuo/laoma/dynamic/c84/SimpleMapperDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="26" column="27" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/shuo/laoma/dynamic/c84/SimpleMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="76" lean-forward="true" selection-start-line="16" selection-start-column="76" selection-end-line="16" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI" />
+      <state key="GlobalLibrariesConfigurable.UI" />
+      <state key="JdkListConfigurable.UI" />
+      <state key="ModuleStructureConfigurable.UI" />
+      <state key="ProjectLibrariesConfigurable.UI" />
+    </states>
+  </component>
+</project>

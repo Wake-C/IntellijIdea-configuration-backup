@@ -1,0 +1,23 @@
+<application>
+  <component name="LangManager">
+    <option name="languageName" value="JAVA" />
+    <option name="languageToProjectMap">
+      <map>
+        <entry key="JAVA" value="/Users/IdeaProjects/IdeaLearningProject" />
+      </map>
+    </option>
+  </component>
+  <component name="LessonStateBase">
+    <option name="map">
+      <map>
+        <entry key="basic completion" value="NOT_PASSED" />
+        <entry key="codeassistance.codeformatting" value="NOT_PASSED" />
+        <entry key="context.actions" value="NOT_PASSED" />
+        <entry key="java.run.configuration" value="NOT_PASSED" />
+        <entry key="refactorings.rename" value="NOT_PASSED" />
+        <entry key="search everywhere" value="NOT_PASSED" />
+        <entry key="select" value="NOT_PASSED" />
+      </map>
+    </option>
+  </component>
+</application>

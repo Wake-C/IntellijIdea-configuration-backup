@@ -1,0 +1,11 @@
+<application>
+  <component name="Config">
+    <option name="config">
+      <Config>
+        <option name="mark" value="^^:" />
+        <option name="maxCharNum" value="150" />
+        <option name="user" value="" />
+      </Config>
+    </option>
+  </component>
+</application>

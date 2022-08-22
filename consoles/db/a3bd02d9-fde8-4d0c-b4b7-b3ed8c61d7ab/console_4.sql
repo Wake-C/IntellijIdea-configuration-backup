@@ -1,0 +1,1 @@
+alter table rabbitmq_log modify column msg longtext character set utf8mb4;

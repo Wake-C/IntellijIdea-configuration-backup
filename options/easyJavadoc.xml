@@ -1,0 +1,6 @@
+<application>
+  <component name="easyJavadoc">
+    <option name="author" value="Alexis" />
+    <option name="simpleFieldDoc" value="true" />
+  </component>
+</application>

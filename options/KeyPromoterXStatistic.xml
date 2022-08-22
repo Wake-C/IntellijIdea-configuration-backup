@@ -1,0 +1,2922 @@
+<application>
+  <component name="KeyPromoterXStatistic">
+    <option name="statistics">
+      <Statistic Action="Add">
+        <Item>
+          <IdeaActionID>Git.Add</IdeaActionID>
+          <ShortCut>'⌃⌥⇧Q'</ShortCut>
+          <Description>Add</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Add Bookmark">
+        <Item>
+          <IdeaActionID>ToggleBookmark</IdeaActionID>
+          <ShortCut>'F11' or '⌘F11'</ShortCut>
+          <Description>Add Bookmark</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Add Mnemonic Bookmark...">
+        <Item>
+          <IdeaActionID>ToggleBookmarkWithMnemonic</IdeaActionID>
+          <ShortCut>'⌃F11'</ShortCut>
+          <Description>Add Mnemonic Bookmark...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Add as Maven Project">
+        <Item>
+          <IdeaActionID>Maven.AddFileAsMavenProject</IdeaActionID>
+          <ShortCut>'⌃⌥⌘M'</ShortCut>
+          <Description>Add as Maven Project</Description>
+          <Count>5</Count>
+          <Hit>3</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Add to VCS">
+        <Item>
+          <IdeaActionID>ChangesView.AddUnversioned</IdeaActionID>
+          <ShortCut>'⌃⌥⇧Q'</ShortCut>
+          <Description>Add to VCS</Description>
+          <Count>12</Count>
+          <Hit>15</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Analyze Class (non-anonymous) under Cursor">
+        <Item>
+          <IdeaActionID>FindBugs.ClassUnderCursorAction</IdeaActionID>
+          <ShortCut>'⌃⌥⇧C'</ShortCut>
+          <Description>Analyze Class (non-anonymous) under Cursor</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Analyze Code...">
+        <Item>
+          <IdeaActionID>QAPlug.AnalyzeMenu.AnalyzeCode</IdeaActionID>
+          <ShortCut>'⌥⇧A'</ShortCut>
+          <Description>Analyze Code...</Description>
+          <Count>3</Count>
+          <Hit>83</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Analyze Current File">
+        <Item>
+          <IdeaActionID>FindBugs.CurrentFileAction</IdeaActionID>
+          <ShortCut>'⌃⌥⇧F'</ShortCut>
+          <Description>Analyze Current File</Description>
+          <Count>25</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Analyze with SonarLint">
+        <Item>
+          <IdeaActionID>SonarLint.AnalyzeFiles</IdeaActionID>
+          <ShortCut>'⌃⇧S'</ShortCut>
+          <Description>Analyze with SonarLint</Description>
+          <Count>29</Count>
+          <Hit>200</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Assign Mnemonic...">
+        <Item>
+          <IdeaActionID>ToggleBookmarkWithMnemonic</IdeaActionID>
+          <ShortCut>'⌃F11'</ShortCut>
+          <Description>Assign Mnemonic...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Back">
+        <Item>
+          <IdeaActionID>Back</IdeaActionID>
+          <ShortCut>'⌃⌥←' or '⌃⌘←'</ShortCut>
+          <Description>Back</Description>
+          <Count>49</Count>
+          <Hit>47319</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Build Project">
+        <Item>
+          <IdeaActionID>CompileDirty</IdeaActionID>
+          <ShortCut>'⌃F9'</ShortCut>
+          <Description>Build Project</Description>
+          <Count>12</Count>
+          <Hit>1506</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Clear Bookmark">
+        <Item>
+          <IdeaActionID>ToggleBookmark</IdeaActionID>
+          <ShortCut>'F11'</ShortCut>
+          <Description>Clear Bookmark</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Code With Me">
+        <Item>
+          <IdeaActionID>CWMHostShowPopupAction</IdeaActionID>
+          <ShortCut>'⌃⇧Y'</ShortCut>
+          <Description>Code With Me</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Collapse All">
+        <Item>
+          <IdeaActionID>Maven.CollapseAll</IdeaActionID>
+          <ShortCut>'⌃-' or '⌃-'</ShortCut>
+          <Description>Collapse All</Description>
+          <Count>19</Count>
+          <Hit>4</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Commit File...">
+        <Item>
+          <IdeaActionID>CheckinFiles</IdeaActionID>
+          <ShortCut>'⌃⌥⌘E'</ShortCut>
+          <Description>Commit File...</Description>
+          <Count>4</Count>
+          <Hit>28</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Commit Message History">
+        <Item>
+          <IdeaActionID>Vcs.ShowMessageHistory</IdeaActionID>
+          <ShortCut>'⌃M' or '⌃E'</ShortCut>
+          <Description>Commit Message History</Description>
+          <Count>634</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Commit...">
+        <Item>
+          <IdeaActionID>CheckinProject</IdeaActionID>
+          <ShortCut>'⌃⌥⇧E' or '⌃⇧⌘E'</ShortCut>
+          <Description>Commit...</Description>
+          <Count>17</Count>
+          <Hit>4303</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Compare...">
+        <Item>
+          <IdeaActionID>DatabaseView.ShowDiff</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Compare...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Copy">
+        <Item>
+          <IdeaActionID>$Copy</IdeaActionID>
+          <ShortCut>'⌃C'</ShortCut>
+          <Description>Copy</Description>
+          <Count>23</Count>
+          <Hit>26521</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Copy Class...">
+        <Item>
+          <IdeaActionID>CopyElement</IdeaActionID>
+          <ShortCut>'F5'</ShortCut>
+          <Description>Copy Class...</Description>
+          <Count>2</Count>
+          <Hit>78</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Copy Path">
+        <Item>
+          <IdeaActionID>CopyPaths</IdeaActionID>
+          <ShortCut>'⌃⇧C'</ShortCut>
+          <Description>Copy Path</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Copy Reference">
+        <Item>
+          <IdeaActionID>CopyReference</IdeaActionID>
+          <ShortCut>'⌃⌥⇧C'</ShortCut>
+          <Description>Copy Reference</Description>
+          <Count>20</Count>
+          <Hit>267</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Copy Relative Path">
+        <Item>
+          <IdeaActionID>CopyReference</IdeaActionID>
+          <ShortCut>'⌃⌥⇧C'</ShortCut>
+          <Description>Copy Relative Path</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Copy Revision Number">
+        <Item>
+          <IdeaActionID>Vcs.CopyRevisionNumberAction</IdeaActionID>
+          <ShortCut>'⌃⌥⇧C'</ShortCut>
+          <Description>Copy Revision Number</Description>
+          <Count>31</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Copy Value">
+        <Item>
+          <IdeaActionID>XDebugger.CopyValue</IdeaActionID>
+          <ShortCut>'⌃C' or '⌘C'</ShortCut>
+          <Description>Copy Value</Description>
+          <Count>9</Count>
+          <Hit>131</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Copy...">
+        <Item>
+          <IdeaActionID>CopyElement</IdeaActionID>
+          <ShortCut>'F5'</ShortCut>
+          <Description>Copy...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Cut">
+        <Item>
+          <IdeaActionID>$Cut</IdeaActionID>
+          <ShortCut>'⌃X' or '⇧⌦' or '⌘X'</ShortCut>
+          <Description>Cut</Description>
+          <Count>2</Count>
+          <Hit>4785</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Data Source Properties">
+        <Item>
+          <IdeaActionID>DatabaseView.PropertiesAction</IdeaActionID>
+          <ShortCut>'⇧⏎'</ShortCut>
+          <Description>Data Source Properties</Description>
+          <Count>22</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug">
+        <Item>
+          <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
+          <ShortCut>'⌥5' or '⌘5'</ShortCut>
+          <Description>Debug</Description>
+          <Count>505</Count>
+          <Hit>165</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'DateUtil.main()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧F5'</ShortCut>
+          <Description>Debug 'DateUtil.main()'</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'DeclarativeTransacti...'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧F5'</ShortCut>
+          <Description>Debug 'DeclarativeTransacti...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'JsonTest.main()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧F5'</ShortCut>
+          <Description>Debug 'JsonTest.main()'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'ListenerApplic....main()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧F5'</ShortCut>
+          <Description>Debug 'ListenerApplic....main()'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'MallApiTest'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧F5'</ShortCut>
+          <Description>Debug 'MallApiTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'ObjectUtil.main()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧F5'</ShortCut>
+          <Description>Debug 'ObjectUtil.main()'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'StoreConditionBO.main()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧F5'</ShortCut>
+          <Description>Debug 'StoreConditionBO.main()'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'TransactionApp....main()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧F5'</ShortCut>
+          <Description>Debug 'TransactionApp....main()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'appMenus()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧F5'</ShortCut>
+          <Description>Debug 'appMenus()'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'filterInGuava()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧F5'</ShortCut>
+          <Description>Debug 'filterInGuava()'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'nullValidation()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧F5'</ShortCut>
+          <Description>Debug 'nullValidation()'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'oldHandle()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧F5'</ShortCut>
+          <Description>Debug 'oldHandle()'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'productGroups()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧F5'</ShortCut>
+          <Description>Debug 'productGroups()'</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'simpleStrategy()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧F5'</ShortCut>
+          <Description>Debug 'simpleStrategy()'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'test()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧F5'</ShortCut>
+          <Description>Debug 'test()'</Description>
+          <Count>18</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'tests()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧F5'</ShortCut>
+          <Description>Debug 'tests()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug with JRebel 'HardwareApplication'">
+        <Item>
+          <IdeaActionID>JRebel Debug</IdeaActionID>
+          <ShortCut>'⌃⌥⇧F9'</ShortCut>
+          <Description>Debug with JRebel 'HardwareApplication'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug with JRebel 'ListenerApplication'">
+        <Item>
+          <IdeaActionID>JRebel Debug</IdeaActionID>
+          <ShortCut>'⌃⌥⇧F9'</ShortCut>
+          <Description>Debug with JRebel 'ListenerApplication'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug with JRebel 'MallApplication'">
+        <Item>
+          <IdeaActionID>JRebel Debug</IdeaActionID>
+          <ShortCut>'⌃⌥⇧F9'</ShortCut>
+          <Description>Debug with JRebel 'MallApplication'</Description>
+          <Count>351</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug with JRebel 'ObjectUtil'">
+        <Item>
+          <IdeaActionID>JRebel Debug</IdeaActionID>
+          <ShortCut>'⌃⌥⇧F9'</ShortCut>
+          <Description>Debug with JRebel 'ObjectUtil'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug with JRebel 'WeChatApplication'">
+        <Item>
+          <IdeaActionID>JRebel Debug</IdeaActionID>
+          <ShortCut>'⌃⌥⇧F9'</ShortCut>
+          <Description>Debug with JRebel 'WeChatApplication'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug with JRebel 'com.gt.mall.controller.pc in mall-web-pc'">
+        <Item>
+          <IdeaActionID>JRebel Debug</IdeaActionID>
+          <ShortCut>'⌃⌥⇧F9'</ShortCut>
+          <Description>Debug with JRebel 'com.gt.mall.controller.pc in mall-web-pc'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Declaration">
+        <Item>
+          <IdeaActionID>GotoDeclaration</IdeaActionID>
+          <ShortCut>'⌃B'</ShortCut>
+          <Description>Declaration</Description>
+          <Count>3284</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Declaration or Usages">
+        <Item>
+          <IdeaActionID>GotoDeclaration</IdeaActionID>
+          <ShortCut>'⌃B'</ShortCut>
+          <Description>Declaration or Usages</Description>
+          <Count>232</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Delete">
+        <Item>
+          <IdeaActionID>$Delete</IdeaActionID>
+          <ShortCut>'⌦'</ShortCut>
+          <Description>Delete</Description>
+          <Count>35</Count>
+          <Hit>148</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Delete Bookmark">
+        <Item>
+          <IdeaActionID>ToggleBookmark</IdeaActionID>
+          <ShortCut>'F11'</ShortCut>
+          <Description>Delete Bookmark</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Delete...">
+        <Item>
+          <IdeaActionID>$Delete</IdeaActionID>
+          <ShortCut>'⌦'</ShortCut>
+          <Description>Delete...</Description>
+          <Count>21</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Drop">
+        <Item>
+          <IdeaActionID>DatabaseView.DropAction</IdeaActionID>
+          <ShortCut>'⌦'</ShortCut>
+          <Description>Drop</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Duplicate">
+        <Item>
+          <IdeaActionID>DatabaseView.CopyAction</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Duplicate</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Edit Configurations...">
+        <Item>
+          <IdeaActionID>editRunConfigurations</IdeaActionID>
+          <ShortCut>'⌃,'</ShortCut>
+          <Description>Edit Configurations...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Evaluate Expression...">
+        <Item>
+          <IdeaActionID>EvaluateExpression</IdeaActionID>
+          <ShortCut>'⌥F8'</ShortCut>
+          <Description>Evaluate Expression...</Description>
+          <Count>3</Count>
+          <Hit>296</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Execute">
+        <Item>
+          <IdeaActionID>Console.Jdbc.Execute</IdeaActionID>
+          <ShortCut>'⌃⏎'</ShortCut>
+          <Description>Execute</Description>
+          <Count>19</Count>
+          <Hit>31</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Expand All">
+        <Item>
+          <IdeaActionID>ExpandAll</IdeaActionID>
+          <ShortCut>'⌃+' or '⌃='</ShortCut>
+          <Description>Expand All</Description>
+          <Count>32</Count>
+          <Hit>22</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Extract Method...">
+        <Item>
+          <IdeaActionID>ExtractMethod</IdeaActionID>
+          <ShortCut>'⌃⌥M'</ShortCut>
+          <Description>Extract Method...</Description>
+          <Count>2</Count>
+          <Hit>622</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Favorites">
+        <Item>
+          <IdeaActionID>ActivateFavoritesToolWindow</IdeaActionID>
+          <ShortCut>'⌥2'</ShortCut>
+          <Description>Favorites</Description>
+          <Count>12</Count>
+          <Hit>69</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="File Structure">
+        <Item>
+          <IdeaActionID>UsageGrouping.FileStructure</IdeaActionID>
+          <ShortCut>'⌃⌥F'</ShortCut>
+          <Description>File Structure</Description>
+          <Count>7</Count>
+          <Hit>1271</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Find">
+        <Item>
+          <IdeaActionID>ActivateFindToolWindow</IdeaActionID>
+          <ShortCut>'⌥3'</ShortCut>
+          <Description>Find</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Find Usages">
+        <Item>
+          <IdeaActionID>FindUsages</IdeaActionID>
+          <ShortCut>'⌥F7'</ShortCut>
+          <Description>Find Usages</Description>
+          <Count>8</Count>
+          <Hit>95</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Find in Files...">
+        <Item>
+          <IdeaActionID>FindInPath</IdeaActionID>
+          <ShortCut>'⌃⇧F'</ShortCut>
+          <Description>Find in Files...</Description>
+          <Count>1</Count>
+          <Hit>951</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Force Run to Cursor">
+        <Item>
+          <IdeaActionID>ForceRunToCursor</IdeaActionID>
+          <ShortCut>'⌃⌥F9'</ShortCut>
+          <Description>Force Run to Cursor</Description>
+          <Count>10</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Force Step Into">
+        <Item>
+          <IdeaActionID>ForceStepInto</IdeaActionID>
+          <ShortCut>'⌥⇧F7'</ShortCut>
+          <Description>Force Step Into</Description>
+          <Count>13</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Force Step Over">
+        <Item>
+          <IdeaActionID>ForceStepOver</IdeaActionID>
+          <ShortCut>'⌥⇧F8'</ShortCut>
+          <Description>Force Step Over</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Forward">
+        <Item>
+          <IdeaActionID>Forward</IdeaActionID>
+          <ShortCut>'⌃⌥→' or '⌃⌘→'</ShortCut>
+          <Description>Forward</Description>
+          <Count>19</Count>
+          <Hit>823</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Generate...">
+        <Item>
+          <IdeaActionID>Generate</IdeaActionID>
+          <ShortCut>'⌘S'</ShortCut>
+          <Description>Generate...</Description>
+          <Count>29</Count>
+          <Hit>182</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Get relevant examples">
+        <Item>
+          <IdeaActionID>CodotaLeanSearchCrossRefAction</IdeaActionID>
+          <ShortCut>'⌃⇧O'</ShortCut>
+          <Description>Get relevant examples</Description>
+          <Count>1</Count>
+          <Hit>16</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Git">
+        <Item>
+          <IdeaActionID>ActivateGitToolWindow</IdeaActionID>
+          <ShortCut>'⌘+9'</ShortCut>
+          <Description>Git</Description>
+          <Count>1</Count>
+          <Hit>307</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Go to DDL">
+        <Item>
+          <IdeaActionID>Jdbc.OpenEditor.DDL</IdeaActionID>
+          <ShortCut>'⌃B'</ShortCut>
+          <Description>Go to DDL</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Go to Declaration or Usages">
+        <Item>
+          <IdeaActionID>GotoDeclaration</IdeaActionID>
+          <ShortCut>'⌃B'</ShortCut>
+          <Description>Go to Declaration or Usages</Description>
+          <Count>26089</Count>
+          <Hit>16909</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Go to Implementation(s)">
+        <Item>
+          <IdeaActionID>GotoImplementation</IdeaActionID>
+          <ShortCut>'⌃⌥B' or '⌃⌘B'</ShortCut>
+          <Description>Go to Implementation(s)</Description>
+          <Count>4</Count>
+          <Hit>20303</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Go to Type Declaration">
+        <Item>
+          <IdeaActionID>GotoTypeDeclaration</IdeaActionID>
+          <ShortCut>'⌃⇧B'</ShortCut>
+          <Description>Go to Type Declaration</Description>
+          <Count>7</Count>
+          <Hit>5</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Hide All Windows">
+        <Item>
+          <IdeaActionID>HideAllWindows</IdeaActionID>
+          <ShortCut>'⌃⇧F12'</ShortCut>
+          <Description>Hide All Windows</Description>
+          <Count>3</Count>
+          <Hit>2443</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Implementation(s)">
+        <Item>
+          <IdeaActionID>GotoImplementation</IdeaActionID>
+          <ShortCut>'⌃⌥B' or '⌃⌘B'</ShortCut>
+          <Description>Implementation(s)</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Inline Property">
+        <Item>
+          <IdeaActionID>Inline</IdeaActionID>
+          <ShortCut>'⌃⌥N'</ShortCut>
+          <Description>Inline Property</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Inline Super Class...">
+        <Item>
+          <IdeaActionID>Inline</IdeaActionID>
+          <ShortCut>'⌃⌥N'</ShortCut>
+          <Description>Inline Super Class...</Description>
+          <Count>1</Count>
+          <Hit>1</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Inline Variable">
+        <Item>
+          <IdeaActionID>Inline</IdeaActionID>
+          <ShortCut>'⌃⌥N'</ShortCut>
+          <Description>Inline Variable</Description>
+          <Count>2</Count>
+          <Hit>53</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Inline...">
+        <Item>
+          <IdeaActionID>Inline</IdeaActionID>
+          <ShortCut>'⌃⌥N'</ShortCut>
+          <Description>Inline...</Description>
+          <Count>3</Count>
+          <Hit>12</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Introduce Constant...">
+        <Item>
+          <IdeaActionID>IntroduceConstant</IdeaActionID>
+          <ShortCut>'⌃⌥C'</ShortCut>
+          <Description>Introduce Constant...</Description>
+          <Count>1</Count>
+          <Hit>50</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Introduce Field...">
+        <Item>
+          <IdeaActionID>IntroduceField</IdeaActionID>
+          <ShortCut>'⌃⌥F'</ShortCut>
+          <Description>Introduce Field...</Description>
+          <Count>1</Count>
+          <Hit>1</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Introduce Parameter...">
+        <Item>
+          <IdeaActionID>IntroduceParameter</IdeaActionID>
+          <ShortCut>'⌃⌥P'</ShortCut>
+          <Description>Introduce Parameter...</Description>
+          <Count>3</Count>
+          <Hit>166</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Load Maven Changes">
+        <Item>
+          <IdeaActionID>ExternalSystem.ProjectRefreshAction</IdeaActionID>
+          <ShortCut>'⌃⇧O'</ShortCut>
+          <Description>Load Maven Changes</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Manage Projects...">
+        <Item>
+          <IdeaActionID>ManageRecentProjects</IdeaActionID>
+          <ShortCut>'⌃⌥⇧O'</ShortCut>
+          <Description>Manage Projects...</Description>
+          <Count>1</Count>
+          <Hit>472</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Mark Object...">
+        <Item>
+          <IdeaActionID>Debugger.MarkObject</IdeaActionID>
+          <ShortCut>'F11'</ShortCut>
+          <Description>Mark Object...</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Maximize Tool Window">
+        <Item>
+          <IdeaActionID>MaximizeToolWindow</IdeaActionID>
+          <ShortCut>'⌃⇧''</ShortCut>
+          <Description>Maximize Tool Window</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Messages">
+        <Item>
+          <IdeaActionID>ActivateMessagesToolWindow</IdeaActionID>
+          <ShortCut>'⌥0'</ShortCut>
+          <Description>Messages</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Modify Table...">
+        <Item>
+          <IdeaActionID>ModifyObject</IdeaActionID>
+          <ShortCut>'⌃F6'</ShortCut>
+          <Description>Modify Table...</Description>
+          <Count>2</Count>
+          <Hit>6</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Move Class...">
+        <Item>
+          <IdeaActionID>Move</IdeaActionID>
+          <ShortCut>'F6'</ShortCut>
+          <Description>Move Class...</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Move File...">
+        <Item>
+          <IdeaActionID>Move</IdeaActionID>
+          <ShortCut>'F6'</ShortCut>
+          <Description>Move File...</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Move Instance Method...">
+        <Item>
+          <IdeaActionID>Move</IdeaActionID>
+          <ShortCut>'F6'</ShortCut>
+          <Description>Move Instance Method...</Description>
+          <Count>15</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Move Members...">
+        <Item>
+          <IdeaActionID>Move</IdeaActionID>
+          <ShortCut>'F6'</ShortCut>
+          <Description>Move Members...</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Move Package or Directory...">
+        <Item>
+          <IdeaActionID>Move</IdeaActionID>
+          <ShortCut>'F6'</ShortCut>
+          <Description>Move Package or Directory...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Move Tab to New Window">
+        <Item>
+          <IdeaActionID>EditSourceInNewWindow</IdeaActionID>
+          <ShortCut>'⇧F4'</ShortCut>
+          <Description>Move Tab to New Window</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Mute Breakpoints">
+        <Item>
+          <IdeaActionID>XDebugger.MuteBreakpoints</IdeaActionID>
+          <ShortCut>'⌘F8'</ShortCut>
+          <Description>Mute Breakpoints</Description>
+          <Count>123</Count>
+          <Hit>215</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="MyBatis Log Plugin">
+        <Item>
+          <IdeaActionID>TailMyBatisLog0</IdeaActionID>
+          <ShortCut>'⌃⌥⇧O'</ShortCut>
+          <Description>MyBatis Log Plugin</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Open Gradle Config">
+        <Item>
+          <IdeaActionID>ExternalSystem.OpenConfig</IdeaActionID>
+          <ShortCut>'F4'</ShortCut>
+          <Description>Open Gradle Config</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Open Module Settings">
+        <Item>
+          <IdeaActionID>OpenModuleSettings</IdeaActionID>
+          <ShortCut>'F4'</ShortCut>
+          <Description>Open Module Settings</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Open in Right Split">
+        <Item>
+          <IdeaActionID>OpenInRightSplit</IdeaActionID>
+          <ShortCut>'⇧⏎'</ShortCut>
+          <Description>Open in Right Split</Description>
+          <Count>2</Count>
+          <Hit>1</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Open...">
+        <Item>
+          <IdeaActionID>OpenFile</IdeaActionID>
+          <ShortCut>'⌃⇧O'</ShortCut>
+          <Description>Open...</Description>
+          <Count>4</Count>
+          <Hit>37</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Optimize Imports">
+        <Item>
+          <IdeaActionID>OptimizeImports</IdeaActionID>
+          <ShortCut>'⌃⌥O'</ShortCut>
+          <Description>Optimize Imports</Description>
+          <Count>1</Count>
+          <Hit>403</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Paste">
+        <Item>
+          <IdeaActionID>$Paste</IdeaActionID>
+          <ShortCut>'⌃V' or '⌘V'</ShortCut>
+          <Description>Paste</Description>
+          <Count>12</Count>
+          <Hit>26427</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Paste without Formatting">
+        <Item>
+          <IdeaActionID>EditorPasteSimple</IdeaActionID>
+          <ShortCut>'⌃⌥⇧V'</ShortCut>
+          <Description>Paste without Formatting</Description>
+          <Count>8</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Preview the current selected bug.">
+        <Item>
+          <IdeaActionID>FindBugs.PreviewSelectBugInstance</IdeaActionID>
+          <ShortCut>'⌥Q'</ShortCut>
+          <Description>Preview the current selected bug.</Description>
+          <Count>8</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="ProblemsView">
+        <Item>
+          <IdeaActionID>ActivateProblemsViewToolWindow</IdeaActionID>
+          <ShortCut>'⌥6'</ShortCut>
+          <Description>ProblemsView</Description>
+          <Count>8</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Project">
+        <Item>
+          <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
+          <ShortCut>'⌘1'</ShortCut>
+          <Description>Project</Description>
+          <Count>754</Count>
+          <Hit>403</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Project Structure...">
+        <Item>
+          <IdeaActionID>ShowProjectStructureSettings</IdeaActionID>
+          <ShortCut>'⌃⌥⇧S'</ShortCut>
+          <Description>Project Structure...</Description>
+          <Count>16</Count>
+          <Hit>17</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Properties">
+        <Item>
+          <IdeaActionID>DatabaseView.PropertiesAction</IdeaActionID>
+          <ShortCut>'⇧⏎'</ShortCut>
+          <Description>Properties</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Push...">
+        <Item>
+          <IdeaActionID>Vcs.Push</IdeaActionID>
+          <ShortCut>'⌃⇧K' or '⌃⌥⇧R'</ShortCut>
+          <Description>Push...</Description>
+          <Count>3</Count>
+          <Hit>1805</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Quick Evaluate Expression">
+        <Item>
+          <IdeaActionID>QuickEvaluateExpression</IdeaActionID>
+          <ShortCut>'⌃⌥F8'</ShortCut>
+          <Description>Quick Evaluate Expression</Description>
+          <Count>963</Count>
+          <Hit>3</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Quick Switch Scheme...">
+        <Item>
+          <IdeaActionID>QuickChangeScheme</IdeaActionID>
+          <ShortCut>'⌃`'</ShortCut>
+          <Description>Quick Switch Scheme...</Description>
+          <Count>1</Count>
+          <Hit>35</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rebel Debug 'CeShiTest.user'">
+        <Item>
+          <IdeaActionID>JRebel Debug</IdeaActionID>
+          <ShortCut>'⌃⌥⇧F9'</ShortCut>
+          <Description>Rebel Debug 'CeShiTest.user'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rebel Debug 'ComEticketServiceImpl'">
+        <Item>
+          <IdeaActionID>JRebel Debug</IdeaActionID>
+          <ShortCut>'⌃⌥⇧F9'</ShortCut>
+          <Description>Rebel Debug 'ComEticketServiceImpl'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rebel Debug 'DeliveryApiV2Test.query'">
+        <Item>
+          <IdeaActionID>JRebel Debug</IdeaActionID>
+          <ShortCut>'⌃⌥⇧F9'</ShortCut>
+          <Description>Rebel Debug 'DeliveryApiV2Test.query'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rebel Debug 'DistributionTest.test (1)'">
+        <Item>
+          <IdeaActionID>JRebel Debug</IdeaActionID>
+          <ShortCut>'⌃⌥⇧F9'</ShortCut>
+          <Description>Rebel Debug 'DistributionTest.test (1)'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rebel Debug 'DistributionTest.test'">
+        <Item>
+          <IdeaActionID>JRebel Debug</IdeaActionID>
+          <ShortCut>'⌃⌥⇧F9'</ShortCut>
+          <Description>Rebel Debug 'DistributionTest.test'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rebel Debug 'ErrorCodeDemoApplicationTests.testThrowingCustomException'">
+        <Item>
+          <IdeaActionID>JRebel Debug</IdeaActionID>
+          <ShortCut>'⌃⌥⇧F9'</ShortCut>
+          <Description>Rebel Debug 'ErrorCodeDemoApplicationTests.testThrowingCustomException'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rebel Debug 'GatewayApplication'">
+        <Item>
+          <IdeaActionID>JRebel Debug</IdeaActionID>
+          <ShortCut>'⌃⌥⇧F9'</ShortCut>
+          <Description>Rebel Debug 'GatewayApplication'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rebel Debug 'HelloApplication'">
+        <Item>
+          <IdeaActionID>JRebel Debug</IdeaActionID>
+          <ShortCut>'⌃⌥⇧F9'</ShortCut>
+          <Description>Rebel Debug 'HelloApplication'</Description>
+          <Count>17</Count>
+          <Hit>2</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rebel Debug 'IUnifyEticketOrderServiceImpl'">
+        <Item>
+          <IdeaActionID>JRebel Debug</IdeaActionID>
+          <ShortCut>'⌃⌥⇧F9'</ShortCut>
+          <Description>Rebel Debug 'IUnifyEticketOrderServiceImpl'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rebel Debug 'MallApplication'">
+        <Item>
+          <IdeaActionID>JRebel Debug</IdeaActionID>
+          <ShortCut>'⌃⌥⇧F9'</ShortCut>
+          <Description>Rebel Debug 'MallApplication'</Description>
+          <Count>1472</Count>
+          <Hit>8</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rebel Debug 'MallEticketApiTest.batchEticketVerification'">
+        <Item>
+          <IdeaActionID>JRebel Debug</IdeaActionID>
+          <ShortCut>'⌃⌥⇧F9'</ShortCut>
+          <Description>Rebel Debug 'MallEticketApiTest.batchEticketVerification'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rebel Debug 'MallOrderWebApplication'">
+        <Item>
+          <IdeaActionID>JRebel Debug</IdeaActionID>
+          <ShortCut>'⌃⌥⇧F9'</ShortCut>
+          <Description>Rebel Debug 'MallOrderWebApplication'</Description>
+          <Count>250</Count>
+          <Hit>1</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rebel Debug 'MpGenerator'">
+        <Item>
+          <IdeaActionID>JRebel Debug</IdeaActionID>
+          <ShortCut>'⌃⌥⇧F9'</ShortCut>
+          <Description>Rebel Debug 'MpGenerator'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rebel Debug 'ObjectUtil'">
+        <Item>
+          <IdeaActionID>JRebel Debug</IdeaActionID>
+          <ShortCut>'⌃⌥⇧F9'</ShortCut>
+          <Description>Rebel Debug 'ObjectUtil'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rebel Debug 'OrderServiceManageApplication'">
+        <Item>
+          <IdeaActionID>JRebel Debug</IdeaActionID>
+          <ShortCut>'⌃⌥⇧F9'</ShortCut>
+          <Description>Rebel Debug 'OrderServiceManageApplication'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rebel Debug 'PointsApplication'">
+        <Item>
+          <IdeaActionID>JRebel Debug</IdeaActionID>
+          <ShortCut>'⌃⌥⇧F9'</ShortCut>
+          <Description>Rebel Debug 'PointsApplication'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rebel Debug 'RestaurantServiceManageApplication'">
+        <Item>
+          <IdeaActionID>JRebel Debug</IdeaActionID>
+          <ShortCut>'⌃⌥⇧F9'</ShortCut>
+          <Description>Rebel Debug 'RestaurantServiceManageApplication'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rebel Debug 'TestInterMain'">
+        <Item>
+          <IdeaActionID>JRebel Debug</IdeaActionID>
+          <ShortCut>'⌃⌥⇧F9'</ShortCut>
+          <Description>Rebel Debug 'TestInterMain'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rebel Debug 'UnifyOrderServiceImpl'">
+        <Item>
+          <IdeaActionID>JRebel Debug</IdeaActionID>
+          <ShortCut>'⌃⌥⇧F9'</ShortCut>
+          <Description>Rebel Debug 'UnifyOrderServiceImpl'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rebel Debug 'WaiterServiceApplication (28)'">
+        <Item>
+          <IdeaActionID>JRebel Debug</IdeaActionID>
+          <ShortCut>'⌃⌥⇧F9'</ShortCut>
+          <Description>Rebel Debug 'WaiterServiceApplication (28)'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rebel Debug 'order-service-manage [build]'">
+        <Item>
+          <IdeaActionID>JRebel Debug</IdeaActionID>
+          <ShortCut>'⌃⌥⇧F9'</ShortCut>
+          <Description>Rebel Debug 'order-service-manage [build]'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rebel Run 'MallApplication'">
+        <Item>
+          <IdeaActionID>JRebel Executor</IdeaActionID>
+          <ShortCut>'⌃⌥⇧F10'</ShortCut>
+          <Description>Rebel Run 'MallApplication'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rebel Run 'MallOrderWebApplication'">
+        <Item>
+          <IdeaActionID>JRebel Executor</IdeaActionID>
+          <ShortCut>'⌃⌥⇧F10'</ShortCut>
+          <Description>Rebel Run 'MallOrderWebApplication'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rebuild ...plugin-sdk-mall-api'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'⌃⇧F9'</ShortCut>
+          <Description>Rebuild ...plugin-sdk-mall-api'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rebuild ...t-plugin-sdk-entity'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'⌃⇧F9'</ShortCut>
+          <Description>Rebuild ...t-plugin-sdk-entity'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Recent Files">
+        <Item>
+          <IdeaActionID>RecentFiles</IdeaActionID>
+          <ShortCut>'⌃E'</ShortCut>
+          <Description>Recent Files</Description>
+          <Count>1</Count>
+          <Hit>2511</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Recompile 'GuavaExample.java'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'⌃⇧F9'</ShortCut>
+          <Description>Recompile 'GuavaExample.java'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Reformat Code">
+        <Item>
+          <IdeaActionID>ReformatCode</IdeaActionID>
+          <ShortCut>'⌃⌥L' or '⌃⌘L'</ShortCut>
+          <Description>Reformat Code</Description>
+          <Count>1</Count>
+          <Hit>3957</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Refresh">
+        <Item>
+          <IdeaActionID>DatabaseView.Refresh</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Refresh</Description>
+          <Count>96</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Related Symbol...">
+        <Item>
+          <IdeaActionID>GotoRelated</IdeaActionID>
+          <ShortCut>'⌃⌥↖'</ShortCut>
+          <Description>Related Symbol...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Remove Module">
+        <Item>
+          <IdeaActionID>$Delete</IdeaActionID>
+          <ShortCut>'⌦'</ShortCut>
+          <Description>Remove Module</Description>
+          <Count>2</Count>
+          <Hit>3</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Remove Watch">
+        <Item>
+          <IdeaActionID>XDebugger.RemoveWatch</IdeaActionID>
+          <ShortCut>'⌦' or '⌥⌘⌫'</ShortCut>
+          <Description>Remove Watch</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Remove from Recent Projects">
+        <Item>
+          <IdeaActionID>WelcomeScreen.RemoveSelected</IdeaActionID>
+          <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
+          <Description>Remove from Recent Projects</Description>
+          <Count>9</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rename...">
+        <Item>
+          <IdeaActionID>RenameElement</IdeaActionID>
+          <ShortCut>'⇧F6'</ShortCut>
+          <Description>Rename...</Description>
+          <Count>6</Count>
+          <Hit>1987</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Replace in Path...">
+        <Item>
+          <IdeaActionID>ReplaceInPath</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Replace in Path...</Description>
+          <Count>1</Count>
+          <Hit>3</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Request Service">
+        <Item>
+          <IdeaActionID>Tool.GotoRequestService</IdeaActionID>
+          <ShortCut>'⌃⌥/' or '⌃\'</ShortCut>
+          <Description>Request Service</Description>
+          <Count>1</Count>
+          <Hit>2548</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun">
+        <Item>
+          <IdeaActionID>RunDashboard.Run</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Rerun</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'AccountMgr'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'AccountMgr'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'ApiTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'ApiTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'ApiTest.test (3)'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'ApiTest.test (3)'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'ApiTest.test_CacheService'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'ApiTest.test_CacheService'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'ApiTest.test_iterator'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'ApiTest.test_iterator'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'DeliverymanServiceManageApplication'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'DeliverymanServiceManageApplication'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'DistributionTest.test'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'DistributionTest.test'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'MallActivityApi'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'MallActivityApi'</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'MallApiTest.addCart'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'MallApiTest.addCart'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'MallApiTest.allowRefund'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'MallApiTest.allowRefund'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'MallApiTest.te2'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'MallApiTest.te2'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'MallApiTest.test'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'MallApiTest.test'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'MallApiTest.test3'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'MallApiTest.test3'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'MallApplication'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'MallApplication'</Description>
+          <Count>22</Count>
+          <Hit>1</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'MallEticketApiTest.allowRefund'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'MallEticketApiTest.allowRefund'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'MallEticketApiTest.batchEticketVerification'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'MallEticketApiTest.batchEticketVerification'</Description>
+          <Count>33</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'MallEticketApiTest.eticketInfo'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'MallEticketApiTest.eticketInfo'</Description>
+          <Count>9</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'MallOrderWebApplication'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'MallOrderWebApplication'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'MallShopCardApiTest.distributeBalance'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'MallShopCardApiTest.distributeBalance'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'MsDinnersApplication'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'MsDinnersApplication'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'OrderServiceManageApplication'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'OrderServiceManageApplication'</Description>
+          <Count>14</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'RestaurantServiceManageApplication'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'RestaurantServiceManageApplication'</Description>
+          <Count>8</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'RewardServiceManageApplication'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'RewardServiceManageApplication'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'SettlementServiceManageApplication'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'SettlementServiceManageApplication'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'SharedAmountAlgorithmUtil'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'SharedAmountAlgorithmUtil'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'SynchronizedResolve'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'SynchronizedResolve'</Description>
+          <Count>10</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'TestInterMain'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'TestInterMain'</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'TestMain'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'TestMain'</Description>
+          <Count>12</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'TimerException'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'TimerException'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'WeightRandom'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'WeightRandom'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun in Debug Mode">
+        <Item>
+          <IdeaActionID>RunDashboard.Debug</IdeaActionID>
+          <ShortCut>'⌃⇧F5'</ShortCut>
+          <Description>Rerun in Debug Mode</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Resume Program">
+        <Item>
+          <IdeaActionID>Resume</IdeaActionID>
+          <ShortCut>'F9'</ShortCut>
+          <Description>Resume Program</Description>
+          <Count>2712</Count>
+          <Hit>7900</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Revert...">
+        <Item>
+          <IdeaActionID>ChangesView.Revert</IdeaActionID>
+          <ShortCut>'⌃⌥Z'</ShortCut>
+          <Description>Revert...</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rollback...">
+        <Item>
+          <IdeaActionID>ChangesView.Revert</IdeaActionID>
+          <ShortCut>'⌃⌥Z'</ShortCut>
+          <Description>Rollback...</Description>
+          <Count>8</Count>
+          <Hit>2</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run">
+        <Item>
+          <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
+          <ShortCut>'⌥4'</ShortCut>
+          <Description>Run</Description>
+          <Count>483</Count>
+          <Hit>43</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'BigDecimalUtil.main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'BigDecimalUtil.main()'</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'ClerkDistribut....main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'ClerkDistribut....main()'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'CollectionInGuava()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'CollectionInGuava()'</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'ComStoreServic....main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'ComStoreServic....main()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'DateUtil.main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'DateUtil.main()'</Description>
+          <Count>12</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'DeclarativeTra....main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'DeclarativeTra....main()'</Description>
+          <Count>13</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'DeclarativeTransacti...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'DeclarativeTransacti...'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'DruidDemoAppli....main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'DruidDemoAppli....main()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'EnumTest'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⇧F10'</ShortCut>
+          <Description>Run 'EnumTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'EnumTest.main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'EnumTest.main()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'HelloWorldAppl....main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'HelloWorldAppl....main()'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'HelloWorldApplication'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'HelloWorldApplication'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'HolidayGiftStrategyTest'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'HolidayGiftStrategyTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'JoinerInGuava()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'JoinerInGuava()'</Description>
+          <Count>8</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'JpaDemoApplica....main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'JpaDemoApplica....main()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'JsonTest.main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'JsonTest.main()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'ListenerApplic....main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'ListenerApplic....main()'</Description>
+          <Count>37</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'ListenerApplication'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'ListenerApplication'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'MallApiTest'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'MallApiTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'MallApplication'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'MallApplication'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'MallDistributi....main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'MallDistributi....main()'</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'MallEticketSer....main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'MallEticketSer....main()'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'MpGenerator.main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'MpGenerator.main()'</Description>
+          <Count>44</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'MyExceptionUtil.main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'MyExceptionUtil.main()'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'ObjectUtil.main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'ObjectUtil.main()'</Description>
+          <Count>30</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'ProgrammaticTransact...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'ProgrammaticTransact...'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Responsibility....main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'Responsibility....main()'</Description>
+          <Count>9</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'StrategyTest.main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'StrategyTest.main()'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'TemplateTest.main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'TemplateTest.main()'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Test.main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'Test.main()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Tests in 'com.gt.mall.controller.pc''">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'Tests in 'com.gt.mall.controller.pc''</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'TransactionApp....main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'TransactionApp....main()'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'TransactionApplication'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'TransactionApplication'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'ValidationTest'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'ValidationTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'appMenus()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'appMenus()'</Description>
+          <Count>24</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'basedFactoryModeSt...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'basedFactoryModeSt...()'</Description>
+          <Count>26</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'chainUpdate()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'chainUpdate()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'constructorValidat...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'constructorValidat...()'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'contextLoads()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'contextLoads()'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'copy()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'copy()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'deleteAll()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'deleteAll()'</Description>
+          <Count>9</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'designThread()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'designThread()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'executeTest()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'executeTest()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'fileInGuava()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'fileInGuava()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'filterInGuava()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'filterInGuava()'</Description>
+          <Count>12</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'getGiftInfo()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'getGiftInfo()'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'groupInfo()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'groupInfo()'</Description>
+          <Count>9</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'groupSequenceValid...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'groupSequenceValid...()'</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'groupValidation()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'groupValidation()'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'insert()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'insert()'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'jdk7copy()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'jdk7copy()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'logicDelete()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'logicDelete()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'nullValidation()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'nullValidation()'</Description>
+          <Count>18</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'oldHandle()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'oldHandle()'</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'oldHanlder()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'oldHanlder()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'paramValidation()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'paramValidation()'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'productGroups()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'productGroups()'</Description>
+          <Count>17</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'query()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'query()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'returnValueValidat...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'returnValueValidat...()'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'selectList()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'selectList()'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'selectPage()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'selectPage()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'simpleStrategy()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'simpleStrategy()'</Description>
+          <Count>47</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'test1()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'test1()'</Description>
+          <Count>40</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'test2()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'test2()'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'test3()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'test3()'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'test4()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'test4()'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'test5()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'test5()'</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'test6()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'test6()'</Description>
+          <Count>10</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'test7()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'test7()'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'test9()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'test9()'</Description>
+          <Count>19</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'testAr()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'testAr()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'testThrowingCustom...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'testThrowingCustom...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'tests()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'tests()'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'voiceSynthesis()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'voiceSynthesis()'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run Anything">
+        <Item>
+          <IdeaActionID>RunAnything</IdeaActionID>
+          <ShortCut>'⌃⌥⇧F11'</ShortCut>
+          <Description>Run Anything</Description>
+          <Count>2</Count>
+          <Hit>3</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run Inspection by Name...">
+        <Item>
+          <IdeaActionID>RunInspection</IdeaActionID>
+          <ShortCut>'⌃⌥⇧I'</ShortCut>
+          <Description>Run Inspection by Name...</Description>
+          <Count>2</Count>
+          <Hit>3</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run anything">
+        <Item>
+          <IdeaActionID>RunAnything</IdeaActionID>
+          <ShortCut>'⌃⌥⇧F11'</ShortCut>
+          <Description>Run anything</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run to Cursor">
+        <Item>
+          <IdeaActionID>RunToCursor</IdeaActionID>
+          <ShortCut>'⌥F9'</ShortCut>
+          <Description>Run to Cursor</Description>
+          <Count>32</Count>
+          <Hit>50</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run...">
+        <Item>
+          <IdeaActionID>ChooseRunConfiguration</IdeaActionID>
+          <ShortCut>'⌥⇧F10'</ShortCut>
+          <Description>Run...</Description>
+          <Count>6</Count>
+          <Hit>2</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Safe Delete...">
+        <Item>
+          <IdeaActionID>SafeDelete</IdeaActionID>
+          <ShortCut>'⌥⌦' or '⌘⌫'</ShortCut>
+          <Description>Safe Delete...</Description>
+          <Count>2</Count>
+          <Hit>203</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Select Opened File (⌥F1, 1)">
+        <Item>
+          <IdeaActionID>SelectInProjectView</IdeaActionID>
+          <ShortCut>'⌘2'</ShortCut>
+          <Description>Select Opened File (⌥F1, 1)</Description>
+          <Count>180</Count>
+          <Hit>115</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Service">
+        <Item>
+          <IdeaActionID>Toolkit.GotoService</IdeaActionID>
+          <ShortCut>'⌃\' or '⌃⌥N'</ShortCut>
+          <Description>Service</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Services">
+        <Item>
+          <IdeaActionID>ActivateServicesToolWindow</IdeaActionID>
+          <ShortCut>'⌥8'</ShortCut>
+          <Description>Services</Description>
+          <Count>38</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Set Value...">
+        <Item>
+          <IdeaActionID>XDebugger.SetValue</IdeaActionID>
+          <ShortCut>'F2'</ShortCut>
+          <Description>Set Value...</Description>
+          <Count>32</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Show Context Actions">
+        <Item>
+          <IdeaActionID>ShowIntentionActions</IdeaActionID>
+          <ShortCut>'⌥⏎' or '⌘⏎'</ShortCut>
+          <Description>Show Context Actions</Description>
+          <Count>7</Count>
+          <Hit>3252</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Show Diagram Popup...">
+        <Item>
+          <IdeaActionID>ShowUmlDiagramPopup</IdeaActionID>
+          <ShortCut>'⌃⌥U'</ShortCut>
+          <Description>Show Diagram Popup...</Description>
+          <Count>7</Count>
+          <Hit>13</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Show Diagram...">
+        <Item>
+          <IdeaActionID>ShowUmlDiagram</IdeaActionID>
+          <ShortCut>'⌃⌥⇧U'</ShortCut>
+          <Description>Show Diagram...</Description>
+          <Count>9</Count>
+          <Hit>4</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Show Execution Point">
+        <Item>
+          <IdeaActionID>ShowExecutionPoint</IdeaActionID>
+          <ShortCut>'⌥F10'</ShortCut>
+          <Description>Show Execution Point</Description>
+          <Count>14</Count>
+          <Hit>12</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Show History">
+        <Item>
+          <IdeaActionID>Vcs.ShowTabbedFileHistory</IdeaActionID>
+          <ShortCut>'⌃⌥⇧H' or '⌃⇧⌘H'</ShortCut>
+          <Description>Show History</Description>
+          <Count>25</Count>
+          <Hit>903</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Show Services Tree">
+        <Item>
+          <IdeaActionID>ServiceView.ShowServices</IdeaActionID>
+          <ShortCut>'⌃⇧T'</ShortCut>
+          <Description>Show Services Tree</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Source Editor">
+        <Item>
+          <IdeaActionID>Jdbc.OpenEditor.DDL</IdeaActionID>
+          <ShortCut>'⌃B'</ShortCut>
+          <Description>Source Editor</Description>
+          <Count>9</Count>
+          <Hit>1</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Step Into">
+        <Item>
+          <IdeaActionID>StepInto</IdeaActionID>
+          <ShortCut>'F7'</ShortCut>
+          <Description>Step Into</Description>
+          <Count>19</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Step Out">
+        <Item>
+          <IdeaActionID>StepOut</IdeaActionID>
+          <ShortCut>'⇧F8'</ShortCut>
+          <Description>Step Out</Description>
+          <Count>17</Count>
+          <Hit>2</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Step Over">
+        <Item>
+          <IdeaActionID>StepOver</IdeaActionID>
+          <ShortCut>'F8'</ShortCut>
+          <Description>Step Over</Description>
+          <Count>1</Count>
+          <Hit>1725</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop">
+        <Item>
+          <IdeaActionID>RunDashboard.Stop</IdeaActionID>
+          <ShortCut>'⌃F2'</ShortCut>
+          <Description>Stop</Description>
+          <Count>143</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'AccountMgr'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌃F2'</ShortCut>
+          <Description>Stop 'AccountMgr'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'ApiTest.test_iterator'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌃F2'</ShortCut>
+          <Description>Stop 'ApiTest.test_iterator'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'CeShiTest.user (1)'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌃F2'</ShortCut>
+          <Description>Stop 'CeShiTest.user (1)'</Description>
+          <Count>7</Count>
+          <Hit>1</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'CeShiTest.user'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌃F2'</ShortCut>
+          <Description>Stop 'CeShiTest.user'</Description>
+          <Count>11</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'DistributionTest.test (1)'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌃F2'</ShortCut>
+          <Description>Stop 'DistributionTest.test (1)'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'DistributionTest.test'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌃F2'</ShortCut>
+          <Description>Stop 'DistributionTest.test'</Description>
+          <Count>48</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'ErrorCodeDemoApplicationTests.testThrowingCustomException'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌃F2'</ShortCut>
+          <Description>Stop 'ErrorCodeDemoApplicationTests.testThrowingCustomException'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'GatewayApplication'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌃F2'</ShortCut>
+          <Description>Stop 'GatewayApplication'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'HelloApplication'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌃F2'</ShortCut>
+          <Description>Stop 'HelloApplication'</Description>
+          <Count>29</Count>
+          <Hit>2</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'HelloWorldApplication'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌃F2'</ShortCut>
+          <Description>Stop 'HelloWorldApplication'</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'IUnifyEticketOrderServiceImpl'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌃F2'</ShortCut>
+          <Description>Stop 'IUnifyEticketOrderServiceImpl'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'ListenerApplication'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌃F2'</ShortCut>
+          <Description>Stop 'ListenerApplication'</Description>
+          <Count>23</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'MallApiTest.appMenus'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌃F2'</ShortCut>
+          <Description>Stop 'MallApiTest.appMenus'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'MallApiTest.productNumber'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'MallApiTest.productNumber'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'MallApplication'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌃F2'</ShortCut>
+          <Description>Stop 'MallApplication'</Description>
+          <Count>4741</Count>
+          <Hit>18</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'MallEticketApiTest.eticketInfo'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌃F2'</ShortCut>
+          <Description>Stop 'MallEticketApiTest.eticketInfo'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'MallOrderWebApplication'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌃F2'</ShortCut>
+          <Description>Stop 'MallOrderWebApplication'</Description>
+          <Count>610</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'MemberBeanControllerTest.tests'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌃F2'</ShortCut>
+          <Description>Stop 'MemberBeanControllerTest.tests'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'MpGenerator'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌃F2'</ShortCut>
+          <Description>Stop 'MpGenerator'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'MsDinnersApplication'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌃F2'</ShortCut>
+          <Description>Stop 'MsDinnersApplication'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Oauth2ServerApplication'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌃F2'</ShortCut>
+          <Description>Stop 'Oauth2ServerApplication'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'ObjectUtil'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌃F2'</ShortCut>
+          <Description>Stop 'ObjectUtil'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'OrderServiceManageApplication'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌃F2'</ShortCut>
+          <Description>Stop 'OrderServiceManageApplication'</Description>
+          <Count>236</Count>
+          <Hit>3</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'ProducerConsumerDemo'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌃F2'</ShortCut>
+          <Description>Stop 'ProducerConsumerDemo'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'RegistryApplication'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌃F2'</ShortCut>
+          <Description>Stop 'RegistryApplication'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'RestaurantServiceManageApplication'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌃F2'</ShortCut>
+          <Description>Stop 'RestaurantServiceManageApplication'</Description>
+          <Count>83</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'RewardServiceManageApplication'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌃F2'</ShortCut>
+          <Description>Stop 'RewardServiceManageApplication'</Description>
+          <Count>9</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'ScheduledException'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌃F2'</ShortCut>
+          <Description>Stop 'ScheduledException'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'ScheduledFixedDelay'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌃F2'</ShortCut>
+          <Description>Stop 'ScheduledFixedDelay'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'SessionDemoApplication'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌃F2'</ShortCut>
+          <Description>Stop 'SessionDemoApplication'</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'SettlementServiceManageApplication'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌃F2'</ShortCut>
+          <Description>Stop 'SettlementServiceManageApplication'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'StoreConditionBO'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌃F2'</ShortCut>
+          <Description>Stop 'StoreConditionBO'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'StreamTest.test9'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌃F2'</ShortCut>
+          <Description>Stop 'StreamTest.test9'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'TestMain'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌃F2'</ShortCut>
+          <Description>Stop 'TestMain'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'ThKdnServiceImpl'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌃F2'</ShortCut>
+          <Description>Stop 'ThKdnServiceImpl'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'TimerFixedRate'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌃F2'</ShortCut>
+          <Description>Stop 'TimerFixedRate'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'TransactionApplication'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌃F2'</ShortCut>
+          <Description>Stop 'TransactionApplication'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'WaiterServiceApplication (21)'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌃F2'</ShortCut>
+          <Description>Stop 'WaiterServiceApplication (21)'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'WaiterServiceApplication (28)'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌃F2'</ShortCut>
+          <Description>Stop 'WaiterServiceApplication (28)'</Description>
+          <Count>27</Count>
+          <Hit>1</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'WaiterServiceApplication (30)'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌃F2'</ShortCut>
+          <Description>Stop 'WaiterServiceApplication (30)'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'WeChatApplication'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌃F2'</ShortCut>
+          <Description>Stop 'WeChatApplication'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'gt-wechat-open [install]'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌃F2'</ShortCut>
+          <Description>Stop 'gt-wechat-open [install]'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'mall-order [compile]'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌃F2'</ShortCut>
+          <Description>Stop 'mall-order [compile]'</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'parent [compile]'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌃F2'</ShortCut>
+          <Description>Stop 'parent [compile]'</Description>
+          <Count>10</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'parent [install]'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌃F2'</ShortCut>
+          <Description>Stop 'parent [install]'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'test'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌃F2'</ShortCut>
+          <Description>Stop 'test'</Description>
+          <Count>2</Count>
+          <Hit>3</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop...">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌃F2'</ShortCut>
+          <Description>Stop...</Description>
+          <Count>109</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Structure">
+        <Item>
+          <IdeaActionID>ActivateStructureToolWindow</IdeaActionID>
+          <ShortCut>'⌥7'</ShortCut>
+          <Description>Structure</Description>
+          <Count>31</Count>
+          <Hit>6</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Super Class">
+        <Item>
+          <IdeaActionID>GotoSuperMethod</IdeaActionID>
+          <ShortCut>'⌃U'</ShortCut>
+          <Description>Super Class</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Synchronize">
+        <Item>
+          <IdeaActionID>Synchronize</IdeaActionID>
+          <ShortCut>'⌃⌥Y'</ShortCut>
+          <Description>Synchronize</Description>
+          <Count>20</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="TODO">
+        <Item>
+          <IdeaActionID>ActivateTODOToolWindow</IdeaActionID>
+          <ShortCut>'⌥6'</ShortCut>
+          <Description>TODO</Description>
+          <Count>17</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Terminal">
+        <Item>
+          <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
+          <ShortCut>'⌥F12'</ShortCut>
+          <Description>Terminal</Description>
+          <Count>8</Count>
+          <Hit>310</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Test">
+        <Item>
+          <IdeaActionID>GotoTest</IdeaActionID>
+          <ShortCut>'⌃⇧T'</ShortCut>
+          <Description>Test</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Toggle Highlight of All Occurrences">
+        <Item>
+          <IdeaActionID>QuickToggleEditorHighlight</IdeaActionID>
+          <ShortCut>'⌃⌥F3'</ShortCut>
+          <Description>Toggle Highlight of All Occurrences</Description>
+          <Count>3</Count>
+          <Hit>6</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Toggle Line Breakpoint">
+        <Item>
+          <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
+          <ShortCut>'⌃F8'</ShortCut>
+          <Description>Toggle Line Breakpoint</Description>
+          <Count>4021</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Translate">
+        <Item>
+          <IdeaActionID>$EditorTranslateAction</IdeaActionID>
+          <ShortCut>'⌃⌘U'</ShortCut>
+          <Description>Translate</Description>
+          <Count>2</Count>
+          <Hit>2007</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Type Declaration">
+        <Item>
+          <IdeaActionID>GotoTypeDeclaration</IdeaActionID>
+          <ShortCut>'⌃⇧B'</ShortCut>
+          <Description>Type Declaration</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Type Migration...">
+        <Item>
+          <IdeaActionID>ChangeTypeSignature</IdeaActionID>
+          <ShortCut>'⌃⇧F6'</ShortCut>
+          <Description>Type Migration...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Undo Changing signature of set(Set,...">
+        <Item>
+          <IdeaActionID>$Undo</IdeaActionID>
+          <ShortCut>'⌃Z' or '⌥⌫' or '⌘Z'</ShortCut>
+          <Description>Undo Changing signature of set(Set,...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Update 'MallApplication' application">
+        <Item>
+          <IdeaActionID>UpdateRunningApplication</IdeaActionID>
+          <ShortCut>'⌃F10'</ShortCut>
+          <Description>Update 'MallApplication' application</Description>
+          <Count>6</Count>
+          <Hit>3</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Update Branch Filter in Log">
+        <Item>
+          <IdeaActionID>Git.Log.Branches.Change.Branch.Filter</IdeaActionID>
+          <ShortCut>'⏎'</ShortCut>
+          <Description>Update Branch Filter in Log</Description>
+          <Count>9</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Update Project...">
+        <Item>
+          <IdeaActionID>Vcs.UpdateProject</IdeaActionID>
+          <ShortCut>'⌃T'</ShortCut>
+          <Description>Update Project...</Description>
+          <Count>38</Count>
+          <Hit>25</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Variable...">
+        <Item>
+          <IdeaActionID>IntroduceVariable</IdeaActionID>
+          <ShortCut>'⌃⌥V'</ShortCut>
+          <Description>Variable...</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Version Control">
+        <Item>
+          <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
+          <ShortCut>'⌥9' or '⌥⇧9'</ShortCut>
+          <Description>Version Control</Description>
+          <Count>10</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="View Breakpoints...">
+        <Item>
+          <IdeaActionID>ViewBreakpoints</IdeaActionID>
+          <ShortCut>'⌃⇧F8'</ShortCut>
+          <Description>View Breakpoints...</Description>
+          <Count>238</Count>
+          <Hit>15</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="go to definition">
+        <Item>
+          <IdeaActionID>GotoDeclaration</IdeaActionID>
+          <ShortCut>'⌃B'</ShortCut>
+          <Description>go to definition</Description>
+          <Count>140</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="搜索API接口">
+        <Item>
+          <IdeaActionID>Tool.GotoRequestService</IdeaActionID>
+          <ShortCut>'⌃⌥/' or '⌃\'</ShortCut>
+          <Description>搜索API接口</Description>
+          <Count>7</Count>
+          <Hit>883</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="编码规约扫描">
+        <Item>
+          <IdeaActionID>AliP3CInspectionAction</IdeaActionID>
+          <ShortCut>'⌃⌥⇧J'</ShortCut>
+          <Description>编码规约扫描</Description>
+          <Count>10</Count>
+          <Hit>33</Hit>
+        </Item>
+      </Statistic>
+    </option>
+  </component>
+</application>

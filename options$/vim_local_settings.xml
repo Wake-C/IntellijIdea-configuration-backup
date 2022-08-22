@@ -1,0 +1,72 @@
+<application>
+  <component name="VimLocalSettings">
+    <state version="5" />
+    <globalmarks>
+      <mark key="5" line="196" column="8" filename="/Users/IdeaProjects/mall/pom.xml" protocol="file" />
+    </globalmarks>
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1565941892555">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/GoogleCloudSync/CloudDevelopmentWorkspace/java/java-practice/src/main/java/com/example/jackson/JsonTest.java" timestamp="1565941740273">
+        <mark key="'" line="156" column="32" />
+        <mark key="[" line="154" column="25" />
+        <mark key="]" line="154" column="24" />
+        <mark key="^" line="154" column="24" />
+        <mark key="." line="154" column="24" />
+      </file>
+      <file name="/Users/IdeaProjects/mall/mall-redis/src/main/java/com/gt/mall/redis/service/comment/impl/RedisCommentMsgServiceImpl.java" timestamp="1565941903715" />
+      <file name="/Users/IdeaProjects/mall/pom.xml" timestamp="1566265140910">
+        <mark key="'" line="110" column="18" />
+        <mark key="[" line="310" column="0" />
+        <mark key="]" line="310" column="0" />
+        <mark key="^" line="110" column="18" />
+        <mark key="." line="310" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1565941892541">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="161" column="32" filename="$USER_HOME$/GoogleCloudSync/CloudDevelopmentWorkspace/java/java-practice/src/main/java/com/example/jackson/JsonTest.java" />
+      <jump line="316" column="0" filename="/Users/IdeaProjects/mall/pom.xml" />
+      <jump line="109" column="44" filename="/Users/IdeaProjects/mall/pom.xml" />
+      <jump line="110" column="18" filename="/Users/IdeaProjects/mall/pom.xml" />
+    </jumps>
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">CiAgICAgICAgPCEtLSDogZTnm5/lrp7kvZPnsbsgLS0+Cg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CiAgICAgICAgPCEtLSDogZTnm5/lrp7kvZPnsbsgLS0+Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4K</text>
+      </register>
+      <register name="-" type="4">
+        <text>s</text>
+      </register>
+      <register name="/" type="4">
+        <text>test</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>test</last-search>
+      <last-offset />
+      <last-pattern>test</last-pattern>
+      <last-dir>-1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>test</entry>
+      </history-search>
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+</application>

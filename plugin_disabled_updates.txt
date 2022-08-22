@@ -1,0 +1,9 @@
+org.sonarlint.idea+5.0.1.33703
+izhangzhihao.rainbow.brackets+6.18
+com.ccnode.codegenerator.MyBatisCodeHelperPro+2.8.6-183-202
+com.codota.csp.intellij+4.2.3
+com.github.wangji92.arthas.plugin+2.31
+SequenceDiagram+2.1.a5
+com.ccnode.codegenerator.MyBatisCodeHelperPro+2.8.8-183-202
+com.ccnode.codegenerator.MyBatisCodeHelperPro+2.8.7-183-202
+com.ccnode.codegenerator.MyBatisCodeHelperPro+2.8.9-183-204

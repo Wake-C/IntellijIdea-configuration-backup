@@ -1,0 +1,651 @@
+<project version="4">
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/deliveryman-service-manage/src/main/java/com/food/orderservicemanage/service/OrderMessageService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="282">
+              <caret line="61" column="9" selection-start-line="61" selection-start-column="9" selection-end-line="61" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>restaurant</find>
+      <find>queue\.restaurant</find>
+      <find>na</find>
+      <find>connectionFactory</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/order-service-manage/src/main/java/com/food/orderservicemanage/OrderServiceManageApplication.java" />
+      <option value="$PROJECT_DIR$/restaurant-service-manage /src/main/resources/application.properties" />
+      <option value="$PROJECT_DIR$/settlement-service-manage/settings.gradle" />
+      <option value="$PROJECT_DIR$/reward-service-manage/settings.gradle" />
+      <option value="$PROJECT_DIR$/restaurant-service-manage /settings.gradle" />
+      <option value="$PROJECT_DIR$/restaurant-service-manage /src/main/java/com/food/orderservicemanage/OrderServiceManageApplication.java" />
+      <option value="$PROJECT_DIR$/restaurant-service-manage /src/main/java/com/food/orderservicemanage/RestaurantServiceManageApplication.java" />
+      <option value="$PROJECT_DIR$/deliveryman-service-manage/settings.gradle" />
+      <option value="$PROJECT_DIR$/deliveryman-service-manage/src/main/java/com/food/orderservicemanage/DeliverymanServiceManageApplication.java" />
+      <option value="$PROJECT_DIR$/deliveryman-service-manage/src/main/resources/application.properties" />
+      <option value="$PROJECT_DIR$/restaurant-service-manage /src/main/java/com/food/orderservicemanage/enummeration/RestaurantStatus.java" />
+      <option value="$PROJECT_DIR$/restaurant-service-manage /src/main/java/com/food/orderservicemanage/dto/OrderMessageDTO.java" />
+      <option value="$PROJECT_DIR$/restaurant-service-manage /src/main/java/com/food/orderservicemanage/po/OrderDetailPO.java" />
+      <option value="$PROJECT_DIR$/restaurant-service-manage /src/main/java/com/food/orderservicemanage/po/ProductPO.java" />
+      <option value="$PROJECT_DIR$/restaurant-service-manage /src/main/java/com/food/orderservicemanage/po/RestaurantPO.java" />
+      <option value="$PROJECT_DIR$/restaurant-service-manage /src/main/java/com/food/orderservicemanage/dao/ProductDao.java" />
+      <option value="$PROJECT_DIR$/restaurant-service-manage /src/main/java/com/food/orderservicemanage/dao/RestaurantDao.java" />
+      <option value="$PROJECT_DIR$/order-service-manage/src/main/java/com/food/orderservicemanage/service/OrderService.java" />
+      <option value="$PROJECT_DIR$/restaurant-service-manage /src/main/java/com/food/orderservicemanage/service/OrderMessageService.java" />
+      <option value="$PROJECT_DIR$/deliveryman-service-manage/src/main/java/com/food/orderservicemanage/enummeration/DeliverymanStatus.java" />
+      <option value="$PROJECT_DIR$/deliveryman-service-manage/src/main/java/com/food/orderservicemanage/po/DeliverymanPO.java" />
+      <option value="$PROJECT_DIR$/deliveryman-service-manage/src/main/java/com/food/orderservicemanage/dao/DeliverymanDao.java" />
+      <option value="$PROJECT_DIR$/order-service-manage/src/main/java/com/food/orderservicemanage/service/OrderMessageService.java" />
+      <option value="$PROJECT_DIR$/settlement-service-manage/src/main/java/com/food/orderservicemanage/service/SettlementService.java" />
+      <option value="$PROJECT_DIR$/settlement-service-manage/src/main/resources/application.properties" />
+      <option value="$PROJECT_DIR$/reward-service-manage/src/main/resources/application.properties" />
+      <option value="$PROJECT_DIR$/settlement-service-manage/src/main/java/com/food/orderservicemanage/enummeration/SettlementStatus.java" />
+      <option value="$PROJECT_DIR$/settlement-service-manage/src/main/java/com/food/orderservicemanage/po/SettlementPO.java" />
+      <option value="$PROJECT_DIR$/settlement-service-manage/src/main/java/com/food/orderservicemanage/dao/SettlementDao.java" />
+      <option value="$PROJECT_DIR$/reward-service-manage/src/main/java/com/food/orderservicemanage/dao/RewardDao.java" />
+      <option value="$PROJECT_DIR$/reward-service-manage/src/main/java/com/food/orderservicemanage/enummeration/RewardStatus.java" />
+      <option value="$PROJECT_DIR$/reward-service-manage/src/main/java/com/food/orderservicemanage/po/RewardPO.java" />
+      <option value="$PROJECT_DIR$/settlement-service-manage/src/main/java/com/food/orderservicemanage/SettlementServiceManageApplication.java" />
+      <option value="$PROJECT_DIR$/settlement-service-manage/src/main/java/com/food/orderservicemanage/service/OrderMessageService.java" />
+      <option value="$PROJECT_DIR$/reward-service-manage/src/main/java/com/food/orderservicemanage/service/OrderMessageService.java" />
+      <option value="$PROJECT_DIR$/deliveryman-service-manage/src/main/java/com/food/orderservicemanage/service/OrderMessageService.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="chapter3_basic_mq" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chapter3_basic_mq" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="24049000" />
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.41701388" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Learn" order="4" />
+      <window_info id="Pull Requests" order="5" />
+      <window_info id="JRebel" order="6" side_tool="true" />
+      <window_info id="Web" order="7" show_stripe_button="false" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Analysis" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="4" weight="0.33033174" />
+      <window_info anchor="bottom" id="Debug" order="5" weight="0.42" />
+      <window_info anchor="bottom" id="Problems View" order="6" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Profiler" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="MyBatis Log" order="11" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="12" />
+      <window_info anchor="bottom" id="Inspection" order="13" weight="0.4" />
+      <window_info anchor="bottom" id="SonarLint" order="14" />
+      <window_info anchor="bottom" id="Database Changes" order="15" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Sequence Diagram" order="16" />
+      <window_info anchor="bottom" id="TODO" order="17" />
+      <window_info anchor="bottom" id="JRebel Console" order="18" side_tool="true" />
+      <window_info anchor="bottom" id="Endpoints" order="19" />
+      <window_info anchor="bottom" id="Build" order="20" weight="0.33033174" />
+      <window_info anchor="bottom" id="Services" order="21" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Dependencies" order="22" />
+      <window_info anchor="bottom" id="Java Enterprise" order="23" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Spring" order="24" />
+      <window_info anchor="bottom" id="Problems" order="25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Key Promoter X" order="3" />
+      <window_info anchor="right" id="Codota" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Word Book" order="6" side_tool="true" />
+      <window_info anchor="right" id="JRebel Setup Guide" order="7" side_tool="true" />
+      <window_info anchor="right" id="Mybatis datasource" order="8" side_tool="true" />
+      <window_info anchor="right" id="Gradle" order="9" weight="0.32994792" />
+      <window_info anchor="right" id="RestfulTool" order="10" />
+    </layout>
+    <recentWindows>
+      <value>Project</value>
+      <value>Debug</value>
+      <value>Run</value>
+      <value>Build</value>
+    </recentWindows>
+  </component>
+  <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" trusted="YES" />
+  <component name="WindowStateProjectService">
+    <state x="1888" y="-2" key="#Project_Structure" timestamp="1636424827755">
+      <screen x="1440" y="-109" width="1920" height="1055" />
+    </state>
+    <state x="1888" y="-2" key="#Project_Structure/0.25.1440.875/1440.-109.1920.1055@1440.-109.1920.1055" timestamp="1636424827755" />
+    <state x="2138" y="179" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1636434698562">
+      <screen x="1440" y="-109" width="1920" height="1055" />
+    </state>
+    <state x="2138" y="179" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.25.1440.875/1440.-109.1920.1055@1440.-109.1920.1055" timestamp="1636434698562" />
+    <state x="1880" y="82" width="1425" height="768" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1636429188190">
+      <screen x="1440" y="-109" width="1920" height="1055" />
+    </state>
+    <state x="1880" y="82" width="1425" height="768" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.875/1440.-109.1920.1055@1440.-109.1920.1055" timestamp="1636429188190" />
+    <state x="2100" y="323" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1636434753352">
+      <screen x="1440" y="-109" width="1920" height="1055" />
+    </state>
+    <state x="2100" y="323" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.25.1440.875/1440.-109.1920.1055@1440.-109.1920.1055" timestamp="1636434753352" />
+    <state x="2138" y="170" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1636434428801">
+      <screen x="1440" y="-109" width="1920" height="1055" />
+    </state>
+    <state x="2138" y="170" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.25.1440.875/1440.-109.1920.1055@1440.-109.1920.1055" timestamp="1636434428801" />
+    <state x="2239" y="84" key="#xdebugger.evaluate" timestamp="1636429940001">
+      <screen x="1440" y="-109" width="1920" height="1055" />
+    </state>
+    <state x="2239" y="84" key="#xdebugger.evaluate/0.25.1440.875/1440.-109.1920.1055@1440.-109.1920.1055" timestamp="1636429940001" />
+    <state width="1874" height="339" key="GridCell.Tab.0.bottom" timestamp="1636599051043">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1874" height="339" key="GridCell.Tab.0.bottom/0.25.1440.875/1440.-109.1920.1055@1440.-109.1920.1055" timestamp="1636436754163" />
+    <state width="1874" height="339" key="GridCell.Tab.0.bottom/0.25.1440.875@0.25.1440.875" timestamp="1636599051043" />
+    <state width="1874" height="339" key="GridCell.Tab.0.center" timestamp="1636599051042">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1874" height="339" key="GridCell.Tab.0.center/0.25.1440.875/1440.-109.1920.1055@1440.-109.1920.1055" timestamp="1636436754163" />
+    <state width="1874" height="339" key="GridCell.Tab.0.center/0.25.1440.875@0.25.1440.875" timestamp="1636599051042" />
+    <state width="1874" height="339" key="GridCell.Tab.0.left" timestamp="1636599051041">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1874" height="339" key="GridCell.Tab.0.left/0.25.1440.875/1440.-109.1920.1055@1440.-109.1920.1055" timestamp="1636436754162" />
+    <state width="1874" height="339" key="GridCell.Tab.0.left/0.25.1440.875@0.25.1440.875" timestamp="1636599051041" />
+    <state width="1874" height="339" key="GridCell.Tab.0.right" timestamp="1636599051042">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1874" height="339" key="GridCell.Tab.0.right/0.25.1440.875/1440.-109.1920.1055@1440.-109.1920.1055" timestamp="1636436754163" />
+    <state width="1874" height="339" key="GridCell.Tab.0.right/0.25.1440.875@0.25.1440.875" timestamp="1636599051042" />
+    <state width="1874" height="339" key="GridCell.Tab.1.bottom" timestamp="1636599051044">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1874" height="339" key="GridCell.Tab.1.bottom/0.25.1440.875/1440.-109.1920.1055@1440.-109.1920.1055" timestamp="1636436754164" />
+    <state width="1874" height="339" key="GridCell.Tab.1.bottom/0.25.1440.875@0.25.1440.875" timestamp="1636599051044" />
+    <state width="1874" height="339" key="GridCell.Tab.1.center" timestamp="1636599051043">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1874" height="339" key="GridCell.Tab.1.center/0.25.1440.875/1440.-109.1920.1055@1440.-109.1920.1055" timestamp="1636436754164" />
+    <state width="1874" height="339" key="GridCell.Tab.1.center/0.25.1440.875@0.25.1440.875" timestamp="1636599051043" />
+    <state width="1874" height="339" key="GridCell.Tab.1.left" timestamp="1636599051043">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1874" height="339" key="GridCell.Tab.1.left/0.25.1440.875/1440.-109.1920.1055@1440.-109.1920.1055" timestamp="1636436754163" />
+    <state width="1874" height="339" key="GridCell.Tab.1.left/0.25.1440.875@0.25.1440.875" timestamp="1636599051043" />
+    <state width="1874" height="339" key="GridCell.Tab.1.right" timestamp="1636599051044">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1874" height="339" key="GridCell.Tab.1.right/0.25.1440.875/1440.-109.1920.1055@1440.-109.1920.1055" timestamp="1636436754164" />
+    <state width="1874" height="339" key="GridCell.Tab.1.right/0.25.1440.875@0.25.1440.875" timestamp="1636599051044" />
+    <state width="1874" height="339" key="GridCell.Tab.2.bottom" timestamp="1636599051045">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1874" height="339" key="GridCell.Tab.2.bottom/0.25.1440.875/1440.-109.1920.1055@1440.-109.1920.1055" timestamp="1636436754165" />
+    <state width="1874" height="339" key="GridCell.Tab.2.bottom/0.25.1440.875@0.25.1440.875" timestamp="1636599051045" />
+    <state width="1874" height="339" key="GridCell.Tab.2.center" timestamp="1636599051045">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1874" height="339" key="GridCell.Tab.2.center/0.25.1440.875/1440.-109.1920.1055@1440.-109.1920.1055" timestamp="1636436754164" />
+    <state width="1874" height="339" key="GridCell.Tab.2.center/0.25.1440.875@0.25.1440.875" timestamp="1636599051045" />
+    <state width="1874" height="339" key="GridCell.Tab.2.left" timestamp="1636599051044">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1874" height="339" key="GridCell.Tab.2.left/0.25.1440.875/1440.-109.1920.1055@1440.-109.1920.1055" timestamp="1636436754164" />
+    <state width="1874" height="339" key="GridCell.Tab.2.left/0.25.1440.875@0.25.1440.875" timestamp="1636599051044" />
+    <state width="1874" height="339" key="GridCell.Tab.2.right" timestamp="1636599051045">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1874" height="339" key="GridCell.Tab.2.right/0.25.1440.875/1440.-109.1920.1055@1440.-109.1920.1055" timestamp="1636436754165" />
+    <state width="1874" height="339" key="GridCell.Tab.2.right/0.25.1440.875@0.25.1440.875" timestamp="1636599051045" />
+    <state x="1719" y="41" key="SettingsEditor" timestamp="1636425141504">
+      <screen x="1440" y="-109" width="1920" height="1055" />
+    </state>
+    <state x="1719" y="41" key="SettingsEditor/0.25.1440.875/1440.-109.1920.1055@1440.-109.1920.1055" timestamp="1636425141504" />
+    <state width="995" height="662" key="SwitcherDM" timestamp="1636535427159">
+      <screen x="1440" y="-109" width="1920" height="1055" />
+    </state>
+    <state width="995" height="662" key="SwitcherDM/0.25.1440.875/1440.-109.1920.1055@1440.-109.1920.1055" timestamp="1636535427159" />
+    <state x="1997" y="22" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1636432107471">
+      <screen x="1440" y="-109" width="1920" height="1055" />
+    </state>
+    <state x="1997" y="22" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.25.1440.875/1440.-109.1920.1055@1440.-109.1920.1055" timestamp="1636432107471" />
+    <state x="1927" y="154" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1636436533559">
+      <screen x="1440" y="-109" width="1920" height="1055" />
+    </state>
+    <state x="1927" y="154" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.25.1440.875/1440.-109.1920.1055@1440.-109.1920.1055" timestamp="1636436533559" />
+    <state x="2065" y="125" width="670" height="685" key="search.everywhere.popup" timestamp="1636432128548">
+      <screen x="1440" y="-109" width="1920" height="1055" />
+    </state>
+    <state x="2065" y="125" width="670" height="685" key="search.everywhere.popup/0.25.1440.875/1440.-109.1920.1055@1440.-109.1920.1055" timestamp="1636432128548" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateCodeFragment">
+      <expression>
+        <expression-string>try (final Connection connection = connectionFactory.newConnection();
+     final Channel channel = connection.createChannel()) {
+    final String messagePayLoad = objectMapper.writeValueAsString(orderMessageDTO);
+    channel.basicPublish(&quot;exchange.order.restaurant&quot;,
+            &quot;key,restaurant&quot;,
+            null,
+            messagePayLoad.getBytes()
+    );
+}</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/restaurant-service-manage /src/main/java/com/food/orderservicemanage/dao/ProductDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/restaurant-service-manage /src/main/java/com/food/orderservicemanage/dao/RestaurantDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="12" column="23" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/restaurant-service-manage /src/main/java/com/food/orderservicemanage/po/RestaurantPO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/restaurant-service-manage /src/main/java/com/food/orderservicemanage/enummeration/OrderStatus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/restaurant-service-manage /src/main/java/com/food/orderservicemanage/dto/OrderMessageDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order-service-manage/src/main/java/com/food/orderservicemanage/enummeration/OrderStatus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/restaurant-service-manage /src/main/java/com/food/orderservicemanage/controller/OrderController.java" />
+    <entry file="file://$PROJECT_DIR$/order-service-manage/src/main/java/com/food/orderservicemanage/controller/OrderController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="23" column="45" selection-start-line="23" selection-start-column="45" selection-end-line="23" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order-service-manage/src/main/java/com/food/orderservicemanage/vo/OrderCreateVO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/restaurant-service-manage /src/main/java/com/food/orderservicemanage/config/RabbitConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="19" column="33" lean-forward="true" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order-service-manage/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="23" lean-forward="true" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/restaurant-service-manage /src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="417">
+          <caret line="24" column="27" selection-start-line="24" selection-start-column="27" selection-end-line="27" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.rabbitmq/amqp-client/5.12.0/9fb0eb981346b084ea64b6acea20f19d1743ec78/amqp-client-5.12.0-sources.jar!/com/rabbitmq/client/Connection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="54" column="17" selection-start-line="54" selection-start-column="17" selection-end-line="54" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.rabbitmq/amqp-client/5.12.0/9fb0eb981346b084ea64b6acea20f19d1743ec78/amqp-client-5.12.0-sources.jar!/com/rabbitmq/client/Channel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6253">
+          <caret line="145" column="16" selection-start-line="145" selection-start-column="16" selection-end-line="145" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order-service-manage/src/main/java/com/food/orderservicemanage/OrderServiceManageApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.rabbitmq/amqp-client/5.12.0/9fb0eb981346b084ea64b6acea20f19d1743ec78/amqp-client-5.12.0-sources.jar!/com/rabbitmq/client/impl/ConsumerWorkService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="103" selection-start-line="103" selection-end-line="103" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/restaurant-service-manage /src/main/java/com/food/orderservicemanage/enummeration/ProductStatus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/restaurant-service-manage /src/main/java/com/food/orderservicemanage/po/ProductPO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/restaurant-service-manage /src/main/java/com/food/orderservicemanage/enummeration/RestaurantStatus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/restaurant-service-manage /src/main/java/com/food/orderservicemanage/RestaurantServiceManageApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="43" lean-forward="true" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deliveryman-service-manage/src/main/java/com/food/orderservicemanage/service/OrderService.java" />
+    <entry file="file://$PROJECT_DIR$/deliveryman-service-manage/src/main/java/com/food/orderservicemanage/po/DeliverymanPO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deliveryman-service-manage/src/main/java/com/food/orderservicemanage/dao/DeliverymanDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="14" column="50" lean-forward="true" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deliveryman-service-manage/src/main/java/com/food/orderservicemanage/controller/OrderController.java" />
+    <entry file="file://$PROJECT_DIR$/order-service-manage/src/main/java/com/food/orderservicemanage/dao/OrderDetailDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deliveryman-service-manage/src/main/java/com/food/orderservicemanage/enummeration/DeliverymanStatus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deliveryman-service-manage/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settlement-service-manage/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="16" selection-start-column="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reward-service-manage/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="16" selection-start-column="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settlement-service-manage/src/main/java/com/food/orderservicemanage/service/SettlementService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settlement-service-manage/src/main/java/com/food/orderservicemanage/enummeration/SettlementStatus.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settlement-service-manage/src/main/java/com/food/orderservicemanage/po/SettlementPO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settlement-service-manage/src/main/java/com/food/orderservicemanage/dao/SettlementDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reward-service-manage/src/main/java/com/food/orderservicemanage/po/OrderDetailPO.java" />
+    <entry file="file://$PROJECT_DIR$/reward-service-manage/src/main/java/com/food/orderservicemanage/dao/RewardDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reward-service-manage/src/main/java/com/food/orderservicemanage/enummeration/OrderStatus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reward-service-manage/src/main/java/com/food/orderservicemanage/enummeration/RewardStatus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reward-service-manage/src/main/java/com/food/orderservicemanage/po/RewardPO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="16" lean-forward="true" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reward-service-manage/src/main/java/com/food/orderservicemanage/service/OrderService.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/util/concurrent/TimeoutException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="48" column="13" selection-start-line="48" selection-start-column="13" selection-end-line="48" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deliveryman-service-manage/src/main/java/com/food/orderservicemanage/DeliverymanServiceManageApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.rabbitmq/amqp-client/5.12.0/9fb0eb981346b084ea64b6acea20f19d1743ec78/amqp-client-5.12.0-sources.jar!/com/rabbitmq/client/impl/ConsumerDispatcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="150" column="35" lean-forward="true" selection-start-line="150" selection-start-column="35" selection-end-line="150" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order-service-manage/src/main/java/com/food/orderservicemanage/service/OrderService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settlement-service-manage/src/main/java/com/food/orderservicemanage/SettlementServiceManageApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reward-service-manage/src/main/java/com/food/orderservicemanage/RewardServiceManageApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.rabbitmq/amqp-client/5.12.0/9fb0eb981346b084ea64b6acea20f19d1743ec78/amqp-client-5.12.0-sources.jar!/com/rabbitmq/client/impl/recovery/AutorecoveringChannel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="554" column="39" selection-start-line="554" selection-start-column="39" selection-end-line="554" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settlement-service-manage/src/main/java/com/food/orderservicemanage/service/OrderMessageService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="59" column="43" selection-start-line="59" selection-start-column="43" selection-end-line="59" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/restaurant-service-manage /src/main/java/com/food/orderservicemanage/service/OrderMessageService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="86" column="8" selection-start-line="86" selection-start-column="8" selection-end-line="86" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order-service-manage/src/main/java/com/food/orderservicemanage/service/OrderMessageService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="140" column="11" selection-start-line="140" selection-start-column="11" selection-end-line="140" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reward-service-manage/src/main/java/com/food/orderservicemanage/service/OrderMessageService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="50" column="20" selection-start-line="50" selection-start-column="20" selection-end-line="50" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deliveryman-service-manage/src/main/java/com/food/orderservicemanage/service/OrderMessageService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="61" column="9" selection-start-line="61" selection-start-column="9" selection-end-line="61" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI" />
+      <state key="GlobalLibrariesConfigurable.UI" />
+      <state key="JdkListConfigurable.UI" />
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>order-service-manage</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI" />
+    </states>
+  </component>
+</project>

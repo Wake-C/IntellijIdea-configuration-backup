@@ -1,0 +1,449 @@
+<application>
+  <component name="CodeStyleSchemesUIConfiguration">
+    <option name="RECENT_IMPORT_FILE_LOCATION" value="file:/Users/IdeaProjects/GT-Plugin-Spring-Boot-Starter/Default-CodeStyle.xml" />
+  </component>
+  <component name="DynamicPluginEnabler">
+    <trackers>
+      <map>
+        <entry key="1chSFiCk9OirJaIImO0yQaTVhLT">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1chtiJgmYZIKQwW7P3z6rcisYVe">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+      </map>
+    </trackers>
+  </component>
+  <component name="JdkInstallerHistory">
+    <option name="installedItems">
+      <installed-jdk>
+        <option name="fullText" value="Oracle OpenJDK 17.0.1" />
+        <option name="installDir" value="$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-17.0.1" />
+        <option name="javaHomeDir" value="$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home" />
+        <option name="sha256" value="6ccb35800e723cabe15af60e67099d1a07c111d2d3208aa75523614dde68bee1" />
+        <option name="url" value="https://download.java.net/java/GA/jdk17.0.1/2a2082e5a09d4267845be086888add4f/12/GPL/openjdk-17.0.1_macos-x64_bin.tar.gz" />
+        <option name="versionText" value="17.0.1" />
+      </installed-jdk>
+    </option>
+  </component>
+  <component name="LangManager">
+    <option name="languageName" value="JAVA" />
+    <languageToProjectMap>
+      <entry key="JAVA" value="$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2021.2/demo/IdeaLearningProject" />
+    </languageToProjectMap>
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontFace" value="JetBrains Mono" />
+  </component>
+  <component name="ProjectPluginTrackerManager">
+    <trackers>
+      <map>
+        <entry key="1PB91ZKKpTrs81vtFw8TY4Sf58N">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1PMYMarIxQ9zqa821YoM4JP8jbH">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1TF7bYM81HTC7XNGW6X3UbMjKXl">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1chSFiCk9OirJaIImO0yQaTVhLT">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1chtiJgmYZIKQwW7P3z6rcisYVe">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1d4co8Cr1xnfuCa6WHIHNJBusi7">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1fZM4pv5jTUidP8Sko7trW1TQAi">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1wUOs59K5a7UtCHuHuCesvAizVd">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1xZBL5v5wxi2gpMvUjN4w8O6eKX">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1xZlLe6SNgLH6BqOhKxBwtAMEvc">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1xl8Hnlz6XHWY4eLQ4hicu6EhMJ">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1zo1tkPg92W2JX5m24QlJdz9Fyi">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="20cy4tnaCPMEFK0giACzRefzkJO">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="20d2UffOLhYms4LepaaWQzOyICs">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="20d50FtUtxhRNImfDtzvL1pQWNT">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="20df5gR5Hjjd2KRsB0EH1WNREgS">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="20dfcnTKdNV5ZoYbziiI6JbsjuY">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="20dr9dk82xudKXDHfxJeecolKX0">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="20dre2lvWI60WDGKRKhusJOXA42">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="20f9CTcxiCrmGyuTtOLaW5iQSRU">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="20r85qXgrRT1fxcDl7kYAIg6XU2">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="20w5M18TOBAe2d5YAH68wDh7KBk">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="20w66llezOc3PkgQSV3vkLWsDiy">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="20zByK6eA4lgMIDWgYxf6fyUgPA">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="22DhgqnEsMEQ1CnuqtWrPyftp5K">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="22Djsru6P1Xp8Uq3jpTcWlXkWIF">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="22Dl3B73zm9vxSVCp7XnmYtfuYN">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="25Y4pn5nfA41u3CeZIOmZoponTH">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="26BOuDNOlKISLRN22ASU1ZxW8ZK">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2769GlIWWTvrYxghKmAWMupLt4K">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="276AM4sp0j5Ir3ZWNQKuHgFe35K">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="293eyMzbvxK3kCCZBXzQPUPUyD2">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2CVhNjziSJPeSIF5E0XFhYfZmRL">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2CVharnJYLfKRkQObUr3KVwOtAV">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2CW1cyABPZGBMuUf6P7E2vQW2P6">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2CYpiruIjfXFD5N75ys7WmE9QKr">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="Default (Template) Project">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+      </map>
+    </trackers>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="#xdebugger.evaluate.splitter" value="0.43554443" />
+    <property name="AFTER.DISTRACTION.MODE.ARE_GUTTER_ICONS_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.ARE_LINE_NUMBERS_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.EDITOR_TAB_PLACEMENT" value="0" />
+    <property name="AFTER.DISTRACTION.MODE.HIDE_TOOL_STRIPES" value="true" />
+    <property name="AFTER.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_INDENT_GUIDES_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_RIGHT_MARGIN_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_WHITESPACES_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_BREADCRUMBS" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_MAIN_TOOLBAR" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_NAVIGATION_BAR" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_STATUS_BAR" value="false" />
+    <property name="ArthasIdeaPluginscriptDialogCloseWhenSelectedCommand" value="y" />
+    <property name="BEFORE.DISTRACTION.MODE.ARE_GUTTER_ICONS_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.ARE_LINE_NUMBERS_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.EDITOR_TAB_PLACEMENT" value="0" />
+    <property name="BEFORE.DISTRACTION.MODE.HIDE_TOOL_STRIPES" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_INDENT_GUIDES_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_RIGHT_MARGIN_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_WHITESPACES_SHOWN" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_BREADCRUMBS" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_MAIN_TOOLBAR" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_NAVIGATION_BAR" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_STATUS_BAR" value="true" />
+    <property name="BYTE_CODE_TOOL_WINDOW" value="true" />
+    <property name="BuildView.Splitter.Proportion" value="0.21172161" />
+    <property name="CUSTOMIZE_ACTIONS" value="import settin&#10;import" />
+    <property name="ColorChooser.RecentColors" value="238-238-107-255,,,167-216-255-255,,,162-255-142-255,,,238-236-62-255,,,38-177-55-255,,,8-38-177-255,,,255-87-75-255,,,255-107-98-255,,,13-177-21-255,,,19-123-177-255,,,75-177-73-255,,,238-230-166-255,,,93-177-99-255,,,47-156-72-255,,,238-238-31-255,,,0-0-0-255,,,233-238-156-255,,,237-238-190-255,,,238-212-82-255,,,238-169-86-255" />
+    <property name="CommitChangeListDialog.DETAILS_SHOW_OPTION_" value="false" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.70253164" />
+    <property name="CommitChangeListDialog.SPLITTER_PROPORTION_2" value="0.65686274" />
+    <property name="CommittedChanges.SplitterProportions.0" value="700" />
+    <property name="CommittedChanges.SplitterProportions.1" value="500" />
+    <property name="ConsoleQuickFilterPanel-expression" value="0|false|false|false|Caused by: java.net.SocketException: Can't connect to SOCKS proxy:Socket closed &#9;at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:428) &#9;at java.net.Socket.connect(Socket.java:589) &#9;at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:211) &#9;at com.mysql.jdbc.MysqlIO.&lt;init&gt;(MysqlIO.java:301) &#9;... 17 common frames omitted" />
+    <property name="ConsoleQuickFilterPanel-unlessExpression" value="" />
+    <property name="DBE.Default.Dialect" value="MySQL" />
+    <property name="Darcula.SavedEditorTheme" value="_@user_Darcula" />
+    <property name="DbRenameDialog.previewExpanded" value="true" />
+    <property name="Default.SavedEditorTheme" value="_@user_Default" />
+    <property name="EndpointsSearchHistory" value="module: mall-web-clerk&#10;module: mall-web-uc" />
+    <property name="Endpoints_Group[0]" value="0.10940919" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="FindSplitterProportion" value="0.0" />
+    <property name="FrameworksFinderRecursivePanel[0]" value="0.109529026" />
+    <property name="FrameworksFinderRecursivePanel[1]" value="0.12307692" />
+    <property name="GrepConsole.ProfileDetail" value="175" />
+    <property name="INTENTION_FILTER_HISTORY" value="{&quot;data&quot;:&quot;　　此种妖异事情出现，星宫高层每一个人几乎都立刻断定此事绝对和韩立有关，不久前的情形，他们可都历历在目的。任谁都看的出这位大修士和西门老者之间似乎大有仇怨的样子。\n　　不过，怀疑归怀疑，这些星宫长老除了心中嘀咕，却并没有一人前去声讨韩立，竟全都一副装聋作哑的样子。\n　　之所以会出现这种情形，除了因为对方是一位大修士，谁也不想招惹意外，最主要的是，他们竟然丝毫证据证明是对方出的手。反而对方有足够的理由，一口否认此事。\n　　因为就在西门老者陨落的前后那段时间，韩立和赵长老在一起，进行着所谓的心得交流，在此期间根本没有分开过的样子。当然这种明显的障眼法，只要稍微有些心机的人，都看的出这时韩立故意而为的。好一下堵住他们的口。\n　　即使明知事情真相，但韩立无须亲自动手，就能让一名元婴级修士轻易的从世间消失掉的手段，让所有的星宫长老心中发寒起来了。\n　　如果是普通的修士，他们自然无须管什么证据不证据，将对方抓来，直接搜魂就可知道一切的。但是韩立可是一名后期大修士，谁又敢有这种惹祸上身的念头，就是生前和这位西门长老交好的几名长老，此刻也哑声了。\n　　更何况不久后，整个星宫还要马上借助对方力量的，此刻绝对得罪不得的。于是上至凌玉灵，下至普通的星宫长老，只能装一次糊涂了。\n　　韩立则在和那位赵姓老者交流了半日心得后，就再回到密室中闭关了。\n　　而这位赵长老马上就得到了西门老者陨落的消息，在原地足足怔了大半天，最后只能苦笑了一声，满脸无奈之色。\n　　接下来，他干脆也不守在韩立闭关的地方，而是直接招来两名结丹弟子后，就自行飘然离去了。\n　　然对方可以一边和他在一起，一边仍有神通灭杀另一处的元婴修士，他再监视对方也只是白浪费时间而已。他还是识相点的，赶紧离远些的好。\n　　省的对方也对自己动了杀机。\n　　如此一来，诡异的一幕出现了！\n　　星宫明明陨落掉一名宫中长老，但是只是粗粗的处理了一下后事后，星宫高层就再无一人提及此事了。甚至连西门老者的名字，也一时间成了禁语。所有人反而一个个擦拳磨掌，将注意力集中到数日后的大战上了。\n　　五日后，韩立从密室中出来，再次来到那座圣殿大时，除了一干星宫长老外，里面还多出了三十多名结丹修士。\n　　这些修士大都市结丹后期的修为，一看就是仅次这些长老的星宫中坚力量。\n　　当韩立徐徐的走进大厅后，所有修士的目光“唰”的一下，都落在了韩立身上，其中大半是敬畏，小半则是惊疑，但是有一点都是相同的。无论韩立看向哪边，这个方向的修士，必定立刻低首垂目的下去，不敢有丝毫怠慢的样子。\n　　用人形傀儡解决了一名区区的元婴初期修士，对如今的韩立来说，是根本不值一提的小事，但却意外的震慑住了这些星宫的高层。\n　　先前这些星宫修士，虽说可以确认了他的大修士身份，但谁也没见过他施展过神通，对他能否真的抵住万天明，大半人都心有疑惑的。\n　　毕竟万天明在这数十年和星宫的争斗中，可是斩杀了不少星宫长老，名头之盛，在星海是一时无二的。而如今韩立在星宫中露了一手分身斩杀元婴的诡异神通后，却让这些星宫之人对韩立出手，凭空多出了不少信心。\n　　这倒是凌玉灵和韩立都未想到的事情。\n　　不过，凌玉灵自然欣然其他人士气能因此高涨一些，而韩立却根本不在乎此事。\n　　“韩道友，你先入座。妾身这就开始布置攻打逆星盟的事情。”凌玉灵见韩立出现，客气异常的说道。\n　　韩立点点头，就坐在了此女下方的某石椅上，然后袖跑一抖，手中多出了一块淡白色玉简，就自顾自的低首看了起来。对其他人一副视若无睹的样子！\n　　凌玉灵微微一笑，但瞅向殿中其他修士的瞬间，神色立刻凝重了下来，口中开始传出一声声的吩咐。\n　　韩立大半心神放在玉简中，但是自不会真的两耳不闻窗外事，仍有一部分神念留意着此女的各项布置。\n　　星宫的打算倒也简单异常，风火天绝阵虽然有一百零八根风火柱，但他们只打算攻打分处天星城四周三十六根风火住。\n　　按星宫的数位阵法大家估算，这三十六根是所有风火柱中较重要的部分，只要其中大半被毁，此阵也就不攻自破了。当然做到此步前提，万天明亲自镇守的阵眼必须先被星宫攻占才行。\n　　于是一名名元婴期长老和结丹修士，在凌玉灵森然的声音中，接连起身接命，一个个神色肃然。大厅中竟然无形中多出一股萧杀之气来。\n　　转眼间每处的风火柱都被派了专人负责攻打，但负责各处的高阶修士却有多有少，有的地方是两三名元婴修士一起带队，有的却连一名元婴修士都没有，竟只派了聊聊数名结丹修士而已。\n　　这让韩立听了，心中不禁有些惊讶。不过，他转念一想也就明白了怎么回事。\n　　多半是逆星盟中也有星宫的高阶卧底，已将这些守护风火住的力量摸得一清二楚了，所以才有此细微的调遣。\n　　韩立虽然头也未抬，但嘴角却泛起一丝微笑。\n　　凌玉灵的布置非常快，一顿饭的工夫后，殿中除了小半修士外，几乎都有了具体的任务。\n　　终于此女的声音一厅，忽然一扭首，对韩立笑吟吟的说道：\n　　“韩道友，你和我，还有马、赵两位长老，一起带队去攻打阵眼处如何，那万天明亲自镇守那里的。”\n　　“没有问题，不过到时我只负责万天明，其他修士只要不来惹我，我是不会出手的。“韩立也抬起首，迎着此女目光，淡淡回道。\n　　看到韩立如此轻松的模样，凌玉灵明眸闪过一丝讶色，心中有些嘀咕，但满口的答应下来。\n　　她虽然通过天星双圣对韩立了解的较多一些，但也不知道韩立的真正神通如何，生怕韩立有些轻敌，又和韩立说了一些万天明后期大成后的神通，以及新得的一些厉害宝物，好让韩立做到知己知彼。\n　　韩立听着，脸上却流露出不置可否的神情，并未有任何表示。\n　　见到此幕，凌玉灵暗叹了一口气，也不好再问韩立有几分把握的问题。反正此战后，星宫不胜即亡的。\n　　“出发！”此女一声冷冽的吩咐后，顿时殿中的修士全都起身向殿外涌去了。\n　　那些低阶的筑基期弟子，早就在天星城四边的城门处准备好了，只是等着带队的这些结丹元婴修士一到，就可立即出击的。\n　　韩立则看了手中的玉简一眼，两手一合，玉简就一下消失的无影无踪了。\n　　这玉简中记载的元磁神光口诀，的确够玄奥的，他苦苦参悟了数日，也刚有一些头绪而已。就不知那座元磁山是何等奇异的存在，竟能辅助此功法的修炼。\n　　韩立漫不经心的思量着，人却跟着凌玉灵以及其他数名长老也出了石殿。\n　　大出韩立的预料，在殿外竟然停着一辆体长十丈的巨型兽车。\n　　此车通体用翠绿欲滴的不知名木材制成，表面遍布各式各样的符文，一看就是经过精心炼制的东西，但更惹眼的是，在兽车前边，竟然有四头同样碧绿的数丈长妖兽趴伏在地面上。\n　　韩立自从这次到天星城来，首次有些发愣了。\n　　虽然仅仅是五六级的样子，但这四头绿色妖兽的确是四头蛟龙不假。\n　　而他没记错的话，蛟龙一族可是极其护短的。星宫纵然以前势大，但又怎敢驾驭真正的蛟龙驱车，就不怕激怒此灵兽一族，给星宫招惹大敌吗？\n　　“怎么，韩道友对区区几只低阶妖兽，也这般惊讶吗？”凌玉灵见韩立难得的露出讶色来，明眸一弯，露出一丝笑意来。\n　　“不对，这些妖兽的躯体虽然是蛟龙一族的不假，但是里面的精魂却似乎有些异常。”韩立双目微眯，瞳孔中蓝芒闪过后，忽然这般的开口道。\n　　“韩兄真是慧眼如炬啊！这些蛟龙身体中的精魂，的确不是蛟龙的精魄，而是家父早年在外海游历时，和那金蛟王打赌后赢来的几具低阶绿蛟尸体，再用秘术炼制，填充了极深海灵蟒的精魂，才形成此驭车妖兽的。”凌玉灵脸上现出钦佩之色，口中解释道。\n　　“原来如此。不过凌道友将此车放到这里，难道这次攻打要用此车吗？”韩立眉头一皱下，还是有些不解。\n　　“呵呵，韩兄有所不知。此车是家父当年亲手炼制之物，除了拉车的妖兽颇有些神通外，车子本身也另有乾坤在里面，对破敌颇有些功效的。不是此战事关重大，妾身还不一定舍得动用此宝呢。”凌玉灵黛眉微挑，脸庞上露出一丝神秘之色。(未完待续，如欲知后事如何，请登陆www.qidian.com，章节更多，支持作者，支持正版阅读！)&quot;,&quot;errorMsg&quot;:&quot;&quot;,&quot;isSuccess&quot;:true}" />
+    <property name="IdeErrorsDialog.LAST_OK_ACTION" value="REPORT_AND_CLEAR_ALL" />
+    <property name="IdeaUltimate.EnableRunTargetsOnce" value="true" />
+    <property name="InstalledPluginsSearchHistory" value="transla&#10;trans&#10;tran&#10;checkstyle&#10;checkstyl" />
+    <property name="JUnit.Splitter.Proportion" value="0.16117217" />
+    <property name="JUnitSupport.hideIgnoredTests" value="true" />
+    <property name="JUnitSupport.hidePassedTests" value="false" />
+    <property name="JUnitSupport.sortTestsAlphabetically" value="false" />
+    <property name="JUnitSupport.sortTestsByDuration" value="false" />
+    <property name="KEYMAP" value="refactor&#10;dele&#10;delete to word&#10;bookmarks&#10;bookmark" />
+    <property name="LAST_INJECTED_LANGUAGE" value="HTML" />
+    <property name="LayoutCode.optimizeImports" value="true" />
+    <property name="LayoutCode.processChangedText" value="false" />
+    <property name="LayoutCode.rearrangeEntriesJava" value="false" />
+    <property name="LiveContextsPanel[0]" value="0.1117943" />
+    <property name="Markdown Split EditorLayout" value="Preview only" />
+    <property name="MarketplacePluginsSearchHistory" value="checkstyle&#10;ch&#10;code style&#10;translation&#10;tans" />
+    <property name="MavenHelper.lastRadioButton" value="tree" />
+    <property name="MavenModuleWizard.inheritGroupId" value="true" />
+    <property name="MavenModuleWizard.inheritVersion" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MoveInstance.OpenInEditor" value="false" />
+    <property name="NextRunPlatformUpdateBuild" value="IU-212.5712.43/2021.2.4" />
+    <property name="NextRunPlatformUpdateVersion" value="2021.2.4" />
+    <property name="NonModalCommitPromotionState" value="ACCEPTED" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="RegistryRecentKeys" value="compiler.automake.trigger.delay=compiler.document.save.trigger.delay=compiler.document.save.enabled" />
+    <property name="SHOW_INHERITED.file.structure.state" value="true" />
+    <property name="SettingsSearchHistory" value="translate&#10;transla&#10;code&#10;co&#10;checkst" />
+    <property name="ShowDocumentationInToolWindow" value="false" />
+    <property name="SplitFileEditor.Proportion" value="0.80184716" />
+    <property name="SpringBeansModulesPanel[0]" value="0.3488024" />
+    <property name="SpringInitializr.service.url.history" value="" />
+    <property name="SpringInitializr.service.url.last" value="https://start.spring.io" />
+    <property name="SqlStructureView.filterD.file.structure.state" value="true" />
+    <property name="TEMPLATES_FILTER_HISTORY" value="java" />
+    <property name="TrendingPluginsSearchHistory" value="pojo to json&#10;to json&#10;codemaker&#10;HighlightBracketPair&#10;Free Mybatis plugin" />
+    <property name="UITheme.relaunch" value="true" />
+    <property name="UpdatePluginsSearchHistory" value="SequenceDiagram" />
+    <property name="Vcs.Log.Text.Filter.History" value="sphinx" />
+    <property name="Vcs.Push.Splitter.Proportion" value="0.4878924" />
+    <property name="XDebuggerExpressionEditor_Use_Soft_Wraps" value="true" />
+    <property name="annotationStr" value="@com.google.gson.annotations.SerializedName\s*\(\s*&quot;{filed}&quot;\s*\)" />
+    <property name="appcds.runOnSecondStart" value="IU-212.5284.40-ab7903f6f72ee6a56d961f5d6e174a8923f0eab8e1b7ad2fb6bbf2922a591918" />
+    <property name="arrayFromData" value="false" />
+    <property name="arrayFromData1" value="false" />
+    <property name="arrayFromData1Str" value="    public  static java.util.List&lt;$ClassName$&gt; array$ClassName$FromData(String str,String key){&#10;&#10;        try {&#10;            org.json.JSONObject jsonObject=new org.json.JSONObject(str);&#10;            java.lang.reflect.Type listType=new com.google.gson.reflect.TypeToken&lt;java.util.ArrayList&lt;$ClassName$&gt;&gt;(){}.getType();&#10;&#10;            return new com.google.gson.Gson().fromJson(jsonObject.getString(str),listType);&#10;&#10;        } catch (org.json.JSONException e) {&#10;            e.printStackTrace();&#10;        }&#10;&#10;        return new java.util.ArrayList();&#10;&#10;&#10;    }" />
+    <property name="build.toolwindow.Build Output.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="build.toolwindow.run.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="bundled.plugins.list.saved.version" value="IU-213.5744.223" />
+    <property name="cn.yiiguxing.plugin.translate.version" value="3.3-203u212.patch.1" />
+    <property name="codota_token" value="ivF3V6RnFitMNhbWKCd7v1+3igj0Q31YS9fdrQkaxvsWZHt9SPL6b6LwsVSPrL6izKDMFFIU72R/Ary9CMvb1PmiMLUltpx4" />
+    <property name="com.github.restful.tool.view.window.frame.RightToolWindow" value="0.5106383" />
+    <property name="com.intellij.database.view.editors.ObjectEditorWithPreview.proportion" value="0.820202" />
+    <property name="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Sources" />
+    <property name="create.project.preferred.importer" value="Eclipse" />
+    <property name="debugger.smart.chooser.counter" value="3" />
+    <property name="debugger.speed.search.tree.option.hint.counter" value="1" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="defaultJdkConfigured" value="true" />
+    <property name="eclipse.project.dir" value="/Users/IdeaProjects/Learn_demo/book_source_code/program-logic" />
+    <property name="eclipse.projects.detected" value="" />
+    <property name="entityPackName" value="com.gt.mall.bean.vo." />
+    <property name="errorCount" value="2" />
+    <property name="es6.show.auto.import" value="true" />
+    <property name="experimentalFeature.run.targets" value="true" />
+    <property name="fieldPrivateMode" value="true" />
+    <property name="file.chooser.recent.files" value="/usr/local/Cellar/maven@3.5/3.5.4/libexec/conf/settingsDF.xml&#10;/usr/local/Cellar/maven@3.5/3.5.4/libexec&#10;/usr/local/Cellar/maven@3.5/3.5.4/libexec/bin&#10;/Users/IdeaProjects/geektime-spring-family" />
+    <property name="file.gist.reindex.count" value="216208" />
+    <property name="fileTypeChangedCounter" value="232" />
+    <property name="fileTypeDetectors" value="com.intellij.database.vfs.DbStorageFileType$Detector:com.intellij.ide.scratch.ScratchFileServiceImpl$Detector:com.intellij.profiler.ultimate.hprof.impl.HprofFileTypeDetector:org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector" />
+    <property name="filedNamePreFixStr" value="" />
+    <property name="find.popup.splitter" value="0.35596028" />
+    <property name="generateComments" value="true" />
+    <property name="generate_all_setter_count_notify" value="4" />
+    <property name="got.it.tooltip.copilot.inlayGotIt" value="1" />
+    <property name="got.it.tooltip.cwm.invitation.notification" value="1" />
+    <property name="got.it.tooltip.extract.method.gotit.navigate" value="1" />
+    <property name="got.it.tooltip.extract.method.signature.change" value="1" />
+    <property name="got.it.tooltip.fragment.hidden.vmParameters" value="1" />
+    <property name="got.it.tooltip.reader.mode.got.it" value="1" />
+    <property name="got.it.tooltip.reset.lesson.got.it" value="1" />
+    <property name="got.it.tooltip.show.diff.in.editor" value="1" />
+    <property name="got.it.tooltip.terminal.smart_command_execution" value="1" />
+    <property name="ide.memory.adjusted" value="true" />
+    <property name="ide.self.update.started.for.build" value="IU-212.5284.40" />
+    <property name="ide.updates.previous.build.number" value="IU-212.5284.40" />
+    <property name="ide.updates.whats.new.shown.for" value="212" />
+    <property name="ideavim.statistics.timestamp" value="1566265136091" />
+    <property name="ift.learning.panel.opened.in" value="212.5457.46" />
+    <property name="installed.kotlin.plugin.version" value="212-1.5.31-release-546-IJ4638.7" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="js.debugger.javafx.inititalization" value="true" />
+    <property name="kotlin-gradle-user-dirs" value="$USER_HOME$/Development/mavenRepostory&#10;/Users/Development/mavenRepostory&#10;/Users/Development/GradleRepostory&#10;/Users/Alexis/.gradle" />
+    <property name="kotlin.plugin.releaseDate" value="212-1.5.31-release-546-IJ4638.7:2021-09-20" />
+    <property name="krasa.grepconsole.gui.CompositeSettingsDialog" value="1071" />
+    <property name="last.imported.location" value="/Users/IdeaProjects/Learn_demo/book_source_code/program-logic" />
+    <property name="last.used.gradle.home" value="/usr/local/Cellar/gradle/7.2/libexec" />
+    <property name="lastSeenTip" value="neue-CompleteStatement.html" />
+    <property name="lastTimeTipsWereShown" value="1632305800056" />
+    <property name="lastTip" value="9" />
+    <property name="log.trace.categories" value="#com.jetbrains.rdserver.requests&#10;#com.jetbrains.rd.ide.document&#10;#com.jetbrains.rdserver.document&#10;#com.jetbrains.rdserver.editors&#10;#com.jetbrains.rdserver.actions" />
+    <property name="mt.showInstallAtom" value="true" />
+    <property name="mt.showStatisticsAgreement" value="true" />
+    <property name="muted.system.shortcut.conflicts.actions" value="SmartTypeCompletion" />
+    <property name="objectFromData" value="false" />
+    <property name="objectFromData1" value="false" />
+    <property name="objectFromDataStr" value="    public  static $ClassName$ objectFromData(String str){&#10;&#10;        return new com.google.gson.Gson().fromJson(str,$ClassName$.class);&#10;    }" />
+    <property name="objectFromDataStr1" value="    public  static $ClassName$ objectFromData(String str, String key){&#10;&#10;        try {&#10;            org.json.JSONObject jsonObject=new org.json.JSONObject(str);&#10;&#10;            return new com.google.gson.Gson().fromJson(jsonObject.getString(str),$ClassName$.class);&#10;        } catch (org.json.JSONException e) {&#10;            e.printStackTrace();&#10;        }&#10;&#10;        return null;&#10;    }" />
+    <property name="org.intellij.images.editor.actions.BackgroundImageDialog#recent" value="$USER_HOME$/Downloads/manja-vitolic-gKXKBY-C-Dk-unsplash.jpg" />
+    <property name="packagesearch.endpoint.url.fulltext" value="https://package-search.services.jetbrains.com/api/search/idea/fulltext" />
+    <property name="packagesearch.endpoint.url.suggest" value="https://package-search.services.jetbrains.com/api/search/idea/suggest" />
+    <property name="packagesearch.status.updated.ts" value="1660552657341" />
+    <property name="plugins.preselection.path" value="$USER_HOME$/Downloads" />
+    <property name="project.wizard.group" value="org.jetbrains.idea.maven.wizards.InternalMavenModuleBuilder" />
+    <property name="project.wizard.template" value="Empty Project" />
+    <property name="quick.doc.font.size.v3" value="X_SMALL" />
+    <property name="rainbow.selected.color.option.name" value="Angle Brackets" />
+    <property name="registry.to.advanced.settings.migration.build" value="IU-212.5284.40" />
+    <property name="reuseEntity" value="false" />
+    <property name="run.configuration.delete.ad" value="true" />
+    <property name="seenTips" value="neue-ColumnSelection.html,neue-MoveInnerToUpper.html,neue-GotoLineInFile.html,neue-HighlightUsagesInFile.html,neue-Escape.html,neue-ContextActions.html,neue-SpellcheckerDictionaries.html,neue-HierarchyBrowser.html,neue-DotEtcInLookups.html,neue-DBRunQueryIntention.html,neue-MoveUpDown.html,neue-PostfixCompletion.html,neue-RecentSearch.html,neue-DiagramShowPopup.html,neue-smart_selection.html,neue-GoToAction.html,neue-CompleteStatement.html" />
+    <property name="selected.color.option.type" value="BRACE_ATTR_GUTTER" />
+    <property name="settings.code.style.selected.tab.CPT" value="Blank Lines" />
+    <property name="settings.code.style.selected.tab.JAVA" value="Code Generation" />
+    <property name="settings.code.style.selected.tab.Sybase" value="DDL" />
+    <property name="settings.code.style.selected.tab.XML" value="Code Generation" />
+    <property name="settings.code.style.selected.tab.protobuf" value="Wrapping and Braces" />
+    <property name="settings.code.style.selected.tab.yaml" value="Wrapping and Braces" />
+    <property name="shared.index.infrastructure.prop" value="4" />
+    <property name="splitGenerate" value="false" />
+    <property name="spring.initializr.service.url.history" value="" />
+    <property name="spring.initializr.service.url.last" value="https://start.spring.io" />
+    <property name="suffixStr" value="Bean" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+    <property name="ts.lib.d.ts.version" value="4.2.2" />
+    <property name="typescript.show.auto.import" value="true" />
+    <property name="useComment" value="false" />
+    <property name="useFieldNamePrefix" value="false" />
+    <property name="useLombok" value="true" />
+    <property name="useNumberKeyAsMap" value="false" />
+    <property name="useSerializedName" value="false" />
+    <property name="useWrapperClass" value="true" />
+    <property name="vcs.history.diff.splitter.proportion" value="0.31205165" />
+    <property name="vcs.log.changes.splitter.proportion" value="0.63945943" />
+    <property name="virgoMode" value="true" />
+    <property name="yii.guxing.translate.IdeaVersionUpgradeNotice.IU-191.8026.42.disable" value="true" />
+  </component>
+  <component name="TerminalCommandHistoryManager">
+    <command-history-files>
+      <command-history-file filename="mall-order-history" project-path="/Users/IdeaProjects/mall-order" last-access-time="1660208349594" />
+      <command-history-file filename="gt-plugin-starter-history" project-path="/Users/IdeaProjects/GT-Plugin-Spring-Boot-Starter" last-access-time="1660614267586" />
+      <command-history-file filename="Learn_demo-history1" project-path="/Users/IdeaProjects/Learn_demo" last-access-time="1658816527767" />
+    </command-history-files>
+  </component>
+  <component name="ToolbarSettingsService">
+    <option name="NEW_TOOLBAR_SETTINGS" value="OLD_NAVBAR" />
+  </component>
+</application>

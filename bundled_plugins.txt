@@ -1,0 +1,123 @@
+com.intellij|null
+training|null
+tanvd.grazi|null
+org.jetbrains.settingsRepository|IDE Settings
+org.jetbrains.plugins.yaml|Languages
+org.jetbrains.plugins.wsl.fs|null
+org.jetbrains.plugins.textmate|Other Tools
+org.jetbrains.plugins.terminal|Other Tools
+org.jetbrains.plugins.haml|Template Languages
+org.jetbrains.idea.maven.model|null
+org.jetbrains.idea.reposearch|null
+org.intellij.qodana|null
+org.editorconfig.editorconfigjetbrains|Other Tools
+intellij.webp|null
+idea.plugin.protoeditor|Microservices
+com.jetbrains.sh|Languages
+com.jetbrains.projector.libs|null
+com.jetbrains.gateway|Remote Development
+com.jetbrains.gateway.terminal|null
+com.jetbrains.restClient|Other Tools
+com.intellij.externalSystem.dependencyUpdater|null
+com.intellij.microservices.ui|Microservices
+com.intellij.diagram|Other Tools
+com.intellij.copyright|Other Tools
+com.intellij.properties|Languages
+com.intellij.gradle|Build Tools
+com.intellij.platform.images|null
+com.intellij.java|null
+org.jetbrains.kotlin|null
+org.jetbrains.java.decompiler|Other Tools
+org.jetbrains.idea.eclipse|Other Tools
+org.jetbrains.debugger.streams|Other Tools
+intellij.recommenders|Other Tools
+com.jetbrains.packagesearch.intellij-plugin|null
+com.intellij.tracing.ide|null
+com.intellij.microservices.config|null
+com.intellij.java.ide|null
+com.intellij.java-i18n|Other Tools
+com.intellij.javaee.el|JVM Frameworks
+com.intellij.javaee|JVM Frameworks
+com.intellij.dsm|Other Tools
+com.intellij.css|Style Sheets
+org.jetbrains.plugins.less|Style Sheets
+com.intellij.configurationScript|null
+com.intellij.completion.ml.ranking|Other Tools
+com.intellij.aop|JVM Frameworks
+com.intellij.analysis.pwa|null
+com.intellij.analysis.pwa.java|null
+com.intellij.CloudConfig|IDE Settings
+com.jetbrains.performancePlugin|Other Tools
+intellij.indexing.shared.core|null
+com.jetbrains.performancePlugin.dynamicPlugins|null
+ZKM|Other Tools
+XPathView|HTML and XML
+org.intellij.intelliLang|Other Tools
+org.jetbrains.plugins.javaFX|JVM Frameworks
+org.intellij.plugins.markdown|Languages
+org.intellij.groovy|Languages
+gherkin|Languages
+com.intellij.microservices.uast|null
+com.jetbrains.restWebServices|JVM Frameworks
+com.intellij.micronaut|JVM Frameworks
+com.intellij.javaee.webSocket|JVM Frameworks
+com.intellij.microservices.java.clients|JVM Frameworks
+com.intellij.javaee.web|JVM Frameworks
+com.intellij.grpc|Microservices
+com.intellij.persistence|JVM Frameworks
+com.intellij.javaee.app.servers.integration|JVM Frameworks
+com.intellij.jboss.core|JVM Frameworks
+com.intellij.javaee.extensions|JVM Frameworks
+com.intellij.database|Database
+com.intellij.frameworks.java.sql|JVM Frameworks
+com.intellij.beanValidation|JVM Frameworks
+com.intellij.tasks|Other Tools
+com.intellij.tasks.timeTracking|Other Tools
+XSLT-Debugger|HTML and XML
+Refactor-X|HTML and XML
+Lombook Plugin|Tools Integration
+JUnit|Test Tools
+cucumber-java|Test Tools
+HtmlTools|HTML and XML
+org.jetbrains.plugins.github|Version Controls
+Git4Idea|Version Controls
+training.git|null
+intellij.indexing.shared|null
+com.jetbrains.changeReminder|Version Controls
+com.intellij.searcheverywhere.ml|null
+Docker|Deployment
+Coverage|Code Coverage
+com.intellij.jsp|Template Languages
+ByteCodeViewer|Other Tools
+org.jetbrains.idea.maven|Build Tools
+org.jetbrains.plugins.gradle|null
+org.jetbrains.plugins.gradle.maven|Build Tools
+org.jetbrains.idea.gradle.ext|Build Tools
+com.jetbrains.performancePlugin.gradle|null
+com.intellij.reactivestreams|JVM Frameworks
+com.intellij.javaee.gradle|JVM Frameworks
+intellij.ktor|Kotlin Frameworks
+org.jetbrains.idea.maven.ext|Build Tools
+com.jetbrains.performancePlugin.maven|null
+com.jetbrains.performancePlugin.workspaceModel|null
+com.intellij.swagger|Microservices
+com.jetbrains.jax.ws|JVM Frameworks
+com.intellij.spring.messaging|JVM Frameworks
+com.intellij.spring.websocket|JVM Frameworks
+com.intellij.spring.integration|JVM Frameworks
+com.intellij.spring|JVM Frameworks
+com.intellij.spring.security|JVM Frameworks
+com.intellij.spring.batch|JVM Frameworks
+com.intellij.spring.boot|JVM Frameworks
+com.intellij.freemarker|Template Languages
+com.intellij.spring.data|JVM Frameworks
+com.intellij.spring.ws|JVM Frameworks
+com.intellij.javaee.jpa|JVM Frameworks
+com.intellij.quarkus|JVM Frameworks
+com.intellij.cdi|JVM Frameworks
+com.intellij.javaee.batch|JVM Frameworks
+org.jetbrains.idea.gradle.dsl|null
+org.jetbrains.plugins.gradle.dependency.updater|null
+cucumber-groovy|Test Tools
+com.intellij.spring.mvc|JVM Frameworks
+DevKit|Plugin Development

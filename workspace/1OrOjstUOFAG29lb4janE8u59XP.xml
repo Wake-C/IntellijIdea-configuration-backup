@@ -1,0 +1,933 @@
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/mall-service-clerk/src/main/java/com/gt/mall/service/clerk/token/IClerkTokenService.java" description="Long  findTokenByToken(String token);" line="33" />
+  </component>
+  <component name="DatabaseView">
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="10.3.8.41:3310" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="parent" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/../../Development/mavenRepostory/org/springframework/spring-core/5.1.8.RELEASE/spring-core-5.1.8.RELEASE-sources.jar!/org/springframework/cglib/proxy/MethodProxy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4137">
+              <caret line="219" selection-start-line="219" selection-end-line="219" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mall-bean/src/main/java/com/gt/mall/condition/UnifyEticketOrderConditionBO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2016">
+              <caret line="106" column="23" selection-start-line="106" selection-start-column="23" selection-end-line="106" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mall-common/src/main/java/com/gt/mall/enums/ResponseEnums.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5439">
+              <caret line="259" column="18" selection-start-line="259" selection-start-column="18" selection-end-line="259" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mall-service-common/src/main/java/com/gt/mall/service/common/cart/impl/ComCartUtilServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5691">
+              <caret line="317" column="52" selection-start-line="317" selection-start-column="52" selection-end-line="317" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mall-web-uc/src/main/java/com/gt/mall/controller/unify/cart/UnifyCartController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="755">
+              <caret line="110" column="36" selection-start-line="110" selection-start-column="36" selection-end-line="110" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mall-service-uc/src/main/java/com/gt/mall/service/unify/cart/impl/UnifyCartServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="398">
+              <caret line="70" column="41" selection-start-line="70" selection-start-column="41" selection-end-line="70" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1785">
+              <caret line="85" selection-start-line="85" selection-end-line="85" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/lang/Throwable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="16611">
+              <caret line="815" column="31" selection-start-line="815" selection-start-column="31" selection-end-line="815" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mall-common/src/main/java/com/gt/mall/utils/DdUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="567">
+              <caret line="33" column="23" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/../../Development/mavenRepostory/com/duofriend/plugin/sdk/gt-plugin-sdk-open-api/5.2.7-SNAPSHOT/gt-plugin-sdk-open-api-5.2.7-20201127.013557-2-sources.jar!/com/duofriend/plugin/sdk/open/api/OpenApiProperties.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="567">
+              <caret line="41" selection-start-line="41" selection-end-line="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>useDateType</find>
+      <find>5.2.</find>
+      <find>店铺</find>
+      <find>SubmitOrder</find>
+      <find>lists.empty</find>
+      <find>tree</find>
+      <find>树形</find>
+      <find>deeptel</find>
+      <find>qrc</find>
+      <find>busId</find>
+      <find>LIST</find>
+      <find>BeStoreInFoVO</find>
+      <find>duofriend.open</find>
+      <find>Dd</find>
+      <find>getStackTrace</find>
+      <find>gt-wechat-open-pre</find>
+      <find>.serviceurl</find>
+      <find>config-cache</find>
+      <find>mall订单相关接口返回</find>
+      <find>LocalDate specifyDate</find>
+      <find>LocalDate</find>
+      <find>is</find>
+      <find>格式化</find>
+      <find>转换</find>
+      <find>Objects</find>
+      <find>BusUserDTO</find>
+      <find>busUserDTO</find>
+      <find>id</find>
+      <find>售卖数量超出</find>
+      <find>gt-core-pre</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>@ApiModelProperty(&quot; &quot;)</replace>
+      <replace>api/distribution/app-menus/web/app/distribution.html</replace>
+      <replace>web/app/distribution.html</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/mall-service-common/src/main/java/com/gt/mall/service/common/product/impl/ConProSpeServiceImpl.java" />
+        <option value="$USER_HOME$/Downloads/MallEticketOrderVerification.sql" />
+        <option value="$PROJECT_DIR$/mall-generator/src/main/java/com/gt/mall/generator/MpGenerator.java" />
+        <option value="$PROJECT_DIR$/mall-dao/src/main/resources/mapper/eticket/MallEticketOrderVerificationDAO.xml" />
+        <option value="$PROJECT_DIR$/mall-web-api/src/main/java/com/gt/mall/controller/newapi/eticket/MallEticketApi.java" />
+        <option value="$PROJECT_DIR$/mall-service-common/src/main/java/com/gt/mall/service/common/eticket/IComProductEticketService.java" />
+        <option value="$PROJECT_DIR$/mall-service-common/src/main/java/com/gt/mall/service/common/eticket/IComEticketOrderVerificationService.java" />
+        <option value="$PROJECT_DIR$/mall-dao/src/main/java/com/gt/mall/dao/eticket/MallEticketOrderVerificationDAO.java" />
+        <option value="$PROJECT_DIR$/mall-service-common/src/main/java/com/gt/mall/service/common/eticket/impl/ComEticketOrderVerificationServiceImpl.java" />
+        <option value="$PROJECT_DIR$/mall-web-clerk/src/main/java/com/gt/mall/controller/clerk/controller/ClerkProductController.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/mall-web-uc/src/main/java/com/gt/mall/controller/unify/order/UnifyOrderController.java" />
+        <option value="$PROJECT_DIR$/mall-service-common/src/main/java/com/gt/mall/service/common/shop/impl/ComStoreServiceImpl.java" />
+        <option value="$PROJECT_DIR$/mall-bean/src/main/java/com/gt/mall/bean/store/BeStoreInFoVO.java" />
+        <option value="$PROJECT_DIR$/mall-service-uc/src/main/java/com/gt/mall/service/unify/order/impl/UnifyOrderServiceImpl.java" />
+        <option value="$PROJECT_DIR$/mall-service-common/src/main/java/com/gt/mall/service/common/seller/impl/ComSellerServiceImpl.java" />
+        <option value="$PROJECT_DIR$/mall-service-common/src/main/java/com/gt/mall/service/common/seller/impl/ComSellerWithdrawServiceImpl.java" />
+        <option value="$PROJECT_DIR$/mall-common/src/main/java/com/gt/mall/constant/eticket/EticketConstant.java" />
+        <option value="$PROJECT_DIR$/mall-common/src/main/java/com/gt/mall/enums/ResponseEnums.java" />
+        <option value="$PROJECT_DIR$/mall-bean/src/main/java/com/gt/mall/condition/PageCondition.java" />
+        <option value="$PROJECT_DIR$/mall-service-common/src/main/java/com/gt/mall/service/common/shop/impl/ComStoreGroupServiceImpl.java" />
+        <option value="$PROJECT_DIR$/doc/product_eticket2.sql" />
+        <option value="$PROJECT_DIR$/mall-web/opt/data/cache-config/gt_mall/config-cache/gt_mall+default+mall.web.properties" />
+        <option value="$PROJECT_DIR$/mall-common/src/main/java/com/gt/mall/constant/distribution/DistributionConst.java" />
+        <option value="$PROJECT_DIR$/mall-service-clerk/src/main/java/com/gt/mall/service/clerk/distribution/impl/ClerkDistributionServiceImpl.java" />
+        <option value="$PROJECT_DIR$/mall-service-common/src/main/java/com/gt/mall/service/common/product/impl/ComProImgServiceImpl.java" />
+        <option value="$PROJECT_DIR$/mall-service-common/src/main/java/com/gt/mall/service/common/shop/IComStoreService.java" />
+        <option value="$PROJECT_DIR$/mall-bean/src/main/java/com/gt/mall/bean/seller/delivery/BeSellerDeliverySetVerData.java" />
+        <option value="$PROJECT_DIR$/mall-web/src/main/java/com/gt/mall/config/MyWebAppConfigurer.java" />
+        <option value="$PROJECT_DIR$/mall-service-common/src/main/java/com/gt/mall/service/common/richtext/RichTextCensoring.java" />
+        <option value="$PROJECT_DIR$/mall-web-pc/src/main/java/com/gt/mall/controller/pc/controller/link/LinkController.java" />
+        <option value="$PROJECT_DIR$/mall-service-common/src/main/java/com/gt/mall/service/common/qrcode/impl/ComTwoCodeServiceImpl.java" />
+        <option value="$PROJECT_DIR$/mall-web/src/test/java/com/gt/mall/DistributionTest.java" />
+        <option value="$PROJECT_DIR$/mall-common/src/main/java/com/gt/mall/utils/DateUtil.java" />
+        <option value="$PROJECT_DIR$/mall-common/src/main/java/com/gt/mall/utils/ObjectUtil.java" />
+        <option value="$PROJECT_DIR$/opt/data/cache-config/gt_mall/config-cache/gt_mall+default+duofriend.duofriend-sdk.properties" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/mall-service-clerk/src/main/java/com/gt/mall/service/clerk/product/impl/ClerkProductServiceImpl.java" />
+        <option value="$PROJECT_DIR$/mall-web/src/main/java/com/gt/mall/config/GlobalDefaultExceptionHandler.java" />
+        <option value="$PROJECT_DIR$/mall-web-pc/src/main/java/com/gt/mall/controller/pc/controller/product/PCEticketController.java" />
+        <option value="$PROJECT_DIR$/mall-service-common/src/main/java/com/gt/mall/service/common/eticket/impl/ComProductEticketServiceImpl.java" />
+        <option value="$PROJECT_DIR$/mall-bean/src/main/java/com/gt/mall/VO/eticket/EticketInvDayPriceVO.java" />
+        <option value="$PROJECT_DIR$/mall-bean/src/main/java/com/gt/mall/condition/UnifyEticketOrderConditionBO.java" />
+        <option value="$PROJECT_DIR$/mall-bean/src/main/java/com/gt/mall/VO/ModuleStatusVO.java" />
+        <option value="$PROJECT_DIR$/mall-third/src/main/java/com/gt/mall/third/core/IThCoreService.java" />
+        <option value="$PROJECT_DIR$/mall-service-clerk/src/main/java/com/gt/mall/service/clerk/token/IClerkTokenService.java" />
+        <option value="$PROJECT_DIR$/mall-service-clerk/src/main/java/com/gt/mall/service/clerk/token/impl/ClerkTokenServiceImpl.java" />
+        <option value="$PROJECT_DIR$/mall-web-clerk/src/main/java/com/gt/mall/controller/clerk/util/ClerkCommonController.java" />
+        <option value="$PROJECT_DIR$/mall-third/src/main/java/com/gt/mall/third/core/impl/ThCoreServiceImpl.java" />
+        <option value="$PROJECT_DIR$/mall-bean/src/main/java/com/gt/mall/bean/order/uc/BeUnifyOrderSubmitBO.java" />
+        <option value="$PROJECT_DIR$/mall-service-uc/src/main/java/com/gt/mall/service/unify/eticket/impl/IUnifyEticketOrderServiceImpl.java" />
+      </list>
+    </option>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <option name="groupStructurally" value="true" />
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Profiles" type="6783ec58:MavenProjectsStructure$ProfilesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="mall" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="mall" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" x="1440" y="-98" width="1920" height="1057" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1" />
+    <panes />
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="easyGo" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="history-3" />
+    </option>
+  </component>
+  <component name="TestHistory">
+    <history-entry file="DistributionTest_test - 2020.03.27 at 11h 02m 13s.xml">
+      <configuration name="DistributionTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DistributionTest_test - 2020.03.27 at 11h 18m 47s.xml">
+      <configuration name="DistributionTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DistributionTest_test - 2020.11.30 at 19h 33m 26s.xml">
+      <configuration name="DistributionTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DistributionTest_test - 2020.11.30 at 19h 37m 45s.xml">
+      <configuration name="DistributionTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DistributionTest_test - 2020.11.30 at 19h 48m 58s.xml">
+      <configuration name="DistributionTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DistributionTest_test - 2020.12.01 at 09h 24m 56s.xml">
+      <configuration name="DistributionTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DistributionTest_test - 2020.12.01 at 09h 33m 32s.xml">
+      <configuration name="DistributionTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DistributionTest_test - 2020.12.01 at 11h 45m 31s.xml">
+      <configuration name="DistributionTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DistributionTest_main - 2020.12.02 at 17h 49m 28s.xml">
+      <configuration name="DistributionTest.main" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DistributionTest_main - 2020.12.02 at 17h 49m 51s.xml">
+      <configuration name="DistributionTest.main" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="633568000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layout>
+      <window_info id="JRebel" order="0" side_tool="true" />
+      <window_info id="Web" order="1" side_tool="true" />
+      <window_info id="Favorites" order="2" sideWeight="0.50352114" side_tool="true" weight="0.17864807" />
+      <window_info content_ui="combo" id="Project" order="3" sideWeight="0.4964789" weight="0.22025724" />
+      <window_info id="Structure" order="4" sideWeight="0.50144094" side_tool="true" weight="0.24635416" />
+      <window_info id="Commit" order="5" />
+      <window_info id="Pull Requests" order="6" />
+      <window_info anchor="bottom" id="Dependency Viewer" order="0" sideWeight="0.49947917" weight="0.3294686" />
+      <window_info anchor="bottom" id="JRebel Console" order="1" sideWeight="0.43194" side_tool="true" weight="0.4031746" />
+      <window_info anchor="bottom" id="JRebel Executor" order="2" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="3" sideWeight="0.49946466" visible="true" weight="0.33828208" />
+      <window_info anchor="bottom" id="Spring" order="4" weight="0.32987553" />
+      <window_info anchor="bottom" id="Java Enterprise" order="5" weight="0.24814422" />
+      <window_info anchor="bottom" id="Eval Reset" order="6" weight="0.78835976" />
+      <window_info anchor="bottom" id="SonarLint" order="7" weight="0.33862433" />
+      <window_info anchor="bottom" id="Analysis" order="8" weight="0.32910052" />
+      <window_info anchor="bottom" id="Sequence Diagram" order="9" weight="0.32910052" />
+      <window_info anchor="bottom" id="Problems View" order="10" weight="0.32910052" />
+      <window_info anchor="bottom" id="Flow" order="11" />
+      <window_info anchor="bottom" id="TypeScript" order="12" />
+      <window_info anchor="bottom" id="Endpoints" order="13" />
+      <window_info anchor="bottom" id="Project Problems" order="14" />
+      <window_info anchor="bottom" id="Terminal" order="15" sideWeight="0.49892932" weight="0.3132275" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="16" />
+      <window_info anchor="bottom" id="Event Log" order="17" sideWeight="0.37942123" side_tool="true" weight="0.46349207" />
+      <window_info anchor="bottom" id="Services" order="18" show_stripe_button="false" weight="0.3294686" />
+      <window_info anchor="bottom" id="Database Changes" order="19" weight="0.3294686" />
+      <window_info anchor="bottom" id="Version Control" order="20" sideWeight="0.7735546" weight="0.5068783" />
+      <window_info anchor="bottom" id="MyBatis Log" order="21" sideWeight="0.498394" weight="0.32910052" />
+      <window_info anchor="bottom" id="Tail" order="22" />
+      <window_info anchor="bottom" id="Message" order="23" />
+      <window_info anchor="bottom" id="Build" order="24" weight="0.2867725" />
+      <window_info anchor="bottom" id="Find" order="25" weight="0.32987553" />
+      <window_info anchor="bottom" id="Run" order="26" sideWeight="0.56806004" weight="0.4031746" />
+      <window_info anchor="bottom" id="Debug" order="27" sideWeight="0.62057877" weight="0.42645502" />
+      <window_info anchor="bottom" id="Cvs" order="28" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="29" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="30" weight="0.3294686" />
+      <window_info anchor="bottom" id="Messages" order="31" sideWeight="0.49946466" weight="0.16507937" />
+      <window_info anchor="bottom" id="CheckStyle" order="32" weight="0.32873806" />
+      <window_info anchor="bottom" id="Problems" order="33" weight="0.32910052" />
+      <window_info anchor="bottom" id="Duplicates" order="34" weight="0.32910052" />
+      <window_info anchor="bottom" id="Inspection Results" order="35" weight="0.32804233" />
+      <window_info anchor="right" id="JRebel Setup Guide" order="0" weight="0.2328125" />
+      <window_info anchor="right" id="Mybatis datasource" order="1" side_tool="true" />
+      <window_info anchor="right" id="Key Promoter X" order="2" show_stripe_button="false" weight="0.329582" />
+      <window_info anchor="right" id="Ant" order="3" show_stripe_button="false" weight="0.329582" />
+      <window_info anchor="right" id="Database" order="4" weight="0.31886387" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Multi Preview" order="6" />
+      <window_info anchor="right" id="Layout Validation" order="7" />
+      <window_info anchor="right" id="RestfulTool" order="8" weight="0.329582" />
+      <window_info anchor="right" id="RestServices" order="9" visible="true" weight="0.329582" />
+      <window_info anchor="right" id="Word Book" order="10" show_stripe_button="false" side_tool="true" weight="0.329582" />
+      <window_info anchor="right" id="Codota" order="11" weight="0.329582" />
+      <window_info anchor="right" id="Bean Validation" order="12" weight="0.329582" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="13" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="14" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="15" weight="0.28487125" />
+      <window_info anchor="right" id="Maven" order="16" weight="0.21168274" />
+      <window_info anchor="right" id="aiXcoder" order="17" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="JRebel" order="0" side_tool="true" />
+      <window_info id="Web" order="1" side_tool="true" />
+      <window_info id="Favorites" order="2" sideWeight="0.50352114" side_tool="true" weight="0.17864807" />
+      <window_info content_ui="combo" id="Project" order="3" sideWeight="0.4964789" weight="0.22025724" />
+      <window_info id="Structure" order="4" sideWeight="0.50144094" side_tool="true" weight="0.24635416" />
+      <window_info id="Commit" order="5" />
+      <window_info id="Pull Requests" order="6" />
+      <window_info anchor="bottom" id="Dependency Viewer" order="0" sideWeight="0.49947917" weight="0.3294686" />
+      <window_info anchor="bottom" id="JRebel Console" order="1" sideWeight="0.43194" side_tool="true" weight="0.4031746" />
+      <window_info anchor="bottom" id="JRebel Executor" order="2" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="3" sideWeight="0.49946466" visible="true" weight="0.33828208" />
+      <window_info anchor="bottom" id="Spring" order="4" weight="0.32987553" />
+      <window_info anchor="bottom" id="Java Enterprise" order="5" weight="0.24814422" />
+      <window_info anchor="bottom" id="Eval Reset" order="6" weight="0.78835976" />
+      <window_info anchor="bottom" id="SonarLint" order="7" weight="0.33862433" />
+      <window_info anchor="bottom" id="Analysis" order="8" weight="0.32910052" />
+      <window_info anchor="bottom" id="Sequence Diagram" order="9" weight="0.32910052" />
+      <window_info anchor="bottom" id="Problems View" order="10" weight="0.32910052" />
+      <window_info anchor="bottom" id="Flow" order="11" />
+      <window_info anchor="bottom" id="TypeScript" order="12" />
+      <window_info anchor="bottom" id="Endpoints" order="13" />
+      <window_info anchor="bottom" id="Project Problems" order="14" />
+      <window_info anchor="bottom" id="Terminal" order="15" sideWeight="0.49892932" weight="0.3132275" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="16" />
+      <window_info anchor="bottom" id="Event Log" order="17" sideWeight="0.37942123" side_tool="true" weight="0.46349207" />
+      <window_info anchor="bottom" id="Services" order="18" show_stripe_button="false" weight="0.3294686" />
+      <window_info anchor="bottom" id="Database Changes" order="19" weight="0.3294686" />
+      <window_info anchor="bottom" id="Version Control" order="20" sideWeight="0.7735546" weight="0.5068783" />
+      <window_info anchor="bottom" id="MyBatis Log" order="21" sideWeight="0.498394" weight="0.32910052" />
+      <window_info anchor="bottom" id="Tail" order="22" />
+      <window_info anchor="bottom" id="Message" order="23" />
+      <window_info anchor="bottom" id="Build" order="24" weight="0.2867725" />
+      <window_info anchor="bottom" id="Find" order="25" weight="0.32987553" />
+      <window_info anchor="bottom" id="Run" order="26" sideWeight="0.56806004" weight="0.4031746" />
+      <window_info anchor="bottom" id="Debug" order="27" sideWeight="0.62057877" visible="true" weight="0.42645502" />
+      <window_info anchor="bottom" id="Cvs" order="28" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="29" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="30" weight="0.3294686" />
+      <window_info anchor="bottom" id="Messages" order="31" sideWeight="0.49946466" weight="0.16507937" />
+      <window_info anchor="bottom" id="CheckStyle" order="32" weight="0.32873806" />
+      <window_info anchor="bottom" id="Problems" order="33" weight="0.32910052" />
+      <window_info anchor="bottom" id="Duplicates" order="34" weight="0.32910052" />
+      <window_info anchor="bottom" id="Inspection Results" order="35" weight="0.32804233" />
+      <window_info anchor="right" id="JRebel Setup Guide" order="0" weight="0.2328125" />
+      <window_info anchor="right" id="Mybatis datasource" order="1" side_tool="true" />
+      <window_info anchor="right" id="Key Promoter X" order="2" show_stripe_button="false" weight="0.329582" />
+      <window_info anchor="right" id="Ant" order="3" show_stripe_button="false" weight="0.329582" />
+      <window_info anchor="right" id="Database" order="4" weight="0.31886387" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Multi Preview" order="6" />
+      <window_info anchor="right" id="Layout Validation" order="7" />
+      <window_info anchor="right" id="RestfulTool" order="8" weight="0.329582" />
+      <window_info anchor="right" id="RestServices" order="9" visible="true" weight="0.329582" />
+      <window_info anchor="right" id="Word Book" order="10" show_stripe_button="false" side_tool="true" weight="0.329582" />
+      <window_info anchor="right" id="Codota" order="11" weight="0.329582" />
+      <window_info anchor="right" id="Bean Validation" order="12" weight="0.329582" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="13" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="14" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="15" weight="0.28487125" />
+      <window_info anchor="right" id="Maven" order="16" weight="0.21168274" />
+      <window_info anchor="right" id="aiXcoder" order="17" />
+    </layout-to-restore>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateCodeFragment">
+      <expression>
+        <expression-string>StringUtils.isNotBlank(query.getSpecifyDate())</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>thCoreService.payModel( busId, moduleId)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>new StringBuilder(&quot;代码出错行&quot;).append(JsonUtil.objectToJson(e.getStackTrace())).toString()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>JsonUtil.toJSONString(e.getStackTrace())</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>System.out.println(e.getStackTrace());</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>System.out.println(e.getCause());</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>System.out.println(e.printStackTrace());</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>System.out.println(e.printStackTrace(););</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>System.out.println(e.getStackTrace().toString());</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="throwExceptionValue">
+      <expression>
+        <expression-string>new NullPointerException()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>new NullPointerException()</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>java.time.format.DateTimeFormatterBuilder</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>new DateTimeFormatterBuilder.NumberPrinterParser()</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>java.time.format.DateTimeFormatterBuilder</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/mall-service-common/src/main/java/com/gt/mall/service/common/eticket/impl/ComEticketOrderServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="861">
+          <caret line="51" column="31" selection-start-line="51" selection-start-column="31" selection-end-line="51" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-dao/src/main/resources/mapper/eticket/MallEticketOrderDAO.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1596">
+          <caret line="76" column="16" selection-start-line="76" selection-start-column="16" selection-end-line="76" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-web-pc/src/main/java/com/gt/mall/controller/pc/controller/product/PCEticketController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="861">
+          <caret line="64" column="111" selection-start-line="64" selection-start-column="111" selection-end-line="64" selection-end-column="111" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-bean/src/main/java/com/gt/mall/condition/EticketCalendarPriceBO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1953">
+          <caret line="105" column="32" selection-start-line="105" selection-start-column="32" selection-end-line="105" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-third/src/main/java/com/gt/mall/third/common/ThCoreOrLoginOrMeUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1890">
+          <caret line="101" column="75" selection-start-line="101" selection-start-column="75" selection-end-line="101" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-web-pc/src/main/java/com/gt/mall/controller/pc/controller/link/LinkController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="56" column="34" selection-start-line="56" selection-start-column="34" selection-end-line="56" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-service-common/src/main/java/com/gt/mall/service/common/shop/impl/ComStoreServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10815">
+          <caret line="569" column="40" selection-start-line="569" selection-start-column="40" selection-end-line="569" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-bean/src/main/java/com/gt/mall/bean/store/BeStoreVO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="651">
+          <caret line="34" column="24" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-third/src/main/java/com/gt/mall/third/order/ThOrderServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1575">
+          <caret line="88" column="78" selection-start-line="88" selection-start-column="78" selection-end-line="88" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/product_eticket2.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="306" column="89" selection-start-line="306" selection-start-column="89" selection-end-line="306" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-service-uc/src/main/java/com/gt/mall/service/uc/product/impl/UcEticketServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="755">
+          <caret line="76" column="33" selection-start-line="76" selection-start-column="33" selection-end-line="76" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-service-uc/src/main/java/com/gt/mall/service/unify/eticket/impl/UnifyEticketServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="755">
+          <caret line="76" column="45" selection-start-line="76" selection-start-column="45" selection-end-line="76" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-web-uc/src/main/java/com/gt/mall/controller/unify/eticket/UnifyEticketController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="734">
+          <caret line="75" column="127" selection-start-line="75" selection-start-column="127" selection-end-line="75" selection-end-column="127" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-bean/src/main/java/com/gt/mall/condition/ClerkEticketConditionBO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="18" column="44" lean-forward="true" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-web-uc/src/main/java/com/gt/mall/controller/uc/order/UcEticketOrderController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="55" column="16" selection-start-line="55" selection-start-column="16" selection-end-line="55" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/time/format/DateTimeFormatter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22386">
+          <caret line="1160" column="42" selection-start-line="1160" selection-start-column="42" selection-end-line="1160" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-common/src/main/java/com/gt/mall/utils/DateUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="38" column="13" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-service-common/src/main/java/com/gt/mall/service/common/eticket/impl/ComProductEticketServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="1043" column="76" selection-start-line="1043" selection-start-column="65" selection-end-line="1043" selection-end-column="76" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-service-common/src/main/java/com/gt/mall/service/common/eticket/IComProductEticketService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="102" column="13" selection-start-line="102" selection-start-column="13" selection-end-line="102" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-third/src/main/java/com/gt/mall/third/core/IThCoreService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-service-common/src/main/java/com/gt/mall/service/common/login/IComLoginService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="48" selection-start-line="48" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-service-clerk/src/main/java/com/gt/mall/service/clerk/distribution/impl/ClerkDistributionServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="486" column="59" selection-start-line="486" selection-start-column="59" selection-end-line="486" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../Development/mavenRepostory/com/duofriend/plugin/sdk/gt-plugin-sdk-entity/5.2.7-SNAPSHOT/gt-plugin-sdk-entity-5.2.7-20201127.013551-2-sources.jar!/com/duofriend/plugin/sdk/entity/core/dto/BusUserDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-service-common/src/main/java/com/gt/mall/service/common/bususer/IComBusUserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-service-common/src/main/java/com/gt/mall/service/common/distribution/impl/ComDistributionCommissionRecordServiceUtilImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="54" column="28" selection-start-line="54" selection-start-column="28" selection-end-line="54" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-service-uc/src/main/java/com/gt/mall/service/unify/order/impl/UnifyOrderServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="244" column="39" selection-start-line="244" selection-start-column="39" selection-end-line="244" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-web-uc/src/main/java/com/gt/mall/controller/unify/order/UnifyOrderController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="737">
+          <caret line="53" column="32" lean-forward="true" selection-start-line="53" selection-start-column="32" selection-end-line="53" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-service-uc/src/main/java/com/gt/mall/service/unify/eticket/IUnifyEticketOrderService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="481">
+          <caret line="83" column="21" selection-start-line="83" selection-start-column="21" selection-end-line="83" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-web-uc/src/main/java/com/gt/mall/controller/unify/order/UnifyEticketOrderController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-145">
+          <caret line="71" column="28" selection-start-line="71" selection-start-column="28" selection-end-line="71" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-service-clerk/src/main/java/com/gt/mall/service/clerk/token/IClerkTokenService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="41" column="9" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-service-clerk/src/main/java/com/gt/mall/service/clerk/constant/ClerkServiceCommonConstant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-service-clerk/src/main/java/com/gt/mall/service/clerk/token/impl/ClerkTokenServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="603">
+          <caret line="94" column="28" selection-start-line="94" selection-start-column="28" selection-end-line="94" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-service-clerk/src/main/java/com/gt/mall/service/clerk/token/IClerkTokenUtilService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="14" column="37" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-service/src/main/java/com/gt/mall/service/inter/core/impl/CoreServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="38" column="41" selection-start-line="38" selection-start-column="41" selection-end-line="38" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../Development/mavenRepostory/com/duofriend/plugin/sdk/gt-plugin-sdk-core-api/5.2.7-SNAPSHOT/gt-plugin-sdk-core-api-5.2.7-20201127.013554-2-sources.jar!/com/duofriend/plugin/sdk/core/api/CoreApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="974" column="19" selection-start-line="974" selection-start-column="19" selection-end-line="974" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-common/src/main/java/com/gt/mall/constant/product/ProductConst.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="25" column="32" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-third/src/main/java/com/gt/mall/third/core/impl/ThCoreServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="27" column="24" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-web-clerk/src/main/java/com/gt/mall/controller/clerk/util/ClerkCommonController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-bean/src/main/java/com/gt/mall/bean/order/uc/BeUnifyOrderSubmitBO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="62" column="5" lean-forward="true" selection-start-line="62" selection-start-column="5" selection-end-line="62" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-bean/src/main/java/com/gt/mall/bean/order/BeTicketBO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="47" column="24" selection-start-line="47" selection-start-column="24" selection-end-line="47" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-service-uc/src/main/java/com/gt/mall/service/unify/eticket/impl/IUnifyEticketOrderServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="131" column="5" lean-forward="true" selection-start-line="131" selection-start-column="5" selection-end-line="131" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../Development/mavenRepostory/org/springframework/spring-core/5.1.8.RELEASE/spring-core-5.1.8.RELEASE-sources.jar!/org/springframework/cglib/proxy/MethodProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4137">
+          <caret line="219" selection-start-line="219" selection-end-line="219" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-bean/src/main/java/com/gt/mall/condition/UnifyEticketOrderConditionBO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2016">
+          <caret line="106" column="23" selection-start-line="106" selection-start-column="23" selection-end-line="106" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-common/src/main/java/com/gt/mall/enums/ResponseEnums.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5439">
+          <caret line="259" column="18" selection-start-line="259" selection-start-column="18" selection-end-line="259" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-service-common/src/main/java/com/gt/mall/service/common/cart/impl/ComCartUtilServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5691">
+          <caret line="317" column="52" selection-start-line="317" selection-start-column="52" selection-end-line="317" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1785">
+          <caret line="85" selection-start-line="85" selection-end-line="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/lang/Throwable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16611">
+          <caret line="815" column="31" selection-start-line="815" selection-start-column="31" selection-end-line="815" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-common/src/main/java/com/gt/mall/utils/DdUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="33" column="23" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../Development/mavenRepostory/com/duofriend/plugin/sdk/gt-plugin-sdk-open-api/5.2.7-SNAPSHOT/gt-plugin-sdk-open-api-5.2.7-20201127.013557-2-sources.jar!/com/duofriend/plugin/sdk/open/api/OpenApiProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-web-uc/src/main/java/com/gt/mall/controller/unify/cart/UnifyCartController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="755">
+          <caret line="110" column="36" lean-forward="true" selection-start-line="110" selection-start-column="36" selection-end-line="110" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-service-uc/src/main/java/com/gt/mall/service/unify/cart/impl/UnifyCartServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="398">
+          <caret line="70" column="41" selection-start-line="70" selection-start-column="41" selection-end-line="70" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>mall</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.24234234" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.dingding.dingtalk:dingtalk.chatbot:0.9.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
