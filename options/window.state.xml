@@ -4,7 +4,7 @@
     <location key="WELCOME_SCREEN.0.0.2880.1800@192dpi" x="1438" y="806" />
     <location key="com.intellij.ide.util.TipDialog.0.0.2880.1800@192dpi" x="798" y="516" />
     <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.2880.1800@192dpi" x="368" y="178" />
-    <location key="find.popup.0.0.2880.1800@192dpi" x="544" y="220" />
+    <location key="find.popup.0.0.2880.1800@192dpi" x="356" y="342" />
     <location key="GitCloneDialog.0.0.2880.1800@192dpi" x="916" y="754" />
     <location key="search.everywhere.popup.0.0.2880.1800@192dpi" x="770" y="392" />
     <location key="recent.locations.popup.0.0.2880.1800@192dpi" x="738" y="368" />
@@ -245,25 +245,25 @@
     <location key="find.popup.-251.-1080.1920.1080" x="-4" y="-981" />
     <location key="find.popup.-254.-1080.1920.1080" x="51" y="-921" />
     <location key="find.popup.-220.-1080.1920.1080" x="143" y="-953" />
-    <size key="find.popup.0.0.2880.1800@192dpi" width="1252" height="1028" />
+    <size key="find.popup.0.0.2880.1800@192dpi" width="2004" height="1294" />
     <size key="SettingsEditor.0.0.2880.1800@192dpi" width="2538" height="1402" />
     <size key="GitCloneDialog.0.0.2880.1800@192dpi" width="1102" height="292" />
     <size key="recent.locations.popup.0.0.2880.1800@192dpi" width="1400" height="1060" />
     <size key="search.everywhere.popup.0.0.2880.1800@192dpi" width="1340" height="316" />
     <size key="javadoc.popup.0.0.2880.1800@192dpi" width="1200" height="848" />
-    <size key="GridCell.Tab.0.left.0.0.2880.1800@192dpi" width="2788" height="318" />
-    <size key="GridCell.Tab.0.center.0.0.2880.1800@192dpi" width="2788" height="318" />
-    <size key="GridCell.Tab.0.right.0.0.2880.1800@192dpi" width="2788" height="318" />
-    <size key="GridCell.Tab.0.bottom.0.0.2880.1800@192dpi" width="2788" height="318" />
+    <size key="GridCell.Tab.0.left.0.0.2880.1800@192dpi" width="2716" height="904" />
+    <size key="GridCell.Tab.0.center.0.0.2880.1800@192dpi" width="2716" height="904" />
+    <size key="GridCell.Tab.0.right.0.0.2880.1800@192dpi" width="2716" height="904" />
+    <size key="GridCell.Tab.0.bottom.0.0.2880.1800@192dpi" width="2716" height="904" />
     <size key="ProcessPopupWindow.0.0.2880.1800@192dpi" width="800" height="604" />
-    <size key="GridCell.Tab.1.left.0.0.2880.1800@192dpi" width="2788" height="544" />
-    <size key="GridCell.Tab.1.center.0.0.2880.1800@192dpi" width="2788" height="544" />
-    <size key="GridCell.Tab.1.right.0.0.2880.1800@192dpi" width="2788" height="544" />
-    <size key="GridCell.Tab.1.bottom.0.0.2880.1800@192dpi" width="2788" height="544" />
-    <size key="GridCell.Tab.2.left.0.0.2880.1800@192dpi" width="2788" height="544" />
-    <size key="GridCell.Tab.2.center.0.0.2880.1800@192dpi" width="2788" height="544" />
-    <size key="GridCell.Tab.2.right.0.0.2880.1800@192dpi" width="2788" height="544" />
-    <size key="GridCell.Tab.2.bottom.0.0.2880.1800@192dpi" width="2788" height="544" />
+    <size key="GridCell.Tab.1.left.0.0.2880.1800@192dpi" width="2716" height="904" />
+    <size key="GridCell.Tab.1.center.0.0.2880.1800@192dpi" width="2716" height="904" />
+    <size key="GridCell.Tab.1.right.0.0.2880.1800@192dpi" width="2716" height="904" />
+    <size key="GridCell.Tab.1.bottom.0.0.2880.1800@192dpi" width="2716" height="904" />
+    <size key="GridCell.Tab.2.left.0.0.2880.1800@192dpi" width="2716" height="904" />
+    <size key="GridCell.Tab.2.center.0.0.2880.1800@192dpi" width="2716" height="904" />
+    <size key="GridCell.Tab.2.right.0.0.2880.1800@192dpi" width="2716" height="904" />
+    <size key="GridCell.Tab.2.bottom.0.0.2880.1800@192dpi" width="2716" height="904" />
     <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1874" height="306" />
     <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1874" height="306" />
     <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1874" height="306" />
@@ -699,47 +699,46 @@
     <size key="find.popup.-220.-1080.1920.1080" width="1336" height="782" />
   </component>
   <component name="WindowManager">
-    <frame x="0" y="205" width="1440" height="875" extendedState="6" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
-      <window_info id="Structure" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
+    <frame x="-1910" y="-43" width="1905" height="1050" extendedState="6" />
   </component>
   <component name="WindowStateApplicationService">
+    <state x="620" y="315" key="#Custom_Plugin_Repositories" timestamp="1661169284925">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="620" y="315" key="#Custom_Plugin_Repositories/0.25.1440.875/-1920.-48.1920.1055" timestamp="1661169284925" />
+    <state x="144" y="61" width="443" height="101" key="MergeDialog" timestamp="1661167931698">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="144" y="61" width="443" height="101" key="MergeDialog/0.25.1440.875/-1920.-48.1920.1055" timestamp="1661167931698" />
+    <state x="351" y="209" key="MultipleFileMergeDialog" timestamp="1661167931776">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="351" y="209" key="MultipleFileMergeDialog/0.25.1440.875/-1920.-48.1920.1055" timestamp="1661167931776" />
     <state x="1140" y="53" width="300" height="100" key="ProcessPopupWindow" timestamp="1659597409587">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
-    <state x="1012" y="790" width="300" height="100" key="ProcessPopupWindow/0.25.1440.875" timestamp="1652458792692" />
     <state x="1140" y="53" width="300" height="100" key="ProcessPopupWindow/0.25.1440.875/-220.-1055.1920.1055" timestamp="1659597409587" />
     <state x="1283" y="-94" width="300" height="111" key="ProcessPopupWindow/0.25.1440.875/-251.-1055.1920.1055" timestamp="1653009263771" />
     <state x="1140" y="53" width="300" height="100" key="ProcessPopupWindow/0.25.1440.875/-254.-1055.1920.1055" timestamp="1658711740567" />
-    <state width="913" height="101" key="ShowUsagesActions.dimensionServiceKey" timestamp="1660892726371">
+    <state x="252" y="67" key="SettingsEditor" timestamp="1661219683091">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
-    <state width="914" height="105" key="ShowUsagesActions.dimensionServiceKey/0.0.1440.900" timestamp="1651807218324" />
+    <state x="252" y="67" key="SettingsEditor/0.25.1440.875/-1920.-48.1920.1055" timestamp="1661219683091" />
+    <state width="913" height="123" key="ShowUsagesActions.dimensionServiceKey" timestamp="1661255139691">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
     <state width="1330" height="255" key="ShowUsagesActions.dimensionServiceKey/0.0.1440.900/-220.-1055.1920.1055" timestamp="1659945596790" />
-    <state width="913" height="123" key="ShowUsagesActions.dimensionServiceKey/0.25.1440.875" timestamp="1660615844912" />
-    <state width="913" height="101" key="ShowUsagesActions.dimensionServiceKey/0.25.1440.875/-1920.-48.1920.1055" timestamp="1660892726371" />
+    <state width="913" height="123" key="ShowUsagesActions.dimensionServiceKey/0.25.1440.875" timestamp="1661255139691" />
+    <state width="913" height="167" key="ShowUsagesActions.dimensionServiceKey/0.25.1440.875/-1920.-48.1920.1055" timestamp="1661251960442" />
     <state width="1330" height="189" key="ShowUsagesActions.dimensionServiceKey/0.25.1440.875/-209.-1055.1920.1055" timestamp="1657323493224" />
     <state width="1330" height="101" key="ShowUsagesActions.dimensionServiceKey/0.25.1440.875/-220.-1055.1920.1055" timestamp="1660277226161" />
     <state width="914" height="105" key="ShowUsagesActions.dimensionServiceKey/0.25.1440.875/-251.-1055.1920.1055" timestamp="1653451709627" />
-    <state width="914" height="105" key="ShowUsagesActions.dimensionServiceKey/0.25.1440.875/-251.-1080.1920.1080" timestamp="1651885721775" />
     <state width="1330" height="167" key="ShowUsagesActions.dimensionServiceKey/0.25.1440.875/-254.-1055.1920.1055" timestamp="1659327374849" />
-    <state x="720" y="416" width="800" height="600" key="WELCOME_SCREEN" timestamp="1660308038426">
+    <state x="720" y="416" width="800" height="600" key="WELCOME_SCREEN" timestamp="1661255188105">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
-    <state x="720" y="416" width="800" height="600" key="WELCOME_SCREEN/0.25.1440.875" timestamp="1660308038426" />
-    <state x="720" y="416" width="800" height="600" key="WELCOME_SCREEN/0.25.1440.875/-209.-1055.1920.1055" timestamp="1651973925717" />
+    <state x="720" y="416" width="800" height="600" key="WELCOME_SCREEN/0.25.1440.875" timestamp="1661255188105" />
+    <state x="720" y="425" width="800" height="650" key="WELCOME_SCREEN/0.25.1440.875/-1920.-48.1920.1055" timestamp="1661237957878" />
     <state x="720" y="416" width="800" height="600" key="WELCOME_SCREEN/0.25.1440.875/-220.-1055.1920.1055" timestamp="1660124222916" />
     <state x="709" y="-604" width="800" height="600" key="WELCOME_SCREEN/0.25.1440.875/-251.-1055.1920.1055" timestamp="1653015412516" />
     <state x="720" y="416" width="800" height="600" key="WELCOME_SCREEN/0.25.1440.875/-254.-1055.1920.1055" timestamp="1658711807419" />
@@ -750,17 +749,14 @@
     <state x="343" y="326" width="744" height="383" key="bookmarks/0.25.1440.875" timestamp="1658451704687" />
     <state x="203" y="-461" width="992" height="461" key="bookmarks/0.25.1440.875/-220.-1055.1920.1055" timestamp="1660102240935" />
     <state x="310" y="25" width="864" height="350" key="bookmarks/0.25.1440.875/-251.-1055.1920.1055" timestamp="1653446873372" />
-    <state x="431" y="-521" width="648" height="291" key="bookmarks/0.25.1440.875/-251.-1080.1920.1080" timestamp="1651886672821" />
     <state x="203" y="25" width="992" height="461" key="bookmarks/0.25.1440.875/-254.-1055.1920.1055" timestamp="1659317024490" />
     <state width="512" height="514" key="manage.recent.projects.popup" timestamp="1660882870901">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
-    <state width="512" height="484" key="manage.recent.projects.popup/0.0.1440.900" timestamp="1651805889041" />
     <state width="512" height="514" key="manage.recent.projects.popup/0.25.1440.875" timestamp="1660561465847" />
     <state width="512" height="514" key="manage.recent.projects.popup/0.25.1440.875/-1920.-48.1920.1055" timestamp="1660882870901" />
     <state width="512" height="514" key="manage.recent.projects.popup/0.25.1440.875/-220.-1055.1920.1055" timestamp="1660208120134" />
     <state width="512" height="514" key="manage.recent.projects.popup/0.25.1440.875/-251.-1055.1920.1055" timestamp="1653299052966" />
-    <state width="512" height="514" key="manage.recent.projects.popup/0.25.1440.875/-251.-1080.1920.1080" timestamp="1651742638513" />
     <state width="512" height="514" key="manage.recent.projects.popup/0.25.1440.875/-254.-1055.1920.1055" timestamp="1659323903719" />
   </component>
 </application>

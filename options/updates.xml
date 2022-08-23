@@ -1,8 +1,9 @@
 <application>
   <component name="UpdatesConfigurable">
-    <option name="LAST_BUILD_CHECKED" value="IU-212.5284.40" />
-    <option name="LAST_TIME_CHECKED" value="1661140482666" />
+    <option name="LAST_BUILD_CHECKED" value="IU-212.4746.92" />
+    <option name="LAST_TIME_CHECKED" value="1661242907611" />
     <pluginHosts>
+      <item value="http://plugins.zhile.io" />
       <item value="https://plugins.zhile.io" />
     </pluginHosts>
     <option name="THIRD_PARTY_PLUGINS_ALLOWED" value="true" />

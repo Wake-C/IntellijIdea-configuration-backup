@@ -183,7 +183,19 @@
         </entry>
         <entry key="/Users/IdeaProjects/Learn_demo/book_source_code/program-logic">
           <value>
-            <RecentProjectMetaInfo frameTitle="program_logic – SimpleMapper.java" opened="true" projectWorkspaceId="2CYpiruIjfXFD5N75ys7WmE9QKr">
+            <RecentProjectMetaInfo frameTitle="program_logic – SimpleMapper.java" projectWorkspaceId="2CYpiruIjfXFD5N75ys7WmE9QKr">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-212.5284.40" />
+              <option name="buildTimestamp" value="1631597473342" />
+              <frame x="0" y="205" width="1440" height="875" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1660892795075" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="/Users/IdeaProjects/Learn_demo">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Learn_demo – SynchronizedResolve.java [Java_Practice]" projectWorkspaceId="293eyMzbvxK3kCCZBXzQPUPUyD2">
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="IU-212.5284.40" />
               <option name="buildTimestamp" value="1631597473342" />
@@ -195,25 +207,13 @@
         </entry>
         <entry key="/Users/IdeaProjects/Mall_new_eticket">
           <value>
-            <RecentProjectMetaInfo frameTitle="Mall_new_eticket – ThreadPoolUtil.java [mall-common]" projectWorkspaceId="1chSFiCk9OirJaIImO0yQaTVhLT">
+            <RecentProjectMetaInfo frameTitle="Mall_new_eticket – MallTicketCondition.java [Maven: com.duofriend.plugin.sdk:gt-plugin-sdk-mall-api:6.9.2-SNAPSHOT]" opened="true" projectWorkspaceId="1chSFiCk9OirJaIImO0yQaTVhLT">
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="IU-212.5284.40" />
-              <option name="buildTimestamp" value="1631597473342" />
-              <frame x="0" y="25" width="1440" height="875" extendedState="6" />
+              <option name="build" value="IU-212.4746.92" />
+              <option name="buildTimestamp" value="1627369763290" />
+              <frame x="-1910" y="-43" width="1905" height="1050" extendedState="6" />
               <option name="productionCode" value="IU" />
-              <option name="projectOpenTimestamp" value="1660882871523" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
-        <entry key="/Users/IdeaProjects/Learn_demo">
-          <value>
-            <RecentProjectMetaInfo frameTitle="Learn_demo – SynchronizedResolve.java [Java_Practice]" opened="true" projectWorkspaceId="293eyMzbvxK3kCCZBXzQPUPUyD2">
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="IU-212.5284.40" />
-              <option name="buildTimestamp" value="1631597473342" />
-              <frame x="0" y="205" width="1440" height="875" extendedState="6" />
-              <option name="productionCode" value="IU" />
-              <option name="projectOpenTimestamp" value="1660892795075" />
+              <option name="projectOpenTimestamp" value="1661255193491" />
             </RecentProjectMetaInfo>
           </value>
         </entry>

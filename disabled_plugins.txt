@@ -21,15 +21,16 @@ cn.bugstack.idea.plugin.vo2dto
 com.4lex4.intellij.solarized
 com.android.tools.idea.smali
 com.biyusheng.plugins
-com.ccnode.codegenerator.MyBatisCodeHelperPro
 com.chrisrm.idea.MaterialThemeUI
 com.codota.csp.intellij
+com.github.copilot
 com.intellij.drools
 com.intellij.guice
 com.intellij.helidon
 com.intellij.hibernate
 com.intellij.jsf
 com.intellij.laf.macos
+com.intellij.plugins.expui
 com.intellij.thymeleaf
 com.intellij.uiDesigner
 com.intellij.velocity
@@ -38,7 +39,6 @@ com.jetbrains.codeWithMe
 com.jetbrains.gateway
 com.jetbrains.plugins.webDeployment
 com.jetbrains.space
-com.tabnine.TabNine
 com.thief.idea
 com.vladsch.idea.multimarkdown
 com.zhaow.restful.toolkit
