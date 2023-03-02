@@ -6,7 +6,6 @@ GlassFish
 JBoss
 JSIntentionPowerPack
 JSR45Plugin
-JavaScript
 JavaScriptDebugger
 Jetty
 NodeJS
@@ -19,11 +18,11 @@ WebSphere
 Weblogic
 cn.bugstack.idea.plugin.vo2dto
 com.4lex4.intellij.solarized
+com.android.tools.design
 com.android.tools.idea.smali
 com.biyusheng.plugins
 com.chrisrm.idea.MaterialThemeUI
 com.codota.csp.intellij
-com.github.copilot
 com.intellij.drools
 com.intellij.guice
 com.intellij.helidon
@@ -43,15 +42,14 @@ com.thief.idea
 com.vladsch.idea.multimarkdown
 com.zhaow.restful.toolkit
 hg4idea
+intellij.vitejs
 io.github.qeesung.component.HighlightBracketPair
 lermitage.intellij.extra.icons
 lermitage.intellij.extratci
-net.vektah.codeglance
 org.coffeescript
 org.intellij.grails
 org.jetbrains.android
 org.jetbrains.plugins.sass
 org.jetbrains.plugins.stylus
-some.awesome
 spy-js
 tslint

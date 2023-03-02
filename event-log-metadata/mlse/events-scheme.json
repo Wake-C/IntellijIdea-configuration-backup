@@ -53,8 +53,10 @@
         "collectedItems.features.globalUsageToMax" : [ "{regexp#float}" ],
         "collectedItems.features.globalUsageToMaxV1" : [ "{regexp#float}" ],
         "collectedItems.features.globalUsageToMaxV2" : [ "{regexp#float}" ],
+        "collectedItems.features.globalUsageToMaxV3" : [ "{regexp#float}" ],
         "collectedItems.features.globalUsageV1" : [ "{regexp#integer}" ],
         "collectedItems.features.globalUsageV2" : [ "{regexp#integer}" ],
+        "collectedItems.features.globalUsageV3" : [ "{regexp#integer}" ],
         "collectedItems.features.groupLength" : [ "{regexp#integer}" ],
         "collectedItems.features.isAbbreviation" : [ "{enum#boolean}" ],
         "collectedItems.features.isAccessibleFromModule" : [ "{enum#boolean}" ],
@@ -146,9 +148,11 @@
         "collectedItems.features.usagesPerUserRatio" : [ "{regexp#float}" ],
         "collectedItems.features.usagesPerUserRatioV1" : [ "{regexp#float}" ],
         "collectedItems.features.usagesPerUserRatioV2" : [ "{regexp#float}" ],
+        "collectedItems.features.usagesPerUserRatioV3" : [ "{regexp#float}" ],
         "collectedItems.features.usersRatio" : [ "{regexp#float}" ],
         "collectedItems.features.usersRatioV1" : [ "{regexp#float}" ],
         "collectedItems.features.usersRatioV2" : [ "{regexp#float}" ],
+        "collectedItems.features.usersRatioV3" : [ "{regexp#float}" ],
         "collectedItems.features.variablesTotal" : [ "{regexp#integer}" ],
         "collectedItems.features.wasModifiedInLastDay" : [ "{enum#boolean}" ],
         "collectedItems.features.wasModifiedInLastHour" : [ "{enum#boolean}" ],
@@ -185,14 +189,17 @@
         "globalMaxUsage" : [ "{regexp#integer}" ],
         "globalMaxUsageV1" : [ "{regexp#integer}" ],
         "globalMaxUsageV2" : [ "{regexp#integer}" ],
+        "globalMaxUsageV3" : [ "{regexp#integer}" ],
         "globalMinUsage" : [ "{regexp#integer}" ],
         "globalMinUsageV1" : [ "{regexp#integer}" ],
         "globalMinUsageV2" : [ "{regexp#integer}" ],
+        "globalMinUsageV3" : [ "{regexp#integer}" ],
         "isConsistent" : [ "{enum#boolean}" ],
         "isForceExperiment" : [ "{enum#boolean}" ],
         "isMixedList" : [ "{enum#boolean}" ],
         "isSingleModuleProject" : [ "{enum#boolean}" ],
         "lastOpenToolWindow" : [ "{util#toolwindow}" ],
+        "logFeatures" : [ "{enum#boolean}" ],
         "maxUsage" : [ "{regexp#integer}" ],
         "maxUsageSE" : [ "{regexp#integer}" ],
         "minUsage" : [ "{regexp#integer}" ],
@@ -242,5 +249,5 @@
       "version" : "Unknown|unknown.format|unknown|UNKNOWN|((\\d+\\.?)*\\d+)"
     }
   },
-  "version" : "2690"
+  "version" : "2850"
 }

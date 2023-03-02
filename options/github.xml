@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account name="Wake-C" id="e954453d-4507-42f4-927d-4e5461b6c0fc">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>

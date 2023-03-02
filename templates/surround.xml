@@ -1,0 +1,12 @@
+<templateSet group="surround">
+  <template name="quoteme" value="&quot;$SELECTION$&quot;," description="surrounding with quotes" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="quoteNotSymbol" value="&quot;$SELECTION$&quot;" description="quoteNotSymbol" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>

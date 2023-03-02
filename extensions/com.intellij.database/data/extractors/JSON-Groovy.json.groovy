@@ -51,7 +51,9 @@ def printJSON(level, col, o) {
     case Boolean: OUT.append("$o"); break
     default:
       def str = FORMATTER.formatValue(o, col)
-      OUT.append(FORMATTER.isStringLiteral(o, col) ? "\"${escapeStr(str)}\"" : str);
+      def typeName = FORMATTER.getTypeName(o, col)
+      def shouldQuote = FORMATTER.isStringLiteral(o, col) && !(typeName.equalsIgnoreCase("json") || typeName.equalsIgnoreCase("jsonb"))
+      OUT.append(shouldQuote ? "\"${escapeStr(str)}\"" : str);
       break
   }
 }

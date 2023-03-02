@@ -1,0 +1,46 @@
+<application>
+  <component name="PostfixTemplates">
+    <template id="obep@userDefined" key=".obep" provider="builtin.java" language-level="8" topmost="false">
+      <conditions />
+      <template name="fakeKey" value=" ObjectUtils.isEmpty($EXPR$)" description="" toReformat="true" toShortenFQNames="true" />
+    </template>
+    <template id="obnc@userDefined" key=".obnc" provider="builtin.java" language-level="1.3" topmost="false">
+      <conditions />
+      <template name="fakeKey" value="CollectionUtils.isNotEmpty($EXPR$)" description="" toReformat="true" toShortenFQNames="true" />
+    </template>
+    <template id="isnull@userDefined" key=".isnull" provider="builtin.java" language-level="8" topmost="false">
+      <conditions />
+      <template name="fakeKey" value="Objects.isNull($EXPR$)" description="" toReformat="true" toShortenFQNames="true" />
+    </template>
+    <template id="obnstr@userDefined" key=".obnstr" provider="builtin.java" language-level="1.3" topmost="false">
+      <conditions />
+      <template name="fakeKey" value="StringUtils.isNotEmpty($EXPR$)" toReformat="true" toShortenFQNames="true" />
+    </template>
+    <template id="notequals@userDefined" key=".notequals" provider="builtin.java" language-level="1.3" topmost="true">
+      <conditions />
+      <template name="fakeKey" value="ObjectUtils.notEqual($EXPR$,$END$)" description="" toReformat="true" toShortenFQNames="true" />
+    </template>
+    <template id="equals@userDefined" key=".equals" provider="builtin.java" language-level="1.3" topmost="true">
+      <conditions />
+      <template name="fakeKey" value="Objects.equals($EXPR$,$END$)" description="" toReformat="true" toShortenFQNames="true" />
+    </template>
+    <template id="isnullstr@userDefined" key=".isnullstr" provider="builtin.java" language-level="1.3" topmost="false">
+      <conditions />
+      <template name="fakeKey" value="StringUtils.isNotBlank($EXPR$)" description="" toReformat="true" toShortenFQNames="true" />
+    </template>
+    <template id="nob@userDefined" key=".nob" provider="builtin.java" language-level="1.3" topmost="true">
+      <conditions>
+        <condition id="notPrimitive" />
+      </conditions>
+      <template name="fakeKey" value="Objects.nonNull($EXPR$)" description="" toReformat="true" toShortenFQNames="true" />
+    </template>
+    <template id="isnullc@userDefined" key=".isnullc" provider="builtin.java" language-level="1.3" topmost="false">
+      <conditions />
+      <template name="fakeKey" value="CollectionUtils.isEmpty($EXPR$)" description="" toReformat="true" toShortenFQNames="true" />
+    </template>
+    <template id="obn@userDefined2" key=".obn" provider="builtin.java" language-level="8" topmost="true">
+      <conditions />
+      <template name="fakeKey" value="Objects.nonNull($EXPR$)" description="" toReformat="true" toShortenFQNames="true" />
+    </template>
+  </component>
+</application>

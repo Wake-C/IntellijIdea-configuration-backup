@@ -84,6 +84,8 @@ def _symbol_loaded_address(name, debugger = lldb.debugger):
         log(lambda: "_symbol_loaded_address:{} {:#x}".format(name, address))
         return address
 
+    return 0
+
 def _type_info_by_address(address, debugger = lldb.debugger):
     target = debugger.GetSelectedTarget()
     process = target.GetProcess()
@@ -457,42 +459,35 @@ class KonanProxyTypeProvider:
 def strip_quotes(name):
     return "" if (name == None) else name.strip('"')
 
-def _print_object_recursively(variable, result, internal_dict):
-    variable_name = variable.GetName()
-    variable_type = strip_quotes(evaluate("(char *)Konan_DebugGetTypeName({:#x})".format(variable.unsigned)).summary)
+def get_runtime_type(variable):
+    return strip_quotes(evaluate("(char *)Konan_DebugGetTypeName({:#x})".format(variable.unsigned)).summary)
 
-    if (len(variable_type) == 0):
-        return
-
-    internal_dict["visited_fields"].add(variable.unsigned)
-
-    result.write("({} {}".format(variable_name, variable_type))
-    provider = KonanProxyTypeProvider(variable, internal_dict)
-
-    child_num = provider.num_children()
-
-    if (provider._type_name == "ArrayProvider"):
-      child_num = min(child_num, ARRAY_TO_STRING_LIMIT)
-
-    for i in range(child_num):
-        if (provider._field_type(i) == 1):
-            child = provider.get_child_at_index(i)
-            if (child.unsigned in internal_dict["visited_fields"] or len(internal_dict["visited_fields"]) > TOTAL_MEMBERS_LIMIT):
-                continue
-            _print_object_recursively(child, result, internal_dict)
-
-    result.write(")")
-
-
-def type_name_command(debugger, variable_name, exe_ctx, result, internal_dict):
+def field_type_command(debugger, field_address, exe_ctx, result, internal_dict):
     """
-    Recursively travels through variable members and serializes information about known types.
-    For example, result for variable info of type Pair<String, String> will be
-    "(info Pair(first String)(second String))"
+    Returns runtime type of foo.bar.baz field in the form "(foo.bar.baz <TYPE_NAME>)".
+    If requested field could not be traced, then "<NO_FIELD_FOUND>" plug is used for type name.
     """
-    frame = exe_ctx.GetFrame()
-    internal_dict["visited_fields"] = set()
-    _print_object_recursively(frame.FindVariable(variable_name), result, internal_dict)
+    fields = field_address.split('.')
+
+    variable = exe_ctx.GetFrame().FindVariable(fields[0])
+    provider = None
+
+    for field_name in fields[1:]:
+        if (variable != None):
+            provider = KonanProxyTypeProvider(variable, internal_dict)
+            field_index = provider.get_child_index(field_name)
+            variable = provider.get_child_at_index(field_index)
+        else:
+            break
+
+    desc = "<NO_FIELD_FOUND>"
+
+    if (variable != None):
+        rt = get_runtime_type(variable)
+        if (len(rt) > 0):
+            desc = rt
+
+    result.write("{}".format(desc))
 
 
 __KONAN_VARIABLE = re.compile('kvar:(.*)#internal')
@@ -652,7 +647,7 @@ def __lldb_init_module(debugger, _):
         --category Kotlin\
     ')
     debugger.HandleCommand('type category enable Kotlin')
-    debugger.HandleCommand('command script add -f {}.type_name_command type_name'.format(__name__))
+    debugger.HandleCommand('command script add -f {}.field_type_command field_type'.format(__name__))
     debugger.HandleCommand('command script add -f {}.type_by_address_command type_by_address'.format(__name__))
     debugger.HandleCommand('command script add -f {}.symbol_by_name_command symbol_by_name'.format(__name__))
     # Avoid Kotlin/Native runtime

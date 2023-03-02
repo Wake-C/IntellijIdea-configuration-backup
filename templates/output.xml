@@ -1,0 +1,7 @@
+<templateSet group="output">
+  <template name="link" value="{@link $END$}" description="annotation link" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>

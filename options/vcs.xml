@@ -1,12 +1,19 @@
 <application>
-  <component name="GitRememberedInputs">
-    <option name="visitedUrls">
+  <component name="DiffApplicationSettings">
+    <option name="SHOW_LST_WORD_DIFFERENCES" value="false" />
+  </component>
+  <component name="Vcs.Log.App.Settings">
+    <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
+    <option name="COLUMN_ID_ORDER">
       <list>
-        <UrlAndUserName>
-          <option name="url" value="http://gitlab.deeptel.com.cn" />
-          <option name="userName" value="zhanbing" />
-        </UrlAndUserName>
+        <option value="Default.Root" />
+        <option value="Default.Subject" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
       </list>
     </option>
+  </component>
+  <component name="VcsEditorTab.Settings">
+    <option name="openInNewWindow" value="true" />
   </component>
 </application>

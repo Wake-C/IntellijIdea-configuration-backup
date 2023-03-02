@@ -1,9 +1,9 @@
 function eachWithIdx(iterable, f) { var i = iterable.iterator(); var idx = 0; while (i.hasNext()) f(i.next(), idx++); }
 function mapEach(iterable, f) { var vs = []; eachWithIdx(iterable, function (i) { vs.push(f(i));}); return vs; }
 function escape(str) {
-  str = str.replaceAll("\t|\b|\\f", "");
+  str = str.replace(/\t|\b|\f/g, "");
   str = com.intellij.openapi.util.text.StringUtil.escapeXml(str);
-  str = str.replaceAll("\\r|\\n|\\r\\n", "<br/>");
+  str = str.replace(/\r|\n|\r\n/g, "<br/>");
   return str;
 }
 var isHTML = RegExp.prototype.test.bind(/^<.+>$/);

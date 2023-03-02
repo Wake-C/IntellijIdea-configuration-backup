@@ -63,3 +63,9 @@ Content-Type: application/json
 
 ###
 POST http://localhost:8080/pc/shop-card
+
+###
+POST http://localhost:8080/unify/freight/order-freight
+
+###
+POST http://localhost:8080/order/pc/express/agency-delivery

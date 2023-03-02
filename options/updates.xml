@@ -1,11 +1,9 @@
 <application>
   <component name="UpdatesConfigurable">
-    <option name="LAST_BUILD_CHECKED" value="IU-212.4746.92" />
-    <option name="LAST_TIME_CHECKED" value="1661242907611" />
-    <pluginHosts>
-      <item value="http://plugins.zhile.io" />
-      <item value="https://plugins.zhile.io" />
-    </pluginHosts>
+    <option name="LAST_BUILD_CHECKED" value="IU-222.4459.24" />
+    <option name="LAST_TIME_CHECKED" value="1677651657532" />
     <option name="THIRD_PARTY_PLUGINS_ALLOWED" value="true" />
+    <option name="UPDATE_CHANNEL_TYPE" value="eap" />
+    <option name="WHATS_NEW_SHOWN_FOR" value="223" />
   </component>
 </application>

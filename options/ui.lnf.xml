@@ -1,6 +1,10 @@
 <application>
   <component name="UISettings">
-    <option name="IDE_AA_TYPE" value="Greyscale" />
+    <option name="EDITOR_TAB_PLACEMENT" value="0" />
+    <option name="OPEN_IN_PREVIEW_TAB_IF_POSSIBLE" value="true" />
     <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
+    <option name="PRESENTATION_MODE_FONT_SIZE" value="14" />
+    <option name="SHOW_INPLACE_COMMENTS" value="true" />
+    <option name="SORT_BOOKMARKS" value="true" />
   </component>
 </application>

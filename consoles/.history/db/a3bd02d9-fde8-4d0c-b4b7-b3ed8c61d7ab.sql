@@ -61,3 +61,19 @@ where
   and shop_card_id=163886527988431;
 ;-- -. . -..- - / . -. - .-. -.--
 alter table rabbitmq_log modify column msg longtext character set utf8mb4;
+;-- -. . -..- - / . -. - .-. -.--
+select * from t_mall_shop_cart where id=215339865060368;
+;-- -. . -..- - / . -. - .-. -.--
+select * from t_mall_shop_cart where product_id=215339865060349;
+;-- -. . -..- - / . -. - .-. -.--
+select
+    *
+from
+    t_mall_intra_city
+WHERE
+        shop_id=36
+  and `distribution_status` =1;
+;-- -. . -..- - / . -. - .-. -.--
+select order_status from t_mall_order where  order_no='SC250504068857888';
+;-- -. . -..- - / . -. - .-. -.--
+select bus_user_id from t_mall_order where  order_no='SC250504068857888';

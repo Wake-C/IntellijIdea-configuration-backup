@@ -1,0 +1,415 @@
+<application>
+  <component name="ApplicationUserFactors">
+    <factor id="completionFinishedType">
+      <dailyData date="08-11-2022">
+        <observation name="cancelled" value="156.0" />
+        <observation name="explicitSelect" value="70.0" />
+        <observation name="typedSelect" value="43.0" />
+      </dailyData>
+      <dailyData date="09-11-2022">
+        <observation name="cancelled" value="35.0" />
+        <observation name="explicitSelect" value="15.0" />
+        <observation name="typedSelect" value="14.0" />
+      </dailyData>
+      <dailyData date="11-11-2022">
+        <observation name="cancelled" value="1.0" />
+      </dailyData>
+      <dailyData date="14-11-2022">
+        <observation name="cancelled" value="25.0" />
+        <observation name="explicitSelect" value="19.0" />
+        <observation name="typedSelect" value="11.0" />
+      </dailyData>
+      <dailyData date="16-11-2022">
+        <observation name="cancelled" value="13.0" />
+        <observation name="explicitSelect" value="4.0" />
+        <observation name="typedSelect" value="3.0" />
+      </dailyData>
+      <dailyData date="17-11-2022">
+        <observation name="cancelled" value="35.0" />
+        <observation name="explicitSelect" value="29.0" />
+        <observation name="typedSelect" value="25.0" />
+      </dailyData>
+      <dailyData date="18-11-2022">
+        <observation name="cancelled" value="165.0" />
+        <observation name="explicitSelect" value="123.0" />
+        <observation name="typedSelect" value="76.0" />
+      </dailyData>
+      <dailyData date="19-11-2022">
+        <observation name="cancelled" value="43.0" />
+        <observation name="explicitSelect" value="22.0" />
+        <observation name="typedSelect" value="16.0" />
+      </dailyData>
+      <dailyData date="21-11-2022">
+        <observation name="cancelled" value="36.0" />
+        <observation name="explicitSelect" value="20.0" />
+        <observation name="typedSelect" value="12.0" />
+      </dailyData>
+      <dailyData date="22-11-2022">
+        <observation name="cancelled" value="19.0" />
+        <observation name="explicitSelect" value="16.0" />
+        <observation name="typedSelect" value="22.0" />
+      </dailyData>
+    </factor>
+    <factor id="completionType">
+      <dailyData date="08-11-2022">
+        <observation name="BASIC" value="200.0" />
+      </dailyData>
+      <dailyData date="09-11-2022">
+        <observation name="BASIC" value="45.0" />
+      </dailyData>
+      <dailyData date="11-11-2022">
+        <observation name="BASIC" value="1.0" />
+      </dailyData>
+      <dailyData date="14-11-2022">
+        <observation name="BASIC" value="37.0" />
+      </dailyData>
+      <dailyData date="16-11-2022">
+        <observation name="BASIC" value="13.0" />
+      </dailyData>
+      <dailyData date="17-11-2022">
+        <observation name="BASIC" value="68.0" />
+      </dailyData>
+      <dailyData date="18-11-2022">
+        <observation name="BASIC" value="292.0" />
+      </dailyData>
+      <dailyData date="19-11-2022">
+        <observation name="BASIC" value="57.0" />
+      </dailyData>
+      <dailyData date="21-11-2022">
+        <observation name="BASIC" value="58.0" />
+      </dailyData>
+      <dailyData date="22-11-2022">
+        <observation name="BASIC" value="47.0" />
+      </dailyData>
+    </factor>
+    <factor id="completionUsage">
+      <dailyData date="08-11-2022">
+        <observation name="count" value="269.0" />
+      </dailyData>
+      <dailyData date="09-11-2022">
+        <observation name="count" value="64.0" />
+      </dailyData>
+      <dailyData date="11-11-2022">
+        <observation name="count" value="1.0" />
+      </dailyData>
+      <dailyData date="14-11-2022">
+        <observation name="count" value="55.0" />
+      </dailyData>
+      <dailyData date="16-11-2022">
+        <observation name="count" value="20.0" />
+      </dailyData>
+      <dailyData date="17-11-2022">
+        <observation name="count" value="89.0" />
+      </dailyData>
+      <dailyData date="18-11-2022">
+        <observation name="count" value="365.0" />
+      </dailyData>
+      <dailyData date="19-11-2022">
+        <observation name="count" value="81.0" />
+      </dailyData>
+      <dailyData date="21-11-2022">
+        <observation name="count" value="68.0" />
+      </dailyData>
+      <dailyData date="22-11-2022">
+        <observation name="count" value="57.0" />
+      </dailyData>
+    </factor>
+    <factor id="itemPosition">
+      <dailyData date="07-11-2022">
+        <observation name="0" value="22.0" />
+        <observation name="1" value="8.0" />
+        <observation name="2" value="2.0" />
+        <observation name="3" value="1.0" />
+        <observation name="8" value="1.0" />
+      </dailyData>
+      <dailyData date="08-11-2022">
+        <observation name="0" value="57.0" />
+        <observation name="1" value="8.0" />
+        <observation name="18" value="1.0" />
+        <observation name="20" value="2.0" />
+        <observation name="3" value="1.0" />
+        <observation name="4" value="1.0" />
+      </dailyData>
+      <dailyData date="09-11-2022">
+        <observation name="0" value="15.0" />
+      </dailyData>
+      <dailyData date="14-11-2022">
+        <observation name="0" value="13.0" />
+        <observation name="1" value="4.0" />
+        <observation name="2" value="2.0" />
+      </dailyData>
+      <dailyData date="16-11-2022">
+        <observation name="0" value="4.0" />
+      </dailyData>
+      <dailyData date="17-11-2022">
+        <observation name="0" value="27.0" />
+        <observation name="1" value="1.0" />
+        <observation name="2" value="1.0" />
+      </dailyData>
+      <dailyData date="18-11-2022">
+        <observation name="0" value="95.0" />
+        <observation name="1" value="17.0" />
+        <observation name="2" value="3.0" />
+        <observation name="3" value="7.0" />
+        <observation name="5" value="1.0" />
+      </dailyData>
+      <dailyData date="19-11-2022">
+        <observation name="0" value="18.0" />
+        <observation name="1" value="1.0" />
+        <observation name="2" value="2.0" />
+        <observation name="3" value="1.0" />
+      </dailyData>
+      <dailyData date="21-11-2022">
+        <observation name="0" value="16.0" />
+        <observation name="1" value="3.0" />
+        <observation name="7" value="1.0" />
+      </dailyData>
+      <dailyData date="22-11-2022">
+        <observation name="0" value="13.0" />
+        <observation name="1" value="2.0" />
+        <observation name="3" value="1.0" />
+      </dailyData>
+    </factor>
+    <factor id="mnemonicsUsage">
+      <dailyData date="07-11-2022">
+        <observation name="total" value="32.0" />
+        <observation name="withMnemonics" value="10.0" />
+      </dailyData>
+      <dailyData date="08-11-2022">
+        <observation name="total" value="66.0" />
+        <observation name="withMnemonics" value="39.0" />
+      </dailyData>
+      <dailyData date="09-11-2022">
+        <observation name="total" value="14.0" />
+        <observation name="withMnemonics" value="10.0" />
+      </dailyData>
+      <dailyData date="14-11-2022">
+        <observation name="total" value="15.0" />
+        <observation name="withMnemonics" value="6.0" />
+      </dailyData>
+      <dailyData date="16-11-2022">
+        <observation name="total" value="4.0" />
+        <observation name="withMnemonics" value="3.0" />
+      </dailyData>
+      <dailyData date="17-11-2022">
+        <observation name="total" value="28.0" />
+        <observation name="withMnemonics" value="16.0" />
+      </dailyData>
+      <dailyData date="18-11-2022">
+        <observation name="total" value="109.0" />
+        <observation name="withMnemonics" value="53.0" />
+      </dailyData>
+      <dailyData date="19-11-2022">
+        <observation name="total" value="19.0" />
+        <observation name="withMnemonics" value="7.0" />
+      </dailyData>
+      <dailyData date="21-11-2022">
+        <observation name="total" value="19.0" />
+        <observation name="withMnemonics" value="14.0" />
+      </dailyData>
+      <dailyData date="22-11-2022">
+        <observation name="total" value="14.0" />
+        <observation name="withMnemonics" value="5.0" />
+      </dailyData>
+    </factor>
+    <factor id="prefixLength">
+      <dailyData date="07-11-2022">
+        <observation name="0" value="2.0" />
+        <observation name="10" value="1.0" />
+        <observation name="11" value="1.0" />
+        <observation name="2" value="7.0" />
+        <observation name="3" value="11.0" />
+        <observation name="4" value="4.0" />
+        <observation name="5" value="5.0" />
+        <observation name="6" value="2.0" />
+        <observation name="8" value="1.0" />
+      </dailyData>
+      <dailyData date="08-11-2022">
+        <observation name="0" value="1.0" />
+        <observation name="1" value="3.0" />
+        <observation name="10" value="1.0" />
+        <observation name="12" value="3.0" />
+        <observation name="2" value="18.0" />
+        <observation name="3" value="11.0" />
+        <observation name="4" value="10.0" />
+        <observation name="5" value="8.0" />
+        <observation name="6" value="6.0" />
+        <observation name="7" value="5.0" />
+        <observation name="8" value="4.0" />
+      </dailyData>
+      <dailyData date="09-11-2022">
+        <observation name="0" value="1.0" />
+        <observation name="17" value="1.0" />
+        <observation name="2" value="2.0" />
+        <observation name="3" value="1.0" />
+        <observation name="4" value="3.0" />
+        <observation name="5" value="3.0" />
+        <observation name="6" value="2.0" />
+        <observation name="7" value="2.0" />
+      </dailyData>
+      <dailyData date="14-11-2022">
+        <observation name="0" value="3.0" />
+        <observation name="1" value="1.0" />
+        <observation name="2" value="2.0" />
+        <observation name="3" value="6.0" />
+        <observation name="4" value="4.0" />
+        <observation name="5" value="2.0" />
+        <observation name="8" value="1.0" />
+      </dailyData>
+      <dailyData date="16-11-2022">
+        <observation name="2" value="2.0" />
+        <observation name="4" value="1.0" />
+        <observation name="6" value="1.0" />
+      </dailyData>
+      <dailyData date="17-11-2022">
+        <observation name="0" value="1.0" />
+        <observation name="2" value="11.0" />
+        <observation name="3" value="3.0" />
+        <observation name="4" value="5.0" />
+        <observation name="5" value="5.0" />
+        <observation name="6" value="1.0" />
+        <observation name="7" value="1.0" />
+        <observation name="8" value="2.0" />
+      </dailyData>
+      <dailyData date="18-11-2022">
+        <observation name="0" value="6.0" />
+        <observation name="1" value="8.0" />
+        <observation name="10" value="3.0" />
+        <observation name="11" value="1.0" />
+        <observation name="13" value="2.0" />
+        <observation name="2" value="39.0" />
+        <observation name="3" value="24.0" />
+        <observation name="4" value="10.0" />
+        <observation name="5" value="20.0" />
+        <observation name="6" value="2.0" />
+        <observation name="7" value="3.0" />
+        <observation name="8" value="3.0" />
+        <observation name="9" value="2.0" />
+      </dailyData>
+      <dailyData date="19-11-2022">
+        <observation name="0" value="1.0" />
+        <observation name="1" value="2.0" />
+        <observation name="11" value="1.0" />
+        <observation name="13" value="1.0" />
+        <observation name="15" value="1.0" />
+        <observation name="2" value="6.0" />
+        <observation name="3" value="4.0" />
+        <observation name="4" value="3.0" />
+        <observation name="5" value="1.0" />
+        <observation name="7" value="1.0" />
+        <observation name="9" value="1.0" />
+      </dailyData>
+      <dailyData date="21-11-2022">
+        <observation name="0" value="1.0" />
+        <observation name="3" value="5.0" />
+        <observation name="4" value="1.0" />
+        <observation name="5" value="3.0" />
+        <observation name="6" value="7.0" />
+        <observation name="7" value="3.0" />
+      </dailyData>
+      <dailyData date="22-11-2022">
+        <observation name="0" value="1.0" />
+        <observation name="1" value="1.0" />
+        <observation name="15" value="1.0" />
+        <observation name="2" value="2.0" />
+        <observation name="3" value="6.0" />
+        <observation name="4" value="4.0" />
+        <observation name="5" value="1.0" />
+      </dailyData>
+    </factor>
+    <factor id="prefixMatchingType">
+      <dailyData date="07-11-2022">
+        <observation name="GREEDY" value="3.0" />
+        <observation name="START_WITH" value="29.0" />
+      </dailyData>
+      <dailyData date="08-11-2022">
+        <observation name="GREEDY" value="15.0" />
+        <observation name="GREEDY_WITH_CASE" value="2.0" />
+        <observation name="START_WITH" value="45.0" />
+        <observation name="WORDS_FIRST_CHAR" value="2.0" />
+      </dailyData>
+      <dailyData date="09-11-2022">
+        <observation name="GREEDY" value="3.0" />
+        <observation name="GREEDY_WITH_CASE" value="2.0" />
+        <observation name="START_WITH" value="8.0" />
+      </dailyData>
+      <dailyData date="14-11-2022">
+        <observation name="GREEDY" value="1.0" />
+        <observation name="GREEDY_WITH_CASE" value="1.0" />
+        <observation name="START_WITH" value="13.0" />
+      </dailyData>
+      <dailyData date="16-11-2022">
+        <observation name="GREEDY" value="2.0" />
+        <observation name="START_WITH" value="1.0" />
+        <observation name="WORDS_FIRST_CHAR" value="1.0" />
+      </dailyData>
+      <dailyData date="17-11-2022">
+        <observation name="GREEDY" value="7.0" />
+        <observation name="START_WITH" value="19.0" />
+        <observation name="WORDS_FIRST_CHAR" value="1.0" />
+      </dailyData>
+      <dailyData date="18-11-2022">
+        <observation name="GREEDY" value="13.0" />
+        <observation name="GREEDY_WITH_CASE" value="9.0" />
+        <observation name="START_WITH" value="80.0" />
+        <observation name="WORDS_FIRST_CHAR" value="1.0" />
+      </dailyData>
+      <dailyData date="19-11-2022">
+        <observation name="GREEDY" value="1.0" />
+        <observation name="GREEDY_WITH_CASE" value="4.0" />
+        <observation name="START_WITH" value="14.0" />
+      </dailyData>
+      <dailyData date="21-11-2022">
+        <observation name="GREEDY" value="6.0" />
+        <observation name="START_WITH" value="12.0" />
+      </dailyData>
+      <dailyData date="22-11-2022">
+        <observation name="GREEDY" value="1.0" />
+        <observation name="GREEDY_WITH_CASE" value="2.0" />
+        <observation name="START_WITH" value="8.0" />
+      </dailyData>
+    </factor>
+    <factor id="timeBetweenTyping">
+      <dailyData date="07-11-2022">
+        <observation name="average" value="238.016064" />
+        <observation name="count" value="249.0" />
+      </dailyData>
+      <dailyData date="08-11-2022">
+        <observation name="average" value="230.096197" />
+        <observation name="count" value="447.0" />
+      </dailyData>
+      <dailyData date="09-11-2022">
+        <observation name="average" value="198.606299" />
+        <observation name="count" value="127.0" />
+      </dailyData>
+      <dailyData date="14-11-2022">
+        <observation name="average" value="247.072917" />
+        <observation name="count" value="96.0" />
+      </dailyData>
+      <dailyData date="16-11-2022">
+        <observation name="average" value="282.613636" />
+        <observation name="count" value="44.0" />
+      </dailyData>
+      <dailyData date="17-11-2022">
+        <observation name="average" value="265.515" />
+        <observation name="count" value="200.0" />
+      </dailyData>
+      <dailyData date="18-11-2022">
+        <observation name="average" value="236.203837" />
+        <observation name="count" value="834.0" />
+      </dailyData>
+      <dailyData date="19-11-2022">
+        <observation name="average" value="295.631579" />
+        <observation name="count" value="133.0" />
+      </dailyData>
+      <dailyData date="21-11-2022">
+        <observation name="average" value="288.872832" />
+        <observation name="count" value="173.0" />
+      </dailyData>
+      <dailyData date="22-11-2022">
+        <observation name="average" value="204.280702" />
+        <observation name="count" value="114.0" />
+      </dailyData>
+    </factor>
+  </component>
+</application>

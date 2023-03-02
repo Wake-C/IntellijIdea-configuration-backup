@@ -15,6 +15,11 @@
             <ProjectPluginTracker />
           </value>
         </entry>
+        <entry key="1fZM4pv5jTUidP8Sko7trW1TQAi">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
         <entry key="Default (Template) Project">
           <value>
             <ProjectPluginTracker />
@@ -441,14 +446,159 @@
     <property name="virgoMode" value="true" />
     <property name="yii.guxing.translate.IdeaVersionUpgradeNotice.IU-191.8026.42.disable" value="true" />
   </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "#xdebugger.evaluate.splitter": "0.39470014",
+    "AFTER.DISTRACTION.MODE.ARE_GUTTER_ICONS_SHOWN": "false",
+    "AFTER.DISTRACTION.MODE.ARE_LINE_NUMBERS_SHOWN": "false",
+    "AFTER.DISTRACTION.MODE.EDITOR_TAB_PLACEMENT": "0",
+    "AFTER.DISTRACTION.MODE.HIDE_TOOL_STRIPES": "true",
+    "AFTER.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN": "false",
+    "AFTER.DISTRACTION.MODE.IS_INDENT_GUIDES_SHOWN": "false",
+    "AFTER.DISTRACTION.MODE.IS_RIGHT_MARGIN_SHOWN": "false",
+    "AFTER.DISTRACTION.MODE.IS_WHITESPACES_SHOWN": "false",
+    "AFTER.DISTRACTION.MODE.SHOW_BREADCRUMBS": "false",
+    "AFTER.DISTRACTION.MODE.SHOW_MAIN_TOOLBAR": "false",
+    "AFTER.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS": "false",
+    "AFTER.DISTRACTION.MODE.SHOW_NAVIGATION_BAR": "false",
+    "AFTER.DISTRACTION.MODE.SHOW_NEW_MAIN_TOOLBAR": "false",
+    "AFTER.DISTRACTION.MODE.SHOW_STATUS_BAR": "false",
+    "BEFORE.DISTRACTION.MODE.ARE_GUTTER_ICONS_SHOWN": "true",
+    "BEFORE.DISTRACTION.MODE.ARE_LINE_NUMBERS_SHOWN": "true",
+    "BEFORE.DISTRACTION.MODE.EDITOR_TAB_PLACEMENT": "0",
+    "BEFORE.DISTRACTION.MODE.HIDE_TOOL_STRIPES": "false",
+    "BEFORE.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN": "true",
+    "BEFORE.DISTRACTION.MODE.IS_INDENT_GUIDES_SHOWN": "true",
+    "BEFORE.DISTRACTION.MODE.IS_RIGHT_MARGIN_SHOWN": "true",
+    "BEFORE.DISTRACTION.MODE.IS_WHITESPACES_SHOWN": "false",
+    "BEFORE.DISTRACTION.MODE.SHOW_BREADCRUMBS": "false",
+    "BEFORE.DISTRACTION.MODE.SHOW_MAIN_TOOLBAR": "false",
+    "BEFORE.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS": "true",
+    "BEFORE.DISTRACTION.MODE.SHOW_NAVIGATION_BAR": "true",
+    "BEFORE.DISTRACTION.MODE.SHOW_NEW_MAIN_TOOLBAR": "false",
+    "BEFORE.DISTRACTION.MODE.SHOW_STATUS_BAR": "true",
+    "BuildView.Splitter.Proportion": "0.33167496",
+    "CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2": "0.95",
+    "ExpandBeforeRunStepsPanel": "true",
+    "FindSplitterProportion": "0.35254237",
+    "InstalledPluginsSearchHistory": "transla\ntrans\njrebel\njrebe\njre",
+    "JUnitSupport.hidePassedTests": "false",
+    "KEYMAP": "easy",
+    "LAST_EXTRACTOR_SCRIPTS_CLEANUP_VERSION/data/aggregators": "IU-223.7126.7",
+    "LAST_INJECTED_LANGUAGE": "JSON",
+    "LiveContextsPanel[0]": "0.15060242",
+    "LiveResourcesPanel[0]": "0.11061947",
+    "MarketplacePluginsSearchHistory": "openai\no\nai\njrebel\nmybatis",
+    "MavenHelper.lastRadioButton": "tree",
+    "MemberChooser.copyJavadoc": "false",
+    "MemberChooser.showClasses": "true",
+    "NonModalCommitPromotionState": "SHOWN",
+    "PluginConfigurable.selectionTab": "1",
+    "RunOnceActivity.2022.2.5.2": "true",
+    "RunOnceActivity.2022.2.6": "true",
+    "RunOnceActivity.2022.2.6.1": "true",
+    "RunOnceActivity.2022.2.7": "true",
+    "RunOnceActivity.2022.2.7-IconAnimate": "true",
+    "RunOnceActivity.2022.2.8": "true",
+    "RunOnceActivity.2022.2.9": "true",
+    "RunOnceActivity.2023.1.1": "true",
+    "RunOnceActivity.2023.1.1.2": "true",
+    "RunOnceActivity.se.text.search": "true",
+    "RunOnceActivity.statisticsBegin202207160840": "true",
+    "SettingsSearchHistory": "translation\ntransla\nmaven\njrebel\ntrans",
+    "SqlStructureView.filterD.file.structure.state": "true",
+    "annotationStr": "@com.fasterxml.jackson.annotation.JsonProperty\\s*\\(\\s*\"{filed}\"\\s*\\)",
+    "appcds.runOnSecondStart": "IU-222.4459.24-9db89516bfbba3ad6f57bcd3b43a342f31a83164f9cfe4719bc43ae8d5732270",
+    "arrayFromData": "false",
+    "arrayFromData1": "false",
+    "arrayFromData1Str": "    public  static java.util.List<$ClassName$> array$ClassName$FromData(String str,String key){\n\n        try {\n            org.json.JSONObject jsonObject=new org.json.JSONObject(str);\n            java.lang.reflect.Type listType=new com.google.gson.reflect.TypeToken<java.util.ArrayList<$ClassName$>>(){}.getType();\n\n            return new com.google.gson.Gson().fromJson(jsonObject.getString(str),listType);\n\n        } catch (org.json.JSONException e) {\n            e.printStackTrace();\n        }\n\n        return new java.util.ArrayList();\n\n\n    }",
+    "build.toolwindow.Build Output.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "build.toolwindow.Sync.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "build.toolwindow.run.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "build.toolwindow.构建输出.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "bundled.plugins.list.saved.version": "IU-223.8617.56",
+    "cn.yiiguxing.plugin.translate.settings.data.version": "1",
+    "cn.yiiguxing.plugin.translate.version": "3.4.1",
+    "com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0": "300",
+    "com.intellij.ide.projectWizard.generators.JavaNewProjectWizard$Step.selectedStep": "IntelliJ",
+    "com.intellij.ide.wizard.NewProjectWizardLanguageStep.selectedStep": "Java",
+    "com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor": "Sources",
+    "completion.ml.star.opinion.notification.shown": "true",
+    "db.last.update.timestamp": "1665556928245",
+    "debugger.layout.watches.defaultThreadsProportion": "0.35198823",
+    "debugger.speed.search.tree.option.hint.counter": "1",
+    "decompiler.legal.notice.accepted": "true",
+    "defaultJdkConfigured": "true",
+    "defaultpackageserviceconfig.fulltext": "https://package-search.services.jetbrains.com/api/search/idea/fulltext",
+    "defaultpackageserviceconfig.suggest": "https://package-search.services.jetbrains.com/api/search/idea/suggest",
+    "defaultpackageserviceconfig.updated.ts": "1677582031685",
+    "eclipse.projects.detected": "",
+    "entityPackName": "com.gt.mall.bean.address.",
+    "errorCount": "1",
+    "evlsprt3.222": "24",
+    "evlsprt3.223": "23",
+    "evlsprt3.IU-223.6160.11": "25",
+    "evlsprt3.IU-223.7126.7": "24",
+    "fieldPrivateMode": "true",
+    "file.gist.reindex.count": "4298",
+    "fileTypeChangedCounter": "4",
+    "filedNamePreFixStr": "null",
+    "filter_non_existing": "true",
+    "fontSizeToResetConsole": "13.0",
+    "fontSizeToResetEditor": "13.0",
+    "generateComments": "false",
+    "got.it.tooltip.cn.yiiguxing.plugin.translate.tooltip.new.translation.engines.microsoft.deepl": "1",
+    "got.it.tooltip.curlBindMethod": "1",
+    "got.it.tooltip.eulaLicense": "1",
+    "got.it.tooltip.export": "1",
+    "got.it.tooltip.extract.method.gotit.navigate": "1",
+    "got.it.tooltip.lineMarkerAnimateStep202208201420": "1",
+    "got.it.tooltip.reader.mode.got.it": "1",
+    "got.it.tooltip.show.diff.in.editor": "1",
+    "ide.memory.adjusted": "true",
+    "installed.kotlin.plugin.version": "222-1.8.10-release-430-IJ4167.29",
+    "kotlin.plugin.releaseDate": "222-1.8.10-release-430-IJ4167.29:2023-02-02",
+    "objectFromData": "false",
+    "objectFromData1": "false",
+    "objectFromDataStr": "    public  static $ClassName$ objectFromData(String str){\n\n        return new com.google.gson.Gson().fromJson(str,$ClassName$.class);\n    }",
+    "objectFromDataStr1": "    public  static $ClassName$ objectFromData(String str, String key){\n\n        try {\n            org.json.JSONObject jsonObject=new org.json.JSONObject(str);\n\n            return new com.google.gson.Gson().fromJson(jsonObject.getString(str),$ClassName$.class);\n        } catch (org.json.JSONException e) {\n            e.printStackTrace();\n        }\n\n        return null;\n    }",
+    "previousColorScheme": "_@user_Gray",
+    "project.wizard.group": "NPW.simple-module",
+    "registry.to.advanced.settings.migration.build": "IU-222.4459.24",
+    "reuseEntity": "false",
+    "run.configuration.delete.ad": "true",
+    "settings.code.style.selected.tab.JAVA": "Wrapping and Braces",
+    "splitGenerate": "false",
+    "stats.collector.latest.sending.timestamp": "1669100097303",
+    "stats.collector.today.sent.data.size": "28763",
+    "suffixStr": "DTO",
+    "tasks.pass.word.conversion.enforced": "true",
+    "ts.lib.d.ts.version": "4.7.4",
+    "useComment": "false",
+    "useFieldNamePrefix": "false",
+    "useLombok": "true",
+    "useNumberKeyAsMap": "false",
+    "useSerializedName": "true",
+    "useWrapperClass": "true",
+    "vcs.history.diff.splitter.proportion": "0.4712813",
+    "virgoMode": "true"
+  },
+  "keyToStringList": {
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.intellij.profiler.ultimate.hprof.impl.HprofFileTypeDetector",
+      "com.intellij.docker.dockerFile.DockerFileTypeDetector",
+      "com.intellij.database.vfs.DbStorageFileType$Detector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
   <component name="TerminalCommandHistoryManager">
     <command-history-files>
-      <command-history-file filename="mall-order-history" project-path="/Users/IdeaProjects/mall-order" last-access-time="1660208349594" />
-      <command-history-file filename="gt-plugin-starter-history" project-path="/Users/IdeaProjects/GT-Plugin-Spring-Boot-Starter" last-access-time="1660614267586" />
-      <command-history-file filename="Learn_demo-history1" project-path="/Users/IdeaProjects/Learn_demo" last-access-time="1658816527767" />
+      <command-history-file filename="Mall_new_eticket-history2" project-path="/Users/IdeaProjects/Mall_new_eticket" last-access-time="1669880403274" />
+      <command-history-file filename="Mall_new_eticket-history1" project-path="/Users/IdeaProjects/Mall_new_eticket" last-access-time="1669880403270" />
+      <command-history-file filename="Mall_new_eticket-history" project-path="/Users/IdeaProjects/Mall_new_eticket" last-access-time="1669880403260" />
+      <command-history-file filename="Mall_new_eticket-history10" project-path="/Users/IdeaProjects/Mall_new_eticket" last-access-time="1669880403278" />
     </command-history-files>
-  </component>
-  <component name="ToolbarSettingsService">
-    <option name="NEW_TOOLBAR_SETTINGS" value="OLD_NAVBAR" />
   </component>
 </application>

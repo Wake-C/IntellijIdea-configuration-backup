@@ -12,5 +12,8 @@
       <id>JFRSimpleConfiguration</id>
       <id>IntellijProfilerConfiguration</id>
     </knownConfigurationTypes>
+    <migrationStatus>
+      <status languageGroup="Java Profiler Configuration Type" lastMigrationIndex="3" />
+    </migrationStatus>
   </component>
 </application>

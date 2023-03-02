@@ -1,0 +1,7 @@
+<templateSet group="Java">
+  <template name="pf" value="private final " description="private final" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>

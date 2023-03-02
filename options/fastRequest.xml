@@ -1,0 +1,109 @@
+<application>
+  <component name="fastRequest">
+    <option name="commonHeaderList">
+      <list>
+        <DataMapping>
+          <option name="type" value="Content-Type" />
+          <option name="value" value="text/plain" />
+        </DataMapping>
+        <DataMapping>
+          <option name="type" value="Content-Type" />
+          <option name="value" value="text/html" />
+        </DataMapping>
+        <DataMapping>
+          <option name="type" value="Content-Type" />
+          <option name="value" value="application/xml" />
+        </DataMapping>
+        <DataMapping>
+          <option name="type" value="Content-Type" />
+          <option name="value" value="application/javascript" />
+        </DataMapping>
+        <DataMapping>
+          <option name="type" value="Authorization" />
+          <option name="value" value="" />
+        </DataMapping>
+        <DataMapping>
+          <option name="type" value="Cookie" />
+          <option name="value" value="" />
+        </DataMapping>
+        <DataMapping>
+          <option name="type" value="User-Agent" />
+          <option name="value" value="" />
+        </DataMapping>
+      </list>
+    </option>
+    <option name="defaultDataMappingList">
+      <list>
+        <DataMapping>
+          <option name="type" value="byte" />
+          <option name="value" value="1" />
+        </DataMapping>
+        <DataMapping>
+          <option name="type" value="java.lang.Byte" />
+          <option name="value" value="1" />
+        </DataMapping>
+        <DataMapping>
+          <option name="type" value="short" />
+          <option name="value" value="1" />
+        </DataMapping>
+        <DataMapping>
+          <option name="type" value="java.lang.Short" />
+          <option name="value" value="1" />
+        </DataMapping>
+        <DataMapping>
+          <option name="type" value="int" />
+          <option name="value" value="1" />
+        </DataMapping>
+        <DataMapping>
+          <option name="type" value="java.lang.Integer" />
+          <option name="value" value="1" />
+        </DataMapping>
+        <DataMapping>
+          <option name="type" value="long" />
+          <option name="value" value="1" />
+        </DataMapping>
+        <DataMapping>
+          <option name="type" value="java.lang.Long" />
+          <option name="value" value="1" />
+        </DataMapping>
+        <DataMapping>
+          <option name="type" value="char" />
+          <option name="value" value="a" />
+        </DataMapping>
+        <DataMapping>
+          <option name="type" value="java.lang.Character" />
+          <option name="value" value="a" />
+        </DataMapping>
+        <DataMapping>
+          <option name="type" value="float" />
+          <option name="value" value="1" />
+        </DataMapping>
+        <DataMapping>
+          <option name="type" value="java.lang.Float" />
+          <option name="value" value="1" />
+        </DataMapping>
+        <DataMapping>
+          <option name="type" value="double" />
+          <option name="value" value="1" />
+        </DataMapping>
+        <DataMapping>
+          <option name="type" value="java.lang.Double" />
+          <option name="value" value="1" />
+        </DataMapping>
+        <DataMapping>
+          <option name="type" value="boolean" />
+          <option name="value" value="true" />
+        </DataMapping>
+        <DataMapping>
+          <option name="type" value="java.lang.Boolean" />
+          <option name="value" value="true" />
+        </DataMapping>
+        <DataMapping>
+          <option name="type" value="java.math.BigDecimal" />
+          <option name="value" value="1" />
+        </DataMapping>
+      </list>
+    </option>
+    <option name="randomStringLength" value="5" />
+  </component>
+</application>
