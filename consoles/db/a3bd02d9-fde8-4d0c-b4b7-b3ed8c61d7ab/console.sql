@@ -1,1 +1,1 @@
-select bus_user_id from t_mall_order where  order_no='SC250504068857888'
+select * from

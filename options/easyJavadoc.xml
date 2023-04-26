@@ -1,6 +1,21 @@
 <application>
   <component name="easyJavadoc">
     <option name="author" value="Alexis" />
+    <option name="projectWordMap">
+      <map>
+        <entry key="Mall_new_eticket">
+          <value>
+            <map />
+          </value>
+        </entry>
+        <entry key="gt-plugin-starter" />
+        <entry key="mall-order">
+          <value>
+            <map />
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="simpleFieldDoc" value="true" />
   </component>
 </application>

@@ -13,4 +13,49 @@
   <component name="Cache">
     <option name="lastTrimTime" value="1609986232583" />
   </component>
+  <component name="Translation.Cache">
+    <option name="lastTrimTime" value="1681109988245" />
+  </component>
+  <component name="Translation.Settings">
+    <option name="primaryLanguage" value="CHINESE" />
+    <option name="translateDocumentation" value="true" />
+    <option name="translator" value="MICROSOFT" />
+    <option name="youdaoTranslateSettings">
+      <youdao-translate>
+        <option name="appId" value="72daf72feb661e19" />
+      </youdao-translate>
+    </option>
+  </component>
+  <component name="Translation.States">
+    <histories>
+      <item value="No Transaction Order Delivery" />
+      <item value="do After All Analysed" />
+      <item value="partition" />
+      <item value="after Row Dispose" />
+      <item value="Nullable.It is null in the case of fill data" />
+      <item value="current Row Data" />
+      <item value="after Cell Dispose" />
+      <item value="Attempting to write a row[13] in the range [0,15] that is already written to disk" />
+      <item value="automatic Merge Head" />
+      <item value="merge Column Indexs" />
+      <item value="fill Error VO Product Info" />
+      <item value="fill Error VO Pro Info" />
+      <item value="pro Unit" />
+      <item value="attendt Sec Kill" />
+      <item value="store Id" />
+      <item value="Double" />
+      <item value="calculate Distance" />
+      <item value="calculate Radii" />
+      <item value="delivery" />
+      <item value="temporary" />
+      <item value="tempar" />
+      <item value="tamper" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="20" />
+        <entry key="ENGLISH" value="21" />
+      </map>
+    </option>
+  </component>
 </application>

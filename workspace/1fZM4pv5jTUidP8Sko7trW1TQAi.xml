@@ -5,8 +5,47 @@
         <option name="bookmarks">
           <BookmarkState>
             <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/util/importexport/DeliveryExcelStyle.java" />
+              <entry key="line" value="67" />
+            </attributes>
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$APPLICATION_CONFIG_DIR$/consoles/db/40a8284b-f5bb-4d15-a2fa-c43e495b3e7b/console_2.sql" />
+              <entry key="line" value="0" />
+            </attributes>
+            <option name="description" value="explain select * from t_mall_order where order_no='SC255236785243717'" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/pc/order/impl/PcOrderExpressServiceImpl.java" />
+              <entry key="line" value="1036" />
+            </attributes>
+            <option name="description" value="//只获取最忌" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/pc/order/impl/PcOrderExpressServiceImpl.java" />
+              <entry key="line" value="1795" />
+            </attributes>
+            <option name="description" value="ExcelWriter excelWriter = EasyExcel.write(bufferedOutputStream, )" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/util/importexport/strategy/BatchDeliveryExportStrategy.java" />
+              <entry key="line" value="274" />
+            </attributes>
+            <option name="description" value=".getAbsoluteFile().toString();" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
               <entry key="url" value="file://$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/common/order/impl/ComUtilExpressServiceImpl.java" />
-              <entry key="line" value="247" />
+              <entry key="line" value="250" />
             </attributes>
             <option name="description" value="}" />
             <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
@@ -40,7 +79,7 @@
         <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
         <item name="test: DSN" type="27e358d6:DataSourceNode" />
         <item name="gt_mall_ceshi: schema" type="76f4a085:MysqlImplModel$Schema" />
-        <item name="Family of 517 table (host: schema gt_mall_ceshi)" type="5ae9e67d:BaseModel$BaseNamingFamily" />
+        <item name="Family of 538 table (host: schema gt_mall_ceshi)" type="5ae9e67d:BaseModel$BaseNamingFamily" />
       </path>
     </expand>
     <select />
@@ -51,37 +90,40 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mall-order-web/src/main/java/com/duofriend/mall/order/controller/api/auto/order/ApiOrderNameController.java">
+        <entry file="file://$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/third/cityDelivery/impl/ThCityDeliveryServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2024">
-              <caret line="136" column="35" selection-start-line="136" selection-start-column="35" selection-end-line="136" selection-end-column="35" />
+            <state relative-caret-position="432">
+              <caret line="105" column="5" selection-start-line="105" selection-start-column="5" selection-end-line="105" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mall-order-bean/src/main/java/com/duofriend/mall/order/bean/express/OrderExpressNoVO.java">
+        <entry file="file://$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/common/order/IComUtilExpressService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="648">
-              <caret line="34" column="35" selection-start-line="34" selection-start-column="35" selection-end-line="34" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/common/order/IComUtil2ExpressService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="572">
-              <caret line="31" column="27" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
+            <state relative-caret-position="327">
+              <caret line="148" column="9" selection-start-line="148" selection-start-column="9" selection-end-line="148" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/common/order/impl/ComUtil2ExpressServiceImpl.java">
+        <entry file="file://$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/common/order/impl/ComUtilExpressServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="236">
-              <caret line="59" column="5" lean-forward="true" selection-start-line="59" selection-start-column="5" selection-end-line="59" selection-end-column="5" />
+            <state relative-caret-position="363">
+              <caret line="1192" column="18" lean-forward="true" selection-start-line="1192" selection-start-column="14" selection-end-line="1192" selection-end-column="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/clerk/express/impl/ClerkOrderExpressServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="747">
+              <caret line="296" column="35" selection-start-line="296" selection-start-column="35" selection-end-line="296" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -89,53 +131,53 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mall-order-entity/src/main/java/com/duofriend/mall/order/entity/order/MallOrderExpress.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1914">
-              <caret line="99" column="19" selection-start-line="99" selection-start-column="19" selection-end-line="99" selection-end-column="19" />
+            <state relative-caret-position="327">
+              <caret line="69" column="20" selection-start-line="69" selection-start-column="20" selection-end-line="69" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/constant/OtherConstant.java">
+        <entry file="file://$PROJECT_DIR$/mall-order-entity/src/main/java/com/duofriend/mall/order/entity/dto/DeliveryNotificationDTO.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1540">
-              <caret line="73" column="32" selection-start-line="73" selection-start-column="32" selection-end-line="73" selection-end-column="32" />
+            <state relative-caret-position="652">
+              <caret line="78" column="39" selection-start-line="78" selection-start-column="39" selection-end-line="78" selection-end-column="39" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mall-order-entity/src/main/java/com/duofriend/mall/order/entity/order/MallOrderDeliverSeparately.java">
+        <entry file="file://$PROJECT_DIR$/mall-order-bean/src/main/java/com/duofriend/mall/order/bean/order/OrderItem.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+            <state relative-caret-position="242">
+              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mall-order-bean/src/main/java/com/duofriend/mall/order/bean/order/BePrintBO.java">
+        <entry file="file://$PROJECT_DIR$/mall-order-entity/src/main/java/com/duofriend/mall/order/entity/MallOrder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+            <state relative-caret-position="380">
+              <caret line="95" column="31" selection-start-line="95" selection-start-column="20" selection-end-line="95" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mall-order-bean/src/main/java/com/duofriend/mall/order/bean/statistics/BeStatProData.java">
+        <entry file="file://$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/util/refund/impl/UtilOrderRefundStatusServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="9790">
-              <caret line="451" column="28" selection-start-line="451" selection-start-column="28" selection-end-line="451" selection-end-column="28" />
+            <state relative-caret-position="327">
+              <caret line="515" column="16" selection-start-line="515" selection-start-column="16" selection-end-line="515" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/util/community/impl/UtilCommunityServiceImpl.java">
+        <entry file="jar://$PROJECT_DIR$/../../Development/mavenRepostory/com/duofriend/plugin/sdk/gt-plugin-sdk-common/7.2.0-SNAPSHOT/gt-plugin-sdk-common-7.2.0-20230330.070805-1-sources.jar!/com/duofriend/plugin/sdk/common/exception/GtPluginException.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="21978">
-              <caret line="1072" column="60" selection-start-line="1072" selection-start-column="60" selection-end-line="1072" selection-end-column="60" />
+            <state relative-caret-position="434">
+              <caret line="48" column="19" selection-start-line="48" selection-start-column="19" selection-end-line="48" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -144,16 +186,22 @@
   </component>
   <component name="FileTypeUsageLocalSummary">
     <fileType name="CLASS">
-      <summary usageCount="3" lastUsed="1677484646868" />
+      <summary usageCount="4" lastUsed="1681285939144" />
     </fileType>
     <fileType name="DIFF">
-      <summary usageCount="16" lastUsed="1668734925114" />
+      <summary usageCount="28" lastUsed="1681877304659" />
+    </fileType>
+    <fileType name="GitIgnore file">
+      <summary usageCount="3" lastUsed="1681787233086" />
     </fileType>
     <fileType name="HTTP Request">
       <summary usageCount="1" lastUsed="1666686504667" />
     </fileType>
+    <fileType name="IDEA_MODULE">
+      <summary usageCount="2" lastUsed="1681112571808" />
+    </fileType>
     <fileType name="JAVA">
-      <summary usageCount="1637" lastUsed="1677489389356" />
+      <summary usageCount="2682" lastUsed="1682386390144" />
     </fileType>
     <fileType name="PLAIN_TEXT">
       <summary usageCount="9" lastUsed="1669110012886" />
@@ -161,42 +209,48 @@
     <fileType name="Properties">
       <summary usageCount="20" lastUsed="1676945959824" />
     </fileType>
+    <fileType name="SQL">
+      <summary usageCount="2" lastUsed="1681800506417" />
+    </fileType>
+    <fileType name="WebPreview">
+      <summary usageCount="1" lastUsed="1681785512550" />
+    </fileType>
     <fileType name="XML">
-      <summary usageCount="27" lastUsed="1675732801717" />
+      <summary usageCount="48" lastUsed="1682240794204" />
     </fileType>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>7.0</find>
-      <find>DeliveryNo</find>
-      <find>Experssno</find>
-      <find>delivery_no</find>
-      <find>comOrderExpressService</find>
-      <find>id</find>
-      <find>订单状态有变更</find>
-      <find>获取订单数据:</find>
-      <find>我比较肤浅  😍</find>
-      <find>ain/distributor/cloud/import</find>
-      <find>send</find>
-      <find>sendSite</find>
-      <find>print.domain</find>
-      <find>@Configuration</find>
-      <find>getdomain</find>
-      <find>print</find>
-      <find>printService</find>
-      <find>printcen</find>
-      <find>http.print.service</find>
-      <find>duofriend</find>
-      <find>String.format</find>
-      <find>duofriend.print.domain</find>
-      <find>hardware</find>
-      <find>yjcenter</find>
-      <find>domain</find>
-      <find>yj</find>
-      <find>printCenterUrl</find>
-      <find>duofriend.hardware-center.serviceUrl</find>
-      <find>duofriend.print.domainName</find>
-      <find>domainName</find>
+      <find>List&lt;List&lt;String&gt;&gt; head</find>
+      <find>iter.writ</find>
+      <find>get</find>
+      <find>CustomizeColumnWidth</find>
+      <find>LocaldateTime.now</find>
+      <find>LocalDateTime</find>
+      <find>YYYY_MM_DD_HH_MM_SS</find>
+      <find>ter.write</find>
+      <find>easyexcel</find>
+      <find>业务执行出错</find>
+      <find>NoTransactionOrderDelivery</find>
+      <find>inputStream</find>
+      <find>close</find>
+      <find>autoCloseStream</find>
+      <find>THREAD_BUS_ID</find>
+      <find>THREAD_BUS_SET</find>
+      <find>业务</find>
+      <find>YEWU</find>
+      <find>业务执行</find>
+      <find>factory.setAcknowledgeMode(AcknowledgeMode.MANUAL);</find>
+      <find>commonOrderMessageQueue</find>
+      <find>select</find>
+      <find>selectById</find>
+      <find>RowWriterStrategy</find>
+      <find>HSSFWorkbook</find>
+      <find>RowWriterStrateg</find>
+      <find>HorizontalCellStyleStrategy</find>
+      <find>set</find>
+      <find>配送中心</find>
+      <find>支付</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -207,21 +261,14 @@
       <replace>deliveryTime</replace>
       <replace>zhan bing</replace>
       <replace>Objects.equals(mallOrder.getOrderType(), OrderStyleEnums.COMMUNITY.getIndex())</replace>
+      <replace>int [] columns</replace>
     </replaceStrings>
     <dirStrings>
-      <dir>/Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/org/omg/PortableServer</dir>
-      <dir>$PROJECT_DIR$/../../Development/mavenRepostory/com/duofriend/plugin/sdk/gt-plugin-sdk-mall-api/6.7.7-SNAPSHOT/gt-plugin-sdk-mall-api-6.7.7-20220617.085303-1-sources.jar!/com/duofriend/plugin/sdk/mall/api</dir>
-      <dir>$PROJECT_DIR$/mall-order-web/src/main/java/com/duofriend/mall/order/dao/order</dir>
-      <dir>$PROJECT_DIR$/mall-order-web/src/main/java/com/duofriend/mall/order/controller/unify/express</dir>
-      <dir>$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/common/print</dir>
       <dir>$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/common/print/impl</dir>
       <dir>$PROJECT_DIR$/mall-order-dao/src/main/java/com/duofriend/mall/order/dao/print</dir>
       <dir>$PROJECT_DIR$/mall-order-web/src/main/java/com/duofriend/mall/order/controller/api/auto/print</dir>
-      <dir>$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/util/importexport/strategy</dir>
-      <dir>$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/common/impl</dir>
       <dir>$PROJECT_DIR$/mall-order-dao/src/main/java/com/duofriend/mall/order/dao</dir>
       <dir>$PROJECT_DIR$/../../Development/mavenRepostory/com/duofriend/plugin/sdk/gt-plugin-sdk-mall-api/6.9.7-SNAPSHOT/gt-plugin-sdk-mall-api-6.9.7-20220922.024437-2-sources.jar!/com/duofriend/plugin/sdk/mall/api</dir>
-      <dir>$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/pc/order/impl</dir>
       <dir>$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/unify/common/impl</dir>
       <dir>$PROJECT_DIR$/../../Development/mavenRepostory/com/duofriend/plugin/sdk/gt-plugin-sdk-account-api/7.0.1-SNAPSHOT/gt-plugin-sdk-account-api-7.0.1-20221025.061352-1-sources.jar!/com/duofriend/plugin/sdk/account/api/accountsso</dir>
       <dir>$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/util/order/impl</dir>
@@ -230,7 +277,6 @@
       <dir>$PROJECT_DIR$/mall-order-bean/src/main/java/com/duofriend/mall/order/bean/delivery</dir>
       <dir>$PROJECT_DIR$/../../Development/mavenRepostory/com/duofriend/plugin/sdk/gt-plugin-sdk-member-api/7.0.1-SNAPSHOT/gt-plugin-sdk-member-api-7.0.1-20221025.061352-1-sources.jar!/com/duofriend/plugin/sdk/member/api</dir>
       <dir>$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/common/order</dir>
-      <dir>$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/common/order/impl</dir>
       <dir>$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/third/kdniao/impl</dir>
       <dir>$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/clerk/express/impl</dir>
       <dir>$PROJECT_DIR$/mall-order-bean/src/main/java/com/duofriend/mall/order/bean/express</dir>
@@ -239,54 +285,25 @@
       <dir>$PROJECT_DIR$/opt/data/cache-config/gt-mall-order/config-cache</dir>
       <dir>$PROJECT_DIR$/mall-order-web/src/main/java/com/duofriend/mall/order/controller/pc/order</dir>
       <dir>$PROJECT_DIR$/mall-order-common/src/main/java/com/duofriend/mall/order/utils</dir>
+      <dir>$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/rabbitmq/config</dir>
+      <dir>$PROJECT_DIR$/mall-order-bean/src/main/java/com/duofriend/mall/order/bean/excel</dir>
+      <dir>$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/common/order/impl</dir>
+      <dir>$PROJECT_DIR$/mall-order-common/src/main/java/com/duofriend/mall/order/constants</dir>
+      <dir>$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/pc/order/impl</dir>
+      <dir>$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/redis/constant</dir>
+      <dir>$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/common/impl</dir>
+      <dir>$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/util/importexport/strategy</dir>
+      <dir>$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/util/importexport</dir>
     </dirStrings>
   </component>
   <component name="GitSEFilterConfiguration">{
 }</component>
   <component name="IdeDocumentHistory">
     <changedPaths>
-      <option value="$PROJECT_DIR$/opt/data/cache-config/gt-mall-order/config-cache/gt-mall-order+default+duofriend.duofriend-sdk.properties" />
-      <option value="$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/pc/order/impl/PcOrderDeliverServiceImpl.java" />
-      <option value="$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/clerk/token/impl/ClerkOrderDeliverServiceImpl.java" />
-      <option value="$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/util/order/impl/UtilOrderStatusServiceImpl.java" />
-      <option value="$PROJECT_DIR$/mall-order-bean/src/main/java/com/duofriend/mall/order/bean/express/DeliveryOrderProductVO.java" />
-      <option value="$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/third/impl/IThActivityServiceImpl.java" />
-      <option value="$PROJECT_DIR$/mall-order-common/src/main/java/com/duofriend/mall/order/enums/ResponseEnums.java" />
-      <option value="$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/constant/OtherConstant.java" />
-      <option value="$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/common/order/IComCityDeliveryService.java" />
-      <option value="$PROJECT_DIR$/mall-order-common/src/main/java/com/duofriend/mall/order/dto/DeliveryNotificationDTO.java" />
-      <option value="$PROJECT_DIR$/opt/data/cache-config/gt-mall-order/config-cache/gt-mall-order+default+application.properties" />
-      <option value="$PROJECT_DIR$/kubernetes/values.yaml" />
-      <option value="$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/unify/express/impl/UnifyAgencyExpressServiceImpl.java" />
-      <option value="$PROJECT_DIR$/mall-order-bean/src/main/java/com/duofriend/mall/order/bean/delivery/TrackLogVO.java" />
-      <option value="$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/common/order/impl/ComCityDeliveryServiceImpl.java" />
-      <option value="$PROJECT_DIR$/mall-order-bean/src/main/java/com/duofriend/mall/order/bean/delivery/TemplateReceiptVO.java" />
-      <option value="$PROJECT_DIR$/pom.xml" />
-      <option value="$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/third/impl/ThPrintServiceImpl.java" />
-      <option value="$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/third/impl/ThMallBasicServiceImpl.java" />
-      <option value="$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/third/impl/ThMallStoreServiceImpl.java" />
-      <option value="$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/clerk/express/impl/ClerkOrderExpressServiceImpl.java" />
-      <option value="$PROJECT_DIR$/mall-order-bean/src/main/java/com/duofriend/mall/order/bean/express/OrderExperssNoVO.java" />
-      <option value="$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/common/order/IComUtilExpressService.java" />
-      <option value="$PROJECT_DIR$/mall-order-dao/src/main/java/com/duofriend/mall/order/dao/order/MallOrderExpressDAO.java" />
-      <option value="$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/common/order/IComUtil2ExpressService.java" />
-      <option value="$PROJECT_DIR$/mall-order-web/src/test/java/com/duofriend/mall/order/CeShiTest.java" />
-      <option value="$PROJECT_DIR$/mall-order-bean/src/main/java/com/duofriend/mall/order/bean/delivery/ExpressTrackVO.java" />
-      <option value="$PROJECT_DIR$/mall-order-bean/src/main/java/com/duofriend/mall/order/bean/delivery/DeliveryInfoVO.java" />
-      <option value="$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/common/express/impl/ComUtilExpressTrackServiceImpl.java" />
-      <option value="$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/common/order/impl/ComUtilExpressServiceImpl.java" />
-      <option value="$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/common/impl/ComMallOrderDetailServiceImpl.java" />
-      <option value="$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/third/kdniao/KdniaoOnlineDTO.java" />
-      <option value="$PROJECT_DIR$/mall-order-bean/src/main/java/com/duofriend/mall/order/bean/order/BeOrderDeliverBO.java" />
-      <option value="$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/common/express/impl/ComExpressCompanyBusServiceImpl.java" />
-      <option value="$PROJECT_DIR$/mall-order-entity/src/main/java/com/duofriend/mall/order/entity/express/MallExpressCompanyBus.java" />
-      <option value="$PROJECT_DIR$/mall-order-dao/src/main/resources/mapper/express/MallExpressCompanyBusDAO.xml" />
       <option value="$PROJECT_DIR$/mall-order-bean/src/main/java/com/duofriend/mall/order/bean/express/DeliverySecretKeyVO.java" />
-      <option value="$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/common/order/impl/ComOrderExpressServiceImpl.java" />
       <option value="$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/util/order/impl/UtilOrderDeliverServiceImpl.java" />
       <option value="$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/third/kdniao/impl/ThKdnServiceImpl.java" />
       <option value="$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/pc/order/IPcOrderExpressService.java" />
-      <option value="$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/pc/order/impl/PcOrderExpressServiceImpl.java" />
       <option value="$PROJECT_DIR$/mall-order-bean/src/main/java/com/duofriend/mall/order/bean/order/PCOrderExpressCondition.java" />
       <option value="$PROJECT_DIR$/mall-order-bean/src/main/java/com/duofriend/mall/order/bean/order/ClerkOrderExpressCondition.java" />
       <option value="$PROJECT_DIR$/mall-order-bean/src/main/java/com/duofriend/mall/order/bean/delivery/PrintRedirectAddress.java" />
@@ -296,6 +313,44 @@
       <option value="$PROJECT_DIR$/mall-order-web/src/main/java/com/duofriend/mall/order/controller/api/auto/order/ApiOrderNameController.java" />
       <option value="$PROJECT_DIR$/mall-order-bean/src/main/java/com/duofriend/mall/order/bean/express/OrderExpressNoVO.java" />
       <option value="$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/common/order/impl/ComUtil2ExpressServiceImpl.java" />
+      <option value="$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/common/express/impl/ComUtilExpressTrackServiceImpl.java" />
+      <option value="$PROJECT_DIR$/mall-order-bean/src/main/java/com/duofriend/mall/order/bean/order/BeOrderDeliverVO.java" />
+      <option value="$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/pc/order/impl/EasyExcelMergeStrategy.java" />
+      <option value="$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/pc/order/impl/EasyExcelUtils.java" />
+      <option value="$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/util/order/impl/UtilOrderServiceImpl.java" />
+      <option value="$PROJECT_DIR$/mall-order-common/src/main/java/com/duofriend/mall/order/utils/FileUtils.java" />
+      <option value="$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/util/importexport/MergeCellHandler.java" />
+      <option value="$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/util/importexport/MergeHandler.java" />
+      <option value="$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/util/importexport/ExcelMergeUtil.java" />
+      <option value="$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/util/importexport/MergeCellRowWriteHandler.java" />
+      <option value="$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/util/importexport/EasyExcelMergeCellHandler.java" />
+      <option value="$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/util/importexport/CustomMergeStrategy.java" />
+      <option value="$PROJECT_DIR$/mall-order-bean/src/main/java/com/duofriend/mall/order/bean/excel/BatchDeliveryExcelErrorVO.java" />
+      <option value="$PROJECT_DIR$/mall-order-bean/src/main/java/com/duofriend/mall/order/bean/excel/BatchDeliveryExcelVO.java" />
+      <option value="$PROJECT_DIR$/mall-order-common/src/main/java/com/duofriend/mall/order/utils/DateUtil.java" />
+      <option value="$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/util/importexport/strategy/BatchDeliveryOnlineStrategy.java" />
+      <option value="$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/util/importexport/strategy/BatchCommunityExportStrategy.java" />
+      <option value="$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/third/impl/ThBusUserServiceImpl.java" />
+      <option value="$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/third/impl/ThMemberServiceImpl.java" />
+      <option value="$PROJECT_DIR$/mall-order-dao/src/main/resources/mapper/order/MallOrderDeliverSeparatelyDAO.xml" />
+      <option value="$PROJECT_DIR$/mall-order-dao/src/main/java/com/duofriend/mall/order/dao/order/MallOrderDeliverSeparatelyDAO.java" />
+      <option value="$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/common/order/impl/ComOrderExpressServiceImpl.java" />
+      <option value="$APPLICATION_CONFIG_DIR$/consoles/db/40a8284b-f5bb-4d15-a2fa-c43e495b3e7b/console_2.sql" />
+      <option value="$PROJECT_DIR$/mall-order-common/src/main/java/com/duofriend/mall/order/constants/CommonConstant.java" />
+      <option value="$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/pc/order/impl/BatchDeliveryImportListener.java" />
+      <option value="$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/thread/ThreadLocalUtil.java" />
+      <option value="$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/util/order/impl/UtilOrderStatusServiceImpl.java" />
+      <option value="$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/common/impl/ComMallOrderServiceImpl.java" />
+      <option value="$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/rabbitmq/config/RabbitMqBeanConfig.java" />
+      <option value="$PROJECT_DIR$/mall-order-dao/src/main/resources/mapper/MallOrderDetailDAO.xml" />
+      <option value="$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/util/importexport/strategy/BatchDeliveryExportStrategy.java" />
+      <option value="$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/util/importexport/ImportExportService.java" />
+      <option value="$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/util/importexport/RowWriterStrategy2.java" />
+      <option value="$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/pc/order/impl/PcOrderExpressServiceImpl.java" />
+      <option value="$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/util/importexport/DeliveryExcelStyle.java" />
+      <option value="$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/third/cityDelivery/impl/ThCityDeliveryServiceImpl.java" />
+      <option value="$PROJECT_DIR$/mall-order-entity/src/main/java/com/duofriend/mall/order/entity/dto/DeliveryNotificationDTO.java" />
+      <option value="$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/common/order/impl/ComUtilExpressServiceImpl.java" />
     </changedPaths>
   </component>
   <component name="IgnoredFileRootStore">
@@ -306,137 +361,50 @@
     </option>
   </component>
   <component name="LanguageUsageStatistics">
+    <language id="GitIgnore">
+      <summary usageCount="3" lastUsage="1681787233087" />
+    </language>
     <language id="HTTP Request">
       <summary usageCount="1" lastUsage="1666686504667" />
     </language>
     <language id="JAVA">
-      <summary usageCount="1637" lastUsage="1677489389356" />
+      <summary usageCount="2682" lastUsage="1682386390144" />
     </language>
     <language id="Properties">
       <summary usageCount="20" lastUsage="1676945959824" />
+    </language>
+    <language id="SQL">
+      <summary usageCount="2" lastUsage="1681800506417" />
     </language>
     <language id="TEXT">
       <summary usageCount="9" lastUsage="1669110012886" />
     </language>
     <language id="XML">
-      <summary usageCount="27" lastUsage="1675732801717" />
+      <summary usageCount="48" lastUsage="1682240794204" />
     </language>
   </component>
   <component name="MavenProjectNavigator">
     <option name="groupStructurally" value="true" />
     <treeState>
-      <expand>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="mall-order" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="mall-order" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
-        </path>
-      </expand>
+      <expand />
       <select />
     </treeState>
   </component>
   <component name="ProjectFrameBounds" x="1440" y="-98" width="1920" height="1057" />
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1" />
-    <panes>
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="mall-order" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mall-order" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mall-order" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mall-order" type="462c0819:PsiDirectoryNode" />
-              <item name="mall-order-service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mall-order" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mall-order" type="462c0819:PsiDirectoryNode" />
-              <item name="mall-order-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mall-order" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mall-order" type="462c0819:PsiDirectoryNode" />
-              <item name="mall-order-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mall-order" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mall-order" type="462c0819:PsiDirectoryNode" />
-              <item name="mall-order-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mall-order" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mall-order" type="462c0819:PsiDirectoryNode" />
-              <item name="mall-order-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mall-order" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mall-order" type="462c0819:PsiDirectoryNode" />
-              <item name="mall-order-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mall-order" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mall-order" type="462c0819:PsiDirectoryNode" />
-              <item name="mall-order-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-              <item name="order" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mall-order" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mall-order" type="462c0819:PsiDirectoryNode" />
-              <item name="mall-order-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-              <item name="order" type="462c0819:PsiDirectoryNode" />
-              <item name="impl" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
+    <navigator proportions="" version="1" />
+    <panes />
   </component>
   <component name="RunConfigurationStartHistory">
     <history>
-      <element setting="Application.PcOrderExpressController" executorId="Run" />
-      <element setting="Spring Boot.MallOrderWebApplication" executorId="Debug" />
       <element setting="Spring Boot.MallOrderWebApplication" executorId="JRebel Debug" />
-      <element setting="Application.ThKdnServiceImpl" executorId="Run" />
-      <element setting="JUnit.CeShiTest.user (1)" executorId="JRebel Debug" />
-      <element setting="JUnit.CeShiTest.user (1)" executorId="Debug" />
-      <element setting="JUnit.CeShiTest.user (1)" executorId="Run" />
-      <element setting="JUnit.CeShiTest.user" executorId="Debug" />
-      <element setting="Spring Boot.MallOrderWebApplication" executorId="Run" />
+      <element setting="Spring Boot.MallOrderWebApplication" />
+      <element setting="Application.PcOrderExpressServiceImpl" />
+      <element setting="Application.BatchDeliveryExportStrategy" />
+      <element setting="Application.PcOrderExpressController" />
+      <element setting="Application.ThKdnServiceImpl" />
+      <element setting="JUnit.CeShiTest.user (1)" />
+      <element setting="JUnit.CeShiTest.user" />
     </history>
   </component>
   <component name="ServiceViewManager">
@@ -503,7 +471,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1814760000" />
+    <option name="totallyTimeSpent" value="1980596000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -521,50 +489,44 @@
       <window_info id="Pull Requests" show_stripe_button="false" />
       <window_info id="Web" show_stripe_button="false" />
       <window_info id="Learn" show_stripe_button="false" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.321875" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.2502604" />
       <window_info id="Commit" order="1" weight="0.25" />
-      <window_info id="JRebel" order="2" show_stripe_button="false" />
-      <window_info id="Structure" order="3" weight="0.14895833" />
+      <window_info id="Structure" order="2" weight="0.25" />
+      <window_info id="JRebel" order="3" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Endpoints" show_stripe_button="false" />
       <window_info anchor="bottom" id="TypeScript" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Endpoints" show_stripe_button="false" />
       <window_info anchor="bottom" id="Profiler" show_stripe_button="false" />
       <window_info anchor="bottom" id="TODO" show_stripe_button="false" />
       <window_info anchor="bottom" id="Internal Method Tracing" show_stripe_button="false" />
       <window_info anchor="bottom" id="Java Enterprise" show_stripe_button="false" />
       <window_info anchor="bottom" id="Spring" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Services" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Services" weight="0.33033174" />
       <window_info anchor="bottom" id="Analysis" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Find" show_stripe_button="false" weight="0.3297143" />
+      <window_info anchor="bottom" id="Find" weight="0.3293839" />
       <window_info anchor="bottom" id="Dependency Checker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="0" weight="0.3293839" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Problems" order="1" />
-      <window_info anchor="bottom" id="Problems View" order="2" weight="0.3297143" />
-      <window_info anchor="bottom" id="JRebel Console" order="3" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Redis Manager Console" order="4" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="5" weight="0.39714286" />
-      <window_info anchor="bottom" id="SonarLint" order="6" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Build" order="7" show_stripe_button="false" weight="0.3297143" />
-      <window_info anchor="bottom" id="Dependencies" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Debug" order="9" visible="true" weight="0.43942857" />
-      <window_info anchor="bottom" id="Sequence Diagram" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="11" weight="0.22685714" />
-      <window_info anchor="right" id="Word Book" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="JRebel Console" order="4" show_stripe_button="false" />
+      <window_info anchor="bottom" id="SonarLint" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" order="6" weight="0.3293839" />
+      <window_info anchor="bottom" id="Dependencies" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Debug" order="8" show_stripe_button="false" weight="0.3663507" />
+      <window_info active="true" anchor="bottom" x="0" y="25" width="1440" height="875" id="Sequence Diagram" maximized="true" order="9" type="WINDOWED" weight="0.46872038" />
       <window_info anchor="right" id="Translation.Wordbook" show_stripe_button="false" />
       <window_info anchor="right" id="documentation.v2" show_stripe_button="false" />
       <window_info anchor="right" id="Mybatis datasource" show_stripe_button="false" />
       <window_info anchor="right" id="Bean Validation" show_stripe_button="false" />
-      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25034723" />
-      <window_info anchor="right" id="Database" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="Database" order="1" visible="true" weight="0.2502604" />
       <window_info anchor="right" id="Gradle" order="2" weight="0.25" />
-      <window_info anchor="right" id="github.copilotToolWindow" order="3" weight="0.33020833" />
-      <window_info anchor="right" id="Redis Manager" order="4" show_stripe_button="false" />
-      <window_info anchor="right" id="Key Promoter X" order="5" show_stripe_button="false" />
-      <window_info anchor="right" id="Maven" order="6" weight="0.25034723" />
-      <window_info anchor="right" id="Mybatis Sql" order="7" show_stripe_button="false" />
-      <window_info anchor="right" id="RestfulTool" order="8" visible="true" weight="0.32994792" />
-      <window_info anchor="right" id="Fast Request" order="9" weight="0.24756944" />
-      <window_info anchor="right" id="JRebel Setup Guide" order="10" show_stripe_button="false" weight="0.24756944" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.25" />
+      <window_info anchor="right" id="Key Promoter X" order="4" show_stripe_button="false" />
+      <window_info anchor="right" id="Mybatis Sql" order="5" show_stripe_button="false" />
+      <window_info anchor="right" id="JRebel Setup Guide" order="6" show_stripe_button="false" weight="0.24756944" />
+      <window_info anchor="right" id="RestServices" order="7" show_stripe_button="false" />
     </layoutV2>
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.32265624" />
@@ -643,71 +605,67 @@
       <window_info id="Pull Requests" show_stripe_button="false" />
       <window_info id="Web" show_stripe_button="false" />
       <window_info id="Learn" show_stripe_button="false" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.321875" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2502604" />
       <window_info id="Commit" order="1" weight="0.25" />
-      <window_info id="JRebel" order="2" show_stripe_button="false" />
-      <window_info id="Structure" order="3" weight="0.14895833" />
+      <window_info id="Structure" order="2" weight="0.25" />
+      <window_info id="JRebel" order="3" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Endpoints" show_stripe_button="false" />
       <window_info anchor="bottom" id="TypeScript" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Endpoints" show_stripe_button="false" />
       <window_info anchor="bottom" id="Profiler" show_stripe_button="false" />
       <window_info anchor="bottom" id="TODO" show_stripe_button="false" />
       <window_info anchor="bottom" id="Internal Method Tracing" show_stripe_button="false" />
       <window_info anchor="bottom" id="Java Enterprise" show_stripe_button="false" />
       <window_info anchor="bottom" id="Spring" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Services" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Services" weight="0.33033174" />
       <window_info anchor="bottom" id="Analysis" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Find" show_stripe_button="false" weight="0.3297143" />
+      <window_info anchor="bottom" id="Find" weight="0.3293839" />
       <window_info anchor="bottom" id="Dependency Checker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="0" weight="0.3293839" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Problems" order="1" />
-      <window_info anchor="bottom" id="Problems View" order="2" weight="0.3297143" />
-      <window_info anchor="bottom" id="JRebel Console" order="3" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Redis Manager Console" order="4" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="5" weight="0.39714286" />
-      <window_info anchor="bottom" id="SonarLint" order="6" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Build" order="7" show_stripe_button="false" weight="0.3297143" />
-      <window_info anchor="bottom" id="Dependencies" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Debug" order="9" visible="true" weight="0.43942857" />
-      <window_info anchor="bottom" id="Sequence Diagram" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="11" weight="0.22685714" />
-      <window_info anchor="right" id="Word Book" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="JRebel Console" order="4" show_stripe_button="false" />
+      <window_info anchor="bottom" id="SonarLint" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" order="6" weight="0.3293839" />
+      <window_info anchor="bottom" id="Dependencies" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Debug" order="8" visible="true" weight="0.3663507" />
+      <window_info active="true" anchor="bottom" x="0" y="25" width="1440" height="875" id="Sequence Diagram" maximized="true" order="9" type="WINDOWED" weight="0.46872038" />
       <window_info anchor="right" id="Translation.Wordbook" show_stripe_button="false" />
       <window_info anchor="right" id="documentation.v2" show_stripe_button="false" />
       <window_info anchor="right" id="Mybatis datasource" show_stripe_button="false" />
       <window_info anchor="right" id="Bean Validation" show_stripe_button="false" />
-      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25034723" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
       <window_info anchor="right" id="Database" order="1" weight="0.25" />
       <window_info anchor="right" id="Gradle" order="2" weight="0.25" />
-      <window_info anchor="right" id="github.copilotToolWindow" order="3" weight="0.33020833" />
-      <window_info anchor="right" id="Redis Manager" order="4" show_stripe_button="false" />
-      <window_info anchor="right" id="Key Promoter X" order="5" show_stripe_button="false" />
-      <window_info anchor="right" id="Maven" order="6" weight="0.25034723" />
-      <window_info anchor="right" id="Mybatis Sql" order="7" show_stripe_button="false" />
-      <window_info anchor="right" id="RestfulTool" order="8" visible="true" weight="0.32994792" />
-      <window_info anchor="right" id="Fast Request" order="9" weight="0.24756944" />
-      <window_info anchor="right" id="JRebel Setup Guide" order="10" show_stripe_button="false" weight="0.24756944" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.25" />
+      <window_info anchor="right" id="Key Promoter X" order="4" show_stripe_button="false" />
+      <window_info anchor="right" id="Mybatis Sql" order="5" show_stripe_button="false" />
+      <window_info anchor="right" id="JRebel Setup Guide" order="6" show_stripe_button="false" weight="0.24756944" />
+      <window_info anchor="right" id="RestServices" order="7" show_stripe_button="false" />
     </layout-to-restore>
     <recentWindows>
+      <value>Database</value>
       <value>Project</value>
-      <value>Run</value>
       <value>Debug</value>
       <value>Build</value>
+      <value>Version Control</value>
+      <value>Sequence Diagram</value>
+      <value>Find</value>
+      <value>Terminal</value>
+      <value>Services</value>
       <value>Maven</value>
+      <value>Run</value>
+      <value>Hierarchy</value>
       <value>Fast Request</value>
       <value>JRebel Setup Guide</value>
-      <value>Terminal</value>
-      <value>Version Control</value>
       <value>Notifications</value>
-      <value>Find</value>
       <value>Structure</value>
       <value>Problems View</value>
       <value>RestfulTool</value>
       <value>github.copilotToolWindow</value>
-      <value>Database</value>
       <value>Mybatis Sql</value>
       <value>Event Log</value>
-      <value>Services</value>
       <value>Key Promoter X</value>
       <value>Messages</value>
       <value>TODO</value>
@@ -719,7 +677,6 @@
       <value>JRebel Console</value>
       <value>JRebel</value>
       <value>Codota</value>
-      <value>Sequence Diagram</value>
       <value>MyBatis Log</value>
       <value>Documentation</value>
       <value>Analysis</value>
@@ -728,203 +685,391 @@
   </component>
   <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" trusted="YES" />
   <component name="WindowStateProjectService">
-    <state x="208" y="40" key="#Project_Structure" timestamp="1676946367488">
-      <screen x="0" y="25" width="1440" height="875" />
+    <state x="-1643" y="-30" width="1112" height="844" key="#Project_Structure" timestamp="1681113292511">
+      <screen x="-1920" y="-48" width="1920" height="1055" />
     </state>
+    <state x="-1643" y="-30" width="1112" height="844" key="#Project_Structure/0.25.1440.875/-1920.-48.1920.1055@-1920.-48.1920.1055" timestamp="1681113292511" />
     <state x="208" y="40" key="#Project_Structure/0.25.1440.875@0.25.1440.875" timestamp="1676946367488" />
-    <state x="524" y="269" width="189" height="235" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1676892524863">
-      <screen x="0" y="25" width="1440" height="875" />
+    <state x="-1221" y="246" width="189" height="299" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1681807551212">
+      <screen x="-1920" y="-48" width="1920" height="1055" />
     </state>
+    <state x="-1221" y="246" width="189" height="235" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.25.1440.875/-1920.-48.1920.1055@-1920.-48.1920.1055" timestamp="1681807551212" />
+    <state x="524" y="269" width="189" height="299" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.25.1440.875/-1920.-48.1920.1055@0.25.1440.875" timestamp="1681790749355" />
     <state x="524" y="269" width="189" height="235" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.25.1440.875@0.25.1440.875" timestamp="1676892524863" />
-    <state x="330" y="114" width="807" height="609" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1676952294307">
-      <screen x="0" y="25" width="1440" height="875" />
+    <state x="-1480" y="59" width="807" height="609" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1682236025455">
+      <screen x="-1920" y="-48" width="1920" height="1055" />
     </state>
+    <state x="-1480" y="59" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.875/-1920.-48.1920.1055@-1920.-48.1920.1055" timestamp="1682236025455" />
     <state x="330" y="114" width="807" height="609" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.875/-1920.-48.1920.1055@0.25.1440.875" timestamp="1676952294307" />
-    <state x="-1480" y="37" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.875/-1920.-73.1920.1080@-1920.-73.1920.1080" timestamp="1670208371713" />
-    <state x="517" y="156" key="#com.intellij.ide.util.MemberChooser" timestamp="1676892404099">
+    <state x="517" y="156" key="#com.intellij.ide.util.MemberChooser" timestamp="1681792940698">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
-    <state x="517" y="156" key="#com.intellij.ide.util.MemberChooser/0.25.1440.875/-1920.-48.1920.1055@0.25.1440.875" timestamp="1676859730858" />
+    <state x="517" y="156" key="#com.intellij.ide.util.MemberChooser/0.25.1440.875/-1920.-48.1920.1055@0.25.1440.875" timestamp="1681792940698" />
     <state x="517" y="156" key="#com.intellij.ide.util.MemberChooser/0.25.1440.875@0.25.1440.875" timestamp="1676892404099" />
-    <state x="-1277" y="74" key="#xdebugger.evaluate" timestamp="1670209148218">
-      <screen x="-1920" y="-73" width="1920" height="1080" />
+    <state x="-1223" y="272" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1681441515855">
+      <screen x="-1920" y="-48" width="1920" height="1055" />
     </state>
-    <state x="-1277" y="74" key="#xdebugger.evaluate/0.25.1440.875/-1920.-73.1920.1080@-1920.-73.1920.1080" timestamp="1670209148218" />
-    <state x="149" y="25" width="1012" height="645" key="CommitChangelistDialog2" timestamp="1677489643439">
+    <state x="-1223" y="272" key="#com.intellij.ide.util.TreeClassChooserDialog/0.25.1440.875/-1920.-48.1920.1055@-1920.-48.1920.1055" timestamp="1681441515855" />
+    <state x="-1146" y="419" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1681877289480">
+      <screen x="-1920" y="-48" width="1920" height="1055" />
+    </state>
+    <state x="-1146" y="419" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.25.1440.875/-1920.-48.1920.1055@-1920.-48.1920.1055" timestamp="1681877289480" />
+    <state x="552" y="230" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.25.1440.875/-1920.-48.1920.1055@0.25.1440.875" timestamp="1681792635745" />
+    <state x="-741" y="172" width="638" height="518" key="#xdebugger.evaluate" timestamp="1681297263925">
+      <screen x="-1920" y="-48" width="1920" height="1055" />
+    </state>
+    <state x="-741" y="172" width="638" height="518" key="#xdebugger.evaluate/0.25.1440.875/-1920.-48.1920.1055@-1920.-48.1920.1055" timestamp="1681297263925" />
+    <state x="648" y="276" key="#xdebugger.evaluate/0.25.1440.875/-1920.-48.1920.1055@0.25.1440.875" timestamp="1681271879411" />
+    <state x="-1442" y="39" width="1012" height="645" key="CommitChangelistDialog2" timestamp="1682394207957">
+      <screen x="-1920" y="-48" width="1920" height="1055" />
+    </state>
+    <state x="-1442" y="39" key="CommitChangelistDialog2/0.25.1440.875/-1920.-48.1920.1055@-1920.-48.1920.1055" timestamp="1682394207957" />
+    <state x="149" y="25" key="CommitChangelistDialog2/0.25.1440.875/-1920.-48.1920.1055@0.25.1440.875" timestamp="1681793000957" />
+    <state x="198" y="25" key="CommitChangelistDialog2/0.25.1440.875@0.25.1440.875" timestamp="1682298783451" />
+    <state width="332" height="101" key="DebuggerActiveHint" timestamp="1682239976054">
+      <screen x="-1920" y="-48" width="1920" height="1055" />
+    </state>
+    <state width="332" height="101" key="DebuggerActiveHint/0.25.1440.875/-1920.-48.1920.1055@-1920.-48.1920.1055" timestamp="1682239976054" />
+    <state width="720" height="277" key="DebuggerActiveHint/0.25.1440.875/-1920.-48.1920.1055@0.25.1440.875" timestamp="1681277109808" />
+    <state x="-1920" y="-48" width="1920" height="875" key="DiffContextDialog" timestamp="1682304439990">
+      <screen x="-1920" y="-48" width="1920" height="1055" />
+    </state>
+    <state x="-1920" y="-48" width="1920" height="1055" key="DiffContextDialog/0.25.1440.875/-1920.-48.1920.1055@-1920.-48.1920.1055" timestamp="1682304439990" />
+    <state x="-3" y="103" width="1920" height="875" key="DiffContextDialog/0.25.1440.875/-1920.-48.1920.1055@0.25.1440.875" timestamp="1681958935160" />
+    <state x="26" y="95" width="1088" height="717" key="DiffContextDialog/0.25.1440.875@0.25.1440.875" timestamp="1682298782655" />
+    <state width="1838" height="344" key="GridCell.Tab.0.bottom" timestamp="1682324441031">
+      <screen x="-1920" y="-48" width="1920" height="1055" />
+    </state>
+    <state width="1838" height="344" key="GridCell.Tab.0.bottom/0.25.1440.875/-1920.-48.1920.1055@-1920.-48.1920.1055" timestamp="1682324441031" />
+    <state width="1838" height="305" key="GridCell.Tab.0.bottom/0.25.1440.875/-1920.-48.1920.1055@0.25.1440.875" timestamp="1681958935237" />
+    <state width="1358" height="344" key="GridCell.Tab.0.bottom/0.25.1440.875@0.25.1440.875" timestamp="1682299393238" />
+    <state width="1838" height="305" key="GridCell.Tab.0.bottom/0.25.1920.1055@0.25.1920.1055" timestamp="1681221105974" />
+    <state width="1838" height="344" key="GridCell.Tab.0.center" timestamp="1682324441030">
+      <screen x="-1920" y="-48" width="1920" height="1055" />
+    </state>
+    <state width="1838" height="344" key="GridCell.Tab.0.center/0.25.1440.875/-1920.-48.1920.1055@-1920.-48.1920.1055" timestamp="1682324441030" />
+    <state width="1838" height="305" key="GridCell.Tab.0.center/0.25.1440.875/-1920.-48.1920.1055@0.25.1440.875" timestamp="1681958935237" />
+    <state width="1358" height="344" key="GridCell.Tab.0.center/0.25.1440.875@0.25.1440.875" timestamp="1682299393238" />
+    <state width="1838" height="305" key="GridCell.Tab.0.center/0.25.1920.1055@0.25.1920.1055" timestamp="1681221105974" />
+    <state width="1838" height="344" key="GridCell.Tab.0.left" timestamp="1682324441030">
+      <screen x="-1920" y="-48" width="1920" height="1055" />
+    </state>
+    <state width="1838" height="344" key="GridCell.Tab.0.left/0.25.1440.875/-1920.-48.1920.1055@-1920.-48.1920.1055" timestamp="1682324441030" />
+    <state width="1838" height="305" key="GridCell.Tab.0.left/0.25.1440.875/-1920.-48.1920.1055@0.25.1440.875" timestamp="1681958935229" />
+    <state width="1358" height="344" key="GridCell.Tab.0.left/0.25.1440.875@0.25.1440.875" timestamp="1682299393238" />
+    <state width="1838" height="305" key="GridCell.Tab.0.left/0.25.1920.1055@0.25.1920.1055" timestamp="1681221105971" />
+    <state width="1838" height="344" key="GridCell.Tab.0.right" timestamp="1682324441031">
+      <screen x="-1920" y="-48" width="1920" height="1055" />
+    </state>
+    <state width="1838" height="344" key="GridCell.Tab.0.right/0.25.1440.875/-1920.-48.1920.1055@-1920.-48.1920.1055" timestamp="1682324441031" />
+    <state width="1838" height="305" key="GridCell.Tab.0.right/0.25.1440.875/-1920.-48.1920.1055@0.25.1440.875" timestamp="1681958935237" />
+    <state width="1358" height="344" key="GridCell.Tab.0.right/0.25.1440.875@0.25.1440.875" timestamp="1682299393238" />
+    <state width="1838" height="305" key="GridCell.Tab.0.right/0.25.1920.1055@0.25.1920.1055" timestamp="1681221105974" />
+    <state width="1838" height="344" key="GridCell.Tab.1.bottom" timestamp="1682324441031">
+      <screen x="-1920" y="-48" width="1920" height="1055" />
+    </state>
+    <state width="1838" height="344" key="GridCell.Tab.1.bottom/0.25.1440.875/-1920.-48.1920.1055@-1920.-48.1920.1055" timestamp="1682324441031" />
+    <state width="1838" height="305" key="GridCell.Tab.1.bottom/0.25.1440.875/-1920.-48.1920.1055@0.25.1440.875" timestamp="1681958935237" />
+    <state width="1358" height="344" key="GridCell.Tab.1.bottom/0.25.1440.875@0.25.1440.875" timestamp="1682299393238" />
+    <state width="1838" height="344" key="GridCell.Tab.1.center" timestamp="1682324441031">
+      <screen x="-1920" y="-48" width="1920" height="1055" />
+    </state>
+    <state width="1838" height="344" key="GridCell.Tab.1.center/0.25.1440.875/-1920.-48.1920.1055@-1920.-48.1920.1055" timestamp="1682324441031" />
+    <state width="1838" height="305" key="GridCell.Tab.1.center/0.25.1440.875/-1920.-48.1920.1055@0.25.1440.875" timestamp="1681958935237" />
+    <state width="1358" height="344" key="GridCell.Tab.1.center/0.25.1440.875@0.25.1440.875" timestamp="1682299393238" />
+    <state width="1838" height="344" key="GridCell.Tab.1.left" timestamp="1682324441031">
+      <screen x="-1920" y="-48" width="1920" height="1055" />
+    </state>
+    <state width="1838" height="344" key="GridCell.Tab.1.left/0.25.1440.875/-1920.-48.1920.1055@-1920.-48.1920.1055" timestamp="1682324441031" />
+    <state width="1838" height="305" key="GridCell.Tab.1.left/0.25.1440.875/-1920.-48.1920.1055@0.25.1440.875" timestamp="1681958935237" />
+    <state width="1358" height="344" key="GridCell.Tab.1.left/0.25.1440.875@0.25.1440.875" timestamp="1682299393238" />
+    <state width="1838" height="344" key="GridCell.Tab.1.right" timestamp="1682324441031">
+      <screen x="-1920" y="-48" width="1920" height="1055" />
+    </state>
+    <state width="1838" height="344" key="GridCell.Tab.1.right/0.25.1440.875/-1920.-48.1920.1055@-1920.-48.1920.1055" timestamp="1682324441031" />
+    <state width="1838" height="305" key="GridCell.Tab.1.right/0.25.1440.875/-1920.-48.1920.1055@0.25.1440.875" timestamp="1681958935237" />
+    <state width="1358" height="344" key="GridCell.Tab.1.right/0.25.1440.875@0.25.1440.875" timestamp="1682299393238" />
+    <state width="1838" height="344" key="GridCell.Tab.2.bottom" timestamp="1682324441031">
+      <screen x="-1920" y="-48" width="1920" height="1055" />
+    </state>
+    <state width="1838" height="344" key="GridCell.Tab.2.bottom/0.25.1440.875/-1920.-48.1920.1055@-1920.-48.1920.1055" timestamp="1682324441031" />
+    <state width="1838" height="305" key="GridCell.Tab.2.bottom/0.25.1440.875/-1920.-48.1920.1055@0.25.1440.875" timestamp="1681958935238" />
+    <state width="1358" height="344" key="GridCell.Tab.2.bottom/0.25.1440.875@0.25.1440.875" timestamp="1682299393238" />
+    <state width="1838" height="344" key="GridCell.Tab.2.center" timestamp="1682324441031">
+      <screen x="-1920" y="-48" width="1920" height="1055" />
+    </state>
+    <state width="1838" height="344" key="GridCell.Tab.2.center/0.25.1440.875/-1920.-48.1920.1055@-1920.-48.1920.1055" timestamp="1682324441031" />
+    <state width="1838" height="305" key="GridCell.Tab.2.center/0.25.1440.875/-1920.-48.1920.1055@0.25.1440.875" timestamp="1681958935238" />
+    <state width="1358" height="344" key="GridCell.Tab.2.center/0.25.1440.875@0.25.1440.875" timestamp="1682299393238" />
+    <state width="1838" height="344" key="GridCell.Tab.2.left" timestamp="1682324441031">
+      <screen x="-1920" y="-48" width="1920" height="1055" />
+    </state>
+    <state width="1838" height="344" key="GridCell.Tab.2.left/0.25.1440.875/-1920.-48.1920.1055@-1920.-48.1920.1055" timestamp="1682324441031" />
+    <state width="1838" height="305" key="GridCell.Tab.2.left/0.25.1440.875/-1920.-48.1920.1055@0.25.1440.875" timestamp="1681958935237" />
+    <state width="1358" height="344" key="GridCell.Tab.2.left/0.25.1440.875@0.25.1440.875" timestamp="1682299393238" />
+    <state width="1838" height="344" key="GridCell.Tab.2.right" timestamp="1682324441031">
+      <screen x="-1920" y="-48" width="1920" height="1055" />
+    </state>
+    <state width="1838" height="344" key="GridCell.Tab.2.right/0.25.1440.875/-1920.-48.1920.1055@-1920.-48.1920.1055" timestamp="1682324441031" />
+    <state width="1838" height="305" key="GridCell.Tab.2.right/0.25.1440.875/-1920.-48.1920.1055@0.25.1440.875" timestamp="1681958935238" />
+    <state width="1358" height="344" key="GridCell.Tab.2.right/0.25.1440.875@0.25.1440.875" timestamp="1682299393238" />
+    <state width="310" height="506" key="HiddenNamespacesPopup" timestamp="1681800468576">
+      <screen x="-1920" y="-48" width="1920" height="1055" />
+    </state>
+    <state width="310" height="506" key="HiddenNamespacesPopup/0.25.1440.875/-1920.-48.1920.1055@-1920.-48.1920.1055" timestamp="1681800468576" />
+    <state x="270" y="197" width="899" height="543" key="IDE.errors.dialog" timestamp="1682299235102">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
-    <state x="246" y="64" width="1012" height="645" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1670312463647" />
-    <state x="-1592" y="27" key="CommitChangelistDialog2/0.25.1440.875/-1920.-48.1920.1055@-1920.-48.1920.1055" timestamp="1669029518515" />
-    <state x="149" y="25" key="CommitChangelistDialog2/0.25.1440.875/-1920.-48.1920.1055@0.25.1440.875" timestamp="1677489643439" />
-    <state x="-1592" y="4" key="CommitChangelistDialog2/0.25.1440.875/-1920.-73.1920.1080@-1920.-73.1920.1080" timestamp="1670241359014" />
-    <state x="198" y="25" key="CommitChangelistDialog2/0.25.1440.875/-1920.-73.1920.1080@0.25.1440.875" timestamp="1670576948462" />
-    <state x="198" y="25" key="CommitChangelistDialog2/0.25.1440.875@0.25.1440.875" timestamp="1677030613284" />
-    <state width="960" height="540" key="DebuggerActiveHint" timestamp="1670210457100">
-      <screen x="-1920" y="-73" width="1920" height="1080" />
+    <state x="270" y="197" width="899" height="543" key="IDE.errors.dialog/0.25.1440.875@0.25.1440.875" timestamp="1682299235102" />
+    <state x="-1920" y="-48" width="1920" height="1055" key="MergeDialog" timestamp="1681811601410">
+      <screen x="-1920" y="-48" width="1920" height="1055" />
     </state>
-    <state width="960" height="540" key="DebuggerActiveHint/0.25.1440.875/-1920.-73.1920.1080@-1920.-73.1920.1080" timestamp="1670210457100" />
-    <state x="26" y="95" width="1440" height="875" key="DiffContextDialog" timestamp="1677119225833">
+    <state x="-1920" y="-48" width="1920" height="1055" key="MergeDialog/0.25.1440.875/-1920.-48.1920.1055@-1920.-48.1920.1055" timestamp="1681811601410" />
+    <state x="0" y="25" width="1440" height="875" key="MergeDialog/0.25.1440.875/-1920.-48.1920.1055@0.25.1440.875" timestamp="1681791735105" />
+    <state x="-1452" y="200" key="MultipleFileMergeDialog" timestamp="1681811601654">
+      <screen x="-1920" y="-48" width="1920" height="1055" />
+    </state>
+    <state x="-1452" y="200" key="MultipleFileMergeDialog/0.25.1440.875/-1920.-48.1920.1055@-1920.-48.1920.1055" timestamp="1681811601654" />
+    <state x="351" y="231" key="MultipleFileMergeDialog/0.25.1440.875/-1920.-48.1920.1055@0.25.1440.875" timestamp="1681791735280" />
+    <state x="264" y="175" width="507" height="339" key="Performance.Activity.Monitor" timestamp="1681793425743">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
-    <state x="0" y="20" key="DiffContextDialog/0.0.1440.900@0.0.1440.900" timestamp="1670312461268" />
-    <state x="26" y="95" width="1303" height="728" key="DiffContextDialog/0.25.1440.875/-1920.-48.1920.1055@0.25.1440.875" timestamp="1677119225833" />
-    <state x="-1920" y="-48" width="1920" height="1055" key="DiffContextDialog/0.25.1440.875/-1920.-73.1920.1080@-1920.-73.1920.1080" timestamp="1670241340239" />
-    <state x="0" y="25" width="1440" height="875" key="DiffContextDialog/0.25.1440.875/-1920.-73.1920.1080@0.25.1440.875" timestamp="1670576947885" />
-    <state x="26" y="95" width="1088" height="717" key="DiffContextDialog/0.25.1440.875@0.25.1440.875" timestamp="1677030609647" />
-    <state width="1358" height="342" key="GridCell.Tab.0.bottom" timestamp="1677028280532">
+    <state x="264" y="175" width="507" height="339" key="Performance.Activity.Monitor/0.25.1440.875/-1920.-48.1920.1055@0.25.1440.875" timestamp="1681793425743" />
+    <state x="326" y="138" width="788" height="636" key="RefactorJ.ExtractClass" timestamp="1681790356387">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
-    <state width="1838" height="421" key="GridCell.Tab.0.bottom/0.25.1440.875/-1920.-48.1920.1055@-1920.-48.1920.1055" timestamp="1669079023521" />
-    <state width="1358" height="161" key="GridCell.Tab.0.bottom/0.25.1440.875/-1920.-48.1920.1055@0.25.1440.875" timestamp="1676952801457" />
-    <state width="1838" height="432" key="GridCell.Tab.0.bottom/0.25.1440.875/-1920.-73.1920.1080@-1920.-73.1920.1080" timestamp="1670221135195" />
-    <state width="1358" height="156" key="GridCell.Tab.0.bottom/0.25.1440.875/-1920.-73.1920.1080@0.25.1440.875" timestamp="1670577051789" />
-    <state width="1358" height="342" key="GridCell.Tab.0.bottom/0.25.1440.875@0.25.1440.875" timestamp="1677028280532" />
-    <state width="1358" height="342" key="GridCell.Tab.0.center" timestamp="1677028280532">
-      <screen x="0" y="25" width="1440" height="875" />
+    <state x="326" y="138" width="788" height="636" key="RefactorJ.ExtractClass/0.25.1440.875/-1920.-48.1920.1055@0.25.1440.875" timestamp="1681790356387" />
+    <state x="-1381" y="15" key="RollbackChangesDialog" timestamp="1682304366515">
+      <screen x="-1920" y="-48" width="1920" height="1055" />
     </state>
-    <state width="1838" height="421" key="GridCell.Tab.0.center/0.25.1440.875/-1920.-48.1920.1055@-1920.-48.1920.1055" timestamp="1669079023521" />
-    <state width="1358" height="161" key="GridCell.Tab.0.center/0.25.1440.875/-1920.-48.1920.1055@0.25.1440.875" timestamp="1676952801457" />
-    <state width="1838" height="432" key="GridCell.Tab.0.center/0.25.1440.875/-1920.-73.1920.1080@-1920.-73.1920.1080" timestamp="1670221135195" />
-    <state width="1358" height="156" key="GridCell.Tab.0.center/0.25.1440.875/-1920.-73.1920.1080@0.25.1440.875" timestamp="1670577051788" />
-    <state width="1358" height="342" key="GridCell.Tab.0.center/0.25.1440.875@0.25.1440.875" timestamp="1677028280532" />
-    <state width="1358" height="342" key="GridCell.Tab.0.left" timestamp="1677028280532">
-      <screen x="0" y="25" width="1440" height="875" />
+    <state x="-1381" y="15" key="RollbackChangesDialog/0.25.1440.875/-1920.-48.1920.1055@-1920.-48.1920.1055" timestamp="1682304366515" />
+    <state x="404" y="77" key="RollbackChangesDialog/0.25.1440.875/-1920.-48.1920.1055@0.25.1440.875" timestamp="1681870079751" />
+    <state x="404" y="77" key="RollbackChangesDialog/0.25.1440.875@0.25.1440.875" timestamp="1681433904893" />
+    <state x="-1630" y="70" width="900" height="700" key="SettingsEditor" timestamp="1682492486802">
+      <screen x="-1920" y="-48" width="1920" height="1055" />
     </state>
-    <state width="1838" height="421" key="GridCell.Tab.0.left/0.25.1440.875/-1920.-48.1920.1055@-1920.-48.1920.1055" timestamp="1669079023521" />
-    <state width="1358" height="161" key="GridCell.Tab.0.left/0.25.1440.875/-1920.-48.1920.1055@0.25.1440.875" timestamp="1676952801456" />
-    <state width="1838" height="432" key="GridCell.Tab.0.left/0.25.1440.875/-1920.-73.1920.1080@-1920.-73.1920.1080" timestamp="1670221135195" />
-    <state width="1358" height="156" key="GridCell.Tab.0.left/0.25.1440.875/-1920.-73.1920.1080@0.25.1440.875" timestamp="1670577051788" />
-    <state width="1358" height="342" key="GridCell.Tab.0.left/0.25.1440.875@0.25.1440.875" timestamp="1677028280532" />
-    <state width="1358" height="342" key="GridCell.Tab.0.right" timestamp="1677028280532">
-      <screen x="0" y="25" width="1440" height="875" />
-    </state>
-    <state width="1838" height="421" key="GridCell.Tab.0.right/0.25.1440.875/-1920.-48.1920.1055@-1920.-48.1920.1055" timestamp="1669079023521" />
-    <state width="1358" height="161" key="GridCell.Tab.0.right/0.25.1440.875/-1920.-48.1920.1055@0.25.1440.875" timestamp="1676952801457" />
-    <state width="1838" height="432" key="GridCell.Tab.0.right/0.25.1440.875/-1920.-73.1920.1080@-1920.-73.1920.1080" timestamp="1670221135195" />
-    <state width="1358" height="156" key="GridCell.Tab.0.right/0.25.1440.875/-1920.-73.1920.1080@0.25.1440.875" timestamp="1670577051788" />
-    <state width="1358" height="342" key="GridCell.Tab.0.right/0.25.1440.875@0.25.1440.875" timestamp="1677028280532" />
-    <state width="1358" height="342" key="GridCell.Tab.1.bottom" timestamp="1677028280532">
-      <screen x="0" y="25" width="1440" height="875" />
-    </state>
-    <state width="1838" height="421" key="GridCell.Tab.1.bottom/0.25.1440.875/-1920.-48.1920.1055@-1920.-48.1920.1055" timestamp="1669079023521" />
-    <state width="1838" height="432" key="GridCell.Tab.1.bottom/0.25.1440.875/-1920.-73.1920.1080@-1920.-73.1920.1080" timestamp="1670221135195" />
-    <state width="1358" height="342" key="GridCell.Tab.1.bottom/0.25.1440.875@0.25.1440.875" timestamp="1677028280532" />
-    <state width="1358" height="342" key="GridCell.Tab.1.center" timestamp="1677028280532">
-      <screen x="0" y="25" width="1440" height="875" />
-    </state>
-    <state width="1838" height="421" key="GridCell.Tab.1.center/0.25.1440.875/-1920.-48.1920.1055@-1920.-48.1920.1055" timestamp="1669079023521" />
-    <state width="1838" height="432" key="GridCell.Tab.1.center/0.25.1440.875/-1920.-73.1920.1080@-1920.-73.1920.1080" timestamp="1670221135195" />
-    <state width="1358" height="342" key="GridCell.Tab.1.center/0.25.1440.875@0.25.1440.875" timestamp="1677028280532" />
-    <state width="1358" height="342" key="GridCell.Tab.1.left" timestamp="1677028280532">
-      <screen x="0" y="25" width="1440" height="875" />
-    </state>
-    <state width="1838" height="421" key="GridCell.Tab.1.left/0.25.1440.875/-1920.-48.1920.1055@-1920.-48.1920.1055" timestamp="1669079023521" />
-    <state width="1838" height="432" key="GridCell.Tab.1.left/0.25.1440.875/-1920.-73.1920.1080@-1920.-73.1920.1080" timestamp="1670221135195" />
-    <state width="1358" height="342" key="GridCell.Tab.1.left/0.25.1440.875@0.25.1440.875" timestamp="1677028280532" />
-    <state width="1358" height="342" key="GridCell.Tab.1.right" timestamp="1677028280532">
-      <screen x="0" y="25" width="1440" height="875" />
-    </state>
-    <state width="1838" height="421" key="GridCell.Tab.1.right/0.25.1440.875/-1920.-48.1920.1055@-1920.-48.1920.1055" timestamp="1669079023521" />
-    <state width="1838" height="432" key="GridCell.Tab.1.right/0.25.1440.875/-1920.-73.1920.1080@-1920.-73.1920.1080" timestamp="1670221135195" />
-    <state width="1358" height="342" key="GridCell.Tab.1.right/0.25.1440.875@0.25.1440.875" timestamp="1677028280532" />
-    <state width="1358" height="342" key="GridCell.Tab.2.bottom" timestamp="1677028280532">
-      <screen x="0" y="25" width="1440" height="875" />
-    </state>
-    <state width="1838" height="432" key="GridCell.Tab.2.bottom/0.25.1440.875/-1920.-73.1920.1080@-1920.-73.1920.1080" timestamp="1670221135195" />
-    <state width="1358" height="342" key="GridCell.Tab.2.bottom/0.25.1440.875@0.25.1440.875" timestamp="1677028280532" />
-    <state width="1358" height="342" key="GridCell.Tab.2.center" timestamp="1677028280532">
-      <screen x="0" y="25" width="1440" height="875" />
-    </state>
-    <state width="1838" height="432" key="GridCell.Tab.2.center/0.25.1440.875/-1920.-73.1920.1080@-1920.-73.1920.1080" timestamp="1670221135195" />
-    <state width="1358" height="342" key="GridCell.Tab.2.center/0.25.1440.875@0.25.1440.875" timestamp="1677028280532" />
-    <state width="1358" height="342" key="GridCell.Tab.2.left" timestamp="1677028280532">
-      <screen x="0" y="25" width="1440" height="875" />
-    </state>
-    <state width="1838" height="432" key="GridCell.Tab.2.left/0.25.1440.875/-1920.-73.1920.1080@-1920.-73.1920.1080" timestamp="1670221135195" />
-    <state width="1358" height="342" key="GridCell.Tab.2.left/0.25.1440.875@0.25.1440.875" timestamp="1677028280532" />
-    <state width="1358" height="342" key="GridCell.Tab.2.right" timestamp="1677028280532">
-      <screen x="0" y="25" width="1440" height="875" />
-    </state>
-    <state width="1838" height="432" key="GridCell.Tab.2.right/0.25.1440.875/-1920.-73.1920.1080@-1920.-73.1920.1080" timestamp="1670221135195" />
-    <state width="1358" height="342" key="GridCell.Tab.2.right/0.25.1440.875@0.25.1440.875" timestamp="1677028280532" />
-    <state x="-1920" y="-73" width="1920" height="1080" key="MergeDialog" timestamp="1669209875842">
-      <screen x="-1920" y="-73" width="1920" height="1080" />
-    </state>
-    <state x="-1920" y="-73" width="1920" height="1080" key="MergeDialog/0.25.1440.875/-1920.-73.1920.1080@-1920.-73.1920.1080" timestamp="1669209875842" />
-    <state x="-1341" y="233" key="MultipleFileMergeDialog" timestamp="1669209875949">
-      <screen x="-1920" y="-73" width="1920" height="1080" />
-    </state>
-    <state x="-1341" y="233" key="MultipleFileMergeDialog/0.25.1440.875/-1920.-73.1920.1080@-1920.-73.1920.1080" timestamp="1669209875949" />
-    <state x="404" y="77" key="RollbackChangesDialog" timestamp="1677119228956">
-      <screen x="0" y="25" width="1440" height="875" />
-    </state>
-    <state x="404" y="77" key="RollbackChangesDialog/0.25.1440.875/-1920.-48.1920.1055@0.25.1440.875" timestamp="1677119228956" />
-    <state x="-1381" y="-9" key="RollbackChangesDialog/0.25.1440.875/-1920.-73.1920.1080@-1920.-73.1920.1080" timestamp="1669209803558" />
-    <state x="404" y="77" key="RollbackChangesDialog/0.25.1440.875@0.25.1440.875" timestamp="1676885194509" />
-    <state x="237" y="91" width="900" height="700" key="SettingsEditor" timestamp="1676946385098">
-      <screen x="0" y="25" width="1440" height="875" />
-    </state>
-    <state x="237" y="91" key="SettingsEditor/0.25.1440.875/-1920.-48.1920.1055@0.25.1440.875" timestamp="1676861307118" />
+    <state x="-1630" y="70" width="1158" height="700" key="SettingsEditor/0.25.1440.875/-1920.-48.1920.1055@-1920.-48.1920.1055" timestamp="1682492486802" />
+    <state x="237" y="91" width="900" height="700" key="SettingsEditor/0.25.1440.875/-1920.-48.1920.1055@0.25.1440.875" timestamp="1681793483983" />
     <state x="237" y="91" width="900" height="700" key="SettingsEditor/0.25.1440.875@0.25.1440.875" timestamp="1676946385098" />
-    <state x="191" y="262" width="597" height="440" key="StructurePopup" timestamp="1676881513061">
-      <screen x="0" y="25" width="1440" height="875" />
+    <state x="-1665" y="238" width="796" height="531" key="StructurePopup" timestamp="1682306719770">
+      <screen x="-1920" y="-48" width="1920" height="1055" />
     </state>
-    <state x="-1665" y="219" width="796" height="542" key="StructurePopup/0.25.1440.875/-1920.-73.1920.1080@-1920.-73.1920.1080" timestamp="1670203233945" />
-    <state x="191" y="262" width="597" height="440" key="StructurePopup/0.25.1440.875/-1920.-73.1920.1080@0.25.1440.875" timestamp="1670576953633" />
+    <state x="-1665" y="238" width="796" height="531" key="StructurePopup/0.25.1440.875/-1920.-48.1920.1055@-1920.-48.1920.1055" timestamp="1682306719770" />
+    <state x="191" y="262" width="597" height="440" key="StructurePopup/0.25.1440.875/-1920.-48.1920.1055@0.25.1440.875" timestamp="1681262963411" />
     <state x="191" y="262" width="597" height="440" key="StructurePopup/0.25.1440.875@0.25.1440.875" timestamp="1676881513061" />
-    <state width="1319" height="636" key="SwitcherDM" timestamp="1670315654607">
-      <screen x="0" y="25" width="1440" height="875" />
+    <state width="983" height="1055" key="SwitcherDM" timestamp="1682304047457">
+      <screen x="-1920" y="-48" width="1920" height="1055" />
     </state>
-    <state width="1759" height="767" key="SwitcherDM/0.25.1440.875/-1920.-48.1920.1055@-1920.-48.1920.1055" timestamp="1669023880680" />
-    <state width="1319" height="636" key="SwitcherDM/0.25.1440.875/-1920.-48.1920.1055@0.25.1440.875" timestamp="1670315654607" />
-    <state x="297" y="123" width="1138" height="707" key="Vcs.Push.Dialog.v2" timestamp="1677489638178">
-      <screen x="0" y="25" width="1440" height="875" />
+    <state width="983" height="1055" key="SwitcherDM/0.25.1440.875/-1920.-48.1920.1055@-1920.-48.1920.1055" timestamp="1682304047457" />
+    <state width="864" height="875" key="SwitcherDM/0.25.1440.875/-1920.-48.1920.1055@0.25.1440.875" timestamp="1682235120674" />
+    <state width="818" height="875" key="SwitcherDM/0.25.1440.875@0.25.1440.875" timestamp="1682299053666" />
+    <state x="-1561" y="53" width="1138" height="707" key="Vcs.Push.Dialog.v2" timestamp="1682394214133">
+      <screen x="-1920" y="-48" width="1920" height="1055" />
     </state>
-    <state x="-1611" y="63" key="Vcs.Push.Dialog.v2/0.25.1440.875/-1920.-48.1920.1055@-1920.-48.1920.1055" timestamp="1669029553213" />
-    <state x="297" y="123" key="Vcs.Push.Dialog.v2/0.25.1440.875/-1920.-48.1920.1055@0.25.1440.875" timestamp="1677489638178" />
-    <state x="-1611" y="41" key="Vcs.Push.Dialog.v2/0.25.1440.875/-1920.-73.1920.1080@-1920.-73.1920.1080" timestamp="1670241362198" />
-    <state x="297" y="123" key="Vcs.Push.Dialog.v2/0.25.1440.875@0.25.1440.875" timestamp="1677030620516" />
-    <state x="333" y="224" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1675736334653">
-      <screen x="0" y="25" width="1440" height="875" />
+    <state x="-1561" y="53" key="Vcs.Push.Dialog.v2/0.25.1440.875/-1920.-48.1920.1055@-1920.-48.1920.1055" timestamp="1682394214133" />
+    <state x="297" y="123" key="Vcs.Push.Dialog.v2/0.25.1440.875/-1920.-48.1920.1055@0.25.1440.875" timestamp="1681793332315" />
+    <state x="297" y="123" key="Vcs.Push.Dialog.v2/0.25.1440.875@0.25.1440.875" timestamp="1681817931253" />
+    <state width="960" height="527" key="XDebugger.FullValuePopup" timestamp="1681294995436">
+      <screen x="-1920" y="-48" width="1920" height="1055" />
     </state>
-    <state x="-1476" y="173" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.25.1440.875/-1920.-73.1920.1080@-1920.-73.1920.1080" timestamp="1670209344925" />
+    <state width="960" height="527" key="XDebugger.FullValuePopup/0.25.1440.875/-1920.-48.1920.1055@-1920.-48.1920.1055" timestamp="1681294995436" />
+    <state x="-1820" y="52" width="1720" height="855" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1681871536973">
+      <screen x="-1920" y="-48" width="1920" height="1055" />
+    </state>
+    <state x="-1820" y="52" width="1720" height="855" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.25.1440.875/-1920.-48.1920.1055@-1920.-48.1920.1055" timestamp="1681871536973" />
+    <state x="-1163" y="414" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1681113523419">
+      <screen x="-1920" y="-48" width="1920" height="1055" />
+    </state>
+    <state x="-1163" y="414" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.25.1440.875/-1920.-48.1920.1055@-1920.-48.1920.1055" timestamp="1681113523419" />
+    <state x="-1476" y="192" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1681803851844">
+      <screen x="-1920" y="-48" width="1920" height="1055" />
+    </state>
+    <state x="-1476" y="192" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.25.1440.875/-1920.-48.1920.1055@-1920.-48.1920.1055" timestamp="1681803851844" />
+    <state x="333" y="224" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.25.1440.875/-1920.-48.1920.1055@0.25.1440.875" timestamp="1681262099344" />
     <state x="333" y="224" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.25.1440.875@0.25.1440.875" timestamp="1675736334653" />
-    <state x="261" y="151" width="1002" height="611" key="find.popup" timestamp="1676952701654">
+    <state x="-1624" y="131" width="1336" height="737" key="find.popup" timestamp="1682306713653">
+      <screen x="-1920" y="-48" width="1920" height="1055" />
+    </state>
+    <state x="-1624" y="131" width="1336" height="737" key="find.popup/0.25.1440.875/-1920.-48.1920.1055@-1920.-48.1920.1055" timestamp="1682306713653" />
+    <state x="261" y="151" width="1009" height="611" key="find.popup/0.25.1440.875/-1920.-48.1920.1055@0.25.1440.875" timestamp="1681790926192" />
+    <state x="262" y="151" width="1002" height="611" key="find.popup/0.25.1440.875@0.25.1440.875" timestamp="1681433957996" />
+    <state x="0" y="157" key="git4idea.branch.GitSmartOperationDialog" timestamp="1681870081136">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
-    <state x="261" y="151" width="1002" height="611" key="find.popup/0.25.1440.875/-1920.-48.1920.1055@0.25.1440.875" timestamp="1676952701654" />
-    <state x="-1656" y="42" width="1312" height="818" key="find.popup/0.25.1440.875/-1920.-73.1920.1080@-1920.-73.1920.1080" timestamp="1670240176950" />
-    <state x="261" y="151" width="1002" height="611" key="find.popup/0.25.1440.875@0.25.1440.875" timestamp="1676892322621" />
-    <state x="-1409" y="118" key="git4idea.branch.GitSmartOperationDialog" timestamp="1669209804253">
-      <screen x="-1920" y="-73" width="1920" height="1080" />
+    <state x="-1920" y="111" key="git4idea.branch.GitSmartOperationDialog/0.25.1440.875/-1920.-48.1920.1055@-1920.-48.1920.1055" timestamp="1681808365003" />
+    <state x="0" y="157" key="git4idea.branch.GitSmartOperationDialog/0.25.1440.875/-1920.-48.1920.1055@0.25.1440.875" timestamp="1681870081136" />
+    <state x="-1183" y="385" key="git4idea.ui.GitStashDialog" timestamp="1681811551690">
+      <screen x="-1920" y="-48" width="1920" height="1055" />
     </state>
-    <state x="-1409" y="118" key="git4idea.branch.GitSmartOperationDialog/0.25.1440.875/-1920.-73.1920.1080@-1920.-73.1920.1080" timestamp="1669209804253" />
-    <state x="553" y="384" key="git4idea.ui.GitStashDialog" timestamp="1675676186324">
-      <screen x="0" y="25" width="1440" height="875" />
-    </state>
+    <state x="-1183" y="385" key="git4idea.ui.GitStashDialog/0.25.1440.875/-1920.-48.1920.1055@-1920.-48.1920.1055" timestamp="1681811551690" />
+    <state x="553" y="384" key="git4idea.ui.GitStashDialog/0.25.1440.875/-1920.-48.1920.1055@0.25.1440.875" timestamp="1681789558452" />
     <state x="553" y="384" key="git4idea.ui.GitStashDialog/0.25.1440.875@0.25.1440.875" timestamp="1675676186324" />
-    <state x="198" y="274" key="git4idea.ui.GitUnstashDialog" timestamp="1675676236143">
-      <screen x="0" y="25" width="1440" height="875" />
+    <state x="-1656" y="252" key="git4idea.ui.GitUnstashDialog" timestamp="1681811613599">
+      <screen x="-1920" y="-48" width="1920" height="1055" />
     </state>
+    <state x="-1656" y="252" key="git4idea.ui.GitUnstashDialog/0.25.1440.875/-1920.-48.1920.1055@-1920.-48.1920.1055" timestamp="1681811613599" />
+    <state x="198" y="274" key="git4idea.ui.GitUnstashDialog/0.25.1440.875/-1920.-48.1920.1055@0.25.1440.875" timestamp="1681789849465" />
     <state x="198" y="274" key="git4idea.ui.GitUnstashDialog/0.25.1440.875@0.25.1440.875" timestamp="1675676236143" />
     <state width="600" height="400" key="javadoc.popup" timestamp="1676859703658">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
     <state width="600" height="400" key="javadoc.popup/0.25.1440.875/-1920.-48.1920.1055@0.25.1440.875" timestamp="1676859703658" />
-    <state x="424" y="246" key="refactoring.ChangeSignatureDialog" timestamp="1675732327161">
+    <state x="-1310" y="214" width="700" height="530" key="recent.locations.popup" timestamp="1681125842733">
+      <screen x="-1920" y="-48" width="1920" height="1055" />
+    </state>
+    <state x="-1310" y="214" width="700" height="530" key="recent.locations.popup/0.25.1440.875/-1920.-48.1920.1055@-1920.-48.1920.1055" timestamp="1681125842733" />
+    <state x="424" y="246" key="refactoring.ChangeSignatureDialog" timestamp="1681790501096">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
+    <state x="-1355" y="218" key="refactoring.ChangeSignatureDialog/0.25.1440.875/-1920.-48.1920.1055@-1920.-48.1920.1055" timestamp="1681440315267" />
+    <state x="424" y="246" key="refactoring.ChangeSignatureDialog/0.25.1440.875/-1920.-48.1920.1055@0.25.1440.875" timestamp="1681790501096" />
     <state x="424" y="246" key="refactoring.ChangeSignatureDialog/0.25.1440.875@0.25.1440.875" timestamp="1675732327161" />
-    <state x="406" y="46" width="976" height="471" key="search.everywhere.popup" timestamp="1677490609855">
-      <screen x="0" y="25" width="1440" height="875" />
+    <state x="-1379" y="-23" width="1302" height="568" key="search.everywhere.popup" timestamp="1682392808950">
+      <screen x="-1920" y="-48" width="1920" height="1055" />
     </state>
-    <state x="-1379" y="-23" width="1048" height="568" key="search.everywhere.popup/0.25.1440.875/-1920.-48.1920.1055@-1920.-48.1920.1055" timestamp="1669107018319" />
-    <state x="406" y="46" width="976" height="471" key="search.everywhere.popup/0.25.1440.875/-1920.-48.1920.1055@0.25.1440.875" timestamp="1677490609855" />
-    <state x="-1379" y="-47" width="1048" height="582" key="search.everywhere.popup/0.25.1440.875/-1920.-73.1920.1080@-1920.-73.1920.1080" timestamp="1670240185465" />
+    <state x="-1379" y="-23" width="1302" height="568" key="search.everywhere.popup/0.25.1440.875/-1920.-48.1920.1055@-1920.-48.1920.1055" timestamp="1682392808950" />
+    <state x="406" y="46" width="976" height="471" key="search.everywhere.popup/0.25.1440.875/-1920.-48.1920.1055@0.25.1440.875" timestamp="1681870986914" />
     <state x="406" y="46" width="942" height="169" key="search.everywhere.popup/0.25.1440.875@0.25.1440.875" timestamp="1677028273027" />
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateCodeFragment">
+      <expression>
+        <expression-string>comMallOrderService.listByOrderNos(null, orderNoList, null);</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>errorList.stream().map(BatchDeliveryExcelErrorVO::getOrderNo).collect(Collectors.toSet())</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>java.util.stream.Collectors</custom-info>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>errorList</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>row.getRowNum()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>row.getLastCellNum()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Row row = writeSheetHolder.getSheet()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Row row = writeSheetHolder.getSheet().getRow(13);</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Row row = writeSheetHolder.getSheet().getRow(12);</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Cell cell        = row.getCell(columnIndex);</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>EasyExcel.writerSheet().</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>row.getCell(columnIndex, Row.MissingCellPolicy.CREATE_NULL_AS_BLANK);</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>row.getCell(14)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>row.getCell(12)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>row.getCell(13)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>e.printStackTrace();</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Class.getResource(&quot;&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Thread.currentThread().getContextClassLoader().getResource(&quot;&quot;).getPath() + &quot;template&quot; + File.separator + &quot;online-delivery&quot; + File.separator + &quot;batchOnlineDeliveryImport.xlsx&quot;;</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Paths.get(&quot;src/main/resources/template&quot;, &quot;batchDeliveryExport.xlsx&quot;).toAbsolutePath().toString();;</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>java.nio.file.Paths,java.nio.file.Path</custom-info>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>String fileName = &quot;batchDeliveryExport.xlsx&quot;;
+Path path = Paths.get(&quot;src/main/resources/template&quot;, fileName);
+String absolutePath = path.toAbsolutePath().toString();</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>java.nio.file.Paths</custom-info>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>&quot;template&quot; + File.separator + &quot;batchDeliveryExport.xlsx&quot; g</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>ResourceUtils.getFile(&quot;template&quot; + File.separator + &quot;batchDeliveryExport.xlsx&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>org.springframework.util.ResourceUtils</custom-info>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>templateFileName=ResourceUtils.getFile(&quot;template&quot; + File.separator + &quot;batchDeliveryExport.xlsx&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>org.springframework.util.ResourceUtils</custom-info>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>System.getProperty(&quot;user.dir&quot;) + &quot;/src/main/resources/&quot;</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>cell.getRow().getCell(0).getStringCellValue()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>cell.getSheet().getRow(curRowIndex).getCell(curColIndex)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>cell.getSheet().getRow(curRowIndex)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>NoDeliveryOrderProductVO.getDeliverOrderDetailList()
         .stream()
@@ -1111,6 +1256,26 @@
     </expressions>
     <expressions id="setValue">
       <expression>
+        <expression-string>&quot;a123&quot;</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>&quot;/Users/IdeaProjects/mall-order/mall-order-web/src/main/resources/template/batchDeliveryExport.xlsx&quot;</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>&quot;/Users/IdeaProjects/mall-order/mall-order-dao/target/classes/template/batchDeliveryExport.xlsx&quot;</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>&quot;template/batchDeliveryExport.xlsx&quot;</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
         <expression-string>true</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
@@ -1138,255 +1303,242 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/util/order/impl/UtilOrderServiceImpl.java">
+    <entry file="file://$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/unify/common/impl/UnifyTokenServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75086">
-          <caret line="3494" column="18" selection-start-line="3494" selection-start-column="18" selection-end-line="3494" selection-end-column="18" />
+        <state relative-caret-position="353">
+          <caret line="225" column="60" selection-start-line="225" selection-start-column="54" selection-end-line="225" selection-end-column="60" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mall-order-bean/src/main/java/com/duofriend/mall/order/bean/express/DeliveryOrderProductVO.java">
+    <entry file="file://$PROJECT_DIR$/mall-order-web/src/main/java/com/duofriend/mall/order/controller/api/order/ApiPaySuccessController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1100">
-          <caret line="58" column="42" selection-start-line="58" selection-start-column="42" selection-end-line="58" selection-end-column="42" />
+        <state relative-caret-position="211">
+          <caret line="261" column="50" selection-start-line="261" selection-start-column="50" selection-end-line="261" selection-end-column="50" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mall-order-web/src/main/java/com/duofriend/mall/order/controller/unify/express/UnifyExpressController.java">
+    <entry file="file://$PROJECT_DIR$/mall-order-web/src/main/java/com/duofriend/mall/order/controller/api/auto/order/ApiTestGeneratorController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="311">
-          <caret line="41" column="45" lean-forward="true" selection-start-line="41" selection-start-column="45" selection-end-line="41" selection-end-column="45" />
+        <state relative-caret-position="211">
+          <caret line="64" column="54" selection-start-line="64" selection-start-column="54" selection-end-line="64" selection-end-column="54" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/common/express/IComExpressCompanyService.java">
+    <entry file="file://$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/util/async/AsyncReturnVideoService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="267">
-          <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+        <state relative-caret-position="189">
+          <caret line="56" column="26" selection-start-line="56" selection-start-column="26" selection-end-line="56" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/redis/constant/RedisConstant.java">
+    <entry file="file://$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/common/impl/ComOrderReturnServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="267">
-          <caret line="67" column="50" lean-forward="true" selection-start-line="67" selection-start-column="50" selection-end-line="67" selection-end-column="65" />
+        <state relative-caret-position="550">
+          <caret line="763" column="5" lean-forward="true" selection-start-line="763" selection-start-column="5" selection-end-line="763" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/common/express/impl/ComExpressCompanyServiceImpl.java">
+    <entry file="file://$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/common/impl/ComMallOrderReturnServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="311">
-          <caret line="32" column="37" selection-start-line="32" selection-start-column="37" selection-end-line="32" selection-end-column="37" />
+        <state relative-caret-position="211">
+          <caret line="38" column="13" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/redis/impl/RedisServiceImpl.java">
+    <entry file="file://$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/util/order/impl/UtilOrderStatusServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="443">
-          <caret line="115" column="28" lean-forward="true" selection-start-line="115" selection-start-column="28" selection-end-line="115" selection-end-column="28" />
+        <state relative-caret-position="2970">
+          <caret line="190" column="13" selection-start-line="190" selection-start-column="13" selection-end-line="190" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/../../Development/mavenRepostory/commons-lang/commons-lang/2.4/commons-lang-2.4-sources.jar!/org/apache/commons/lang/StringUtils.java">
+    <entry file="file://$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/thread/ThreadLocalUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="267">
-          <caret line="206" column="26" selection-start-line="206" selection-start-column="26" selection-end-line="206" selection-end-column="26" />
+        <state relative-caret-position="814">
+          <caret line="44" column="21" selection-start-line="44" selection-start-column="21" selection-end-line="44" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mall-order-entity/src/main/java/com/duofriend/mall/order/entity/express/MallExpressCompanyBus.java">
+    <entry file="file://$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/third/impl/ThMallStoreServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="23" column="26" lean-forward="true" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+        <state relative-caret-position="638">
+          <caret line="42" column="35" selection-start-line="42" selection-start-column="35" selection-end-line="42" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mall-order-dao/src/main/resources/mapper/express/MallExpressCompanyBusDAO.xml">
+    <entry file="file://$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/third/impl/ThMemberServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="726">
+          <caret line="72" column="36" selection-start-line="72" selection-start-column="36" selection-end-line="72" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mall-order-bean/src/main/java/com/duofriend/mall/order/bean/express/DeliverySecretKeyVO.java">
+    <entry file="file://$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/third/impl/ThBusUserServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="26" column="37" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="37" />
+        <state relative-caret-position="484">
+          <caret line="34" column="9" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/util/order/impl/UtilOrderDeliverServiceImpl.java">
+    <entry file="file://$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/common/impl/ComMallOrderServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="12760">
-          <caret line="673" column="63" selection-start-line="673" selection-start-column="63" selection-end-line="673" selection-end-column="63" />
+        <state relative-caret-position="10010">
+          <caret line="513" column="60" selection-start-line="513" selection-start-column="60" selection-end-line="513" selection-end-column="60" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/common/express/impl/ComExpressCompanyBusServiceImpl.java">
+    <entry file="file://$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/pc/order/impl/BatchDeliveryImportListener.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="32" column="16" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="16" />
+        <state relative-caret-position="1958">
+          <caret line="110" column="85" selection-start-line="110" selection-start-column="85" selection-end-line="110" selection-end-column="85" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/third/kdniao/KdniaoOnlineDTO.java">
+    <entry file="file://$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/rabbitmq/config/RabbitMqBeanConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="748">
-          <caret line="40" column="19" selection-start-line="40" selection-start-column="19" selection-end-line="40" selection-end-column="19" />
+        <state relative-caret-position="291">
+          <caret line="169" column="34" lean-forward="true" selection-start-line="169" selection-start-column="34" selection-end-line="169" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/util/importexport/strategy/BatchOrderExportStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-34" />
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-11.0.18/Contents/Home/lib/src.zip!/java.base/java/io/File.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="2171" column="23" selection-start-line="2171" selection-start-column="23" selection-end-line="2171" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-order-common/src/main/java/com/duofriend/mall/order/utils/FileUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="26" column="23" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/pc/order/impl/PcOrderPrintServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="1519" column="17" selection-start-line="1519" selection-start-column="17" selection-end-line="1519" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../Development/mavenRepostory/org/apache/poi/poi/3.17/poi-3.17-sources.jar!/org/apache/poi/ss/util/CellRangeAddress.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="44" column="23" selection-start-line="44" selection-start-column="23" selection-end-line="44" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../Development/mavenRepostory/com/alibaba/easyexcel/2.1.6/easyexcel-2.1.6-sources.jar!/com/alibaba/excel/write/executor/ExcelWriteAddExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="67" selection-start-line="67" selection-end-line="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../Development/mavenRepostory/com/alibaba/easyexcel/2.1.6/easyexcel-2.1.6-sources.jar!/com/alibaba/excel/util/WriteHandlerUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="187" column="48" selection-start-line="187" selection-start-column="48" selection-end-line="187" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-order-dao/src/main/java/com/duofriend/mall/order/dao/MallOrderDetailDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="101" column="26" selection-start-line="101" selection-start-column="26" selection-end-line="101" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/common/impl/ComMallOrderDetailServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7238">
-          <caret line="361" column="26" selection-start-line="361" selection-start-column="26" selection-end-line="361" selection-end-column="26" />
+        <state relative-caret-position="104">
+          <caret line="339" column="83" lean-forward="true" selection-start-line="339" selection-start-column="83" selection-end-line="339" selection-end-column="83" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/common/order/impl/ComOrderExpressServiceImpl.java">
+    <entry file="file://$PROJECT_DIR$/mall-order-dao/src/main/resources/mapper/MallOrderDetailDAO.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="968">
-          <caret line="91" column="38" selection-start-line="91" selection-start-column="38" selection-end-line="91" selection-end-column="38" />
+        <state relative-caret-position="409">
+          <caret line="194" column="29" selection-start-line="194" selection-start-column="29" selection-end-line="194" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/pc/order/IPcOrderExpressService.java">
+    <entry file="jar://$PROJECT_DIR$/../../Development/mavenRepostory/org/apache/poi/poi/3.17/poi-3.17-sources.jar!/org/apache/poi/ss/usermodel/Cell.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2266">
-          <caret line="133" column="22" selection-start-line="133" selection-start-column="22" selection-end-line="133" selection-end-column="22" />
+        <state relative-caret-position="211">
+          <caret line="401" column="9" selection-start-line="401" selection-start-column="9" selection-end-line="401" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../Development/mavenRepostory/com/alibaba/easyexcel/2.1.6/easyexcel-2.1.6-sources.jar!/com/alibaba/excel/util/StyleUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="47" column="28" selection-start-line="47" selection-start-column="28" selection-end-line="47" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../Development/mavenRepostory/com/alibaba/easyexcel/2.1.6/easyexcel-2.1.6-sources.jar!/com/alibaba/excel/write/style/HorizontalCellStyleStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="34" column="24" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-order-web/src/main/java/com/duofriend/mall/order/controller/pc/common/PcCommonImportExportController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="49" column="39" selection-start-line="49" selection-start-column="39" selection-end-line="49" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/util/importexport/strategy/BatchDeliveryExportStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="229" column="64" selection-start-line="229" selection-start-column="64" selection-end-line="229" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/util/importexport/ImportExportService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="95" lean-forward="true" selection-start-line="95" selection-end-line="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/util/importexport/RowWriterStrategy2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/util/importexport/strategy/BatchDeliveryImportStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="479">
+          <caret line="38" column="44" selection-start-line="38" selection-start-column="44" selection-end-line="38" selection-end-column="44" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/pc/order/impl/PcOrderExpressServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="865" column="92" lean-forward="true" selection-start-line="865" selection-start-column="92" selection-end-line="865" selection-end-column="92" />
+        <state relative-caret-position="748">
+          <caret line="1640" column="75" lean-forward="true" selection-start-line="1640" selection-start-column="75" selection-end-line="1640" selection-end-column="75" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mall-order-bean/src/main/java/com/duofriend/mall/order/bean/order/PCOrderExpressCondition.java">
+    <entry file="file://$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/util/importexport/DeliveryExcelStyle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="180" column="42" lean-forward="true" selection-start-line="180" selection-start-column="42" selection-end-line="180" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mall-order-bean/src/main/java/com/duofriend/mall/order/bean/order/ClerkOrderExpressCondition.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-945">
-          <caret line="233" column="24" selection-start-line="233" selection-start-column="24" selection-end-line="233" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mall-order-bean/src/main/java/com/duofriend/mall/order/bean/order/BeOrderDeliverBO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="91" column="24" selection-start-line="91" selection-start-column="24" selection-end-line="91" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/clerk/express/impl/ClerkOrderExpressServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="409">
-          <caret line="88" column="41" lean-forward="true" selection-start-line="88" selection-start-column="41" selection-end-line="88" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mall-order-web/src/main/java/com/duofriend/mall/order/controller/clerk/express/ClerkOrderExpressController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="428">
-          <caret line="212" column="5" lean-forward="true" selection-start-line="212" selection-start-column="5" selection-end-line="212" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../Development/mavenRepostory/org/apache/lucene/lucene-core/8.4.0/lucene-core-8.4.0-sources.jar!/org/apache/lucene/index/TermsHashPerField.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="29" column="15" selection-start-line="29" selection-start-column="15" selection-end-line="29" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../Development/mavenRepostory/com/duofriend/plugin/sdk/gt-plugin-sdk-account-api/7.1.5-SNAPSHOT/gt-plugin-sdk-account-api-7.1.5-20221213.022146-1-sources.jar!/com/duofriend/plugin/sdk/account/api/account/AccountSsoV2Api.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="267">
-          <caret line="112" column="30" selection-start-line="112" selection-start-column="30" selection-end-line="112" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/third/impl/ThAccountSsoServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1101">
-          <caret line="57" column="33" selection-start-line="57" selection-start-column="33" selection-end-line="57" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mall-order-bean/src/main/java/com/duofriend/mall/order/bean/importexport/BeImportExportVO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="267">
-          <caret line="67" column="23" selection-start-line="67" selection-start-column="23" selection-end-line="67" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/third/impl/ThCityServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mall-order-bean/src/main/java/com/duofriend/mall/order/bean/delivery/TemplateReceiptVO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="16" selection-start-line="16" selection-end-line="20" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mall-order-bean/src/main/java/com/duofriend/mall/order/bean/delivery/PrintRedirectAddress.java" />
-    <entry file="file://$PROJECT_DIR$/opt/data/cache-config/gt-mall-order/config-cache/gt-mall-order+default+duofriend.duofriend-sdk.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2794">
-          <caret line="134" column="31" selection-start-line="134" selection-start-column="31" selection-end-line="134" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/third/kdniao/impl/ThKdnServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1320">
-          <caret line="94" column="30" selection-start-line="94" selection-start-column="30" selection-end-line="94" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mall-order-web/src/main/java/com/duofriend/mall/order/controller/pc/statistics/PcStatIndexController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="814">
-          <caret line="49" column="31" selection-start-line="49" selection-start-column="31" selection-end-line="49" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/statistics/impl/ComStatOrderServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5016">
-          <caret line="286" column="76" selection-start-line="286" selection-start-column="76" selection-end-line="286" selection-end-column="76" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/pc/token/IPcTokenService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mall-order-bean/src/main/java/com/duofriend/mall/order/bean/order/BeOrderVO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="16" column="3" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
+        <state relative-caret-position="550">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1395,109 +1547,123 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mall-order-web/src/main/java/com/duofriend/mall/order/controller/pc/order/PcOrderExpressController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4642">
-          <caret line="307" column="5" selection-start-line="307" selection-start-column="5" selection-end-line="307" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="2134">
+          <caret line="149" column="33" selection-start-line="149" selection-start-column="33" selection-end-line="149" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/lang/String.java">
+    <entry file="jar://$PROJECT_DIR$/../../Development/mavenRepostory/com/duofriend/plugin/sdk/gt-plugin-sdk-delivery-api/7.2.0-SNAPSHOT/gt-plugin-sdk-delivery-api-7.2.0-20230330.070805-1-sources.jar!/com/duofriend/plugin/sdk/delivery/api/DeliveryV2Api.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26742">
-          <caret line="2939" column="34" selection-start-line="2939" selection-start-column="34" selection-end-line="2939" selection-end-column="34" />
+        <state relative-caret-position="686">
+          <caret line="69" column="25" selection-start-line="69" selection-start-column="25" selection-end-line="69" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/util/Formatter.java">
+    <entry file="jar://$PROJECT_DIR$/../../Development/mavenRepostory/com/duofriend/plugin/sdk/gt-plugin-sdk-delivery-api/7.2.0-SNAPSHOT/gt-plugin-sdk-delivery-api-7.2.0-20230330.070805-1-sources.jar!/com/duofriend/plugin/sdk/delivery/exception/DeliverySdkException.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4790">
-          <caret line="2492" column="66" selection-start-line="2492" selection-start-column="66" selection-end-line="2492" selection-end-column="66" />
+        <state relative-caret-position="374">
+          <caret line="28" column="56" selection-start-line="28" selection-start-column="56" selection-end-line="28" selection-end-column="56" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mall-order-common/src/main/java/com/duofriend/mall/order/utils/PropertiesUtil.java">
+    <entry file="jar://$PROJECT_DIR$/../../Development/mavenRepostory/com/duofriend/plugin/sdk/gt-plugin-sdk-common/7.2.0-SNAPSHOT/gt-plugin-sdk-common-7.2.0-20230330.070805-1-sources.jar!/com/duofriend/plugin/sdk/common/response/ResponseEnum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2244">
-          <caret line="147" column="5" selection-start-line="147" selection-start-column="5" selection-end-line="147" selection-end-column="5" />
+        <state relative-caret-position="630">
+          <caret line="47" column="19" selection-start-line="47" selection-start-column="19" selection-end-line="47" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/../../Development/mavenRepostory/com/duofriend/plugin/sdk/gt-plugin-sdk-member-api/7.1.5-SNAPSHOT/gt-plugin-sdk-member-api-7.1.5-20221214.083317-2.jar!/com/duofriend/plugin/sdk/member/api/MemberApi.class">
+    <entry file="jar://$PROJECT_DIR$/../../Development/mavenRepostory/com/duofriend/plugin/sdk/gt-plugin-sdk-common/7.2.0-SNAPSHOT/gt-plugin-sdk-common-7.2.0-20230330.070805-1-sources.jar!/com/duofriend/plugin/sdk/common/exception/GtSdkException.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="335" column="22" selection-start-line="335" selection-start-column="22" selection-end-line="335" selection-end-column="22" />
+        <state relative-caret-position="492">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mall-order-web/src/main/java/com/duofriend/mall/order/controller/api/auto/order/ApiOrderNameController.java">
+    <entry file="file://$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/pc/order/IPcOrderExpressService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2024">
-          <caret line="136" column="35" selection-start-line="136" selection-start-column="35" selection-end-line="136" selection-end-column="35" />
+        <state relative-caret-position="264">
+          <caret line="42" column="24" selection-start-line="42" selection-start-column="24" selection-end-line="42" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/common/order/IComUtil2ExpressService.java">
+    <entry file="file://$PROJECT_DIR$/mall-order-common/src/main/java/com/duofriend/mall/order/exception/MyException.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="31" column="27" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
+        <state relative-caret-position="462">
+          <caret line="22" column="11" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../Development/mavenRepostory/com/duofriend/plugin/sdk/gt-plugin-sdk-common/7.2.0-SNAPSHOT/gt-plugin-sdk-common-7.2.0-20230330.070805-1-sources.jar!/com/duofriend/plugin/sdk/common/exception/GtPluginException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="48" column="19" selection-start-line="48" selection-start-column="19" selection-end-line="48" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/third/cityDelivery/impl/ThCityDeliveryServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="105" column="5" lean-forward="true" selection-start-line="105" selection-start-column="5" selection-end-line="105" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/util/refund/impl/UtilOrderRefundStatusServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="515" column="16" selection-start-line="515" selection-start-column="16" selection-end-line="515" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-order-entity/src/main/java/com/duofriend/mall/order/entity/MallOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="95" column="31" selection-start-line="95" selection-start-column="20" selection-end-line="95" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-order-bean/src/main/java/com/duofriend/mall/order/bean/order/OrderItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/clerk/express/impl/ClerkOrderExpressServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="747">
+          <caret line="296" column="35" selection-start-line="296" selection-start-column="35" selection-end-line="296" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/common/order/IComUtilExpressService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="148" column="9" selection-start-line="148" selection-start-column="9" selection-end-line="148" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-order-entity/src/main/java/com/duofriend/mall/order/entity/dto/DeliveryNotificationDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="652">
+          <caret line="78" column="39" selection-start-line="78" selection-start-column="39" selection-end-line="78" selection-end-column="39" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mall-order-entity/src/main/java/com/duofriend/mall/order/entity/order/MallOrderExpress.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1914">
-          <caret line="99" column="19" selection-start-line="99" selection-start-column="19" selection-end-line="99" selection-end-column="19" />
+        <state relative-caret-position="327">
+          <caret line="69" column="20" selection-start-line="69" selection-start-column="20" selection-end-line="69" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/constant/OtherConstant.java">
+    <entry file="file://$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/common/order/impl/ComUtilExpressServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1540">
-          <caret line="73" column="32" selection-start-line="73" selection-start-column="32" selection-end-line="73" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mall-order-entity/src/main/java/com/duofriend/mall/order/entity/order/MallOrderDeliverSeparately.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mall-order-bean/src/main/java/com/duofriend/mall/order/bean/order/BePrintBO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mall-order-bean/src/main/java/com/duofriend/mall/order/bean/statistics/BeStatProData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9790">
-          <caret line="451" column="28" selection-start-line="451" selection-start-column="28" selection-end-line="451" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/util/community/impl/UtilCommunityServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21978">
-          <caret line="1072" column="60" selection-start-line="1072" selection-start-column="60" selection-end-line="1072" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mall-order-bean/src/main/java/com/duofriend/mall/order/bean/express/OrderExpressNoVO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="34" column="35" selection-start-line="34" selection-start-column="35" selection-end-line="34" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mall-order-service/src/main/java/com/duofriend/mall/order/service/common/order/impl/ComUtil2ExpressServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
-          <caret line="59" column="5" lean-forward="true" selection-start-line="59" selection-start-column="5" selection-end-line="59" selection-end-column="5" />
+        <state relative-caret-position="363">
+          <caret line="1192" column="18" lean-forward="true" selection-start-line="1192" selection-start-column="14" selection-end-line="1192" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1509,7 +1675,11 @@
           <artifact-editor />
         </settings>
       </state>
-      <state key="FacetStructureConfigurable.UI" />
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>JRebel</last-edited>
+        </settings>
+      </state>
       <state key="GlobalLibrariesConfigurable.UI" />
       <state key="JdkListConfigurable.UI">
         <settings>
@@ -1518,12 +1688,11 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>mall-order-generator</last-edited>
+          <last-edited>mall-order-web</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -1531,14 +1700,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Maven: com.duofriend.plugin.sdk:gt-plugin-sdk-entity:7.1.5-SNAPSHOT</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
+          <last-edited>Maven: aopalliance:aopalliance:1.0</last-edited>
         </settings>
       </state>
     </states>

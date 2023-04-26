@@ -121,18 +121,6 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="/Users/IdeaProjects/Mall_new_eticket 2">
-          <value>
-            <RecentProjectMetaInfo frameTitle="Mall_new_eticket 2 – pom.xml (parent)" projectWorkspaceId="1chSFiCk9OirJaIImO0yQaTVhLT">
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="IU-212.5284.40" />
-              <option name="buildTimestamp" value="1631597496715" />
-              <frame x="322" y="325" width="800" height="575" />
-              <option name="productionCode" value="IU" />
-              <option name="projectOpenTimestamp" value="1646894250598" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
         <entry key="/Users/IdeaProjects/CodeDesignTutorials">
           <value>
             <RecentProjectMetaInfo frameTitle="CodeDesignTutorials – tutorials-2.6-1/…/ApiTest.java" projectWorkspaceId="2769GlIWWTvrYxghKmAWMupLt4K">
@@ -183,46 +171,46 @@
         </entry>
         <entry key="/Users/IdeaProjects/GT-Plugin-Spring-Boot-Starter">
           <value>
-            <RecentProjectMetaInfo frameTitle="gt-plugin-starter – AccountAddrV3ApiTest.java [gt-plugin-sdk-account-api]" projectWorkspaceId="1chtiJgmYZIKQwW7P3z6rcisYVe">
-              <option name="activationTimestamp" value="1677466409572" />
+            <RecentProjectMetaInfo frameTitle="MemberApi.java [gt-plugin-sdk-member-api]" projectWorkspaceId="1chtiJgmYZIKQwW7P3z6rcisYVe">
+              <option name="activationTimestamp" value="1681701333561" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="IU-222.4459.24" />
-              <option name="buildTimestamp" value="1669110151391" />
+              <option name="build" value="IU-231.8109.175" />
+              <option name="buildTimestamp" value="1680000270459" />
               <frame x="0" y="25" width="1440" height="875" extendedState="6" />
               <option name="productionCode" value="IU" />
-              <option name="projectOpenTimestamp" value="1677466408869" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
-        <entry key="/Users/IdeaProjects/mall-order">
-          <value>
-            <RecentProjectMetaInfo frameTitle="mall-order – ComUtil2ExpressServiceImpl.java [mall-order-service]" projectWorkspaceId="1fZM4pv5jTUidP8Sko7trW1TQAi">
-              <option name="activationTimestamp" value="1677490599507" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="IU-222.4459.24" />
-              <option name="buildTimestamp" value="1669110174176" />
-              <frame x="0" y="25" width="1440" height="875" extendedState="6" />
-              <option name="productionCode" value="IU" />
-              <option name="projectOpenTimestamp" value="1677489388287" />
+              <option name="projectOpenTimestamp" value="1681456974845" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
         <entry key="/Users/IdeaProjects/Mall_new_eticket">
           <value>
-            <RecentProjectMetaInfo frameTitle="Mall_new_eticket – UnifyOrderServiceImpl.java [mall-service-uc]" opened="true" projectWorkspaceId="1chSFiCk9OirJaIImO0yQaTVhLT">
-              <option name="activationTimestamp" value="1677684637402" />
+            <RecentProjectMetaInfo frameTitle="Mall_new_eticket – ComFreightPriceServiceImpl.java [mall-service-common]" projectWorkspaceId="1chSFiCk9OirJaIImO0yQaTVhLT">
+              <option name="activationTimestamp" value="1682327740826" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="IU-222.4459.24" />
-              <option name="buildTimestamp" value="1669110148846" />
-              <frame x="0" y="25" width="1440" height="875" extendedState="6" />
+              <option name="buildTimestamp" value="1669110147249" />
+              <frame x="-1920" y="-48" width="1920" height="1055" extendedState="6" />
               <option name="productionCode" value="IU" />
-              <option name="projectOpenTimestamp" value="1677635097818" />
+              <option name="projectOpenTimestamp" value="1682327748648" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="/Users/IdeaProjects/mall-order">
+          <value>
+            <RecentProjectMetaInfo frameTitle="mall-order – GtPluginException.java [Maven: com.duofriend.plugin.sdk:gt-plugin-sdk-common:7.2.0-SNAPSHOT]" opened="true" projectWorkspaceId="1fZM4pv5jTUidP8Sko7trW1TQAi">
+              <option name="activationTimestamp" value="1682492486825" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-222.4459.24" />
+              <option name="buildTimestamp" value="1669110147249" />
+              <frame x="-1920" y="-48" width="1920" height="1055" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1682327756098" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="/Users/IdeaProjects/Mall_new_eticket" />
+    <option name="lastOpenedProject" value="/Users/IdeaProjects/mall-order" />
     <option name="lastProjectLocation" value="/Users/IdeaProjects" />
   </component>
 </application>

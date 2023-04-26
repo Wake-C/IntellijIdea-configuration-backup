@@ -77,3 +77,13 @@ WHERE
 select order_status from t_mall_order where  order_no='SC250504068857888';
 ;-- -. . -..- - / . -. - .-. -.--
 select bus_user_id from t_mall_order where  order_no='SC250504068857888';
+;-- -. . -..- - / . -. - .-. -.--
+SELECT
+    take_id
+FROM
+    t_mall_take_their_store
+where
+        store_id = 250504026914969
+  and is_del = 0
+order by
+    take_id desc;

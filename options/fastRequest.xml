@@ -104,6 +104,15 @@
         </DataMapping>
       </list>
     </option>
+    <option name="eual" value="true" />
     <option name="randomStringLength" value="5" />
+    <option name="statisticsList">
+      <list>
+        <YearStatistics>
+          <option name="totalActionCount" value="3" />
+          <option name="year" value="2023" />
+        </YearStatistics>
+      </list>
+    </option>
   </component>
 </application>

@@ -334,27 +334,28 @@
         "contain_directories" : [ "{enum#boolean}" ],
         "contain_files" : [ "{enum#boolean}" ],
         "contains_roots" : [ "{enum#boolean}" ],
-        "driver_type" : [ "{enum#__driver_type}" ],
+        "driver_type" : [ "{enum#__connection_driver_types}" ],
         "errors_count" : [ "{regexp#integer}" ],
         "expanded_rows" : [ "{regexp#integer}" ],
         "file_extension" : [ "{enum#__file_extensions}" ],
         "file_extensions" : [ "{enum#__file_extensions}" ],
-        "file_size" : [ "{enum#__file_sizes}" ],
+        "file_size" : [ "{enum#__file_sizes}", "{enum#__file_size}" ],
         "file_sizes" : [ "{enum#__file_sizes}" ],
         "has_meta" : [ "{enum#boolean}" ],
         "is_directory" : [ "{enum#boolean}" ],
-        "nodes_count" : [ "{enum#__nodes_count}" ],
+        "nodes_count" : [ "{enum#__nodes_count}", "{enum:6-25|51-200|2-5|26-50}" ],
         "success" : [ "{enum#boolean}" ],
         "target_connection_id" : [ "AWS_S3@S3ConnectionGroup@-{regexp#integer}", "AWS_S3@S3ConnectionGroup@{regexp#integer}", "HDFS@HdfsJavaConnectionGroup@{regexp#integer}", "HDFS@HdfsJavaConnectionGroup@-{regexp#integer}", "Local@RfsLocalConnectionGroup@{regexp#integer}", "Local@RfsLocalConnectionGroup@-{regexp#integer}", "GS@GCSConnectionGroup@-{regexp#integer}", "GS@GCSConnectionGroup@{regexp#integer}", "Google Cloud Storage@GCSConnectionGroup@-{regexp#integer}", "Google Cloud Storage@GCSConnectionGroup@{regexp#integer}", "Azure@AzureConnectionGroup@{regexp#integer}", "Azure@AzureConnectionGroup@-{regexp#integer}", "Minio@MinioConnectionGroup@{regexp#integer}", "Minio@MinioConnectionGroup@-{regexp#integer}", "Linode@LinodeConnectionGroup@{regexp#integer}", "Linode@LinodeConnectionGroup@-{regexp#integer}", "Digital_Ocean_Spaces@DigitalOceanSpacesGroup@{regexp#integer}", "Digital_Ocean_Spaces@DigitalOceanSpacesGroup@-{regexp#integer}", "Alibaba OSS@AlibabaOssConnectionGroup@-{regexp#integer}", "Alibaba OSS@AlibabaOssConnectionGroup@{regexp#integer}", "SFTP connection@SftpConnections@-{regexp#integer}", "SFTP connection@SftpConnections@{regexp#integer}", "Yandex Object Storage@YandexConnectionGroup@-{regexp#integer}", "Yandex Object Storage@YandexConnectionGroup@{regexp#integer}" ],
-        "target_driver_type" : [ "{enum#__driver_type}" ]
+        "target_driver_type" : [ "{enum#__target_driver_type}" ]
       },
       "enums" : {
-        "__connection_driver_types" : [ "s3", "hdfs", "gcs", "sftp", "azure", "linode", "minio", "ceph", "do_spaces", "alibabaOSS", "yandexCloud", "local", "alibaba_OSS" ],
-        "__driver_type" : [ "s3", "local", "hdfs", "gcs", "sftp", "azure", "linode", "minio", "ceph", "do_spaces", "alibabaOSS", "yandexCloud" ],
+        "__connection_driver_types" : [ "s3", "local", "hdfs", "gcs", "sftp", "azure", "linode", "minio", "ceph", "do_spaces", "alibabaOSS", "yandexCloud", "S3", "DATABRICKS", "LINODE", "GOOGLE_CLOUD_STORAGE", "MINIO", "HDFS", "SFTP", "ALIBABA_OSS", "HADOOP_MONITORING", "HIVE_METASTORE", "EMR", "YANDEX_STORAGE", "AZURE", "ZEPPELIN", "GLUE", "TEST", "SPARK_MONITORING", "LOCAL", "KAFKA", "DIGITAL_SPACES_OCEAN", "FLINK", "TENCENT_COS", "alibaba_OSS" ],
         "__event_id" : [ "action.copy.file.path", "action.delete", "action.mkdir", "action.move", "action.refresh", "action.rename", "action.save.to.disk", "action.show.in.file.manager", "connection.refreshed", "copy.paste", "drag.and.drop", "file.viewer.opened", "panel.refreshed", "rows.expanded", "action.show.file.info", "action.upload.from.disk" ],
         "__file_extensions" : [ "csv", "no_extension", "parquet", "orc", "tsv", "json", "sequence", "avro", "unknown" ],
+        "__file_size" : [ "RANGE_0_0", "RANGE_100M_1G", "RANGE_1M_10M", "RANGE_10M_100M", "RANGE_1_1K", "RANGE_1K_10K", "RANGE_10K_1M", "RANGE_OVER_1G" ],
         "__file_sizes" : [ "0", "1_1k", "1k_10k", "10k_1m", "1m_10m", "10m_100m", "100m_1g", "over_1g" ],
-        "__nodes_count" : [ "1", "2_5", "6_25", "26_50", "51_200", "201_more" ]
+        "__nodes_count" : [ "1", "2_5", "6_25", "26_50", "51_200", "201_more" ],
+        "__target_driver_type" : [ "s3", "hdfs", "local", "gcs", "sftp", "azure", "linode", "minio", "ceph", "do_spaces", "alibabaOSS", "yandexCloud", "S3", "DATABRICKS", "LINODE", "GOOGLE_CLOUD_STORAGE", "MINIO", "HDFS", "SFTP", "ALIBABA_OSS", "HADOOP_MONITORING", "HIVE_METASTORE", "EMR", "YANDEX_STORAGE", "AZURE", "ZEPPELIN", "GLUE", "TEST", "SPARK_MONITORING", "LOCAL", "KAFKA", "DIGITAL_SPACES_OCEAN", "FLINK", "TENCENT_COS" ]
       }
     }
   }, {
@@ -517,7 +518,7 @@
         "count_maven" : [ "{regexp#integer}" ],
         "count_total" : [ "{regexp#integer}" ],
         "driver_type" : [ "{enum#__driver_type}", "{enum:unknown}" ],
-        "interpreter_type" : [ "{enum#__interpreter_type}", "{enum:spark|md}" ],
+        "interpreter_type" : [ "{enum#__interpreter_type}" ],
         "interpreters_count_custom_id" : [ "{regexp#integer}" ],
         "interpreters_count_custom_name" : [ "{regexp#integer}" ],
         "interpreters_count_total" : [ "{regexp#integer}" ],
@@ -527,7 +528,7 @@
       "enums" : {
         "__driver_type" : [ "postgres", "mysql", "mariadb", "redshift", "hive", "phoenix", "tajo" ],
         "__event_id" : [ "list.get", "list.get.no.rights", "interpreter.dependencies.used", "interpreter.used", "jdbc.driver.used" ],
-        "__interpreter_type" : [ "spark", "md angular", "sh", "livy", "alluxio", "file", "flink", "python", "ignite", "lens", "cassandra", "kylin", "elasticsearch", "jdbc", "hbase", "bigquery", "pig", "groovy", "neo4j", "sap", "athena", "default", "unknown" ]
+        "__interpreter_type" : [ "spark", "md", "angular", "sh", "livy", "alluxio", "file", "flink", "python", "ignite", "lens", "cassandra", "kylin", "elasticsearch", "jdbc", "hbase", "bigquery", "pig", "groovy", "neo4j", "sap", "athena", "default", "unknown" ]
       }
     }
   }, {
@@ -866,6 +867,19 @@
       }
     }
   }, {
+    "id" : "cloud.tools",
+    "builds" : [ ],
+    "versions" : [ {
+      "from" : "1"
+    } ],
+    "rules" : {
+      "event_id" : [ "{enum:tool.installed|config.exists}" ],
+      "event_data" : {
+        "config" : [ "{enum:kubeconfig}" ],
+        "tool" : [ "{enum:docker|helm|kubectl|minikube|podman|telepresence|terraform|ansible}", "{enum:packer|kind|pulumi|skaffold}", "{enum:tfswitch}" ]
+      }
+    }
+  }, {
     "id" : "commit.interactions",
     "builds" : [ ],
     "versions" : [ {
@@ -911,10 +925,19 @@
         "additional.full_line.added" : [ "{enum#boolean}" ],
         "additional.full_line.enabled" : [ "{enum#boolean}" ],
         "additional.full_line.finished" : [ "{enum#boolean}" ],
+        "additional.full_line.items_analyzed" : [ "{regexp#integer}" ],
         "additional.full_line.items_generated" : [ "{regexp#integer}" ],
+        "additional.full_line.items_invalid_critical" : [ "{regexp#integer}" ],
+        "additional.full_line.items_invalid_syntax" : [ "{regexp#integer}" ],
+        "additional.full_line.items_invalid_total" : [ "{regexp#integer}" ],
+        "additional.full_line.items_not_analyzed_timeout" : [ "{regexp#integer}" ],
+        "additional.full_line.items_not_analyzed_unknown" : [ "{regexp#integer}" ],
         "additional.full_line.items_proposed" : [ "{regexp#integer}" ],
         "additional.full_line.selected" : [ "{enum#boolean}" ],
         "additional.full_line.selected_score" : [ "{regexp#float}" ],
+        "additional.full_line.selected_semantic_state" : [ "{enum:CORRECT|UNKNOWN|INCORRECT_ACCEPTABLE|INCORRECT_CRITICAL}" ],
+        "additional.full_line.selected_suffix_length" : [ "{regexp#integer}" ],
+        "additional.full_line.selected_syntax_state" : [ "{enum:CORRECT|UNKNOWN|INCORRECT_ACCEPTABLE|INCORRECT_CRITICAL}" ],
         "additional.full_line.started" : [ "{enum#boolean}" ],
         "additional.full_line.tracked" : [ "{enum#boolean}" ],
         "additional.full_line.version" : [ "{regexp#version}" ],
@@ -1013,11 +1036,13 @@
         "hide_fully_covered" : [ "{enum#boolean}" ],
         "includes" : [ "{regexp#integer}" ],
         "loaded_classes" : [ "{regexp#integer}" ],
-        "runner" : [ "{enum:emma|jacoco|idea}", "{enum:IJCSampling|IJCTracing|IJCTracingTestTracking|JaCoCo|Emma}" ],
+        "runner" : [ "{enum:emma|jacoco|idea}", "{enum#__runner}", "{enum:IJCSampling|IJCTracing|IJCTracingTestTracking|JaCoCo|Emma}" ],
+        "runners" : [ "{enum:idea|jacoco|Emma|PhpCoverage|utPlSqlCoverageRunner|JestJavaScriptTestRunnerCoverage|rcov|DartCoverageRunner|WipCoverageRunner|VitestJavaScriptTestRunnerCoverage|jacoco_xml_report|MochaJavaScriptTestRunnerCoverage|GoCoverage|KarmaJavaScriptTestRunnerCoverage|coverage.py}" ],
         "show_only_modified" : [ "{enum#boolean}" ]
       },
       "enums" : {
-        "__event_id" : [ "html.generated", "report.loaded", "started", "report.built", "view.opened" ]
+        "__event_id" : [ "html.generated", "report.loaded", "started", "report.built", "view.opened", "report.imported" ],
+        "__runner" : [ "PhpCoverage", "WipCoverageRunner", "utPlSqlCoverageRunner", "VitestJavaScriptTestRunnerCoverage", "jacoco_xml_report", "JestJavaScriptTestRunnerCoverage", "MochaJavaScriptTestRunnerCoverage", "rcov", "GoCoverage", "KarmaJavaScriptTestRunnerCoverage", "DartCoverageRunner", "coverage.py" ]
       }
     }
   }, {
@@ -1153,6 +1178,7 @@
       "event_id" : [ "{enum:finished}" ],
       "event_data" : {
         "duration_ms" : [ "{regexp#integer}" ],
+        "entireFileHighlighted" : [ "{enum#boolean}" ],
         "errors" : [ "{regexp#integer}" ],
         "file_type" : [ "{util#file_type}" ],
         "lines" : [ "{regexp#integer}" ],
@@ -1392,6 +1418,20 @@
       "event_id" : [ "{enum:start|stop}" ],
       "event_data" : {
         "group" : [ "{regexp#integer}" ]
+      }
+    }
+  }, {
+    "id" : "defender",
+    "builds" : [ ],
+    "versions" : [ {
+      "from" : "1"
+    } ],
+    "rules" : {
+      "event_id" : [ "{enum:protection|auto_config|notification}" ],
+      "event_data" : {
+        "reaction" : [ "{enum:Auto|Manual|ProjectMute|GlobalMute}" ],
+        "status" : [ "{enum:Skipped|Enabled|Disabled|Error}" ],
+        "success" : [ "{enum#boolean}" ]
       }
     }
   }, {
@@ -1820,6 +1860,21 @@
       "event_id" : [ "{enum:statistics.test.mode.enabled|team.city.version.detected}" ]
     }
   }, {
+    "id" : "experimental.ui.interactions",
+    "builds" : [ ],
+    "versions" : [ {
+      "from" : "1"
+    } ],
+    "rules" : {
+      "event_id" : [ "{enum:switch.ui|meet.new.ui.switch_theme|meet.new.ui.action}" ],
+      "event_data" : {
+        "action" : [ "{enum:NEW_UI_LINK|DENSITY_CLEAN|DENSITY_COMPACT}" ],
+        "exp_ui" : [ "{enum#boolean}" ],
+        "switch_source" : [ "{enum:ENABLE_NEW_UI_ACTION}", "{enum:WELCOME_PROMO|DISABLE_NEW_UI_ACTION}", "{enum:WHATS_NEW_PAGE}" ],
+        "theme_name" : [ "{enum#look_and_feel}" ]
+      }
+    }
+  }, {
     "id" : "external.project.task",
     "builds" : [ ],
     "versions" : [ {
@@ -2116,7 +2171,9 @@
       "event_id" : [ "{enum#__event_id}" ],
       "event_data" : {
         "connector" : [ "{enum:unknown|cwm.connector|space.connector|ssh.connector}", "{enum:gitpod.connector}", "{enum:google.cloud.connector}", "{enum:LinkedClientProxyingConnector|WslConnector}", "{enum:WorkstationsConnector|CawsConnector|GitpodConnector|CodespacesConnector}", "{enum:SshConnector|SpaceGatewayConnector|CodeWithMeConnector|WslConnector}" ],
+        "connectorProvider" : [ "{util#class_name}" ],
         "duration_ms" : [ "{regexp#integer}" ],
+        "emptyPassword" : [ "{enum#boolean}" ],
         "ide_activity_id" : [ "{regexp#integer}" ],
         "installationSource" : [ "{enum:CustomLink|LocalArchive|SuggestionList}" ],
         "installation_result" : [ "{enum:Success|Error|IncompatibleVersion}" ],
@@ -2138,10 +2195,11 @@
         "productId" : [ "{enum:unknown|IU|RM|PY|DS|PS|WS|CL|RD|GO}", "{enum:IC}", "{enum:FLL}" ],
         "projectsPerHost" : [ "{regexp#integer}" ],
         "projectsPerWslInstance" : [ "{regexp#integer}" ],
+        "savePassUntilRestart" : [ "{enum#boolean}" ],
         "sshAuthType" : [ "{enum:unknown|Password|Key pair (OpenSSH or PuTTY)|OpenSSH config and authentication agent|PASSWORD|OPEN_SSH|KEY_PAIR}" ]
       },
       "enums" : {
-        "__event_id" : [ "full.deploy.cycle.activity.started", "full.deploy.cycle.activity.finished", "download.ide.backend.activity.started", "download.ide.backend.activity.finished", "otherOptions.clicked", "useOldBackend.clicked", "openSshTerminal.clicked", "uploadInstaller.clicked", "useNewBackend.clicked", "documentation.clicked", "useDownloadLink.clicked", "checkConnectionAndContinue.clicked", "connect.clicked", "gtwFromStandaloneIde.started", "install_plugin", "ssh.auth.type.selected", "recent.ssh.projects.opened", "projects.per.host.registered", "JBInstaller.clicked", "backend.changed", "checking.connection.activity.finished", "checking.connection.activity.started", "connection.changed", "installation.source.selected", "projects.per.wsl.instance.registered", "recent.wsl.projects.opened", "openSettings.clicked", "leave_panel", "backButton.clicked", "plugin.documentation.clicked", "plugin.install.clicked" ]
+        "__event_id" : [ "full.deploy.cycle.activity.started", "full.deploy.cycle.activity.finished", "download.ide.backend.activity.started", "download.ide.backend.activity.finished", "otherOptions.clicked", "useOldBackend.clicked", "openSshTerminal.clicked", "uploadInstaller.clicked", "useNewBackend.clicked", "documentation.clicked", "useDownloadLink.clicked", "checkConnectionAndContinue.clicked", "connect.clicked", "gtwFromStandaloneIde.started", "install_plugin", "ssh.auth.type.selected", "recent.ssh.projects.opened", "projects.per.host.registered", "JBInstaller.clicked", "backend.changed", "checking.connection.activity.finished", "checking.connection.activity.started", "connection.changed", "installation.source.selected", "projects.per.wsl.instance.registered", "recent.wsl.projects.opened", "openSettings.clicked", "leave_panel", "backButton.clicked", "plugin.documentation.clicked", "plugin.install.clicked", "select.different.ide.clicked", "recents.gear.clicked", "manage.backends.clicked", "openProject.clicked", "newProject.clicked", "connectToHost.clicked", "remove.host.clicked", "connect.provider.clicked", "openSshTerminal.recents.clicked", "different.ide.toggle.clicked", "remove.from.recents.clicked", "authenticate.clicked", "authenticate.dialog.ok.clicked", "authenticate.dialog.cancel.clicked" ]
       }
     }
   }, {
@@ -2292,7 +2350,7 @@
       "from" : "1"
     } ],
     "rules" : {
-      "event_id" : [ "{enum:code.author.clicked|usages.clicked}" ],
+      "event_id" : [ "{enum:code.author.clicked|usages.clicked|implementations.clicked}" ],
       "event_data" : {
         "location" : [ "{enum:const|var|type|function|method}" ]
       }
@@ -3147,7 +3205,7 @@
         "version" : [ "{regexp#version}" ]
       },
       "enums" : {
-        "libraries" : [ "activemq", "activiti", "aeron", "akka-actor-typed", "akka-http", "akka-java", "akka-stream", "algebird", "allure1", "allure2", "androidx-compose", "apache-bval", "apache-camel", "apache-cayenne", "apache-collections", "apache-deltaspike", "apache-deltaspike-data", "apache-dubbo", "apache-flink", "apache-hc", "apache-http", "apache-ignite", "apache-mina", "apache-pdfbox", "apache-poi", "apache-pulsar", "apache-rocketmq", "apache-shiro", "apache-spark", "apache-thrift", "apache-tiles", "apollo", "appium", "armeria", "arquillian", "arrowkt", "asm", "aspectj", "async-http-client", "atlas", "avro", "aws-s3", "aws-sdk", "aws-sqs", "awspring", "axonframework", "axoniq", "blade", "breeze", "bytebuddy", "caliban", "camunda", "cats", "cats-effect", "chimney", "chisel3", "circe", "citrus", "clikt", "coherence", "consul", "corda", "coroutineworker", "crashkios", "cucumber", "dagger", "datanucleus-jpa", "debezium", "decompose", "deequ", "delta-core", "documents4j", "dokka", "doobie", "doodle", "drools", "dropwizard", "easymock", "ebean", "eclipse-collections", "eclipselink", "eclipselink-jpa", "ehcache", "elastic4s", "elasticmq", "eureka", "exposed", "fastutil", "finagle", "finatra", "firebase-kotlin-sdk", "flexy-pool", "flowable", "fluentlenium", "flyway", "freemarker", "fritz2", "fs2", "fuel", "gatling", "gauge-java", "geb", "google-cloud-pubsub", "google-http-java-client", "gorm", "grails", "graphql-java", "graphql-kotlin", "groovy", "gson", "guice", "gwt", "h2", "hazelcast", "helidon", "hexagonkt", "hibernate", "hibernate-envers", "hibernate-reactive", "hibernate-validator", "hikaricp", "htmlelements", "http4k", "http4s", "hystrix", "infinispan", "io.grpc", "itextpdf", "jackson", "jaegertracing", "jakarta-batch", "jakarta-cdi", "jakarta-ejb", "jakarta-jms", "jakarta-jpa", "jakarta-jsf", "jakarta-nosql", "jakarta-rs", "jakarta-validation", "jakarta-websocket", "jakarta-ws", "java-swing", "java-websocket", "javafx", "javalin", "javax-batch", "javax-cdi", "javax-ejb", "javax-jms", "javax-jpa", "javax-jsf", "javax-rs", "javax-validation", "javax-websocket", "jbehave", "jbpm", "jdbi", "jdi-light", "jedis", "jetbrains-annotations", "jetbrains-compose", "jhipster", "jmockit", "jodd-db", "jooby", "jooq", "js-externals", "json4s", "jsoniter-scala", "jsonpath", "jsoup", "junit", "junit5", "kafka", "karate", "klaxon", "klock", "kodein", "kodein-db", "kodein-di", "koin", "korge", "kotest", "kotless", "kotlin", "kotlin-material-ui", "kotlin-test", "kotlinx-benchmark", "kotlinx-browser", "kotlinx-cli", "kotlinx-collections-immutable", "kotlinx-coroutines", "kotlinx-datetime", "kotlinx-html", "kotlinx-io", "kotlinx-serialization", "ktlint", "ktor", "ktorm", "kvision", "lagom", "laminar", "liquibase", "log4j", "logback", "lombok", "lucene", "macwire", "magnolia", "mapstruct", "micrometer", "micronaut", "microprofile", "mleap", "mockito", "mockk", "mockserver", "moko-mvvm", "monix", "monocle", "multik", "multiplatform-settings", "munit", "mvikotlin", "mybatis", "napier", "netty", "npm-publish", "okhttp3", "okio", "opencv", "openfeign", "openjpa", "opentelemetry", "opentracing", "optaplanner", "osgi", "play", "play-json", "playwright-java", "protobuf", "pureconfig", "quarkus", "quarkus-qute", "quartz", "querydsl", "quill", "r2dbc", "rabbitmq", "rabbitmq-java-client", "reactor", "reaktive", "refined", "resilience4j", "restassured", "retrofit2", "robotframework", "rsocket-java", "rsocket-kotlin", "rxdownload", "rxjava", "rxjava3", "rxkotlin", "sangria", "scala", "scala-async", "scalacheck", "scalafx", "scalalikejdbc", "scalameta", "scalamock", "scalapb", "scalatest", "scalatra", "scalaz", "scio", "selenide", "selenium", "serenity", "shapeless", "skunk", "slf4j", "slick", "smallrye-mutiny", "spark", "specs2", "spek", "spire", "spock", "spring-amqp", "spring-batch", "spring-boot", "spring-cloud", "spring-cloud-gateway", "spring-cloud-kubernetes", "spring-cloud-openfeign", "spring-cloud-retrofit", "spring-cloud-stream", "spring-core", "spring-data-commons", "spring-data-hadoop", "spring-data-jdbc-ext", "spring-data-jpa", "spring-data-mongo", "spring-data-neo4j", "spring-data-r2dbc", "spring-data-rest", "spring-data-solr", "spring-graphql", "spring-integration", "spring-integration-amqp", "spring-kafka", "spring-osgi", "spring-security", "spring-security-oauth2", "spring-session", "spring-web", "spring-webflow", "spring-webflux", "spring-websocket", "spring-ws", "springfox", "sqldelight", "stately", "streamex", "struts2", "sttp", "swagger-v2", "swagger-v3", "tapestry5", "tapir", "testcontainers", "testng", "thymeleaf", "tornadofx", "twitter-server", "twitter-util", "unfiltered", "unirest", "upickle", "utest", "vaadin-flow", "vavr", "velocity", "vertx", "webtau", "weld", "wiremock", "xmlgraphics", "zio", "zio-test", "zipkin2", "zookeeper", "zuul" ]
+        "libraries" : [ "activemq", "activemq-client", "activiti", "activiti-bpm", "aeron", "akka-actor", "akka-actor-typed", "akka-http", "akka-java", "akka-stream", "algebird", "allure1", "allure2", "amazon-sqs", "androidx-compose", "apache-bval", "apache-camel", "apache-cayenne", "apache-collections", "apache-deltaspike", "apache-deltaspike-data", "apache-dubbo", "apache-flink", "apache-hc", "apache-http", "apache-ignite", "apache-mina", "apache-pdfbox", "apache-poi", "apache-pulsar", "apache-rocketmq", "apache-shiro", "apache-spark", "apache-thrift", "apache-tiles", "apollo", "appium", "armeria", "arquillian", "arrowkt", "asm", "aspectj", "async-http-client", "atlas", "avro", "aws-s3", "aws-sdk", "aws-sqs", "awspring", "axonframework", "axoniq", "blade", "breeze", "bytebuddy", "caliban", "camunda", "camunda-bpm", "cats", "cats-effect", "chimney", "chisel3", "circe", "citrus", "clikt", "coherence", "consul", "corda", "coroutineworker", "crashkios", "cucumber", "dagger", "datanucleus-jpa", "debezium", "decompose", "deequ", "delta-core", "documents4j", "dokka", "doobie", "doodle", "drools", "dropwizard", "easymock", "ebean", "eclipse-collections", "eclipselink", "eclipselink-jpa", "ehcache", "elastic4s", "elasticmq", "eureka", "exposed", "fastutil", "finagle", "finatra", "firebase-kotlin-sdk", "flexy-pool", "flowable", "flowable-bpm", "fluentlenium", "flyway", "freemarker", "fritz2", "fs2", "fuel", "gatling", "gauge-java", "geb", "google-cloud-pubsub", "google-http-java-client", "gorm", "grails", "graphql-java", "graphql-kotlin", "groovy", "grpc", "gson", "guice", "gwt", "h2", "hazelcast", "hazelcast-jet", "helidon", "hexagonkt", "hibernate", "hibernate-envers", "hibernate-reactive", "hibernate-validator", "hikaricp", "htmlelements", "http4k", "http4s", "hystrix", "infinispan", "io.grpc", "itextpdf", "jackson", "jaeger", "jaegertracing", "jakarta-batch", "jakarta-cdi", "jakarta-ejb", "jakarta-jms", "jakarta-jpa", "jakarta-jsf", "jakarta-nosql", "jakarta-rs", "jakarta-validation", "jakarta-websocket", "jakarta-ws", "java-swing", "java-websocket", "javafx", "javalin", "javax-batch", "javax-cdi", "javax-ejb", "javax-jms", "javax-jpa", "javax-jsf", "javax-rs", "javax-validation", "javax-websocket", "javax-ws", "jbehave", "jbpm", "jdbi", "jdi-light", "jedis", "jetbrains-annotations", "jetbrains-compose", "jhipster", "jmockit", "jodd-db", "jooby", "jooq", "js-externals", "jsf", "json-path", "json4s", "jsoniter-scala", "jsonpath", "jsoup", "junit", "junit4", "junit5", "kafka", "kafka-client", "karate", "klaxon", "klock", "kodein", "kodein-db", "kodein-di", "koin", "korge", "kotest", "kotless", "kotlin", "kotlin-material-ui", "kotlin-test", "kotlinx-benchmark", "kotlinx-browser", "kotlinx-cli", "kotlinx-collections-immutable", "kotlinx-coroutines", "kotlinx-datetime", "kotlinx-html", "kotlinx-io", "kotlinx-serialization", "ktlint", "ktor", "ktorm", "kvision", "lagom", "lagom-java", "lagom-scala", "laminar", "liquibase", "log4j", "logback", "lombok", "lucene", "macwire", "magnolia", "mapstruct", "micrometer", "micronaut", "microprofile", "microprofile-config", "mleap", "mockito", "mockk", "mockserver", "moko-mvvm", "monix", "monocle", "multik", "multiplatform-settings", "munit", "mvikotlin", "mybatis", "napier", "netty", "npm-publish", "ok3-http", "okhttp3", "okio", "opencv", "openfeign", "openjfx", "openjpa", "opentelemetry", "opentracing", "optaplanner", "osgi", "play", "play-json", "play2", "playwright-java", "protobuf", "pureconfig", "quarkus", "quarkus-qute", "quartz", "querydsl", "quill", "r2dbc", "rabbitmq", "rabbitmq-client", "rabbitmq-java-client", "reactor", "reaktive", "refined", "resilience4j", "restassured", "retrofit", "retrofit2", "robotframework", "rsocket", "rsocket-java", "rsocket-kotlin", "rx-java", "rx-java3", "rxdownload", "rxjava", "rxjava3", "rxkotlin", "sangria", "scala", "scala-async", "scalacheck", "scalafx", "scalalikejdbc", "scalameta", "scalamock", "scalapb", "scalatest", "scalatra", "scalaz", "scio", "selenide", "selenium", "serenity", "shapeless", "skunk", "slf4j", "slick", "smallrye-mutiny", "spark", "spark-java", "specs2", "spek", "spire", "spock", "spring-amqp", "spring-batch", "spring-boot", "spring-cloud", "spring-cloud-commons", "spring-cloud-gateway", "spring-cloud-kubernetes", "spring-cloud-openfeign", "spring-cloud-retrofit", "spring-cloud-stream", "spring-core", "spring-data-commons", "spring-data-hadoop", "spring-data-jdbc-ext", "spring-data-jpa", "spring-data-mongo", "spring-data-neo4j", "spring-data-r2dbc", "spring-data-rest", "spring-data-solr", "spring-graphql", "spring-integration", "spring-integration-amqp", "spring-kafka", "spring-mvc", "spring-osgi", "spring-rabbitmq", "spring-security", "spring-security-oauth", "spring-security-oauth2", "spring-session", "spring-web", "spring-webflow", "spring-webflux", "spring-websocket", "spring-ws", "springfox", "springOldJavaConfig", "sqldelight", "stately", "streamex", "struts2", "sttp", "swagger-v2", "swagger-v3", "tapestry5", "tapir", "testcontainers", "testng", "thymeleaf", "tornadofx", "twitter-server", "twitter-util", "unfiltered", "unirest", "upickle", "utest", "vaadin-flow", "vavr", "velocity", "vertx", "webtau", "webtau-browser", "webtau-http", "weld", "wiremock", "xmlgraphics", "zio", "zio-test", "zipkin2", "zookeeper", "zuul" ]
       }
     }
   }, {
@@ -3233,6 +3291,18 @@
       "event_id" : [ "{enum#__event_id}" ],
       "enums" : {
         "__event_id" : [ "PrettierLanguageServiceImpl", "FlowJSLspService", "LanguageService", "TsLintLanguageService", "ESLintLanguageService", "VueTypeScriptService", "FlowJSCliService", "StandardJSService", "third.party", "TypeScriptServerServiceImpl" ]
+      }
+    }
+  }, {
+    "id" : "js.lens",
+    "builds" : [ ],
+    "versions" : [ {
+      "from" : "3"
+    } ],
+    "rules" : {
+      "event_id" : [ "{enum:usages.clicked|implementations.clicked|code.author.clicked}" ],
+      "event_data" : {
+        "location" : [ "{enum:interface|class|var_or_field|function|export_assignment|callback|other}" ]
       }
     }
   }, {
@@ -3610,19 +3680,19 @@
       "event_data" : {
         "build_system" : [ "{enum:gradleKotlin|gradleGroovy|jps|maven}" ],
         "group" : [ "{enum:Java|Kotlin|Gradle}" ],
-        "module_template" : [ "{enum:composeAndroid|composeDesktopTemplate|composeMppModule|consoleJvmApp|ktorServer|mobileMppModule|nativeConsoleApp|reactJsClient|simpleJsClient|simpleNodeJs|none}" ],
+        "module_template" : [ "{enum:composeAndroid|composeDesktopTemplate|composeMppModule|consoleJvmApp|ktorServer|mobileMppModule|nativeConsoleApp|reactJsClient|simpleJsClient|simpleNodeJs|none}", "{enum:simpleWasmClient}" ],
         "module_template_changed" : [ "{regexp#integer}" ],
-        "module_type" : [ "{enum:androidNativeArm32Target|androidNativeArm64Target|iosArm32Target|iosArm64Target|iosX64Target|iosTarget|linuxArm32HfpTarget|linuxMips32Target|linuxMipsel32Target|linuxX64Target|macosX64Target|mingwX64Target|mingwX86Target|nativeForCurrentSystem|jsBrowser|jsNode|commonTarget|jvmTarget|androidTarget|multiplatform|JVM_Module|android|IOS_Module|jsBrowserSinglePlatform|jsNodeSinglePlatform}" ],
+        "module_type" : [ "{enum:androidNativeArm32Target|androidNativeArm64Target|iosArm32Target|iosArm64Target|iosX64Target|iosTarget|linuxArm32HfpTarget|linuxMips32Target|linuxMipsel32Target|linuxX64Target|macosX64Target|mingwX64Target|mingwX86Target|nativeForCurrentSystem|jsBrowser|jsNode|commonTarget|jvmTarget|androidTarget|multiplatform|JVM_Module|android|IOS_Module|jsBrowserSinglePlatform|jsNodeSinglePlatform}", "{enum:wasmSimple}" ],
         "modules_created" : [ "{regexp#integer}" ],
         "modules_removed" : [ "{regexp#integer}" ],
         "plugin" : [ "{util#plugin}" ],
         "plugin_type" : [ "{util#plugin_type}" ],
         "plugin_version" : [ "{util#plugin_version}", "{regexp#kotlin_version}" ],
-        "project_modules_list" : [ "{enum#__project_modules_list}" ],
-        "project_template" : [ "{enum#__project_template}", "{enum:reactApplication}", "{enum:multiplatformMobileApplicationUsingAppleGradlePlugin}", "{enum:multiplatformMobileApplicationUsingHybridProject}" ],
+        "project_modules_list" : [ "{enum#__project_modules_list}", "{enum:wasmSimple}" ],
+        "project_template" : [ "{enum#__project_template}", "{enum:reactApplication}", "{enum:multiplatformMobileApplicationUsingAppleGradlePlugin}", "{enum:multiplatformMobileApplicationUsingHybridProject}", "{enum:simpleWasmApplication}" ],
         "session_id" : [ "{regexp#integer}" ],
         "setting_id" : [ "{enum:buildSystem.type|testFramework|targetJvmVersion|androidPlugin|serverEngine|js.project.kind|js.compiler|projectTemplates.template|module.template|jvm.javaSupport|js.cssSupport|js.useStyledComponents|js.useReactRouterDom|js.useReactRedux}" ],
-        "setting_value" : [ "{enum#__setting_value}", "{enum:multiplatformMobileApplicationUsingAppleGradlePlugin}", "{enum:multiplatformMobileApplicationUsingHybridProject}" ]
+        "setting_value" : [ "{enum#__setting_value}", "{enum:multiplatformMobileApplicationUsingAppleGradlePlugin}", "{enum:multiplatformMobileApplicationUsingHybridProject}", "{enum:simpleWasmApplication|simpleWasmClient}" ]
       },
       "enums" : {
         "__event_id" : [ "project_created", "wizard_opened_by_hyperlink", "module_template_created", "module_created", "prev_clicked", "next_clicked", "jdk_changed", "setting_value_changed", "module_removed" ],
@@ -3724,9 +3794,11 @@
     "rules" : {
       "event_id" : [ "{enum:Build}" ],
       "event_data" : {
+        "eventFlags" : [ "{regexp#integer}" ],
         "isMPP" : [ "{enum#boolean}" ],
+        "languageLevel" : [ "{regexp#version}" ],
         "languageVersion" : [ "{regexp#float}" ],
-        "platform" : [ "{enum:jvm|js|native|common}", "{enum:jvm|jvm.android|js|common|native.unknown|unknown|native.android_x64|native.android_x86|native.android_arm32|native.android_arm64|native.ios_arm32|native.ios_arm64|native.ios_x64|native.watchos_arm32|native.watchos_arm64|native.watchos_x86|native.watchos_x64|native.tvos_arm64|native.tvos_x64|native.linux_x64|native.mingw_x86|native.mingw_x64|native.macos_x64|native.linux_arm64|native.linux_arm32_hfp|native.linux_mips32|native.linux_mipsel32|native.wasm32}", "{enum:native.macos_arm64}", "{enum:native.ios_simulator_arm64|native.watchos_simulator_arm64|native.tvos_simulator_arm64}" ],
+        "platform" : [ "{enum:jvm|js|native|common}", "{enum:jvm|jvm.android|js|common|native.unknown|unknown|native.android_x64|native.android_x86|native.android_arm32|native.android_arm64|native.ios_arm32|native.ios_arm64|native.ios_x64|native.watchos_arm32|native.watchos_arm64|native.watchos_x86|native.watchos_x64|native.tvos_arm64|native.tvos_x64|native.linux_x64|native.mingw_x86|native.mingw_x64|native.macos_x64|native.linux_arm64|native.linux_arm32_hfp|native.linux_mips32|native.linux_mipsel32|native.wasm32}", "{enum:native.macos_arm64}", "{enum:native.ios_simulator_arm64|native.watchos_simulator_arm64|native.tvos_simulator_arm64}", "{enum:native.watchos_device_arm64}", "{enum:wasm}" ],
         "plugin" : [ "{util#plugin}" ],
         "pluginVersion" : [ "{regexp#kotlin_version}" ],
         "plugin_type" : [ "{util#plugin_type}" ],
@@ -3786,7 +3858,10 @@
       "from" : "1"
     } ],
     "rules" : {
-      "event_id" : [ "{enum:navigation.gutter.label.container|inspection.remove.duplicate.envvar|completion.kind|completion.label.key}" ]
+      "event_id" : [ "{enum#__event_id}" ],
+      "enums" : {
+        "__event_id" : [ "navigation.gutter.label.container", "inspection.remove.duplicate.envvar", "completion.kind", "completion.label.key", "completion.schema" ]
+      }
     }
   }, {
     "id" : "leftover.dirs",
@@ -3830,8 +3905,9 @@
       "event_data" : {
         "command_line" : [ "{enum#boolean}" ],
         "debug_agent" : [ "{enum#boolean}" ],
-        "duration_grouped" : [ "{regexp#integer}s", "-{regexp#integer}s", "{regexp#integer}s+" ],
+        "duration_grouped" : [ "{regexp#integer}", "{regexp#integer}+", "{regexp#integer}s", "{regexp#integer}s+" ],
         "duration_ms" : [ "{regexp#integer}" ],
+        "duration_s" : [ "{regexp#integer}" ],
         "eap" : [ "{enum#boolean}" ],
         "error" : [ "{util#class_name}" ],
         "error_frames" : [ "{util#method_name}" ],
@@ -3839,14 +3915,17 @@
         "error_size" : [ "{regexp#integer}" ],
         "headless" : [ "{enum#boolean}" ],
         "internal" : [ "{enum#boolean}" ],
+        "mapping_failed" : [ "{enum#boolean}" ],
         "memory_error_kind" : [ "{enum#__memory_error_kind}", "{enum:direct_buffers}" ],
         "mode" : [ "{enum:new|same|attach}" ],
+        "oom" : [ "{enum#boolean}" ],
         "plugin" : [ "{util#plugin}" ],
         "plugin_type" : [ "{util#plugin_type}" ],
         "plugin_version" : [ "{util#plugin_version}" ],
         "project_tab" : [ "{enum#boolean}" ],
         "restart" : [ "{enum#boolean}" ],
         "test" : [ "{enum#boolean}" ],
+        "time_ms" : [ "{regexp#integer}" ],
         "too_many_errors" : [ "{enum#boolean}" ]
       },
       "enums" : {
@@ -3902,6 +3981,8 @@
         "duration_ms" : [ "{regexp#integer}" ],
         "ide_requires_license" : [ "{enum#boolean}" ],
         "input_event" : [ "{util#shortcut}" ],
+        "license" : [ "{enum:none|trial|student|professional|open_source}" ],
+        "link_copy" : [ "{enum#boolean}" ],
         "logged_in" : [ "{enum#boolean}" ],
         "login_provider" : [ "{enum:jba|google|github|gitlab|bitbucket}" ],
         "newsletter" : [ "{enum#boolean}" ],
@@ -3910,10 +3991,12 @@
         "session_time_ms" : [ "{regexp#integer}" ],
         "source" : [ "{enum:login_dialog|licenses_user_info|licenses_new_license|licenses_trial}", "{enum:LicenseDialogLink}" ],
         "successful" : [ "{enum#boolean}" ],
+        "token_check" : [ "{enum#boolean}" ],
+        "token_input" : [ "{enum#boolean}" ],
         "troubles_pressed" : [ "{enum#boolean}" ]
       },
       "enums" : {
-        "__event_id" : [ "exit", "licenses.dialog.shown", "request.trial", "continue", "browser.login", "buy.license" ]
+        "__event_id" : [ "exit", "licenses.dialog.shown", "request.trial", "continue", "browser.login", "buy.license", "licenses.dialog.closed", "manual.login", "browser.register" ]
       }
     }
   }, {
@@ -4232,6 +4315,8 @@
     "rules" : {
       "event_id" : [ "{enum#__event_id}" ],
       "event_data" : {
+        "checkbox_name" : [ "{enum:OnlyStable|OnlyKotlinMp}" ],
+        "checkbox_state" : [ "{enum#boolean}" ],
         "details_link_label" : [ "{enum:PackageUsages|GitHub|Documentation|License|ProjectWebsite|Readme}" ],
         "details_visible" : [ "{enum#boolean}", "{enum:PackageDetails|OnlyStable|OnlyKotlinMp}" ],
         "event_data_1" : [ "{regexp#integer}" ],
@@ -4252,11 +4337,12 @@
         "repository_url" : [ "{enum:https://repo.maven.apache.org/maven2/|https://maven-central.storage-download.googleapis.com/maven2|https://repo1.maven.org/maven2/|https://maven.google.com/|https://maven.pkg.jetbrains.space/kotlin/p/dokka/dev/|https://maven.pkg.jetbrains.space/public/p/compose/dev/|https://maven.pkg.jetbrains.space/public/p/ktor/eap/|https://maven.pkg.jetbrains.space/public/p/space/maven/}", "{enum:https://repo.clojars.org/}" ],
         "repository_uses_custom_url" : [ "{enum#boolean}" ],
         "search_query_length" : [ "{regexp#integer}" ],
+        "sort_metric" : [ "{enum:None|GitHub stars|StackOverflow health|Dependency rating|OSS health}" ],
         "target_modules" : [ "{enum:None|One|All}", "{enum:Some}" ],
         "target_modules_mixed_build_systems" : [ "{enum#boolean}" ]
       },
       "enums" : {
-        "__event_id" : [ "enabled", "maven", "gradle-groovy", "gradle-kts", "details_link_click", "preferences_changed", "toggle", "package_installed", "package_selected", "upgrade_all_event", "repository_removed", "package_updated", "repository_added", "target_modules_selected", "package_removed", "search_query_clear", "preferences_restore_defaults", "search_request" ]
+        "__event_id" : [ "enabled", "maven", "gradle-groovy", "gradle-kts", "details_link_click", "preferences_changed", "toggle", "package_installed", "package_selected", "upgrade_all_event", "repository_removed", "package_updated", "repository_added", "target_modules_selected", "package_removed", "search_query_clear", "preferences_restore_defaults", "search_request", "sort_metric_changed" ]
       }
     }
   }, {
@@ -4422,6 +4508,7 @@
         "configured" : [ "{enum#boolean}" ],
         "configured_subprojects" : [ "{regexp#integer}" ],
         "constraint" : [ "{enum:>|>=|-|~|^|=}" ],
+        "custom_vendor_dir" : [ "{enum#boolean}" ],
         "default" : [ "{enum#boolean}" ],
         "dev" : [ "{enum#boolean}" ],
         "interpreterType" : [ "{enum#__interpreterType}" ],
@@ -4457,6 +4544,15 @@
       "enums" : {
         "__action" : [ "init", "addDependencyDialogShown", "create-project", "clear-cache", "diagnose", "dump-autoload", "install", "updateAll", "licenses", "self-update", "status", "validate", "updatePackage", "require", "remove", "runScriptFromContext", "editRunConfigFromContext", "createRunConfigFromContext", "updateDryRun" ]
       }
+    }
+  }, {
+    "id" : "php.composer.files.view",
+    "builds" : [ ],
+    "versions" : [ {
+      "from" : "1"
+    } ],
+    "rules" : {
+      "event_id" : [ "{enum:add|edit|remove}" ]
     }
   }, {
     "id" : "php.config",
@@ -4816,6 +4912,18 @@
       "event_id" : [ "{regexp#integer}" ]
     }
   }, {
+    "id" : "php.settings",
+    "builds" : [ ],
+    "versions" : [ {
+      "from" : "1"
+    } ],
+    "rules" : {
+      "event_id" : [ "{enum:select}" ],
+      "event_data" : {
+        "tab" : [ "{enum:INCLUDE_PATH|PHP_RUNTIME|ANALYSIS|COMPOSER_FILES}" ]
+      }
+    }
+  }, {
     "id" : "php.stubs",
     "builds" : [ ],
     "versions" : [ {
@@ -4927,7 +5035,7 @@
       "event_data" : {
         "acceptance_result" : [ "{enum:ACCEPTED|DECLINED|AUTO_ACCEPTED}" ],
         "enabled_state" : [ "{enum:ENABLED_ON_DEMAND|ENABLED|DISABLED}" ],
-        "group" : [ "{enum:UPDATE|INSTALLING|INSTALLED|SEARCH_INSTALLED|SEARCH|FEATURED|NEW_AND_UPDATED|TOP_DOWNLOADS|TOP_RATED|CUSTOM_REPOSITORY}", "{enum:BUNDLED_UPDATE}" ],
+        "group" : [ "{enum:UPDATE|INSTALLING|INSTALLED|SEARCH_INSTALLED|SEARCH|FEATURED|NEW_AND_UPDATED|TOP_DOWNLOADS|TOP_RATED|CUSTOM_REPOSITORY}", "{enum:BUNDLED_UPDATE}", "{enum:SUGGESTED}" ],
         "index" : [ "{regexp#integer}" ],
         "plugin" : [ "{util#plugin}" ],
         "plugin_type" : [ "{util#plugin_type}" ],
@@ -4970,6 +5078,7 @@
     "rules" : {
       "event_id" : [ "{enum#__event_id}" ],
       "event_data" : {
+        "pluginId" : [ "{util#plugin}" ],
         "plugins" : [ "{util#plugin}" ],
         "source" : [ "{enum:editor|notification}", "{enum:search}" ]
       },
@@ -5345,7 +5454,7 @@
         "python_version" : [ "{regexp#integer}", "{regexp#version}" ]
       },
       "enums" : {
-        "__package" : [ "requests", "pytz", "numpy", "six", "python-dateutil", "certifi", "urllib3", "pandas", "idna", "chardet", "Pillow", "click", "cffi", "matplotlib", "cryptography", "pyparsing", "pytest", "Jinja2", "PyYAML", "Django", "redis", "scipy", "pycparser", "boto3", "attrs", "MarkupSafe", "gunicorn", "djangorestframework", "lxml", "packaging", "sqlparse", "tqdm", "Werkzeug", "psycopg2-binary", "Flask", "typing-extensions", "pyasn1", "beautifulsoup4", "openpyxl", "decorator", "wcwidth", "celery", "asgiref", "psycopg2", "SQLAlchemy", "itsdangerous", "protobuf", "xlrd", "future", "botocore", "jsonschema", "PyJWT", "scikit-learn", "colorama", "zipp", "jmespath", "pyasn1-modules", "importlib-metadata", "psutil", "python-dotenv", "django-cors-headers", "toml", "rsa", "oauthlib", "requests-oauthlib", "defusedxml", "s3transfer", "pyyaml", "django-filter", "py", "ipython", "cachetools", "wrapt", "docutils", "prompt-toolkit", "coverage", "appdirs", "tornado", "greenlet", "pluggy", "sentry-sdk", "Pygments", "cycler", "kombu", "pymongo", "torch", "webencodings", "simplejson", "google-auth", "PyMySQL", "aiohttp", "opencv-python", "pillow", "flake8", "billiard", "pickleshare", "selenium", "gevent", "paramiko", "mccabe", "amqp", "kiwisolver", "grpcio", "traitlets", "mysqlclient", "django", "et-xmlfile", "xlwt", "regex", "more-itertools", "mock", "httplib2", "setuptools", "vine", "pyrsistent", "backcall", "flask", "pexpect", "joblib", "pydantic", "jedi", "soupsieve", "uritemplate", "jinja2", "google-api-python-client", "bcrypt", "ptyprocess", "sqlalchemy", "parso", "django-extensions", "iniconfig", "xmltodict", "isort", "pyOpenSSL", "seaborn", "Markdown", "pycodestyle", "pylint", "pytest-cov", "alembic", "django-redis", "dnspython", "async-timeout", "elasticsearch", "msgpack", "django-storages", "black", "prometheus-client", "uvicorn", "filelock", "tzlocal", "Babel", "tensorflow", "bleach", "django-debug-toolbar", "html5lib", "zope.interface", "torchvision", "jdcal", "pycryptodome", "text-unidecode", "yarl", "networkx", "termcolor", "multidict", "XlsxWriter", "mypy-extensions", "marshmallow", "pyjwt", "pyzmq", "asn1crypto", "Mako", "h5py", "Flask-SQLAlchemy", "blinker", "google-auth-oauthlib", "tensorboard", "fastapi", "googleapis-common-protos", "requests-toolbelt", "reportlab", "websocket-client", "google-api-core", "tabulate", "entrypoints", "sklearn", "python-editor", "coreapi", "typed-ast", "google-auth-httplib2", "oauth2client", "mistune", "pycrypto", "pyflakes", "boto", "whitenoise", "lazy-object-proxy", "phonenumbers", "werkzeug", "virtualenv", "isodate" ],
+        "__package" : [ "requests", "pytz", "numpy", "six", "python-dateutil", "certifi", "urllib3", "pandas", "idna", "chardet", "Pillow", "click", "cffi", "matplotlib", "cryptography", "pyparsing", "pytest", "Jinja2", "PyYAML", "Django", "redis", "scipy", "pycparser", "boto3", "attrs", "MarkupSafe", "gunicorn", "djangorestframework", "lxml", "packaging", "sqlparse", "tqdm", "Werkzeug", "psycopg2-binary", "Flask", "typing-extensions", "pyasn1", "beautifulsoup4", "openpyxl", "decorator", "wcwidth", "celery", "asgiref", "psycopg2", "SQLAlchemy", "itsdangerous", "protobuf", "xlrd", "future", "botocore", "jsonschema", "PyJWT", "scikit-learn", "colorama", "zipp", "jmespath", "pyasn1-modules", "importlib-metadata", "psutil", "python-dotenv", "django-cors-headers", "toml", "rsa", "oauthlib", "requests-oauthlib", "defusedxml", "s3transfer", "pyyaml", "django-filter", "py", "ipython", "cachetools", "wrapt", "docutils", "prompt-toolkit", "coverage", "appdirs", "tornado", "greenlet", "pluggy", "sentry-sdk", "Pygments", "cycler", "kombu", "pymongo", "torch", "webencodings", "simplejson", "google-auth", "PyMySQL", "aiohttp", "opencv-python", "pillow", "flake8", "billiard", "pickleshare", "selenium", "gevent", "paramiko", "mccabe", "amqp", "kiwisolver", "grpcio", "traitlets", "mysqlclient", "django", "et-xmlfile", "xlwt", "regex", "more-itertools", "mock", "httplib2", "setuptools", "vine", "pyrsistent", "backcall", "flask", "pexpect", "joblib", "pydantic", "jedi", "soupsieve", "uritemplate", "jinja2", "google-api-python-client", "bcrypt", "ptyprocess", "sqlalchemy", "parso", "django-extensions", "iniconfig", "xmltodict", "isort", "pyOpenSSL", "seaborn", "Markdown", "pycodestyle", "pylint", "pytest-cov", "alembic", "django-redis", "dnspython", "async-timeout", "elasticsearch", "msgpack", "django-storages", "black", "prometheus-client", "uvicorn", "filelock", "tzlocal", "Babel", "tensorflow", "bleach", "django-debug-toolbar", "html5lib", "zope.interface", "torchvision", "jdcal", "pycryptodome", "text-unidecode", "yarl", "networkx", "termcolor", "multidict", "XlsxWriter", "mypy-extensions", "marshmallow", "pyjwt", "pyzmq", "asn1crypto", "Mako", "h5py", "Flask-SQLAlchemy", "blinker", "google-auth-oauthlib", "tensorboard", "fastapi", "googleapis-common-protos", "requests-toolbelt", "reportlab", "websocket-client", "google-api-core", "tabulate", "entrypoints", "sklearn", "python-editor", "coreapi", "typed-ast", "google-auth-httplib2", "oauth2client", "mistune", "pycrypto", "pyflakes", "boto", "whitenoise", "lazy-object-proxy", "phonenumbers", "werkzeug", "virtualenv", "isodate", "pyspark" ],
         "executionType" : [ "local", "Remote_Docker", "Remote_Docker_Compose", "Remote_WSL", "Remote_null", "third_party", "Remote_SSH_Credentials", "Remote_Vagrant", "Remote_Web_Deployment", "Remote_Unknown" ],
         "interpreterType" : [ "pipenv", "condavenv", "virtualenv", "regular" ]
       }
@@ -5602,7 +5711,7 @@
       "from" : "1"
     } ],
     "rules" : {
-      "event_id" : [ "{enum:postfix.completion.used|customized.stackframe.selected}" ],
+      "event_id" : [ "{enum:postfix.completion.used|customized.stackframe.selected|reactor.stream.debugger.used}" ],
       "event_data" : {
         "reactivestreams_implementation" : [ "{enum:Reactor|RxJava}" ]
       }
@@ -5664,7 +5773,7 @@
         "count" : [ "{regexp#integer}" ],
         "lang" : [ "{util#lang}" ],
         "level" : [ "{enum:ide|project}" ],
-        "sdk_type" : [ "{enum#__sdk_type}" ]
+        "sdk_type" : [ "{enum#__sdk_type}", "{util#sdk_type}" ]
       },
       "enums" : {
         "_" : [ "Docker_Compose", "Docker", "Web_Deployment", "Vagrant", "SSH_Credentials", "WSL", "Unknown" ],
@@ -5732,6 +5841,19 @@
       "event_id" : [ "{regexp#integer}", "{enum:sdks}" ],
       "event_data" : {
         "count" : [ "{regexp#integer}" ]
+      }
+    }
+  }, {
+    "id" : "ruby.bundler.actions",
+    "builds" : [ ],
+    "versions" : [ {
+      "from" : "1"
+    } ],
+    "rules" : {
+      "event_id" : [ "{enum:args.exist}" ],
+      "event_data" : {
+        "actionName" : [ "{enum:CLEAN|GEM|INIT|INSTALL|LOCK|OUTDATED|PACK|UPDATE}" ],
+        "isArgsEmpty" : [ "{enum#boolean}" ]
       }
     }
   }, {
@@ -6065,6 +6187,18 @@
       }
     }
   }, {
+    "id" : "rust.code.vision",
+    "builds" : [ ],
+    "versions" : [ {
+      "from" : "1"
+    } ],
+    "rules" : {
+      "event_id" : [ "{enum:author.clicked|usages.clicked}" ],
+      "event_data" : {
+        "location" : [ "{enum:function|struct_item|enum_item|enum_variant|named_field_decl|trait_item|impl_item|type_alias|constant|macro_def|mod_item|unknown}" ]
+      }
+    }
+  }, {
     "id" : "rust.counters",
     "builds" : [ ],
     "versions" : [ {
@@ -6074,6 +6208,18 @@
       "event_id" : [ "{enum:new_project_creation}" ],
       "event_data" : {
         "template" : [ "{enum:binary|library|wasm|proc_macro|custom}" ]
+      }
+    }
+  }, {
+    "id" : "rust.debug.evaluate.expression",
+    "builds" : [ ],
+    "versions" : [ {
+      "from" : "1"
+    } ],
+    "rules" : {
+      "event_id" : [ "{enum:evaluated}" ],
+      "event_data" : {
+        "success" : [ "{enum#boolean}" ]
       }
     }
   }, {
@@ -6805,7 +6951,7 @@
     "rules" : {
       "event_id" : [ "{enum#__event_id}" ],
       "enums" : {
-        "__event_id" : [ "run.codegen.configuration.action", "edit.codegen.configuration.action", "edit.remote.specifications.endpoints", "add.remote.specification", "swagger.ui.requests.try.out", "swagger.ui.requests.execute" ]
+        "__event_id" : [ "run.codegen.configuration.action", "edit.codegen.configuration.action", "edit.remote.specifications.endpoints", "add.remote.specification", "swagger.ui.requests.try.out", "swagger.ui.requests.execute", "redoc.requests.try.it", "redoc.requests.send" ]
       }
     }
   }, {
@@ -6892,12 +7038,14 @@
     "rules" : {
       "event_id" : [ "{enum#__event_id}" ],
       "event_data" : {
+        "command" : [ "{enum:<relative path>|<absolute path>|curl|ps|g++|gcc|systeminfo|ssh|del|echo|rmdir|type|helm|hostname|java|telnet|powershell|vim|cargo|mkdir|zip|scp|python|apt|gdb|xcopy|ip|tracert|subst|cls|brew|taskmgr|exit|node|rd|route|az|rm|tasklist|pwd|ping|wget|unzip|pnpm|rustup|sc|eslint|top|where|copy|sudo|free|cd|karma|set|more|msbuild|svn|kill|cp|cypress|prettier|gradle|help|rsync|yarn|apt-get|ipconfig|df|javac|dig|compact|ls|nano|mocha|screen|source|dir|chkdsk|docker-compose|netsh|mode|du|playwright|reg|webpack|find|md|assoc|net|vitest|export|valgrind|which|ver|nvm|tar|chown|format|pwsh|rvm|tree|mv|touch|history|less|sort|netstat|pause|expand|vi|nslookup|pathping|kubectl|ng|shutdown|systemctl|gulp|code|ifconfig|nodejs|traceroute|title|docker|yum|grunt|git|attrib|whois|cat|vagrant|alias|chmod|htop|make|cipher|move|mvn|whence|ant|grep|clear|start|npm|jest|command|ruby|apt-cache|service|npx|ssh-keygen|taskkill|prompt|hg}" ],
         "os-version" : [ "{regexp#version}" ],
         "plugin" : [ "{util#plugin}" ],
         "plugin_type" : [ "{util#plugin_type}" ],
         "plugin_version" : [ "{util#plugin_version}" ],
         "runAnythingProvider" : [ "{util#class_name}" ],
         "shell" : [ "{enum#__shell}", "{enum:unspecified}" ],
+        "subCommand" : [ "{enum:test|run|install|update|status|checkout|commit|install|test|run|compose|tag|add|pull|status|push|checkout|merge|init|diff|branch|log|reset|commit|clone|stash|install|run|test}" ],
         "terminalCommandHandler" : [ "{util#class_name}" ]
       },
       "enums" : {
@@ -7028,7 +7176,7 @@
       "event_id" : [ "{enum#_}", "{enum:enabled.color.scheme}" ],
       "event_data" : {
         "is_dark" : [ "{enum#boolean}" ],
-        "scheme" : [ "{enum#__scheme}", "{enum:New Dark|Light|Dark|Monokai}", "{enum:New Dark RC}" ],
+        "scheme" : [ "{enum#__scheme}", "{enum:New Dark|Light|Dark|Monokai}", "{enum:New Dark RC}", "{enum:Darcula Contrast}" ],
         "value" : [ "{enum#boolean}" ]
       },
       "enums" : {
@@ -7045,20 +7193,26 @@
     "rules" : {
       "event_id" : [ "{enum#__event_id}" ],
       "event_data" : {
+        "applied" : [ "{enum#boolean}" ],
         "class" : [ "{util#class_name}" ],
         "count" : [ "{regexp#integer}" ],
         "duration_ms" : [ "{regexp#integer}" ],
         "expand" : [ "{enum#boolean}" ],
+        "final_zoom_scale_percent" : [ "{regexp#integer}" ],
         "lang" : [ "{util#lang}" ],
         "plugin" : [ "{util#plugin}" ],
         "plugin_type" : [ "{util#plugin_type}" ],
         "plugin_version" : [ "{util#plugin_version}" ],
+        "presentation_mode" : [ "{enum#boolean}" ],
         "recursive" : [ "{enum#boolean}" ],
         "target_class" : [ "{util#class_name}" ],
-        "with_selection" : [ "{enum#boolean}" ]
+        "with_selection" : [ "{enum#boolean}" ],
+        "zoom_mode" : [ "{enum:ZOOM_IN|ZOOM_OUT}" ],
+        "zoom_place" : [ "{enum:SETTINGS|SWITCHER}" ],
+        "zoom_scale_percent" : [ "{regexp#integer}" ]
       },
       "enums" : {
-        "__event_id" : [ "ProgressPaused", "ProgressResumed", "NavBarShowPopup", "NavBarNavigate", "BreadcrumbShowTooltip", "BreadcrumbNavigate", "DumbModeDialogWasNotNeeded", "DumbModeDialogRequested", "DumbModeDialogShown", "DumbModeDialogCancelled", "DumbModeDialogFinished", "DumbModeDialogProceededToActions", "IncrementalSearchActivated", "IncrementalSearchKeyTyped", "IncrementalSearchCancelled", "IncrementalSearchNextPrevItemSelected", "DumbModeBalloonWasNotNeeded", "DumbModeBalloonRequested", "DumbModeBalloonShown", "DumbModeBalloonCancelled", "DumbModeBalloonProceededToActions", "ShowUsagesPopupShowSettings", "LookupExecuteElementAction", "ToolWindowsWidgetPopupClicked", "ToolWindowsWidgetPopupShown", "LookupShowElementActions", "ImplementationViewComboBoxSelected", "ImplementationViewToolWindowOpened", "DaemonEditorPopupInvoked", "HectorPopupDisplayed", "EditorFoldingIconClicked", "QuickNavigateInfoPopupShown", "EditorAnnotationClicked", "StatusBarWidgetClicked", "StatusBarPopupShown", "CtrlMouseHintShown" ]
+        "__event_id" : [ "ProgressPaused", "ProgressResumed", "NavBarShowPopup", "NavBarNavigate", "BreadcrumbShowTooltip", "BreadcrumbNavigate", "DumbModeDialogWasNotNeeded", "DumbModeDialogRequested", "DumbModeDialogShown", "DumbModeDialogCancelled", "DumbModeDialogFinished", "DumbModeDialogProceededToActions", "IncrementalSearchActivated", "IncrementalSearchKeyTyped", "IncrementalSearchCancelled", "IncrementalSearchNextPrevItemSelected", "DumbModeBalloonWasNotNeeded", "DumbModeBalloonRequested", "DumbModeBalloonShown", "DumbModeBalloonCancelled", "DumbModeBalloonProceededToActions", "ShowUsagesPopupShowSettings", "LookupExecuteElementAction", "ToolWindowsWidgetPopupClicked", "ToolWindowsWidgetPopupShown", "LookupShowElementActions", "ImplementationViewComboBoxSelected", "ImplementationViewToolWindowOpened", "DaemonEditorPopupInvoked", "HectorPopupDisplayed", "EditorFoldingIconClicked", "QuickNavigateInfoPopupShown", "EditorAnnotationClicked", "StatusBarWidgetClicked", "StatusBarPopupShown", "CtrlMouseHintShown", "ide.zoom.switcher.closed", "ide.zoom.changed" ]
       }
     }
   }, {
@@ -7215,7 +7369,10 @@
         "duration_first_results_ms" : [ "{regexp#integer}" ],
         "duration_ms" : [ "{regexp#integer}" ],
         "id" : [ "{regexp#integer}" ],
+        "is_among_recent_files" : [ "{enum#boolean}" ],
+        "is_file_already_opened" : [ "{enum#boolean}" ],
         "is_similar_usage" : [ "{enum#boolean}" ],
+        "is_the_same_file" : [ "{enum#boolean}" ],
         "item_chosen" : [ "{enum#boolean}" ],
         "lang" : [ "{util#lang}" ],
         "new" : [ "{util#scopeRule}" ],
@@ -7231,15 +7388,24 @@
         "reference_class" : [ "{util#class_name}" ],
         "results_total" : [ "{regexp#integer}" ],
         "scope" : [ "{util#scopeRule}" ],
+        "search_cancelled" : [ "{enum#boolean}" ],
+        "selected_element.is_in_injected_file" : [ "{enum#boolean}" ],
+        "selected_element.is_in_test_sources" : [ "{enum#boolean}" ],
+        "selected_element.lang" : [ "{util#lang}" ],
+        "selected_element.reference_class" : [ "{util#class_name}" ],
         "selected_usage" : [ "{regexp#integer}" ],
         "symbol" : [ "{util#class_name}" ],
+        "target_element.is_in_injected_file" : [ "{enum#boolean}" ],
+        "target_element.is_in_test_sources" : [ "{enum#boolean}" ],
+        "target_element.lang" : [ "{util#lang}" ],
+        "target_element.reference_class" : [ "{util#class_name}" ],
         "too_many_result_warning" : [ "{enum#boolean}" ],
         "ui_location" : [ "{enum:ShowUsagesPopup|FindToolWindow}" ],
         "usage_view" : [ "{regexp#integer}" ],
         "userAction" : [ "{enum:Shown|Aborted|Continued}" ]
       },
       "enums" : {
-        "__event_id" : [ "usage.navigate", "usage.shown", "tooManyResultsDialog", "scope.changed", "switch.tab", "item.chosen", "finished", "started", "open.in.tool.window", "cancelled", "popup.closed" ]
+        "__event_id" : [ "usage.navigate", "usage.shown", "tooManyResultsDialog", "scope.changed", "switch.tab", "item.chosen", "finished", "started", "open.in.tool.window", "cancelled", "popup.closed", "item.chosen.in.popup.features" ]
       }
     }
   }, {
@@ -7883,9 +8049,9 @@
     "enums" : {
       "boolean" : [ "true", "false", "TRUE", "FALSE", "True", "False" ],
       "build_tools" : [ "Maven", "Gradle", "gradle", "sbt", "Clojure_Deps", "clojure_deps", "Pants", "pants", "bsp", "Kobalt", "kobalt", "undefined.system", "third.party", "SPM", "CompDB", "Compilation_Database", "Makefile" ],
-      "dotnet_technologies" : [ ".NET_Core", ".NET Core", ".NET_Classic", ".NET Classic", "Avalonia", "C++", "Managed_C++", "Managed C++", "Silverlight", "UE4", "UE5", "UWP", "Unity", "UnitySidecar", "MAUI", "WPF", "Web_Classic", "Web Classic", "Web_Core", "Web Core", "WebSite", "WinRT", "Sql Database Project", "WindowsForms_Classic", "WindowsForms Classic", "WindowsForms Core", "WindowsForms_Core", "WindowsPhone", "Uno", "Xamarin", "XamarinForms", "Azure_Function", "Azure Function", "AzureFunction", "Xamarin.Mac", "Xamarin.Android", "Xamarin.iOS", "Xamarin.PlayStation3", "Xamarin.PlayStation4", "Xamarin.PlayStationVita", "Xamarin.WatchOS", "Xamarin.TVOS", "Xamarin.Xbox360", "Xamarin.XboxOne", "UnrealGame", "UnrealModule", "UnrealPlugin", "UnrealFolder", "Unreal Engine (any)" ],
+      "dotnet_technologies" : [ ".NET_Core", ".NET Core", ".NET_Classic", ".NET Classic", "Avalonia", "C++", "Godot", "Managed_C++", "Managed C++", "Silverlight", "UE4", "UE5", "UWP", "Unity", "UnitySidecar", "MAUI", "WPF", "Web_Classic", "Web Classic", "Web_Core", "Web Core", "WebSite", "WinRT", "Sql Database Project", "WindowsForms_Classic", "WindowsForms Classic", "WindowsForms Core", "WindowsForms_Core", "WindowsPhone", "Uno", "Xamarin", "XamarinForms", "Azure_Function", "Azure Function", "AzureFunction", "Xamarin.Mac", "Xamarin.Android", "Xamarin.iOS", "Xamarin.PlayStation3", "Xamarin.PlayStation4", "Xamarin.PlayStationVita", "Xamarin.WatchOS", "Xamarin.TVOS", "Xamarin.Xbox360", "Xamarin.XboxOne", "UnrealGame", "UnrealModule", "UnrealPlugin", "UnrealFolder", "Unreal Engine (any)" ],
       "keymaps" : [ "Mac_OS_X_10.5+", "Default_for_GNOME", "Rider", "Eclipse", "Emacs", "Default_for_KDE", "Mac_OS_X", "ReSharper_OSX", "NetBeans_6.5", "Visual_Studio", "Rider_OSX", "TextMate", "Eclipse_(Mac_OS_X)", "ReSharper", "Xcode", "unknown", "custom", "Sublime_Text_(Mac_OS_X)", "Sublime_Text", "Default_for_XWin", "$default", "JBuilder", "VS_Code", "Visual_Studio_OSX", "Visual_Studio_2022", "Visual_Assist", "VSCode", "macOS_System_Shortcuts" ],
-      "look_and_feel" : [ "Acme", "Apricode_Monokai", "Arc_Dark", "Arc_Dark_(Material)", "Arc_Dark_Contrast", "Arc_Theme", "Arc_Theme_-_Orange", "Arc_Theme_Dark", "Arc_Theme_Dark_-_Orange", "Astra_Dark", "AtomOneDarkByMayke", "Atom_One_Dark", "Atom_One_Dark_(Material)", "Atom_One_Dark_Contrast", "Atom_One_Light", "Atom_One_Light_(Material)", "Atom_One_Light_Contrast", "Aura", "Ayu_Mirage", "AzurLane:_Essex", "Bas_Tools_Black", "Bas_Tools_Dark", "Bas_Tools_White", "Base16_Monokai", "Base16_Tomorrow_Dark", "BattleField", "Blackbird", "BlendS:_Maika", "Blue_Dolphin", "Blue_Whale", "Breeze_Dark", "Bright_and_Sheen_Theme", "BunnySenpai:_Mai_Dark", "BunnySenpai:_Mai_Light", "Burnt", "Calm", "Carbon", "Cell_Dark_Theme", "Chicken", "Chuunibyou:_Takanashi_Rikka", "City_Pop", "Clean_Sheet", "Cobalt", "Cobalt9", "Cobalt_2", "Codely", "Codely_Blue", "Codely_Dark", "Codely_Light", "Coderpillr_Dusk", "CoffeeBean", "Construction_Paper", "Core", "Custom_Theme_(Material)", "Cute_Pink_Light", "Cyan_light", "Cyberpunk_Theme", "DDLC:_Monika_Dark", "DDLC:_Monika_Light", "DDLC:_Natsuki_Dark", "DDLC:_Natsuki_Light", "DDLC:_Sayori_Dark", "DDLC:_Sayori_Light", "DDLC:_Yuri_Dark", "DDLC:_Yuri_Light", "DM:_Kanna", "DM:_Tohru", "DR:_Mioda_Ibuki_Dark", "DR:_Mioda_Ibuki_Light", "DTWMMN:_Hayase_Nagatoro", "Darcula", "Darcula_(blacker)", "Darcula_Darker", "Darcula_Pitch_Black", "Darcula_Solid", "Darcula_Sombre", "Darcula_Sombre_(transparent_selection)", "Darcula_Sombre_(with_bright_borders)", "Darcula_Sombre_(with_dark_borders)", "Dark", "DarkCode", "DarkCode_Contrast", "DarkDark", "DarkTheme", "Dark_Candy", "Dark_Flat", "Dark_Orange", "Dark_purple", "Dark_ubuntu", "Deep_Ocean_Theme", "Dracula", "Dracula_(Material)", "Dracula_Colorful", "Dracula_Contrast", "DxD:_Rias:_Crimson", "DxD:_Rias:_Onyx", "Dysh_Unreal_Simple", "Dysh_Unreal_Simple_Vivid", "EVA:_Katsuragi_Misato", "EVA:_Rei", "Eclipse_Plus", "El_Chalten", "Elements", "Emerald", "Ender_Theme", "EroManga:_Sagiri", "Espresso_Light", "Espresso_Lightgram", "Field_Lights", "FlatAndMinimalistic_-_dark", "FlatAndMinimalistic_-_gray", "FlatOcean", "Forest_Night", "Foundation_Dark", "Foundation_Light", "Franxx:_Zero_Two_Dark", "Franxx:_Zero_Two_Light", "FutureDiary:_Gasai_Yuno", "Galaxy", "Galizur", "Gate:_Rory_Mercury", "Gerry_Oceanic", "Gerry_Space", "Gerry_Violet", "Giraffe", "GitHub", "GitHub_(Material)", "GitHub_Contrast", "GitHub_Dark", "GitHub_Dark_(Material)", "GitHub_Dark_Contrast", "GitHub_Dark_Dimmed", "GitHub_Light", "Gloom", "Glowing_Darcula", "Godot_Theme", "Golden_Blue", "Gradianto_Dark_Fuchsia", "Gradianto_Deep_Ocean", "Gradianto_Midnight_Blue", "Gradianto_Nature_Green", "Gray", "Green_Haze", "Green_lite", "Greenly", "Gruvbox", "Gruvbox_Dark_Hard", "Gruvbox_Dark_Medium", "Gruvbox_Dark_Soft", "Gruvbox_Github", "Gruvbox_Light_Hard", "Gruvbox_Light_Medium", "Gruvbox_Light_Soft", "Gruvbox_Material", "Hack_The_Box", "Hacker_Theme", "Haikyu:_Hinata_Shoyo", "Halcyon", "Helsing", "Hiberbee_Dark", "High-Contrast-Theme", "High_contrast", "HyperTheme", "Iceberg", "InBedBy7", "IntelliJ", "IntelliJ_Light", "Interesting", "JahySama:_Jahy", "JavierSC_dark", "KCoroutine", "Kakegurui:_Jabami_Yumeko", "KillLaKill:_Ryuko_Dark", "KillLaKill:_Ryuko_Light", "KillLaKill:_Satsuki_Dark", "KillLaKill:_Satsuki_Light", "KonoSuba:_Aqua", "KonoSuba:_Darkness_Dark", "KonoSuba:_Darkness_Light", "KonoSuba:_Megumin", "Kromatic", "Kyoto", "LS:_Konata", "Light", "Light_Custom_Theme_(Material)", "Light_Flat", "Light_Owl", "Light_Owl_(Material)", "Light_Owl_Contrast", "Light_green", "Lotus_Dark", "Lotus_Light", "LoveLive:_Sonoda_Umi", "Lumio", "MacchuPicchu", "Material_Darker", "Material_Darker_Contrast", "Material_Deep_Ocean", "Material_Deep_Ocean_Contrast", "Material_Forest", "Material_Forest_Contrast", "Material_Lighter", "Material_Lighter_Contrast", "Material_Oceanic", "Material_Oceanic_Contrast", "Material_Palenight", "Material_Palenight_Contrast", "Material_Sandy_Beach", "Material_Sandy_Beach_Contrast", "Material_Sky_Blue", "Material_Sky_Blue_Contrast", "Material_Theme:_Default", "Material_Theme:_Lighter", "Material_Theme:_Night", "Material_Theme:_Ocean", "Material_Volcano", "Material_Volcano_Contrast", "Mayukai_Alucard", "Mayukai_Mirage", "Mayukai_Mono", "Mayukai_Reversal", "Monarcula", "Monarcula_Pro", "Monarcula_Soft", "Monocai", "Monogatari:_Hanekawa_Tsubasa", "Monokai_Pro", "Monokai_Pro_(Classic)", "Monokai_Pro_(Filter_Machine)", "Monokai_Pro_(Filter_Octagon)", "Monokai_Pro_(Filter_Ristretto)", "Monokai_Pro_(Filter_Spectrum)", "Monokai_Pro_(Material)", "Monokai_Pro_Contrast", "MonsterMusume:_Miia", "Moonlight", "Moonlight_(Material)", "Moonlight_Contrast", "Moto_Ducat", "MyGruvbox", "Napalmpapalam", "NekoPara:_Azuki", "NekoPara:_Chocola", "NekoPara:_Christmas_Chocola", "NekoPara:_Cinnamon", "NekoPara:_Coconut", "NekoPara:_Maple_Dark", "NekoPara:_Maple_Light", "NekoPara:_Shigure", "NekoPara:_Vanilla", "Nier:Automata_Theme", "Night_Owl", "Night_Owl_(Material)", "Night_Owl_Contrast", "Noctis", "Noctis_Azureus", "Noctis_Bordo", "Noctis_Sereno", "Noctis_Uva", "Noctis_Voila", "Nord", "NotReallyMDTheme", "OPM:_Genos", "Obsidian", "Obsidian_Bright", "Oceanic_Dark_Theme", "Oceanic_Primal", "OneDarkMonokai", "One_Dark", "One_Dark_Italic", "One_Dark_Vivid", "One_Dark_Vivid_Italic", "OreGairu:_Yukinoshita_Yukino", "OreImo:_Kirino", "Pink_as_Heck", "Polar", "Prpl", "Purple", "QQ:_Nakano_Miku", "QQ:_Nakano_Nino", "QQ:_Nakano_Yotsuba", "Railgun:_Misaka_Mikoto", "Re:Zero:_Beatrice", "Re:Zero:_Echidna", "Re:Zero:_Emilia_Dark", "Re:Zero:_Emilia_Light", "Re:Zero:_Ram", "Re:Zero:_Rem", "ReSharper_Dark", "ReSharper_Light", "Red", "Red2", "Rider_Dark", "Rider_Light", "Rider_Melon_Dark", "Rider_Melon_Light", "Roboticket_Light", "Romeo-Theme", "Rouge", "SAO:_Asuna_Dark", "SAO:_Asuna_Light", "SG:_Makise_Kurisu", "Sage", "Salmon", "Sepia", "ShadeSmear_Dark", "ShadeSmear_Light", "Shades_Of_Purple", "Shape", "ShieldHero:_Raphtalia", "Shokugeki:_Yukihira_Soma", "Slime:_Rimiru_Tempest", "Solarized_Dark", "Solarized_Dark_(Material)", "Solarized_Dark_Contrast", "Solarized_Light", "Solarized_Light_(Material)", "Solarized_Light_Contrast", "Solo_Coding", "SpaceDay", "Spacegray", "Spacemacs", "Starlight", "StarlightDark", "Sublime", "Super_Dark", "SynthWave_'84", "SynthWave_'84_(Material)", "SynthWave_'84_Contrast", "Synthwave_Blue", "Synthwave_Refined", "Tanne", "The_Above_Dark", "The_Above_Light", "Trash_Panda_Theme", "Twitch_Dark_Theme", "TypeMoon:_Astolfo", "TypeMoon:_Gray", "TypeMoon:_Ishtar_Dark", "TypeMoon:_Ishtar_Light", "TypeMoon:_Tohsaka_Rin", "Ubuntu_Theme", "Universe", "Universe_Purple", "VSCode_Dark", "Visual_Assist_Dark", "Visual_Assist_Light", "Visual_Studio_2019_Dark", "Visual_Studio_Code_Dark_Plus", "Visual_Studio_Dark", "Visual_Studio_Light", "Vocaloid:_Hatsune_Miku", "VoidTheme", "VsCode_Monokai_HC", "Windows_10_Light", "Winter_Is_Coming", "Xcode-Dark", "Xcode_Dark", "Xcode_Light", "Yaru_Dark", "YuruCamp:_Nadeshiko", "YuruCamp:_Shima_Rin", "[Doki]_AzurLane:_Essex", "[Doki]_BlendS:_Maika", "[Doki]_BunnySenpai:_Mai_Dark", "[Doki]_BunnySenpai:_Mai_Light", "[Doki]_DDLC:_Monika_Dark", "[Doki]_DDLC:_Monika_Light", "[Doki]_DDLC:_Natsuki_Dark", "[Doki]_DDLC:_Natsuki_Light", "[Doki]_DDLC:_Sayori_Dark", "[Doki]_DDLC:_Sayori_Light", "[Doki]_DDLC:_Yuri_Dark", "[Doki]_DDLC:_Yuri_Light", "[Doki]_DM:_Kanna", "[Doki]_DM:_Tohru", "[Doki]_DR:_Mioda_Ibuki_Dark", "[Doki]_DR:_Mioda_Ibuki_Light", "[Doki]_DTWMMN:_Hayase_Nagatoro", "[Doki]_DxD:_Rias:_Crimson", "[Doki]_DxD:_Rias:_Onyx", "[Doki]_EVA:_Katsuragi_Misato", "[Doki]_EVA:_Rei", "[Doki]_EroManga:_Sagiri", "[Doki]_Franxx:_Zero_Two_Dark", "[Doki]_Franxx:_Zero_Two_Light", "[Doki]_FutureDiary:_Gasai_Yuno", "[Doki]_Gate:_Rory_Mercury", "[Doki]_JahySama:_Jahy", "[Doki]_Kakegurui:_Jabami_Yumeko", "[Doki]_KillLaKill:_Ryuko_Dark", "[Doki]_KillLaKill:_Ryuko_Light", "[Doki]_KillLaKill:_Satsuki_Dark", "[Doki]_KillLaKill:_Satsuki_Light", "[Doki]_KonoSuba:_Aqua", "[Doki]_KonoSuba:_Darkness_Dark", "a.onji", "ajaaibu", "asiimov", "celestial", "color_blind_theme", "dark-jeff", "darkerla", "deep-focus-theme", "flat", "foggy-night", "hibNet_Midnight_Blue", "jDark", "jake-theme", "macOS_Light", "madrid", "metalheart", "minimal", "naysayer88", "nevaTheme", "night-owl-native", "nightfall", "plaid", "qubTheme", "reykjavik", "shirotelin", "silkworm", "soft-charcoal", "spectre_theme", "subtle-hacker-theme", "theme-oldirony-dark", "theme_eclipse", "thursday", "vuesion-theme", "warm-night", "white-sand", "xndlnk-monokai" ],
+      "look_and_feel" : [ "Acme", "Apricode_Monokai", "Arc_Dark", "Arc_Dark_(Material)", "Arc_Dark_Contrast", "Arc_Theme", "Arc_Theme_-_Orange", "Arc_Theme_Dark", "Arc_Theme_Dark_-_Orange", "Astra_Dark", "AtomOneDarkByMayke", "Atom_One_Dark", "Atom_One_Dark_(Material)", "Atom_One_Dark_Contrast", "Atom_One_Light", "Atom_One_Light_(Material)", "Atom_One_Light_Contrast", "Aura", "Ayu_Mirage", "AzurLane:_Essex", "Bas_Tools_Black", "Bas_Tools_Dark", "Bas_Tools_White", "Base16_Monokai", "Base16_Tomorrow_Dark", "BattleField", "Blackbird", "BlendS:_Maika", "Blue_Dolphin", "Blue_Whale", "Breeze_Dark", "Bright_and_Sheen_Theme", "BunnySenpai:_Mai_Dark", "BunnySenpai:_Mai_Light", "Burnt", "Calm", "Carbon", "Cell_Dark_Theme", "Chicken", "Chuunibyou:_Takanashi_Rikka", "City_Pop", "Clean_Sheet", "Cobalt", "Cobalt9", "Cobalt_2", "Codely", "Codely_Blue", "Codely_Dark", "Codely_Light", "Coderpillr_Dusk", "CoffeeBean", "Construction_Paper", "Core", "Custom_Theme_(Material)", "Cute_Pink_Light", "Cyan_light", "Cyberpunk_Theme", "DDLC:_Monika_Dark", "DDLC:_Monika_Light", "DDLC:_Natsuki_Dark", "DDLC:_Natsuki_Light", "DDLC:_Sayori_Dark", "DDLC:_Sayori_Light", "DDLC:_Yuri_Dark", "DDLC:_Yuri_Light", "DM:_Kanna", "DM:_Tohru", "DR:_Mioda_Ibuki_Dark", "DR:_Mioda_Ibuki_Light", "DTWMMN:_Hayase_Nagatoro", "Darcula", "Darcula_(blacker)", "Darcula_Darker", "Darcula_Pitch_Black", "Darcula_Solid", "Darcula_Sombre", "Darcula_Sombre_(transparent_selection)", "Darcula_Sombre_(with_bright_borders)", "Darcula_Sombre_(with_dark_borders)", "Dark", "DarkCode", "DarkCode_Contrast", "DarkDark", "DarkTheme", "Dark_Candy", "Dark_Flat", "Dark_Orange", "Dark_purple", "Dark_ubuntu", "Deep_Ocean_Theme", "Dracula", "Dracula_(Material)", "Dracula_Colorful", "Dracula_Contrast", "DxD:_Rias:_Crimson", "DxD:_Rias:_Onyx", "Dysh_Unreal_Simple", "Dysh_Unreal_Simple_Vivid", "EVA:_Katsuragi_Misato", "EVA:_Rei", "Eclipse_Plus", "El_Chalten", "Elements", "Emerald", "Ender_Theme", "EroManga:_Sagiri", "Espresso_Light", "Espresso_Lightgram", "Field_Lights", "FlatAndMinimalistic_-_dark", "FlatAndMinimalistic_-_gray", "FlatOcean", "Forest_Night", "Foundation_Dark", "Foundation_Light", "Franxx:_Zero_Two_Dark", "Franxx:_Zero_Two_Light", "FutureDiary:_Gasai_Yuno", "Galaxy", "Galizur", "Gate:_Rory_Mercury", "Gerry_Oceanic", "Gerry_Space", "Gerry_Violet", "Giraffe", "GitHub", "GitHub_(Material)", "GitHub_Contrast", "GitHub_Dark", "GitHub_Dark_(Material)", "GitHub_Dark_Contrast", "GitHub_Dark_Dimmed", "GitHub_Light", "Gloom", "Glowing_Darcula", "Godot_Theme", "Golden_Blue", "Gradianto_Dark_Fuchsia", "Gradianto_Deep_Ocean", "Gradianto_Midnight_Blue", "Gradianto_Nature_Green", "Gray", "Green_Haze", "Green_lite", "Greenly", "Gruvbox", "Gruvbox_Dark_Hard", "Gruvbox_Dark_Medium", "Gruvbox_Dark_Soft", "Gruvbox_Github", "Gruvbox_Light_Hard", "Gruvbox_Light_Medium", "Gruvbox_Light_Soft", "Gruvbox_Material", "Hack_The_Box", "Hacker_Theme", "Haikyu:_Hinata_Shoyo", "Halcyon", "Helsing", "Hiberbee_Dark", "High-Contrast-Theme", "High_contrast", "HyperTheme", "Iceberg", "InBedBy7", "IntelliJ", "IntelliJ_Light", "Interesting", "JahySama:_Jahy", "JavierSC_dark", "KCoroutine", "Kakegurui:_Jabami_Yumeko", "KillLaKill:_Ryuko_Dark", "KillLaKill:_Ryuko_Light", "KillLaKill:_Satsuki_Dark", "KillLaKill:_Satsuki_Light", "KonoSuba:_Aqua", "KonoSuba:_Darkness_Dark", "KonoSuba:_Darkness_Light", "KonoSuba:_Megumin", "Kromatic", "Kyoto", "LS:_Konata", "Light", "Light_Custom_Theme_(Material)", "Light_Flat", "Light_Owl", "Light_Owl_(Material)", "Light_Owl_Contrast", "Light_green", "Lotus_Dark", "Lotus_Light", "LoveLive:_Sonoda_Umi", "Lumio", "MacchuPicchu", "Material_Darker", "Material_Darker_Contrast", "Material_Deep_Ocean", "Material_Deep_Ocean_Contrast", "Material_Forest", "Material_Forest_Contrast", "Material_Lighter", "Material_Lighter_Contrast", "Material_Oceanic", "Material_Oceanic_Contrast", "Material_Palenight", "Material_Palenight_Contrast", "Material_Sandy_Beach", "Material_Sandy_Beach_Contrast", "Material_Sky_Blue", "Material_Sky_Blue_Contrast", "Material_Theme:_Default", "Material_Theme:_Lighter", "Material_Theme:_Night", "Material_Theme:_Ocean", "Material_Volcano", "Material_Volcano_Contrast", "Mayukai_Alucard", "Mayukai_Mirage", "Mayukai_Mono", "Mayukai_Reversal", "Monarcula", "Monarcula_Pro", "Monarcula_Soft", "Monocai", "Monogatari:_Hanekawa_Tsubasa", "Monokai_Pro", "Monokai_Pro_(Classic)", "Monokai_Pro_(Filter_Machine)", "Monokai_Pro_(Filter_Octagon)", "Monokai_Pro_(Filter_Ristretto)", "Monokai_Pro_(Filter_Spectrum)", "Monokai_Pro_(Material)", "Monokai_Pro_Contrast", "MonsterMusume:_Miia", "Moonlight", "Moonlight_(Material)", "Moonlight_Contrast", "Moto_Ducat", "MyGruvbox", "Napalmpapalam", "NekoPara:_Azuki", "NekoPara:_Chocola", "NekoPara:_Christmas_Chocola", "NekoPara:_Cinnamon", "NekoPara:_Coconut", "NekoPara:_Maple_Dark", "NekoPara:_Maple_Light", "NekoPara:_Shigure", "NekoPara:_Vanilla", "Nier:Automata_Theme", "Night_Owl", "Night_Owl_(Material)", "Night_Owl_Contrast", "Noctis", "Noctis_Azureus", "Noctis_Bordo", "Noctis_Sereno", "Noctis_Uva", "Noctis_Voila", "Nord", "NotReallyMDTheme", "OPM:_Genos", "Obsidian", "Obsidian_Bright", "Oceanic_Dark_Theme", "Oceanic_Primal", "OneDarkMonokai", "One_Dark", "One_Dark_Italic", "One_Dark_Vivid", "One_Dark_Vivid_Italic", "OreGairu:_Yukinoshita_Yukino", "OreImo:_Kirino", "Pink_as_Heck", "Polar", "Prpl", "Purple", "QQ:_Nakano_Miku", "QQ:_Nakano_Nino", "QQ:_Nakano_Yotsuba", "Railgun:_Misaka_Mikoto", "Re:Zero:_Beatrice", "Re:Zero:_Echidna", "Re:Zero:_Emilia_Dark", "Re:Zero:_Emilia_Light", "Re:Zero:_Ram", "Re:Zero:_Rem", "ReSharper_Dark", "ReSharper_Light", "Red", "Red2", "Rider_Dark", "Rider_Light", "Rider_Melon_Dark", "Rider_Melon_Light", "Roboticket_Light", "Romeo-Theme", "Rouge", "SAO:_Asuna_Dark", "SAO:_Asuna_Light", "SG:_Makise_Kurisu", "Sage", "Salmon", "Sepia", "ShadeSmear_Dark", "ShadeSmear_Light", "Shades_Of_Purple", "Shape", "ShieldHero:_Raphtalia", "Shokugeki:_Yukihira_Soma", "Slime:_Rimiru_Tempest", "Solarized_Dark", "Solarized_Dark_(Material)", "Solarized_Dark_Contrast", "Solarized_Light", "Solarized_Light_(Material)", "Solarized_Light_Contrast", "Solo_Coding", "SpaceDay", "Spacegray", "Spacemacs", "Starlight", "StarlightDark", "Sublime", "Super_Dark", "SynthWave_'84", "SynthWave_'84_(Material)", "SynthWave_'84_Contrast", "Synthwave_Blue", "Synthwave_Refined", "System", "Tanne", "The_Above_Dark", "The_Above_Light", "Trash_Panda_Theme", "Twitch_Dark_Theme", "TypeMoon:_Astolfo", "TypeMoon:_Gray", "TypeMoon:_Ishtar_Dark", "TypeMoon:_Ishtar_Light", "TypeMoon:_Tohsaka_Rin", "Ubuntu_Theme", "Universe", "Universe_Purple", "VSCode_Dark", "Visual_Assist_Dark", "Visual_Assist_Light", "Visual_Studio_2019_Dark", "Visual_Studio_Code_Dark_Plus", "Visual_Studio_Dark", "Visual_Studio_Light", "Vocaloid:_Hatsune_Miku", "VoidTheme", "VsCode_Monokai_HC", "Windows_10_Light", "Winter_Is_Coming", "Xcode-Dark", "Xcode_Dark", "Xcode_Light", "Yaru_Dark", "YuruCamp:_Nadeshiko", "YuruCamp:_Shima_Rin", "[Doki]_AzurLane:_Essex", "[Doki]_BlendS:_Maika", "[Doki]_BunnySenpai:_Mai_Dark", "[Doki]_BunnySenpai:_Mai_Light", "[Doki]_DDLC:_Monika_Dark", "[Doki]_DDLC:_Monika_Light", "[Doki]_DDLC:_Natsuki_Dark", "[Doki]_DDLC:_Natsuki_Light", "[Doki]_DDLC:_Sayori_Dark", "[Doki]_DDLC:_Sayori_Light", "[Doki]_DDLC:_Yuri_Dark", "[Doki]_DDLC:_Yuri_Light", "[Doki]_DM:_Kanna", "[Doki]_DM:_Tohru", "[Doki]_DR:_Mioda_Ibuki_Dark", "[Doki]_DR:_Mioda_Ibuki_Light", "[Doki]_DTWMMN:_Hayase_Nagatoro", "[Doki]_DxD:_Rias:_Crimson", "[Doki]_DxD:_Rias:_Onyx", "[Doki]_EVA:_Katsuragi_Misato", "[Doki]_EVA:_Rei", "[Doki]_EroManga:_Sagiri", "[Doki]_Franxx:_Zero_Two_Dark", "[Doki]_Franxx:_Zero_Two_Light", "[Doki]_FutureDiary:_Gasai_Yuno", "[Doki]_Gate:_Rory_Mercury", "[Doki]_JahySama:_Jahy", "[Doki]_Kakegurui:_Jabami_Yumeko", "[Doki]_KillLaKill:_Ryuko_Dark", "[Doki]_KillLaKill:_Ryuko_Light", "[Doki]_KillLaKill:_Satsuki_Dark", "[Doki]_KillLaKill:_Satsuki_Light", "[Doki]_KonoSuba:_Aqua", "[Doki]_KonoSuba:_Darkness_Dark", "a.onji", "ajaaibu", "asiimov", "celestial", "color_blind_theme", "dark-jeff", "darkerla", "deep-focus-theme", "flat", "foggy-night", "hibNet_Midnight_Blue", "jDark", "jake-theme", "macOS_Light", "madrid", "metalheart", "minimal", "naysayer88", "nevaTheme", "night-owl-native", "nightfall", "plaid", "qubTheme", "reykjavik", "shirotelin", "silkworm", "soft-charcoal", "spectre_theme", "subtle-hacker-theme", "theme-oldirony-dark", "theme_eclipse", "thursday", "vuesion-theme", "warm-night", "white-sand", "xndlnk-monokai" ],
       "os" : [ "Windows", "Mac", "Linux", "FreeBSD", "ChromeOS", "Solaris", "Other" ],
       "plugin_type" : [ "PLATFORM", "JB_BUNDLED", "JB_NOT_BUNDLED", "LISTED", "NOT_LISTED", "UNKNOWN" ],
       "state" : [ "enabled", "disabled" ],
@@ -7903,5 +8069,5 @@
       "version" : "Unknown|unknown.format|unknown|UNKNOWN|((\\d+\\.?)*\\d+)"
     }
   },
-  "version" : "3037"
+  "version" : "3146"
 }

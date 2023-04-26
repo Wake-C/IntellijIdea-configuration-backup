@@ -2,6 +2,7 @@
   <component name="Trusted.Paths">
     <option name="TRUSTED_PROJECT_PATHS">
       <map>
+        <entry key="$APPLICATION_CONFIG_DIR$/light-edit" value="true" />
         <entry key="/Users/IdeaProjects/GT-Plugin-Spring-Boot-Starter" value="true" />
         <entry key="/Users/IdeaProjects/Mall_new_eticket" value="true" />
         <entry key="/Users/IdeaProjects/mall-order" value="true" />

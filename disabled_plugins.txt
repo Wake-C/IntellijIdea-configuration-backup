@@ -41,6 +41,7 @@ com.jetbrains.space
 com.thief.idea
 com.vladsch.idea.multimarkdown
 com.zhaow.restful.toolkit
+commit-template-idea-plugin
 hg4idea
 intellij.vitejs
 io.github.qeesung.component.HighlightBracketPair
@@ -48,6 +49,7 @@ lermitage.intellij.extra.icons
 lermitage.intellij.extratci
 org.coffeescript
 org.intellij.grails
+org.intellij.qodana
 org.jetbrains.android
 org.jetbrains.plugins.sass
 org.jetbrains.plugins.stylus

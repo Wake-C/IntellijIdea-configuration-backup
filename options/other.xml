@@ -28,15 +28,20 @@
       </map>
     </trackers>
   </component>
+  <component name="FileEditorProviderManager">{
+  &quot;selectedProviders&quot;: {
+    &quot;text-editor,MavenHelperPluginDependencyAnalyzer&quot;: &quot;text-editor&quot;
+  }
+}</component>
   <component name="JdkInstallerHistory">
     <option name="installedItems">
       <installed-jdk>
-        <option name="fullText" value="Oracle OpenJDK 17.0.1" />
-        <option name="installDir" value="$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-17.0.1" />
-        <option name="javaHomeDir" value="$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home" />
-        <option name="sha256" value="6ccb35800e723cabe15af60e67099d1a07c111d2d3208aa75523614dde68bee1" />
-        <option name="url" value="https://download.java.net/java/GA/jdk17.0.1/2a2082e5a09d4267845be086888add4f/12/GPL/openjdk-17.0.1_macos-x64_bin.tar.gz" />
-        <option name="versionText" value="17.0.1" />
+        <option name="fullText" value="Amazon Corretto 11.0.18" />
+        <option name="installDir" value="$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-11.0.18" />
+        <option name="javaHomeDir" value="$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-11.0.18/Contents/Home" />
+        <option name="sha256" value="8f075fe7e0b6fb261a005a8cc8b8bddc6ac47cff5da580ad9b0b8a77d4ddccd7" />
+        <option name="url" value="https://corretto.aws/downloads/resources/11.0.18.10.1/amazon-corretto-11.0.18.10.1-macosx-x64.tar.gz" />
+        <option name="versionText" value="11.0.18" />
       </installed-jdk>
     </option>
   </component>
@@ -478,20 +483,25 @@
     "BEFORE.DISTRACTION.MODE.SHOW_NEW_MAIN_TOOLBAR": "false",
     "BEFORE.DISTRACTION.MODE.SHOW_STATUS_BAR": "true",
     "BuildView.Splitter.Proportion": "0.33167496",
+    "ColorChooser.RecentColors": "78-243-139-255,,,255-0-0-255,,,255-37-241-255,,,3-1-1-255,,,52-243-147-255,,,128-128-128-255",
     "CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2": "0.95",
+    "DBE.Default.Dialect": "MySQL",
     "ExpandBeforeRunStepsPanel": "true",
+    "FileTemplates.SelectedTemplate": "HTML File",
     "FindSplitterProportion": "0.35254237",
-    "InstalledPluginsSearchHistory": "transla\ntrans\njrebel\njrebe\njre",
+    "InstalledPluginsSearchHistory": "chatgpt\nshare\ncodei\ncode\ncod",
     "JUnitSupport.hidePassedTests": "false",
-    "KEYMAP": "easy",
+    "KEYMAP": "window\neasy",
     "LAST_EXTRACTOR_SCRIPTS_CLEANUP_VERSION/data/aggregators": "IU-223.7126.7",
     "LAST_INJECTED_LANGUAGE": "JSON",
     "LiveContextsPanel[0]": "0.15060242",
     "LiveResourcesPanel[0]": "0.11061947",
-    "MarketplacePluginsSearchHistory": "openai\no\nai\njrebel\nmybatis",
+    "MarketplacePluginsSearchHistory": "chatgpt\ncodei\nc\njre\ncodeium",
     "MavenHelper.lastRadioButton": "tree",
     "MemberChooser.copyJavadoc": "false",
     "MemberChooser.showClasses": "true",
+    "NextRunPlatformUpdateBuild": "IU-231.8770.17",
+    "NextRunPlatformUpdateVersion": "2023.1.1 Preview",
     "NonModalCommitPromotionState": "SHOWN",
     "PluginConfigurable.selectionTab": "1",
     "RunOnceActivity.2022.2.5.2": "true",
@@ -503,12 +513,13 @@
     "RunOnceActivity.2022.2.9": "true",
     "RunOnceActivity.2023.1.1": "true",
     "RunOnceActivity.2023.1.1.2": "true",
+    "RunOnceActivity.2023.1.2": "true",
     "RunOnceActivity.se.text.search": "true",
     "RunOnceActivity.statisticsBegin202207160840": "true",
-    "SettingsSearchHistory": "translation\ntransla\nmaven\njrebel\ntrans",
+    "SettingsSearchHistory": "templa\nshare\nmaven\ncodei\nmybatis",
     "SqlStructureView.filterD.file.structure.state": "true",
     "annotationStr": "@com.fasterxml.jackson.annotation.JsonProperty\\s*\\(\\s*\"{filed}\"\\s*\\)",
-    "appcds.runOnSecondStart": "IU-222.4459.24-9db89516bfbba3ad6f57bcd3b43a342f31a83164f9cfe4719bc43ae8d5732270",
+    "appcds.runOnSecondStart": "IU-222.4459.24-0866a0bad061fb381b984642f2afcee67f0e18651563c89c01510170f4802cb3",
     "arrayFromData": "false",
     "arrayFromData1": "false",
     "arrayFromData1Str": "    public  static java.util.List<$ClassName$> array$ClassName$FromData(String str,String key){\n\n        try {\n            org.json.JSONObject jsonObject=new org.json.JSONObject(str);\n            java.lang.reflect.Type listType=new com.google.gson.reflect.TypeToken<java.util.ArrayList<$ClassName$>>(){}.getType();\n\n            return new com.google.gson.Gson().fromJson(jsonObject.getString(str),listType);\n\n        } catch (org.json.JSONException e) {\n            e.printStackTrace();\n        }\n\n        return new java.util.ArrayList();\n\n\n    }",
@@ -516,13 +527,16 @@
     "build.toolwindow.Sync.selection.state": "com.intellij.build.BuildTreeConsoleView",
     "build.toolwindow.run.selection.state": "com.intellij.build.BuildTreeConsoleView",
     "build.toolwindow.构建输出.selection.state": "com.intellij.build.BuildTreeConsoleView",
-    "bundled.plugins.list.saved.version": "IU-223.8617.56",
+    "bundled.plugins.list.saved.version": "IU-231.8770.17",
     "cn.yiiguxing.plugin.translate.settings.data.version": "1",
-    "cn.yiiguxing.plugin.translate.version": "3.4.1",
+    "cn.yiiguxing.plugin.translate.version": "3.4.2",
+    "codeium.api_key": "92ce6a6a-c070-4b9b-94e0-542d14576bec",
     "com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0": "300",
+    "com.intellij.history.integration.ui.views.FileHistoryDialog.0": "300",
+    "com.intellij.history.integration.ui.views.FileHistoryDialog.1": "800",
     "com.intellij.ide.projectWizard.generators.JavaNewProjectWizard$Step.selectedStep": "IntelliJ",
     "com.intellij.ide.wizard.NewProjectWizardLanguageStep.selectedStep": "Java",
-    "com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor": "Sources",
+    "com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor": "Paths",
     "completion.ml.star.opinion.notification.shown": "true",
     "db.last.update.timestamp": "1665556928245",
     "debugger.layout.watches.defaultThreadsProportion": "0.35198823",
@@ -531,17 +545,21 @@
     "defaultJdkConfigured": "true",
     "defaultpackageserviceconfig.fulltext": "https://package-search.services.jetbrains.com/api/search/idea/fulltext",
     "defaultpackageserviceconfig.suggest": "https://package-search.services.jetbrains.com/api/search/idea/suggest",
-    "defaultpackageserviceconfig.updated.ts": "1677582031685",
+    "defaultpackageserviceconfig.updated.ts": "1681785165947",
     "eclipse.projects.detected": "",
     "entityPackName": "com.gt.mall.bean.address.",
     "errorCount": "1",
+    "evlsprt.222": "187d80ad000",
+    "evlsprt.231": "187d80ad000",
     "evlsprt3.222": "24",
     "evlsprt3.223": "23",
+    "evlsprt3.231": "26",
     "evlsprt3.IU-223.6160.11": "25",
     "evlsprt3.IU-223.7126.7": "24",
+    "experimental.ui.used.once": "true",
     "fieldPrivateMode": "true",
-    "file.gist.reindex.count": "4298",
-    "fileTypeChangedCounter": "4",
+    "file.gist.reindex.count": "8227",
+    "fileTypeChangedCounter": "12",
     "filedNamePreFixStr": "null",
     "filter_non_existing": "true",
     "fontSizeToResetConsole": "13.0",
@@ -552,16 +570,19 @@
     "got.it.tooltip.eulaLicense": "1",
     "got.it.tooltip.export": "1",
     "got.it.tooltip.extract.method.gotit.navigate": "1",
+    "got.it.tooltip.extract.method.signature.change": "1",
     "got.it.tooltip.lineMarkerAnimateStep202208201420": "1",
     "got.it.tooltip.reader.mode.got.it": "1",
     "got.it.tooltip.show.diff.in.editor": "1",
     "ide.memory.adjusted": "true",
-    "installed.kotlin.plugin.version": "222-1.8.10-release-430-IJ4167.29",
-    "kotlin.plugin.releaseDate": "222-1.8.10-release-430-IJ4167.29:2023-02-02",
+    "installed.kotlin.plugin.version": "222-1.8.20-release-327-IJ4167.29",
+    "kotlin.plugin.releaseDate": "222-1.8.20-release-327-IJ4167.29:2023-04-03",
+    "migrated.non.roamable.values.from.general.settings": "true",
     "objectFromData": "false",
     "objectFromData1": "false",
     "objectFromDataStr": "    public  static $ClassName$ objectFromData(String str){\n\n        return new com.google.gson.Gson().fromJson(str,$ClassName$.class);\n    }",
     "objectFromDataStr1": "    public  static $ClassName$ objectFromData(String str, String key){\n\n        try {\n            org.json.JSONObject jsonObject=new org.json.JSONObject(str);\n\n            return new com.google.gson.Gson().fromJson(jsonObject.getString(str),$ClassName$.class);\n        } catch (org.json.JSONException e) {\n            e.printStackTrace();\n        }\n\n        return null;\n    }",
+    "plugins.preselection.path": "/Users/Alexis/Downloads/jetbra",
     "previousColorScheme": "_@user_Gray",
     "project.wizard.group": "NPW.simple-module",
     "registry.to.advanced.settings.migration.build": "IU-222.4459.24",
@@ -595,10 +616,8 @@
 }]]></component>
   <component name="TerminalCommandHistoryManager">
     <command-history-files>
-      <command-history-file filename="Mall_new_eticket-history2" project-path="/Users/IdeaProjects/Mall_new_eticket" last-access-time="1669880403274" />
-      <command-history-file filename="Mall_new_eticket-history1" project-path="/Users/IdeaProjects/Mall_new_eticket" last-access-time="1669880403270" />
-      <command-history-file filename="Mall_new_eticket-history" project-path="/Users/IdeaProjects/Mall_new_eticket" last-access-time="1669880403260" />
-      <command-history-file filename="Mall_new_eticket-history10" project-path="/Users/IdeaProjects/Mall_new_eticket" last-access-time="1669880403278" />
+      <command-history-file filename="mall-order-history" project-path="/Users/IdeaProjects/mall-order" last-access-time="1681808297913" />
+      <command-history-file filename="Mall_new_eticket-history" project-path="/Users/IdeaProjects/Mall_new_eticket" last-access-time="1679500319308" />
     </command-history-files>
   </component>
 </application>

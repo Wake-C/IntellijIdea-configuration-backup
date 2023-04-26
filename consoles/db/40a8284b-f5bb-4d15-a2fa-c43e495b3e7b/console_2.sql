@@ -1,0 +1,1 @@
+explain select * from t_mall_order where order_no='SC255236785243717'
